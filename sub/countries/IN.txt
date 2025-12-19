@@ -1,9 +1,18 @@
-trojan://13h1dv9m-r00q-rkx9-n42x-5bsxmpskbsjf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/19 | 20:08
-trojan://h1kv0auk-a399-d1b2-ccnk-5onn7aehhvte@127.0.0.1:2080?security=tls&type=tcp#✨ Fast & Secure Proxy
-trojan://3k1ukl3x-31ae-kbsl-hl9o-vgdfl2fjwo1b@127.0.0.1:4080?security=tls&type=tcp#☕ Support Us
+trojan://sgjt7tq9-9deg-yurf-dm7z-xlmfw6fy4oct@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/12/19 | 20:25
+trojan://fa1dqj0f-i06e-o7o8-1o15-1tg7dg16g4tl@127.0.0.1:2080?security=tls&type=tcp#✨ Fast & Secure Proxy
+trojan://ef7p8ad2-9t3u-b97v-hsqg-r3r5zyo6wg3e@127.0.0.1:4080?security=tls&type=tcp#☕ Support Us
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.156
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.157
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.235.105.146:443?type=ws&security=tls&path=/&sni=ak.suoni.nyc.mn&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.235.105.146
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY3LjE2MS4xNTUiLCJhZGQiOiIxNTIuNjcuMTYxLjE1NSIsInBvcnQiOjE3MzU1LCJpZCI6IjUyNzY4NTUyLWMyYjItNDQ2MC04OWYxLWU3NDBjYzE0NWI5OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy1wYXRoIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.97.203.227
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
+vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@45.89.105.24:4443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.89.105.24
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 82.180.146.173
+vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.58.120
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb250YWJvIEFzaWEgUHJpdmF0ZSBMaW1pdGVkIFx1MjUwNyA5NC4xMzYuMTg3Ljc3IiwiYWRkIjoibm9kZTQucnR4Y29uZmlnei5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJub2RlNC5ydHhjb25maWd6LmNvbSIsInBhdGgiOiIvQE1hbGluZGE2MTA0IiwidGxzIjoidGxzIiwic25pIjoibm9kZTQucnR4Y29uZmlnei5jb20ifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
+vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 206.189.135.13
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJyYWluU3Rvcm0gTmV0d29yaywgSW5jIFx1MjUwNyAxMDMuOTcuMjAzLjIyMCIsImFkZCI6IjEwMy45Ny4yMDMuMjIwIiwicG9ydCI6NTUwLCJpZCI6IjllMGU4M2NhLTBmYmMtNDRiMS04MDI0LTBlYjhmOTQxNDE1NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://laqje65j-ahn7-cm7s-7pld-j8zf12nfukk7@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily Updates
-trojan://4fppur5v-eo56-xeid-ovlg-11qzelnxclrc@127.0.0.1:8081?security=tls&type=tcp#💻 Custom Collector
+trojan://0itk3wb6-j3cs-bp06-0ew6-bc1l482mfini@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily Updates
+trojan://2q74i6bk-eyzp-4amd-ekuy-d9tlpu1vwzjs@127.0.0.1:8081?security=tls&type=tcp#💻 Custom Collector
