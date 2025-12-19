@@ -43,7 +43,6 @@ class AppConfig:
     OUTPUT_DIR = BASE_DIR / "sub"
 
     DIRS = {
-        "splitted": OUTPUT_DIR / "splitted",
         "security": OUTPUT_DIR / "security",
         "protocols": OUTPUT_DIR / "protocols",
         "networks": OUTPUT_DIR / "networks",
@@ -934,12 +933,6 @@ class V2RayCollectorApp:
                     
                     path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, configs, base64_encode=False))
-            
-        chunk_size = math.ceil(len(all_configs) / 20) if all_configs else 0
-        if chunk_size > 0:
-            for i, chunk in enumerate([all_configs[i:i + chunk_size] for i in range(0, len(all_configs), chunk_size)]):
-                path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
-                save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
         await asyncio.gather(*save_tasks)
 
@@ -1031,6 +1024,8 @@ async def _setup_data_file(remote_url: str, local_path: Path):
             console.log(f"[bold red]Failed to create {local_path.name} from {remote_url}: {e}[/bold red]")
 
 async def main():
+    CONFIG.DATA_DIR.mkdir(exist_ok=True)
+
     await _download_db_if_needed(CONFIG.GEOIP_DB_URL, CONFIG.GEOIP_DB_FILE)
     await _download_db_if_needed(CONFIG.GEOIP_ASN_DB_URL, CONFIG.GEOIP_ASN_DB_FILE)
 
