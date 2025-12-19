@@ -87,6 +87,20 @@ class AppConfig:
     DEV_SIGNATURE = "💻 Custom Collector"
     CUSTOM_SIGNATURE = "☕ Support Us"
 
+    # لیست کامل و به‌روز شده لینک‌های سابسکرایبشن
+    FIXED_SUBSCRIPTION_LINKS = [
+        "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/refs/heads/main/configs/all.txt",
+        "https://manager.farsonline24.ir/",
+        "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+        "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt",
+        "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
+        "https://robin.victoriacross.ir",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/singbox/vless.json",
+        "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub_all.txt",
+        "https://raw.githubusercontent.com/Sage-77/V2ray-configs/refs/heads/main/config.txt",
+        "https://raw.githubusercontent.com/rasool083/v2ray-sub/refs/heads/main/sub.txt"
+    ]
+
 CONFIG = AppConfig()
 console = Console()
 
@@ -851,13 +865,17 @@ class V2RayCollectorApp:
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
-        sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
+        
+        # ترکیب لینک‌های خوانده شده از فایل و لینک‌های ثابت
+        file_sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
+        # استفاده از ست برای حذف تکراری‌ها
+        all_sub_links = list(set(file_sub_links + self.config.FIXED_SUBSCRIPTION_LINKS))
 
         tg_scraper = TelegramScraper(tg_channels, self.last_update_time)
-        sub_fetcher = SubscriptionFetcher(sub_links)
+        sub_fetcher = SubscriptionFetcher(all_sub_links)
 
         if tg_channels: await tg_scraper.scrape_all()
-        if sub_links and CONFIG.ENABLE_SUBSCRIPTION_FETCHING: await sub_fetcher.fetch_all()
+        if all_sub_links and CONFIG.ENABLE_SUBSCRIPTION_FETCHING: await sub_fetcher.fetch_all()
 
         combined_raw_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
         for channel, configs in tg_scraper.configs_by_channel.items():
