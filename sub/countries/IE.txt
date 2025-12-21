@@ -3,6 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc@146.70.90.196:17454#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.90.196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.203.224.78:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 18.203.224.78
+ss://77+9x7h177+9fe+/vW8c77+977+9NX3vv73vv73vv71dfu+/ve+/ve+/vXvvv73vv71zVxs677+9x7h177+9fe+/vW8c77+977+9NX3vv73vv73vv71dfu+/ve+/ve+/vXvvv73vv71zVxs@mainv2-ray.fast.hosting-ip.com:80#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - FASTLY ┇ 199.232.25.242
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.48.53
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.134
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.133
@@ -13,6 +14,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.203.127.31:443#IE 🇮🇪 ┇ SHADOWSOC
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.250.25.159:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.250.25.159
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.247.223.103:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.247.223.103
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.252.208.74:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.252.208.74
+trojan://telegram-id-privatevpns@3.249.15.72:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.249.15.72
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 146.70.90.194
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?sni=api-yandex.maps.ru&peer=api-yandex.maps.ru&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 146.70.90.195
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 146.70.90.197
@@ -27,7 +29,8 @@ trojan://telegram-id-directvpn@52.19.6.148:22222?security=tls#IE 🇮🇪 ┇ TR
 trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.208.136.122
 trojan://telegram-id-privatevpns@52.214.235.82:22222?security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.214.235.82
 vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguMTM3IiwiYWRkIjoiMTg1LjEwOC4xMjguMTM3IiwicG9ydCI6MzAwMDAsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzMwMDAyMjExMzMyOSIsInRscyI6InRscyJ9
-vless://b9c20ba9-da82-4082-a97a-977b4fbed67b@n-vip.hulkirani1.ir:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
+vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
+vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.229.120:59483?type=grpc&security=none#IE 🇮🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 108.129.229.120
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.201.118.183:59483?type=grpc&security=none#IE 🇮🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 18.201.118.183
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.249.117.78:59483?type=grpc&security=none#IE 🇮🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 3.249.117.78
@@ -54,29 +57,19 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.229.66.89:59483?type=grpc&securi
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.74.226.145:59483?type=grpc&security=none#IE 🇮🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 54.74.226.145
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.78.179.237:59483?type=grpc&security=none#IE 🇮🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 54.78.179.237
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@63.32.106.92:59483?type=grpc&security=none#IE 🇮🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 63.32.106.92
-vless://987b346f-113c-49e8-9622-f5d41b6de779@svnteam.fast.hosting-ip.com:80?type=ws&security=none&path=/@SvnProBot?ed=2560#IE 🇮🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.25.242
-vless://6cf7c214-f7e5-4458-ad48-04fc625da1d6@darkhub_vpn.darkhub_vpn.darkhub_vpn.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://6e365651-b467-42ac-fcd8-9f2e83c07cfe@erfwptelegram.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://7e3f2fdd-d949-40b4-8882-5c1c63e48ce0@test.fast199.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.24.2
-vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://TELEGRAM-CONFiGLiNE-81@test.fast199.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.24.2
-vless://a6b02202-a87a-4a79-b186-a7f59b989556@v2ray_configs_poolstelegram.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://d19cf37c-6b64-4b4e-8592-6b785b1c4297@test.fast199.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.24.2
-vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2560#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://72cf4e45-5b10-42b1-90b6-2a4c8b417a9e@svnteam.fast.hosting-ip.com:80?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://2831caf3-017e-4fa3-c0c0-cf9aaf1aa425@hqv2ray.fast.hosting-ip.com:80?type=xhttp&security=none&path=/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG?ed=2056#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://32a49509-4ce8-4189-8c0a-c984e42309c8@askjdasd.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://0adf2c83-7cd0-41f5-ace2-35a36974ed86@argon.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://0c37e450-477d-4d6a-9857-67289ecadf9f@connectbeman.iranazizm.com:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://662dc9c9-ee34-46af-bc2e-3a39daf199f0@filterk0sh.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@expressvpn_420.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://502524df-bb02-4a14-8362-d84caf2b0a76@37.0.6.101:2096?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=spdf.qzz.io#IE 🇮🇪 ┇ VLESS-WS-TLS - Workday Limited ┇ 37.0.6.101
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@azarakhshproxy.fast.hosting-ip.com:80?type=ws&security=none&path=/?ed=2048#IE 🇮🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.25.242
-vless://a062adc5-d860-4d28-91ad-2f9c16818784@g0dv2.fast.hosting-ip.com:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://80767316-1e23-45a2-a416-81a8ae730062@g0dv2.fast.hosting-ip.com:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://06c31c1a-cfae-48fe-a4db-3bbe16663003@g0dv2.fast.hosting-ip.com:80?type=xhttp&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://3604197f-3bca-44cb-f834-7c5d3efe4835@hqv2ray.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://telegram-id-ArV2ray@arv2ray.fastly80.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
+vless://fa7cbc90-b563-415d-b6a4-04cbf55c0216@pp.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://32a49509-4ce8-4189-8c0a-c984e42309c8@askjdasd.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://TELEGRAM-CONFiGLiNE-biia@good.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://telegram-id-ArV2ray@arv2ry.fastly80.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
+vless://bb57d265-b716-4092-bd0a-68f3988db63c@evay-vpn.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://3ed01713-5ad7-46b1-ea4a-7b3fdbf232c7@deadseectelegram.fast.hosting-ip.com:80?type=xhttp&security=none&path=/#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://5e0c9dff-7e97-4e82-8518-7cc7284b7d6c@smart.fastly80.hosting-ip.com:80?type=ws&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.25.242
+vless://50a3bb28-6e77-4847-8512-fcdda03b240c@hibbb.fast.hosting-ip.com:80?type=xhttp&security=none&path=/#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://634e1883-0f11-4ab5-9e41-90d0c0d22463@free.fastly80.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.247.183.164:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.247.183.164
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.202.149.82:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.202.149.82
 vless://93c99b25-f10c-4187-98e5-41688032d167@expressvpn_420.fastly80.hosting-ip.com:80?type=ws&security=none&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048#IE 🇮🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.25.242
@@ -87,22 +80,17 @@ vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.26.228:443?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.35.78.25:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.35.78.25
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.133.122:22222?type=tcp&security=tls&sni=🔒#IE 🇮🇪 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.76.133.122
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.80.212:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.154.80.212
-vless://b8ea0e4e-dbea-4b6c-88a0-263e138cdea8@hqv2ray.fast.hosting-ip.com:80?type=xhttp&security=none&path=/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG?ed=2056#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://a2b35cb9-fcc5-419b-84eb-8efde59e498a@a.fast.hosting-ip.com:80?type=xhttp&security=none&path=/mgvpnir?ed=2560#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://64ae3c5a-662d-40bc-e601-22735bd73b04@hqv2ray.fast.hosting-ip.com:80?type=xhttp&security=none&path=/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG?ed=2056#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://3782c2b8-d0b8-487e-e7f4-a83a393b7345@deadseectelegram.fast.hosting-ip.com:80?type=xhttp&security=none&path=/VPNV2RAYXZ-VPNV2RAYXZ-VPNV2RAYXZ-VPNV2RAYXZ?ed=2048#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://cccc4339-5d60-4d65-9027-d36e102e025b@54.246.131.170:17804?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.246.131.170
 vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.com:80?type=tcp&security=none&path=/olem/ws?ed=1024#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://df54e90b-a045-489e-8666-d77a73e4effe@fastly.extvay.ir:80?type=ws&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.25.242
-vless://70f790fb-c310-4d07-92a7-98031c106fe1@svnteam.fast.hosting-ip.com:80?type=ws&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.25.242
+vless://14a06e4d-095e-4568-8ab2-50776c8c0d8b@free.fastly80.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://cdnfastlycash@fastlyeeeeee.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://0f70aacc-9223-412d-8035-413d61df3059@voip.fast.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
-vless://2dac3536-244a-4558-9ab9-ab9ae34638c1@expressvpn_420.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@arx.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
+vless://43886a61-8b55-44e6-a5d8-1f33bce71538@free.fastly80.hosting-ip.com:80?type=xhttp&security=none#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://68d92f1b-c1fd-400e-b286-bc9fd0f982cb@erfwp.fast.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
 vless://6ec46182-5075-4633-a692-3debfe10de0f@amdiww.fastly80.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
 vless://94acbd52-046f-091e-148a-b32c47a0bfb0@technoi.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
-vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@expressvpn_420.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
 vless://bbe40614-335f-47ea-9bf4-1ebb7eb29477@erfwp.fast.hosting-ip.com:80?type=xhttp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.25.242
+vless://bdb67bdd-9f24-4555-bdb4-b768567ae239@vioplex.fast.hosting-ip.com:80?type=tcp&security=none&path=🔒#IE 🇮🇪 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.25.242
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&sid=5d20#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AS-COLOCROSSING ┇ 192.210.183.136
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.72.207.114:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.72.207.114
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.244.146.252:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 34.244.146.252
@@ -115,6 +103,7 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.74.228.55:443?type=tcp&security=
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@52.31.105.91:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 52.31.105.91
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.201.100.157:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 18.201.100.157
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.247.92.191:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 34.247.92.191
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.247.148.227:443?type=tcp&security=reality&sni=🔒&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.247.148.227
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@108.130.179.251:443?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 108.130.179.251
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@108.130.192.17:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 108.130.192.17
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@108.130.234.17:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 108.130.234.17
@@ -162,7 +151,6 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.194.231.38:443?type=tcp&security
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.216.132.5:443?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.216.132.5
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.217.180.167:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.217.180.167
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.229.194.78:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.229.194.78
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.247.148.227:443?type=tcp&security=reality&sni=🔒&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.247.148.227
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.74.228.168:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.74.228.168
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.75.143.82:443?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.75.143.82
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.75.192.28:443?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-REALITY - AMAZON-02 ┇ 54.75.192.28
