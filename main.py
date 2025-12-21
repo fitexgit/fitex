@@ -113,7 +113,7 @@ class AppConfig:
     SEEN_CONFIG_TIMEOUT_HOURS = 24
     
     # Connectivity Test Settings
-    ENABLE_CONNECTIVITY_TEST = True
+    ENABLE_CONNECTIVITY_TEST = False 
     # Decreased timeout for faster skipping of bad configs
     CONNECTIVITY_TEST_TIMEOUT = 2.5
     # Limit tests to ensure runtime stays within ~5 mins
@@ -122,7 +122,7 @@ class AppConfig:
 
     # Output Signatures
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "🚀 High-Speed Configs | @FitexGit"
+    ADV_SIGNATURE = "✨ Fast & Secure Proxy | @FitexGit"
     DNT_SIGNATURE = "🔰 Anti-Censorship | Filter Breaker"
     DEV_SIGNATURE = "⚡ Powered by FitexGit | GitHub"
     CUSTOM_SIGNATURE = "🌐 Source: github.com/fitexgit"
@@ -650,8 +650,8 @@ class ConfigProcessor:
         
         console.log(f"[green]Unique configs after parsing: {len(self.unique_configs)}[/green]")
         
-        # Optimize: Sample FIRST, then resolve DNS/Ping
-        if len(self.unique_configs) > CONFIG.MAX_CONNECTIVITY_TESTS:
+        # Optimize: Sample FIRST only if testing is enabled to avoid bottleneck
+        if CONFIG.ENABLE_CONNECTIVITY_TEST and len(self.unique_configs) > CONFIG.MAX_CONNECTIVITY_TESTS:
             console.log(f"[yellow]Sampling {CONFIG.MAX_CONNECTIVITY_TESTS} configs from {len(self.unique_configs)}...[/yellow]")
             sampled_keys = random.sample(list(self.unique_configs.keys()), CONFIG.MAX_CONNECTIVITY_TESTS)
             self.unique_configs = {k: self.unique_configs[k] for k in sampled_keys}
@@ -718,12 +718,31 @@ class ConfigProcessor:
 
     def _format_remarks(self):
         for c in self.unique_configs.values():
+            proto_full_map = {
+                'vmess': 'VMESS', 'vless': 'VLESS', 'trojan': 'TROJAN', 
+                'shadowsocks': 'SHADOWSOCKS', 'hysteria2': 'HYSTERIA2'
+            }
+            proto = proto_full_map.get(c.protocol, c.protocol.upper())
+
+            # Determine security label
+            if c.source_type == 'reality':
+                sec = 'RLT'
+            elif c.security == 'tls':
+                sec = 'TLS'
+            elif c.security == 'xtls':
+                sec = 'XTLS'
+            elif c.security == 'none' or not c.security:
+                sec = 'NTLS'
+            else:
+                sec = c.security.upper()
+
+            net = (c.network or 'tcp').upper()
             flag = COUNTRY_CODE_TO_FLAG.get(c.country, "🏳️")
-            proto = c.protocol.upper()[:4]
-            net = (c.network or 'tcp').upper()[:3]
-            asn = c.asn_org.split()[0] if c.asn_org else "UNK"
-            # Modern clean format
-            c.remarks = f"{flag} {c.country} | {proto}-{net} | {asn}"
+            ip_str = c.ip_address if c.ip_address else "N/A"
+            asn_str = f" - {c.asn_org}" if c.asn_org else ""
+            
+            # Restore Old Format: "DE 🇩🇪 ┇ VLESS-TCP-TLS - Hetzner ┇ 1.2.3.4"
+            c.remarks = f"{c.country} {flag} ┇ {proto}-{net}-{sec}{asn_str} ┇ {ip_str}"
 
     def get_results(self) -> List[BaseConfig]:
         return sorted(self.unique_configs.values(), key=lambda x: x.ping or 9999)
