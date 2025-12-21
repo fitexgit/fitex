@@ -38,4 +38,8 @@ jobs:
           
           git add sub/
           git commit -m "feat: Auto update configs $(date)" || exit 0
-          git push
+          
+          # رفع باگ: دریافت آخرین تغییرات قبل از پوش کردن
+          git pull --rebase origin main
+          
+          git push origin main
