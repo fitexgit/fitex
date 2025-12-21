@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.63
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 107.174.114.71
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@91.219.215.67:40282#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 91.219.215.67
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.32.29:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.68.32.29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 107.174.114.71
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZUdBY3dhdmlXeFh6Zzg3QXd2bkU2Z1diaEhIR3d3Qg@89.46.233.148:443#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 89.46.233.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.226
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.226
@@ -22,9 +22,9 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.182.34.247:8880?type=ws&security=
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?type=tcp&security=tls&sni=🔒#NO 🇳🇴 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 95.173.205.70
 vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&security=reality&sni=cloudflare.com&fp=random&flow=xtls-rprx-vision&pbk=YkKVT8MJ2lBkvyF05EbsKVczz0U64cKJ-56r19uwAE0&sid=42#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Gigahost AS ┇ 185.14.97.152
 vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?type=grpc&security=reality&sni=github.com&fp=chrome&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&sid=67dea0af00c9d222#NO 🇳🇴 ┇ VLESS-GRPC-REALITY - Datacamp Limited ┇ 148.135.195.96
-vless://id6061308608@185.40.4.142:443?type=tcp&security=reality&sni=🔒&fp=chrome&flow=xtls-rprx-vision&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Verasel, Inc. ┇ 185.40.4.142
 vless://id6856346113@s5.nodu8.ru:443?type=tcp&security=reality&sni=www.vk.com&fp=random&flow=xtls-rprx-vision&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&sid=a79e1dd256#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Verasel, Inc. ┇ 185.40.4.142
 vless://id7766933065@185.40.4.142:443?type=tcp&security=reality&sni=www.vk.com&fp=random&flow=xtls-rprx-vision&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&sid=5a56f9b61609#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Verasel, Inc. ┇ 185.40.4.142
+vless://id6061308608@185.40.4.142:443?type=tcp&security=reality&sni=🔒&fp=chrome&flow=xtls-rprx-vision&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Verasel, Inc. ┇ 185.40.4.142
 vless://id5111554007@185.181.62.114:443?type=tcp&security=reality&sni=www.vk.com&fp=random&flow=xtls-rprx-vision&pbk=W4Qsx8AjpwZQ3U1xhaYQsaTAMhzCO7dmreUqopVghA0&sid=38b5a868b321e3#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Gigahost AS ┇ 185.181.62.114
 vless://8b559595-d312-91c7-71a5-00b963955f29@38.180.1.50:9955?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#NO 🇳🇴 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 38.180.1.50
 vless://6035325d-399a-5148-9126-29cedfd5966a@195.54.170.75:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=pRQn2aDyqP621dJXVz1_vBP-lKrlbAffuYF82RQmJho&sid=c2acdf19#NO 🇳🇴 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 195.54.170.75
