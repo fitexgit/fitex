@@ -46,6 +46,14 @@ from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field, model_validator, ValidationError
 
 # ==============================================================================
+# EXCEPTIONS
+# ==============================================================================
+
+class V2RayCollectorException(Exception): pass
+class ParsingError(V2RayCollectorException): pass
+class NetworkError(V2RayCollectorException): pass
+
+# ==============================================================================
 # CONFIGURATION & CONSTANTS
 # ==============================================================================
 
@@ -106,8 +114,10 @@ class AppConfig:
     
     # Connectivity Test Settings
     ENABLE_CONNECTIVITY_TEST = True
-    CONNECTIVITY_TEST_TIMEOUT = 3
-    MAX_CONNECTIVITY_TESTS = 3000  # Increased limit
+    # Decreased timeout for faster skipping of bad configs
+    CONNECTIVITY_TEST_TIMEOUT = 2.5
+    # Limit tests to ensure runtime stays within ~5 mins
+    MAX_CONNECTIVITY_TESTS = 2500
     TEST_RETRIES = 1
 
     # Output Signatures
@@ -408,7 +418,15 @@ class V2RayParser:
         if ':' not in decoded_user_info or ':' not in host_port_part: return None
         method, password = decoded_user_info.split(':', 1)
         host, port_str = host_port_part.rsplit(':', 1)
-        return ShadowsocksConfig(host=host.strip("[]"), port=int(port_str), remarks=unquote(remarks_part), method=method, password=password)
+        
+        # Check for malformed ports
+        try:
+            cleaned_host = host.strip("[]")
+            # Remove any trailing non-digits from port string if possible, or just fail
+            port = int(port_str)
+            return ShadowsocksConfig(host=cleaned_host, port=port, remarks=unquote(remarks_part), method=method, password=password)
+        except ValueError:
+            return None
             
     @staticmethod
     def _parse_hysteria2(uri: str) -> Optional[Hysteria2Config]:
@@ -632,6 +650,12 @@ class ConfigProcessor:
         
         console.log(f"[green]Unique configs after parsing: {len(self.unique_configs)}[/green]")
         
+        # Optimize: Sample FIRST, then resolve DNS/Ping
+        if len(self.unique_configs) > CONFIG.MAX_CONNECTIVITY_TESTS:
+            console.log(f"[yellow]Sampling {CONFIG.MAX_CONNECTIVITY_TESTS} configs from {len(self.unique_configs)}...[/yellow]")
+            sampled_keys = random.sample(list(self.unique_configs.keys()), CONFIG.MAX_CONNECTIVITY_TESTS)
+            self.unique_configs = {k: self.unique_configs[k] for k in sampled_keys}
+
         await self._enrich_data()
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
@@ -667,11 +691,7 @@ class ConfigProcessor:
         except: return 9999
 
     async def _test_connectivity(self):
-        # Prioritize configs with resolved IPs
         configs = list(self.unique_configs.values())
-        if len(configs) > CONFIG.MAX_CONNECTIVITY_TESTS:
-            # Smart sampling: prioritize known countries
-            configs = random.sample(configs, CONFIG.MAX_CONNECTIVITY_TESTS)
         
         with Progress(
             SpinnerColumn(),
@@ -682,8 +702,8 @@ class ConfigProcessor:
         ) as progress:
             task = progress.add_task("Ping", total=len(configs))
             
-            # Batch execution with semaphore
-            sem = asyncio.Semaphore(50)
+            # Increased semaphore for faster processing
+            sem = asyncio.Semaphore(100)
             async def _worker(c):
                 async with sem:
                     ping = await self._test_tcp(c)
