@@ -10,4 +10,3 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2096?type=ws&security
 vless://94953376-9385-11ee-8335-9f4201f4a728@77.91.103.67:10004?type=ws&security=none&path=🔒#ME 🇲🇪 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 77.91.103.67
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?type=tcp&security=none#ME 🇲🇪 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 77.91.123.207
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?type=ws&security=none#ME 🇲🇪 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 77.91.103.216
-vless://d42c146e-2ded-4b4a-8592-6459ac636910@fi.srv.oplcdn.link:8443?type=tcp&security=reality&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ME 🇲🇪 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 77.91.103.239
