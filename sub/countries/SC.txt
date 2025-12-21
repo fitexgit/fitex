@@ -37,10 +37,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HTkVUQ0xPVUQtMiBcdTI1MDcgMTU0LjIyMi4yOS4xMjQiLCJhZGQiOiJkeDEuOTkyNjg4Lnh5eiIsInBvcnQiOjg4ODAsImlkIjoiMmZjMjQ4ZDUtN2M4MS00NzFkLWMyY2YtYTE0ZTdmNWFlZDJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvP2VkPTIwNDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxNTQuMTk3Ljc1LjgxIiwiYWRkIjoiMTU0LjE5Ny43NS44MSIsInBvcnQiOjg0NDMsImlkIjoiMTkxYmFiYzUtMmFhZi00ZmU1LWE1NjMtZjE0MjQ0YWVmYjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGF4MS5pYmdmdy50b3AiLCJwYXRoIjoiL3hyZW52d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYXgxLmliZ2Z3LnRvcCJ9
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@154.81.141.36:2096?type=tcp&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 154.81.141.36
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.198
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.197.64.43:443?type=grpc&security=tls&sni=pqh24v3.hiddendom.shop#SC 🇸🇨 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 154.197.64.43
 vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?type=tcp&security=none&path=/Telegram:@@vpnclashfa - 1215#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.197.75.80
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.16.60
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.198
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@156.243.83.39:2096?type=ws&security=tls&path=/telegram@wangcai2/?ed=2560&sni=sni.001316.xyz#SC 🇸🇨 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 156.243.83.39
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.29:8880?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.29
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@156.243.83.254:8880?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.254
@@ -52,11 +52,11 @@ vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.208:443?type=grpc&securi
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@154.197.64.253:2096?type=ws&security=tls&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.197.64.253
 vless://502524df-bb02-4a14-8362-d84caf2b0a76@154.197.75.101:2096?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=spdf.qzz.io#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.197.75.101
 vless://97b11ee6-a62a-4e60-839c-de974a155089@154.197.64.116:443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.197.64.116
+vless://26b63e3a-60f9-4630-b180-fde6c4339602@join.vpncustomize.cloud1.hosting-ip.com:8880?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.167
 vless://723c46be-ac60-4675-8f3f-a1529d41c338@154.218.15.1:443?type=ws&security=tls&path=/proxyip=kr.william.us.ci:443?ed=2560&sni=a.azrf.me&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.1
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.218.15.250:2083?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.218.15.250
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880?type=httpupgrade&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.218.15.26
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.130.125.253:2096?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=gaosir.unfeeling.sbs#SC 🇸🇨 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 45.130.125.253
-vless://5afc8a81-044e-47f8-eb35-0c3dce93f288@aaaa.zarghamportal.ir:2086?type=ws&security=none&path=/@iSpeedTopVPN#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.167
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@154.218.15.1:443?type=ws&security=tls&path=/snippets/ip=tp50000.kr.proxyip.fgfw.eu.org:50000&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.1
 vless://12345678-1234-1234-1234-123456789123@154.197.64.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.197.64.54
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@154.218.15.32:2096?type=ws&security=tls&path=/snippets&sni=kejiland.freewarp.eu.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.32
@@ -69,6 +69,8 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@156.243.83.247:8880?type=ws&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.213:8880?type=ws&security=none&path=/&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.213
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.218.15.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.218.15.247
+vless://12345678-1234-1234-1234-123456789123@154.197.64.61:2096?type=ws&security=tls&path=/snippets&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.197.64.61
+vless://12345678-1234-1234-1234-123456789123@154.194.0.61:2096?type=ws&security=tls&path=/snippets&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Africa-on-Cloud-AS ┇ 154.194.0.61
 vless://8c31695b-3c0a-4ec8-a833-451cfb881a57@154.197.75.98:80?type=tcp&security=none&path=/?-@UraniumVpnTelegram:#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.197.75.98
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@156.230.12.71:443?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - 263 Global Communications Limited ┇ 156.230.12.71
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@156.251.180.181:21698?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - CNSERVERS ┇ 156.251.180.181
