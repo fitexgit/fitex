@@ -1,0 +1,59 @@
+
+        <!DOCTYPE html>
+        <html lang="fa" dir="rtl">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Fitex Collector Dashboard</title>
+            <style>
+                body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #1a1a1a; color: #fff; margin: 0; padding: 20px; }
+                .container { max-width: 800px; margin: 0 auto; }
+                .card { background: #2d2d2d; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+                h1 { color: #00ff88; text-align: center; }
+                .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; text-align: center; }
+                .stat-item { background: #333; padding: 15px; border-radius: 8px; }
+                .stat-value { font-size: 24px; font-weight: bold; color: #4facfe; }
+                table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+                th, td { padding: 10px; text-align: right; border-bottom: 1px solid #444; }
+                th { color: #aaa; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="card">
+                    <h1>⚡ Fitex Collector Status</h1>
+                    <p style="text-align:center; color:#888;">آخرین بروزرسانی: 1404/09/30 11:48</p>
+                </div>
+                
+                <div class="card">
+                    <div class="stat-grid">
+                        <div class="stat-item">
+                            <div class="stat-value">1550</div>
+                            <div>کل کانفیگ‌ها</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">185</div>
+                            <div>VMess</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">1124</div>
+                            <div>VLESS</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3>🌍 کشورهای برتر</h3>
+                    <table>
+                        <thead><tr><th>کشور</th><th>تعداد</th></tr></thead>
+                        <tbody><tr><td>🇺🇸 US</td><td>153</td></tr><tr><td>🇩🇪 DE</td><td>71</td></tr><tr><td>🇮🇷 IR</td><td>45</td></tr><tr><td>🇸🇪 SE</td><td>44</td></tr><tr><td>🇳🇱 NL</td><td>42</td></tr><tr><td>🇬🇧 GB</td><td>38</td></tr><tr><td>🇷🇺 RU</td><td>37</td></tr><tr><td>🇨🇦 CA</td><td>16</td></tr><tr><td>🇫🇷 FR</td><td>16</td></tr><tr><td>🇸🇬 SG</td><td>15</td></tr></tbody>
+                    </table>
+                </div>
+                
+                <div class="card" style="text-align:center; font-size: 12px; color: #666;">
+                    Powered by <a href="https://github.com/fitexgit" style="color:#00ff88;text-decoration:none;">FitexGit</a>
+                </div>
+            </div>
+        </body>
+        </html>
+        
