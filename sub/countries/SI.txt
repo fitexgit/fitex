@@ -1,8 +1,8 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZkFpeXJkRmJLSnVLSVFrR2p2SnJERmVmbUg4WURTQw@45.83.131.43:443#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - WorkTitans B.V. ┇ 45.83.131.43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.150
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 91.132.94.200
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.150
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.49
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 91.132.94.200
 trojan://ttfang@92.53.189.194:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SI 🇸🇮 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 92.53.189.194
 trojan://Aimer@92.53.190.161:2087?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#SI 🇸🇮 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 92.53.190.161
 trojan://NISHIKUITAN111@92.53.191.173:443?security=tls#SI 🇸🇮 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 92.53.191.173
@@ -58,6 +58,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.168:8880?type=tcp&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.213:8880?type=tcp&security=none&sni=🔒#SI 🇸🇮 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 92.53.188.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.213:8880?type=tcp&security=none&sni=🔒#SI 🇸🇮 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 92.53.189.213
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?type=tcp&security=reality&sni=www.tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#SI 🇸🇮 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 92.60.78.221
+vless://382c5667-0722-44ec-9d28-6cd8654d8b55@194.58.66.235:61531?type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=UJ8zvbUEvqPWyl2Ny91NAWxKQwokjPaOx8IQXyODDH8&sid=d5ff9add383210e6#SI 🇸🇮 ┇ VLESS-TCP-REALITY - ASNET ┇ 194.58.66.235
 vless://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#SI 🇸🇮 ┇ VLESS-TCP-REALITY - ASNET ┇ 194.58.66.234
 vless://a2b80bbf-a95d-4116-bee4-5538000ecf9c@194.58.66.146:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1#SI 🇸🇮 ┇ VLESS-TCP-REALITY - ASNET ┇ 194.58.66.146
 vless://14615e9d-021d-4a18-aed7-dd4fcda2b179@194.58.66.146:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1#SI 🇸🇮 ┇ VLESS-TCP-REALITY - ASNET ┇ 194.58.66.146

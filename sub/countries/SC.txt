@@ -37,8 +37,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HTkVUQ0xPVUQtMiBcdTI1MDcgMTU0LjIyMi4yOS4xMjQiLCJhZGQiOiJ5ZDEuOTkyNjg4Lnh5eiIsInBvcnQiOjg4ODAsImlkIjoiMmZjMjQ4ZDUtN2M4MS00NzFkLWMyY2YtYTE0ZTdmNWFlZDJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvP2VkPTIwNDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HTkVUQ0xPVUQtMiBcdTI1MDcgMTU0LjIyMi4yOS4xMjQiLCJhZGQiOiJkeDEuOTkyNjg4Lnh5eiIsInBvcnQiOjg4ODAsImlkIjoiMmZjMjQ4ZDUtN2M4MS00NzFkLWMyY2YtYTE0ZTdmNWFlZDJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvP2VkPTIwNDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxNTQuMTk3Ljc1LjgxIiwiYWRkIjoiMTU0LjE5Ny43NS44MSIsInBvcnQiOjg0NDMsImlkIjoiMTkxYmFiYzUtMmFhZi00ZmU1LWE1NjMtZjE0MjQ0YWVmYjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGF4MS5pYmdmdy50b3AiLCJwYXRoIjoiL3hyZW52d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYXgxLmliZ2Z3LnRvcCJ9
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.198
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@154.81.141.36:2096?type=tcp&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 154.81.141.36
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?type=ws&security=tls&path=/?ed=2560&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.198
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.197.64.43:443?type=grpc&security=tls&sni=pqh24v3.hiddendom.shop#SC 🇸🇨 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 154.197.64.43
 vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?type=tcp&security=none&path=/Telegram:@@vpnclashfa - 1215#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.197.75.80
 vless://a223ebdb-2098-431a-96c3-38384188c93e@156.244.16.60:443?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.16.60
@@ -63,9 +63,6 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@154.218.15.32:2096?type=ws&security
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@154.218.15.250:2083?type=ws&security=tls&path=/?ed=2560&sni=ngx.ambercc.filegear-sg.me#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.218.15.250
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.183:443?type=grpc&security=tls&sni=iryiccyne.wwtraveler.com&fp=chrome#SC 🇸🇨 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 154.197.64.183
 vless://22d373dd-baa2-44a3-995c-80898e052534@154.194.0.15:443?type=ws&security=tls&path=/Just/Way/ForFreedom/&sni=download.wablo.ir&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Africa-on-Cloud-AS ┇ 154.194.0.15
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?type=httpupgrade&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 156.243.83.167
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?type=ws&security=none&path=🔒&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.167
-vless://9dcdc6d7-1243-4550-afa5-773910f259c8@simonil.zarghamportal.ir:80?type=tcp&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-TCP-NTLS - CLOUDFLARENET ┇ 156.243.83.167
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?type=tcp&security=tls&sni=🔒#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.219.5.68
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?type=tcp&security=tls&sni=🔒#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.219.5.92
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@156.243.83.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.247
@@ -75,10 +72,8 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.218.15.247:8880?type=ws&securit
 vless://8c31695b-3c0a-4ec8-a833-451cfb881a57@154.197.75.98:80?type=tcp&security=none&path=/?-@UraniumVpnTelegram:#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.197.75.98
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@156.230.12.71:443?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - 263 Global Communications Limited ┇ 156.230.12.71
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@156.251.180.181:21698?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - CNSERVERS ┇ 156.251.180.181
-vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?type=ws&security=none&path=🔒&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 156.243.83.167
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@154.197.64.161:443?type=ws&security=none&path=🔒#SC 🇸🇨 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.197.64.161
 vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443?type=tcp&security=none&sni=🔒&flow=xtls-rprx-vision#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Alex Largman ┇ 178.20.215.10
-vless://e5f745a5-ea3b-4709-b568-6bfff02d5618@simonil.zarghamportal.ir:8080?type=httpupgrade&security=none&path=🔒&fp=chrome#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET ┇ 156.243.83.167
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.219.5.242:2053?type=tcp&security=tls&sni=🔒#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.219.5.242
 vless://8a492ba7-8050-4ad6-85a9-40ea7f24027a@156.225.23.208:36200?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=XgjSwb4A053rAKukT4F18SrkeHlBm2Twi58hQjM5PFY#SC 🇸🇨 ┇ VLESS-TCP-REALITY - COGNETCLOUD ┇ 156.225.23.208
 vless://13e0940a-5234-4702-b610-037b1bca9809@156.225.23.208:40429?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=KkVrTtjrIuF8vXrXAQ-g8I25Fzih4QILMB05ObSnvRo#SC 🇸🇨 ┇ VLESS-TCP-REALITY - COGNETCLOUD ┇ 156.225.23.208
