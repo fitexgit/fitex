@@ -1,8 +1,8 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.94
-ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
-ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.179
 ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.197
+ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.179
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.94
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.79
+ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - Din Server Group ApS ┇ 91.210.57.117
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.116
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@121.127.45.165:990#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 121.127.45.165
@@ -19,6 +19,6 @@ trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?sni=joss.gpj1.w
 vless://7e3f2fdd-d949-40b4-8882-5c1c63e48ce0@test.fast199.hosting-ip.com:80?type=xhttp&security=none&path=🔒#DK 🇩🇰 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.40.47
 vless://TELEGRAM-CONFiGLiNE-81@test.fast199.hosting-ip.com:80?type=tcp&security=none&path=🔒#DK 🇩🇰 ┇ VLESS-TCP-NTLS - FASTLY ┇ 199.232.40.47
 vless://d19cf37c-6b64-4b4e-8592-6b785b1c4297@test.fast199.hosting-ip.com:80?type=xhttp&security=none&path=🔒#DK 🇩🇰 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 199.232.40.47
-vless://019ab268-39bf-4929-9a05-8b13c00d1d96@193.180.211.52:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/193.180.211.52=443&sni=joss.gpj4.web.id&fp=randomized#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 193.180.211.52
-vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@199.232.40.117:80?type=ws&security=none&path=🔒#DK 🇩🇰 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.40.117
+vless://019ab268-39bf-4929-9a05-8b13c00d1d96@193.180.211.52:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/193.180.211.52=443&sni=joss.gpj4.web.id&fp=chrome#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 193.180.211.52
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@89.28.236.243:443?type=ws&security=tls&path=/?ed=2048&sni=01.91md.fun#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 89.28.236.243
+vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@199.232.40.117:80?type=ws&security=none&path=🔒#DK 🇩🇰 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.40.117
