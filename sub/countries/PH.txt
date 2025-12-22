@@ -1,3 +1,7 @@
+trojan://NISHIKUITAN111@154.83.2.121:443?security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.121
+trojan://amclubs@154.83.2.94:2053?sni=tran.amclubstest.nyc.mn&peer=tran.amclubstest.nyc.mn&security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.94
+trojan://amclubs@154.83.2.61:8443?sni=tran.amclubstest.nyc.mn&peer=tran.amclubstest.nyc.mn&security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.61
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?sni=vle.amclubsvip.dpdns.org&peer=vle.amclubsvip.dpdns.org&security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.54
 vless://23f88d32-aa7c-4adf-ae31-9358ea8efa09@154.83.2.238:443?type=tcp&security=none&path=🔒#PH 🇵🇭 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.83.2.238
 vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?type=tcp&security=tls&sni=🔒#PH 🇵🇭 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.200
 vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.94:2053?type=tcp&security=tls&sni=🔒#PH 🇵🇭 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.94
@@ -14,10 +18,6 @@ vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@154.83.2.121:8443?type=ws&security=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?type=tcp&security=none&path=🔒#PH 🇵🇭 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.83.2.156
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.83.2.188:8880?type=tcp&security=none&sni=🔒#PH 🇵🇭 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.83.2.188
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?type=tcp&security=tls&sni=🔒#PH 🇵🇭 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.54
-trojan://NISHIKUITAN111@154.83.2.121:443?security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.121
-trojan://amclubs@154.83.2.94:2053?sni=tran.amclubstest.nyc.mn&peer=tran.amclubstest.nyc.mn&security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.94
-trojan://amclubs@154.83.2.61:8443?sni=tran.amclubstest.nyc.mn&peer=tran.amclubstest.nyc.mn&security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.61
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?sni=vle.amclubsvip.dpdns.org&peer=vle.amclubsvip.dpdns.org&security=tls#PH 🇵🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.54
 vmess://eyJ2IjoiMiIsInBzIjoiUEggXHVkODNjXHVkZGY1XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0FSUklFUkRPTUFJTi1OWUMgXHUyNTA3IDYxLjI0NS4xMS42MCIsImFkZCI6IjNoLXBoaWxpcHBpbmVzMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiJlN2Q2YTA1MC1lNTJhLTRkODUtYWMyNi05NWY4NWU0NGU4ZjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUEggXHVkODNjXHVkZGY1XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWxpYmFiYSBVUyBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMjAuMTg4LjIzOCIsImFkZCI6IjguMjIwLjE4OC4yMzgiLCJwb3J0Ijo2MzAzNiwiaWQiOiI2NjJmMDRmMi02NzkyLTQzYTEtODM1Ny1jOGMzNWJkNjgwOTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ
 vmess://eyJ2IjoiMiIsInBzIjoiUEggXHVkODNjXHVkZGY1XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgMTU0LjgzLjIuMTIxIiwiYWRkIjoiMTU0LjgzLjIuMTIxIiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
