@@ -114,9 +114,7 @@ class AppConfig:
     
     # Connectivity Test Settings
     ENABLE_CONNECTIVITY_TEST = False 
-    # Decreased timeout for faster skipping of bad configs
     CONNECTIVITY_TEST_TIMEOUT = 2.5
-    # Limit tests to ensure runtime stays within ~5 mins
     MAX_CONNECTIVITY_TESTS = 2500
     TEST_RETRIES = 1
 
@@ -274,16 +272,6 @@ class VlessConfig(BaseConfig):
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"vless://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
 
-class TrojanConfig(BaseConfig):
-    protocol: str = 'trojan'
-    source_type: str = 'trojan'
-
-    def to_uri(self) -> str:
-        params = {'sni': self.sni, 'peer': self.sni, 'security': self.security}
-        query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None])
-        remarks_encoded = f"#{unquote(self.remarks)}"
-        return f"trojan://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
-
 class ShadowsocksConfig(BaseConfig):
     protocol: str = 'shadowsocks'
     source_type: str = 'shadowsocks'
@@ -366,7 +354,6 @@ class V2RayParser:
         try:
             if uri.startswith("vmess://"): return V2RayParser._parse_vmess(uri)
             elif uri.startswith("vless://"): return V2RayParser._parse_vless(uri)
-            elif uri.startswith("trojan://"): return V2RayParser._parse_trojan(uri)
             elif uri.startswith("ss://"): return V2RayParser._parse_shadowsocks(uri)
             elif uri.startswith("hy2://") or uri.startswith("hysteria2://"): return V2RayParser._parse_hysteria2(uri)
         except (ValidationError, ParsingError, Exception):
@@ -401,13 +388,6 @@ class V2RayParser:
             pbk=params.get('pbk', [None])[0], 
             sid=params.get('sid', [None])[0]
         )
-
-    @staticmethod
-    def _parse_trojan(uri: str) -> Optional[TrojanConfig]:
-        parsed_url = urlparse(uri)
-        if not parsed_url.hostname or not parsed_url.port: return None
-        params = parse_qs(parsed_url.query)
-        return TrojanConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=parsed_url.port, remarks=unquote(parsed_url.fragment), security=params.get('security', ['tls'])[0], sni=params.get('sni', [None])[0], network='tcp')
 
     @staticmethod
     def _parse_shadowsocks(uri: str) -> Optional[ShadowsocksConfig]:
@@ -448,7 +428,6 @@ class V2RayParser:
 class RawConfigCollector:
     PATTERNS = {
         "ss": r"(ss://[^\s<>#]+)", 
-        "trojan": r"(trojan://[^\s<>#]+)", 
         "vmess": r"(vmess://[^\s<>#]+)", 
         "vless": r"(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", 
         "reality": r"(vless://[^\s<>#]+?security=reality[^\s<>#]*)",
@@ -906,13 +885,13 @@ class FileManager:
         # Create Persian Date Header
         jalali_now = jdatetime.datetime.now().strftime("%Y/%m/%d %H:%M")
         
-        # Header Configs
+        # Header Configs using VLESS
         header_configs = [
-            f"trojan://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp#{unquote(f'📅 Update: {jalali_now}')}",
-            f"trojan://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp#{unquote(CONFIG.ADV_SIGNATURE)}",
-            f"trojan://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp#{unquote(CONFIG.DNT_SIGNATURE)}",
-            f"trojan://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp#{unquote(CONFIG.DEV_SIGNATURE)}",
-            f"trojan://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp#{unquote(CONFIG.CUSTOM_SIGNATURE)}"
+            f"vless://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp&encryption=none#{unquote(f'📅 Update: {jalali_now}')}",
+            f"vless://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp&encryption=none#{unquote(CONFIG.ADV_SIGNATURE)}",
+            f"vless://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp&encryption=none#{unquote(CONFIG.DNT_SIGNATURE)}",
+            f"vless://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp&encryption=none#{unquote(CONFIG.DEV_SIGNATURE)}",
+            f"vless://{generate_random_uuid_string()}@127.0.0.1:1080?security=tls&type=tcp&encryption=none#{unquote(CONFIG.CUSTOM_SIGNATURE)}"
         ]
         
         body_configs = [c.to_uri() for c in configs]
