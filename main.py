@@ -745,7 +745,13 @@ class ConfigProcessor:
             c.remarks = f"{c.country} {flag} ┇ {proto}-{net}-{sec}{asn_str} ┇ {ip_str}"
 
     def get_results(self) -> List[BaseConfig]:
-        return sorted(self.unique_configs.values(), key=lambda x: x.ping or 9999)
+        configs = list(self.unique_configs.values())
+        random.shuffle(configs)
+        
+        if CONFIG.ENABLE_CONNECTIVITY_TEST:
+            return sorted(configs, key=lambda x: x.ping if x.ping is not None else 999999)
+        
+        return configs
 
 # ==============================================================================
 # OUTPUT GENERATORS (CLASH, SINGBOX, HTML)
