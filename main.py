@@ -914,17 +914,25 @@ class V2RayCollectorApp:
             try:
                 # Validate JSON before writing
                 data = json.loads(content)
-                if isinstance(data, list):
+                if isinstance(data, list) and len(data) > 0: # Ensure not empty
+                    console.log(f"[green]Loaded {len(data)} links from remote.[/green]")
                     async with aiofiles.open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w", encoding="utf-8") as f:
                         await f.write(content)
                     return data
-            except: pass
+            except Exception as e:
+                console.log(f"[yellow]Remote JSON invalid: {e}[/yellow]")
         
         if CONFIG.SUBSCRIPTION_LINKS_FILE.exists():
             try:
                 async with aiofiles.open(CONFIG.SUBSCRIPTION_LINKS_FILE, "r") as f:
-                    return json.loads(await f.read())
-            except: pass
+                    data = json.loads(await f.read())
+                    if isinstance(data, list):
+                        console.log(f"[green]Loaded {len(data)} links from local file.[/green]")
+                        return data
+            except Exception as e:
+                console.log(f"[red]Local JSON invalid: {e}[/red]")
+        
+        console.log("[red]No subscription links found in remote or local![/red]")
         return []
 
     async def _get_telegram_channels(self) -> List[str]:
