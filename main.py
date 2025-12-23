@@ -85,7 +85,6 @@ class AppConfig:
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
     # Remote Resources
-    # اصلاح شده: حذف refs/heads/ برای دسترسی صحیح به فایل خام
     REMOTE_SUBS_URL = "https://raw.githubusercontent.com/fitexgit/fitex/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
@@ -936,25 +935,63 @@ class V2RayCollectorApp:
 
     async def _save_outputs(self, configs: List[BaseConfig]):
         console.log("[cyan]Saving outputs...[/cyan]")
+        
+        # 1. Base64 Subscription
         b64_content = self.file_manager.generate_subscription_content(configs)
         await self.file_manager.save_text(CONFIG.DIRS["subscribe"] / "base64.txt", b64_content)
+        
+        # 2. Raw Links
         raw_text = "\n".join([c.to_uri() for c in configs])
         await self.file_manager.save_text(CONFIG.OUTPUT_DIR / "all_configs.txt", raw_text)
+        
+        # 3. Clash Meta
         clash_yaml = ConfigConverter.to_clash_yaml(configs)
         await self.file_manager.save_text(CONFIG.DIRS["clash"] / "meta.yaml", clash_yaml)
+        
+        # 4. Sing-box
         singbox_json = ConfigConverter.to_singbox_json(configs)
         await self.file_manager.save_text(CONFIG.DIRS["singbox"] / "config.json", singbox_json)
         
-        categories = defaultdict(list)
-        for c in configs:
-            categories[c.protocol].append(c)
-            categories[c.country].append(c)
-        
-        for cat, items in categories.items():
-            if not cat or cat == "XX": continue
-            path = CONFIG.DIRS["protocols"] if cat in ['vmess', 'vless', 'trojan', 'shadowsocks'] else CONFIG.DIRS["countries"]
-            await self.file_manager.save_text(path / f"{cat}.txt", "\n".join([x.to_uri() for x in items]))
+        # 5. Categorized (Including networks and security)
+        # Define categories structure
+        categories = {
+            "protocols": defaultdict(list),
+            "networks": defaultdict(list),
+            "security": defaultdict(list),
+            "countries": defaultdict(list),
+        }
 
+        for c in configs:
+            # Protocols
+            categories["protocols"][c.protocol].append(c)
+            
+            # Countries
+            if c.country and c.country != "XX":
+                categories["countries"][c.country].append(c)
+                
+            # Networks
+            net = c.network if c.network else 'tcp'
+            categories["networks"][net].append(c)
+            
+            # Security
+            if c.source_type == 'reality':
+                sec = 'reality'
+            elif c.security:
+                sec = c.security
+            else:
+                sec = 'none'
+            categories["security"][sec].append(c)
+        
+        # Save categories
+        for dir_name, items_dict in categories.items():
+            base_path = CONFIG.DIRS[dir_name]
+            for key, items in items_dict.items():
+                if not key: continue
+                # Sanitize key for filename
+                safe_key = re.sub(r'[\\/*?:"<>|]', "", str(key))
+                await self.file_manager.save_text(base_path / f"{safe_key}.txt", "\n".join([x.to_uri() for x in items]))
+
+        # 6. HTML Dashboard
         stats = {
             "total": len(configs),
             "vmess": len([c for c in configs if c.protocol == 'vmess']),
