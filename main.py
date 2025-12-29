@@ -70,9 +70,10 @@ class AppConfig:
         "networks": OUTPUT_DIR / "networks",
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
+        "datacenters": OUTPUT_DIR / "datacenters", # Re-enabled
         "clash": OUTPUT_DIR / "clash",
         "singbox": OUTPUT_DIR / "singbox",
-        "html": OUTPUT_DIR / "html",
+        # "html": OUTPUT_DIR / "html", # Disabled
     }
 
     # Files
@@ -765,68 +766,6 @@ class ConfigConverter:
                 outboards.append(base)
         return json.dumps({"outbounds": outboards}, indent=2)
 
-class HTMLGenerator:
-    @staticmethod
-    def generate_dashboard(stats: Dict[str, int], top_countries: List[Tuple[str, int]]) -> str:
-        jalali_now = jdatetime.datetime.now().strftime("%Y/%m/%d %H:%M")
-        rows = "".join([f"<tr><td>{COUNTRY_CODE_TO_FLAG.get(c, '')} {c}</td><td>{n}</td></tr>" for c, n in top_countries])
-        return f"""
-        <!DOCTYPE html>
-        <html lang="fa" dir="rtl">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Fitex Collector Dashboard</title>
-            <style>
-                body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #1a1a1a; color: #fff; margin: 0; padding: 20px; }}
-                .container {{ max-width: 800px; margin: 0 auto; }}
-                .card {{ background: #2d2d2d; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }}
-                h1 {{ color: #00ff88; text-align: center; }}
-                .stat-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; text-align: center; }}
-                .stat-item {{ background: #333; padding: 15px; border-radius: 8px; }}
-                .stat-value {{ font-size: 24px; font-weight: bold; color: #4facfe; }}
-                table {{ width: 100%; border-collapse: collapse; margin-top: 10px; }}
-                th, td {{ padding: 10px; text-align: right; border-bottom: 1px solid #444; }}
-                th {{ color: #aaa; }}
-            </style>
-        </head>
-        <body>
-            <div class="container">
-                <div class="card">
-                    <h1>⚡ Fitex Collector Status</h1>
-                    <p style="text-align:center; color:#888;">آخرین بروزرسانی: {jalali_now}</p>
-                </div>
-                <div class="card">
-                    <div class="stat-grid">
-                        <div class="stat-item">
-                            <div class="stat-value">{stats.get('total', 0)}</div>
-                            <div>کل کانفیگ‌ها</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-value">{stats.get('vmess', 0)}</div>
-                            <div>VMess</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-value">{stats.get('vless', 0)}</div>
-                            <div>VLESS</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <h3>🌍 کشورهای برتر</h3>
-                    <table>
-                        <thead><tr><th>کشور</th><th>تعداد</th></tr></thead>
-                        <tbody>{rows}</tbody>
-                    </table>
-                </div>
-                <div class="card" style="text-align:center; font-size: 12px; color: #666;">
-                    Powered by <a href="https://github.com/fitexgit" style="color:#00ff88;text-decoration:none;">FitexGit</a>
-                </div>
-            </div>
-        </body>
-        </html>
-        """
-
 class FileManager:
     def __init__(self):
         pass
@@ -960,13 +899,13 @@ class V2RayCollectorApp:
         singbox_json = ConfigConverter.to_singbox_json(configs)
         await self.file_manager.save_text(CONFIG.DIRS["singbox"] / "config.json", singbox_json)
         
-        # 5. Categorized (Including networks and security)
-        # Define categories structure
+        # 5. Categorized (Including networks, security, and datacenters)
         categories = {
             "protocols": defaultdict(list),
             "networks": defaultdict(list),
             "security": defaultdict(list),
             "countries": defaultdict(list),
+            "datacenters": defaultdict(list), # Re-added
         }
 
         for c in configs:
@@ -989,6 +928,12 @@ class V2RayCollectorApp:
             else:
                 sec = 'none'
             categories["security"][sec].append(c)
+
+            # Datacenters
+            if c.asn_org:
+                # Clean ASN name for filename
+                asn_clean = re.sub(r'[\\/*?:"<>|]', "", c.asn_org).replace(" ", "_")
+                categories["datacenters"][asn_clean].append(c)
         
         # Save categories
         for dir_name, items_dict in categories.items():
@@ -998,16 +943,6 @@ class V2RayCollectorApp:
                 # Sanitize key for filename
                 safe_key = re.sub(r'[\\/*?:"<>|]', "", str(key))
                 await self.file_manager.save_text(base_path / f"{safe_key}.txt", "\n".join([x.to_uri() for x in items]))
-
-        # 6. HTML Dashboard
-        stats = {
-            "total": len(configs),
-            "vmess": len([c for c in configs if c.protocol == 'vmess']),
-            "vless": len([c for c in configs if c.protocol == 'vless'])
-        }
-        countries = Counter([c.country for c in configs if c.country != 'XX']).most_common(10)
-        html = HTMLGenerator.generate_dashboard(stats, countries)
-        await self.file_manager.save_text(CONFIG.DIRS["html"] / "dashboard.html", html)
 
     def _print_summary(self, configs: List[BaseConfig]):
         table = Table(title="📊 Final Statistics", show_header=True, header_style="bold magenta")
