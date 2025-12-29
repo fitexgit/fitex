@@ -1,2 +1,2 @@
 hysteria2://e37be73b-4347-439b-a0c9-aa22f8a85226@192.166.82.40:6548?sni=yhhy.441166.xyz&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - CloudBlast LLC ┇ 192.166.82.40
-vless://d9600d11-9b5b-4b25-88b0-851df319a218@192.166.82.182:48915?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - CloudBlast LLC ┇ 192.166.82.182
+vless://d9600d11-9b5b-4b25-88b0-851df319a218@192.166.82.182:48915?type=tcp&security=none&host=fast.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - CloudBlast LLC ┇ 192.166.82.182
