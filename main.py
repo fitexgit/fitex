@@ -70,7 +70,7 @@ class AppConfig:
         "networks": OUTPUT_DIR / "networks",
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
-        "datacenters": OUTPUT_DIR / "datacenters", # Re-enabled
+        "datacenters": OUTPUT_DIR / "datacenters", # Active
         "clash": OUTPUT_DIR / "clash",
         "singbox": OUTPUT_DIR / "singbox",
         # "html": OUTPUT_DIR / "html", # Disabled
@@ -197,7 +197,6 @@ def is_ip_address(address: str) -> bool:
         return False
 
 def clean_remarks(name: str) -> str:
-    """Removes emojis and special chars to keep remarks clean"""
     cleaned = re.sub(r'[^\w\s\-\.\:\@\(\)\[\]]', '', name)
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
     return cleaned if cleaned else "Config"
@@ -264,9 +263,23 @@ class VlessConfig(BaseConfig):
     flow: Optional[str] = None
     pbk: Optional[str] = None
     sid: Optional[str] = None
+    host_header: Optional[str] = None # Added for xhttp
+    mode: Optional[str] = None        # Added for xhttp
 
     def to_uri(self) -> str:
-        params = {'type': self.network, 'security': self.security, 'path': self.path, 'sni': self.sni, 'fp': self.fingerprint, 'flow': self.flow, 'pbk': self.pbk, 'sid': self.sid}
+        params = {
+            'type': self.network,
+            'security': self.security,
+            'path': self.path,
+            'sni': self.sni,
+            'host': self.host_header, # Include host param
+            'mode': self.mode,        # Include mode param
+            'fp': self.fingerprint,
+            'flow': self.flow,
+            'pbk': self.pbk,
+            'sid': self.sid
+        }
+        # Filter None/Empty values
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None and v != ""])
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"vless://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
@@ -383,7 +396,9 @@ class V2RayParser:
             fingerprint=params.get('fp', [None])[0], 
             flow=params.get('flow', [None])[0], 
             pbk=params.get('pbk', [None])[0], 
-            sid=params.get('sid', [None])[0]
+            sid=params.get('sid', [None])[0],
+            host_header=params.get('host', [None])[0], # Capture host param
+            mode=params.get('mode', [None])[0]         # Capture mode param
         )
 
     @staticmethod
