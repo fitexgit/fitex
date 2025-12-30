@@ -1,6 +1,6 @@
-vless://59e219a5-a069-43ff-afd2-6c9c26da09e3@sw.xtls.win:443?type=tcp&security=tls&sni=sw.xtls.win&fp=chrome&flow=xtls-rprx-vision&pbk=SO3S1KgJqCxmY1yEtV-OM75q3rt06U3hc1ooTVpZeTM&sid=e296c94aed15daab#SE 🇸🇪 ┇ VLESS-TCP-TLS - Itm Nord As ┇ 185.229.221.154
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#DE 🇩🇪 ┇ VLESS-WS-NTLS - Itm Nord As ┇ 5.178.101.44
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Itm Nord As ┇ 89.144.35.138
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@89.144.35.166:35000?sni=pichondan.com&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Itm Nord As ┇ 89.144.35.166
-hysteria2://605d52db-3d29-406f-bf6d-daeb1cd84f09@dg.jgpyjc.top:443?sni=dg.jgpyjc.top&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Itm Nord As ┇ 5.178.101.232
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#DE 🇩🇪 ┇ VLESS-WS-NTLS - Itm Nord As ┇ 5.178.101.44
+vless://59e219a5-a069-43ff-afd2-6c9c26da09e3@sw.xtls.win:443?type=tcp&security=tls&sni=sw.xtls.win&fp=chrome&flow=xtls-rprx-vision&pbk=SO3S1KgJqCxmY1yEtV-OM75q3rt06U3hc1ooTVpZeTM&sid=e296c94aed15daab#SE 🇸🇪 ┇ VLESS-TCP-TLS - Itm Nord As ┇ 185.229.221.154
 vless://59e219a5-a069-43ff-afd2-6c9c26da09e3@de.xtls.win:443?type=tcp&security=tls&sni=de.xtls.win&fp=chrome&flow=xtls-rprx-vision&pbk=yTMvpuWZHdcHUK6anOgSbopB-oEE4USr3cNpTYDVpi8&sid=66e9743dbf2e0793#DE 🇩🇪 ┇ VLESS-TCP-TLS - Itm Nord As ┇ 5.178.101.231
+hysteria2://605d52db-3d29-406f-bf6d-daeb1cd84f09@dg.jgpyjc.top:443?sni=dg.jgpyjc.top&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Itm Nord As ┇ 5.83.129.31
