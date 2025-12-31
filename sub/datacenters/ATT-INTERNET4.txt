@@ -1,2 +1,2 @@
-vless://c7d8e9f0-a1b2-7890-3456-6789abcdef01@104.188.82.79:443?type=tcp&security=reality&fp=chrome&pbk=ABC1234567890abcdef1234567890abcdef#US 🇺🇸 ┇ VLESS-TCP-REALITY - ATT-INTERNET4 ┇ 104.188.82.79
-vless://aa3e6633-40ff-4d90-fb85-a3a73c0ee4c3@99.88.80.195:54661?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - ATT-INTERNET4 ┇ 99.88.80.195
+vless://aa3e6633-40ff-4d90-fb85-a3a73c0ee4c3@99.88.80.195:54661?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ATT-INTERNET4 ┇ 99.88.80.195
+vless://c7d8e9f0-a1b2-7890-3456-6789abcdef01@104.188.82.79:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=ABC1234567890abcdef1234567890abcdef#US 🇺🇸 ┇ VLESS-TCP-REALITY - ATT-INTERNET4 ┇ 104.188.82.79
