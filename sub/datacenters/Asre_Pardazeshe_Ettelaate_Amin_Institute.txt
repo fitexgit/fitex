@@ -1,7 +1,7 @@
 vless://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.20.50
+vless://cf16fe9d-df3a-4ec8-9fbf-ec61b86b5751@free.darinaservice-free.store:8444?type=tcp&security=none&host=speedtest.net#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 45.135.241.143
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?type=tcp&security=none&host=speedtest.net#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 195.190.144.155
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none&host=bmw.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.77
 vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.142.157.161
 vless://zigma-config-bot-2338@212.80.19.27:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.19.27
-vless://cf16fe9d-df3a-4ec8-9fbf-ec61b86b5751@free.darinaservice-free.store:8444?type=tcp&security=none&host=varzesh3.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 45.135.241.143
-vless://a8f9d166-4c5b-4344-89e4-1429eac81278@priceofdollar.liara.run:443?type=ws&security=tls&sni=priceofdollar.liara.run&host=priceofdollar.liara.run&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.142.159.117
+vless://a8f9d166-4c5b-4344-89e4-1429eac81278@priceofdollar.liara.run:443?type=ws&security=tls&host=speedtest.net&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.142.159.117
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none&host=bmw.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.163.77
