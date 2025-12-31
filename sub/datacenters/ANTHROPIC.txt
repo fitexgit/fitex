@@ -1,2 +1,24 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.38:443?type=ws&security=tls&path=/?proxyip&sni=zx.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.38
+vless://219d848d-60f2-4321-8275-72b9b575b37e@160.79.105.144:443?type=ws&security=none&path=🔒&host=qaa.zhuk.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.144
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.99:443?type=tcp&security=tls&sni=🔒#US 🇺🇸 ┇ VLESS-TCP-TLS - ANTHROPIC ┇ 160.79.105.99
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.118:443?type=tcp&security=tls&sni=🔒#US 🇺🇸 ┇ VLESS-TCP-TLS - ANTHROPIC ┇ 160.79.105.118
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.133:443?type=ws&security=none&path=🔒&host=cg.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.133
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?type=ws&security=none&path=🔒&host=m1.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.115
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.98:443?type=ws&security=tls&sni=🔒&host=uxb.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.98
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.104.177:8880?type=ws&security=none&path=🔒&host=ip.langmanshanxi.top#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.177
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.38:443?type=ws&security=none&path=🔒#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.38
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.12:443?type=ws&security=tls&sni=🔒&host=uxb.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.12
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?type=ws&security=none&path=🔒&host=0229.patterdeng.pp.ua#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.113
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.178:443?type=tcp&security=tls&sni=🔒#US 🇺🇸 ┇ VLESS-TCP-TLS - ANTHROPIC ┇ 160.79.104.178
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.233:443?type=ws&security=none&path=🔒&host=uxb.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.233
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.63:8880?type=tcp&security=none&sni=🔒#US 🇺🇸 ┇ VLESS-TCP-NTLS - ANTHROPIC ┇ 160.79.104.63
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.85:443?type=ws&security=none&path=🔒&host=uxa.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.85
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.155:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.155
+vless://219d848d-60f2-4321-8275-72b9b575b37e@160.79.105.138:443?type=ws&security=none&path=🔒&host=qaa.zhuk.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.138
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.105.201:443?type=ws&security=none&path=🔒&host=vb.zhuk.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.201
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.101:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.101
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU5USFJPUElDIFx1MjUwNyAxNjAuNzkuMTA0LjIxNCIsImFkZCI6IjE2MC43OS4xMDQuMjE0IiwicG9ydCI6ODg4MCwiaWQiOiJkMWI3NWNjMy1lNjE4LTM3YzQtOWM1NS1mZjExYjRlZDQ5M2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFiYWkifQ
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@160.79.105.160:8443?type=ws&security=none&path=🔒&host=edcch.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.160
+vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@160.79.104.131:8443?type=ws&security=none&path=🔒&host=v.aivpn.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.131
+vless://531bf100-1477-487c-a979-6adebf8f105f@160.79.104.76:443?type=ws&security=none&path=🔒&host=vdc.bgm2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.76
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.106:443?type=tcp&security=tls&sni=🔒#US 🇺🇸 ┇ VLESS-TCP-TLS - ANTHROPIC ┇ 160.79.105.106
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.99:443?type=ws&security=none&path=🔒&host=il.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.99

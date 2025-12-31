@@ -1,2 +1,4 @@
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?type=tcp&security=reality&sni=🔒#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Gigahost AS ┇ 185.125.171.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@nl1.outline-vpn.top:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Gigahost AS ┇ 195.35.113.79
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&sni=🔒#NO 🇳🇴 ┇ VLESS-TCP-REALITY - Gigahost AS ┇ 185.125.171.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@195.35.113.79:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Gigahost AS ┇ 195.35.113.79
