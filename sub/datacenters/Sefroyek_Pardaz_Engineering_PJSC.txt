@@ -1,15 +1,16 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlZnJveWVrIFBhcmRheiBFbmdpbmVlcmluZyBQSlNDIFx1MjUwNyA5MS4yMzYuMTY5LjEwNCIsImFkZCI6InNyMTMuZG1pdHJpLnNicyIsInBvcnQiOjg4ODAsImlkIjoiMzI5MjkzYzktZmMyZC00NTEyLTkxNDctMDNmOWJlZjM2OTIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://5e643328-05a4-4e79-a89c-d98e0929113b@server2.morgon2.top:22242?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.168.191
-vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@croatia.netblocksir.ir:6556?type=tcp&security=none&path=🔒#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.215.246
-vless://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?type=ws&security=tls&path=/&sni=ir9.boilersforpellets.com&host=ir9.boilersforpellets.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Sefroyek Pardaz Engineering PJSC ┇ 130.193.77.83
-vless://8cb62db2-cb4f-4531-bef4-39aed7a14dc4@185.18.212.125:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.212.125
-vless://e32a63e2-d7fb-4149-9636-d45a35cb8e78@sr23.nofile.sbs:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.169.110
 vless://a8b6457c-eee7-4e46-8c71-307782d41cfe@t11.morgoon.com:2087?type=tcp&security=tls&path=🔒#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.46.41
-vless://e66c1d8d-a445-449b-a143-bc8a4253d09f@185.18.215.3:40782?type=tcp&security=none&host=cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.215.3
-vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?type=tcp&security=none&host=testspeed-foreign.tci.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 85.133.208.147
-vless://5232ec47-5d1c-4884-aa96-a6f07e6352c2@185.58.240.75:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.240.75
-vless://1de2b519-97fc-4f16-f1f5-81c7bca75dcf@152.89.45.156:40872?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 152.89.45.156
-vless://8bbd377c-3df8-4a0c-9233-ebee712e2561@185.58.240.75:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.240.75
-vless://847f3858-0dcf-4363-b49b-63b5337d75a7@t1.morgoon.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.46.32
 vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.141.107.176
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.169.104
+vless://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?type=ws&security=tls&path=/&sni=ir9.boilersforpellets.com&host=ir9.boilersforpellets.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Sefroyek Pardaz Engineering PJSC ┇ 130.193.77.83
+vless://8cb62db2-cb4f-4531-bef4-39aed7a14dc4@185.18.212.125:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.212.125
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlZnJveWVrIFBhcmRheiBFbmdpbmVlcmluZyBQSlNDIFx1MjUwNyA5MS4yMzYuMTY5LjEwNCIsImFkZCI6InNyMTMuZG1pdHJpLnNicyIsInBvcnQiOjg4ODAsImlkIjoiMzI5MjkzYzktZmMyZC00NTEyLTkxNDctMDNmOWJlZjM2OTIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://e32a63e2-d7fb-4149-9636-d45a35cb8e78@sr23.nofile.sbs:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.169.110
+vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@croatia.netblocksir.ir:6556?type=tcp&security=none&path=🔒#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.215.246
+vless://847f3858-0dcf-4363-b49b-63b5337d75a7@t1.morgoon.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 195.211.46.32
+vless://78371c0a-d11a-43c6-8523-f99aebc619d4@185.36.228.190:5053?type=ws&security=none&path=/http&host=s12.leader21.top#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.36.228.190
+vless://5232ec47-5d1c-4884-aa96-a6f07e6352c2@185.58.240.75:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.240.75
+vless://e66c1d8d-a445-449b-a143-bc8a4253d09f@185.18.215.3:40782?type=tcp&security=none&host=cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.18.215.3
+vless://8bbd377c-3df8-4a0c-9233-ebee712e2561@185.58.240.75:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 185.58.240.75
+vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?type=tcp&security=none&host=testspeed-foreign.tci.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 85.133.208.147
+vless://1de2b519-97fc-4f16-f1f5-81c7bca75dcf@152.89.45.156:40872?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 152.89.45.156
+vless://5e643328-05a4-4e79-a89c-d98e0929113b@server2.morgon2.top:22242?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sefroyek Pardaz Engineering PJSC ┇ 91.236.168.191
