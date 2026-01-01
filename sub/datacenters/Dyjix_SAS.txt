@@ -1,8 +1,8 @@
-vless://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@france.phantompanel.shop:2024?type=grpc&security=reality&sni=www.cloudflare.com&mode=gun&fp=chrome&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&sid=650bbd4b5cae0713#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Dyjix SAS ┇ 45.13.119.77
-vless://55677a28-7650-fc5a-c61b-78a0e5ac15b3@45.154.96.6:1001?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=foPQXbQ5aWieFrp9Y6OpZMnHBDEnhwoqw02w16d2l18&sid=6d3f63da2cac0430#BE 🇧🇪 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 45.154.96.6
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@45.154.96.164:443?type=xhttp&security=tls&sni=statue.lnmarketplace.net&fp=firefox#BE 🇧🇪 ┇ VLESS-XHTTP-TLS - Dyjix SAS ┇ 45.154.96.164
-vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@45.154.96.185:2565?type=tcp&security=none&host=avidmehregan.com#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.185
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:2589?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#BE 🇧🇪 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 45.154.96.35
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:645?type=tcp&security=none&host=bmw.com#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.35
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@2a10:4640:0:ff38::1:443?type=tcp&security=tls&path=/statue&mode=stream-one#FR 🇫🇷 ┇ VLESS-TCP-TLS - Dyjix SAS ┇ 2a10:4640:0:ff38::1
+vless://55677a28-7650-fc5a-c61b-78a0e5ac15b3@45.154.96.6:1001?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=foPQXbQ5aWieFrp9Y6OpZMnHBDEnhwoqw02w16d2l18&sid=6d3f63da2cac0430#BE 🇧🇪 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 45.154.96.6
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@2a10:4640:0:ff38::1:443?type=tcp&security=tls&mode=stream-one#FR 🇫🇷 ┇ VLESS-TCP-TLS - Dyjix SAS ┇ 2a10:4640:0:ff38::1
+vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@45.154.96.185:2565?type=tcp&security=none&host=speedtest.net#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.185
+vless://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@france.phantompanel.shop:2024?type=grpc&security=reality&mode=gun&fp=chrome&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&sid=650bbd4b5cae0713#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Dyjix SAS ┇ 45.13.119.77
 vless://cbe67b2f-e766-403e-851a-6ac3e8c4aece@45.13.119.77:2024?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.13.119.77
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:2589?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#BE 🇧🇪 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 45.154.96.35
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:645?type=tcp&security=none&host=speedtest.net#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 45.154.96.35
