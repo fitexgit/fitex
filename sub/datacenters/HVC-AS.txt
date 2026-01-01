@@ -1,5 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhWQy1BUyBcdTI1MDcgMzcuMS4yMTEuNTIiLCJhZGQiOiIzNy4xLjIxMS41MiIsInBvcnQiOjMwMDAsImlkIjoiYjk3YWQyODMtMjg3ZS00ZTIwLWE3NDEtZjE2ZjdkMDc0NTkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HVC-AS ┇ 74.50.98.185
-vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@us3.tunnely.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - HVC-AS ┇ 37.1.208.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us32.giamping.com:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HVC-AS ┇ 74.50.98.185
-vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@us3.tunnely.ru:443?type=xhttp&security=tls&mode=packet-up&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - HVC-AS ┇ 37.1.208.212
+vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@us3.tunnely.ru:443?type=xhttp&security=tls&path=/xhttp/&sni=us3.tunnely.ru&mode=packet-up&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - HVC-AS ┇ 37.1.208.212
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HVC-AS ┇ 74.50.98.185
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhWQy1BUyBcdTI1MDcgMzcuMS4yMTEuNTIiLCJhZGQiOiIzNy4xLjIxMS41MiIsInBvcnQiOjMwMDAsImlkIjoiYjk3YWQyODMtMjg3ZS00ZTIwLWE3NDEtZjE2ZjdkMDc0NTkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@us3.tunnely.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - HVC-AS ┇ 37.1.208.212
