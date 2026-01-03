@@ -70,10 +70,9 @@ class AppConfig:
         "networks": OUTPUT_DIR / "networks",
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
-        "datacenters": OUTPUT_DIR / "datacenters", # Active
+        "datacenters": OUTPUT_DIR / "datacenters", 
         "clash": OUTPUT_DIR / "clash",
         "singbox": OUTPUT_DIR / "singbox",
-        # "html": OUTPUT_DIR / "html", # Disabled
     }
 
     # Files
@@ -624,6 +623,7 @@ class ConfigProcessor:
                 obj = V2RayParser.parse(link, proto)
                 if obj: self.parsed_configs.append(obj)
         
+        # Primary Deduplication (Protocol + Host + Port + UUID)
         for c in self.parsed_configs:
             self.unique_configs[c.get_deduplication_key()] = c
         
@@ -635,10 +635,31 @@ class ConfigProcessor:
             self.unique_configs = {k: self.unique_configs[k] for k in sampled_keys}
 
         await self._enrich_data()
+        
+        # Secondary Deduplication based on UUID + IP + Port
+        self._deduplicate_by_ip_uuid()
+
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
         
         self._format_remarks()
+
+    def _deduplicate_by_ip_uuid(self):
+        console.log("[cyan]Running secondary deduplication (UUID + IP + Port)...[/cyan]")
+        final_dedup = {}
+        for c in self.unique_configs.values():
+            target_addr = c.ip_address if c.ip_address else c.host
+            key = f"{c.uuid}:{target_addr}:{c.port}"
+            
+            if key not in final_dedup:
+                final_dedup[key] = c
+            else:
+                if c.ip_address and not final_dedup[key].ip_address:
+                    final_dedup[key] = c
+        
+        removed = len(self.unique_configs) - len(final_dedup)
+        self.unique_configs = final_dedup
+        console.log(f"[green]Removed {removed} duplicates based on IP/UUID. Remaining: {len(self.unique_configs)}[/green]")
 
     async def _enrich_data(self):
         hosts = {c.host for c in self.unique_configs.values()}
