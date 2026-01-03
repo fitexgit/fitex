@@ -1,6 +1,6 @@
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@b6.sarasimano.com:2096?type=ws&security=none&path=🔒#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.41.139.193
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.105.189.25:443?type=tcp&security=tls&sni=🔒#GB 🇬🇧 ┇ VLESS-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.105.189.25
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@34.160.118.77:80?type=ws&security=none&path=🔒&host=reedfree8mahsang2.redorg.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.160.118.77
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.147.231.33:443?type=tcp&security=tls&sni=🔒#GB 🇬🇧 ┇ VLESS-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.147.231.33
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?type=ws&security=none&path=🔒&host=onlytesla4.sarasimano.com#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.41.139.193
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@35.240.184.147:8092?type=tcp&security=tls&sni=🔒#SG 🇸🇬 ┇ VLESS-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.240.184.147
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?type=ws&security=none&path=/&host=onlytesla4.sarasimano.com#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.41.139.193
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@34.160.118.77:80?type=ws&security=none&path=🔒&host=reedfree8mahsang2.redorg.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.160.118.77
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@b6.sarasimano.com:2096?type=ws&security=none&path=🔒#US 🇺🇸 ┇ VLESS-WS-NTLS - GOOGLE-CLOUD-PLATFORM ┇ 34.41.139.193
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.147.231.33:443?type=tcp&security=tls&sni=🔒#GB 🇬🇧 ┇ VLESS-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.147.231.33
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.105.189.25:443?type=tcp&security=tls&sni=🔒#GB 🇬🇧 ┇ VLESS-TCP-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.105.189.25
