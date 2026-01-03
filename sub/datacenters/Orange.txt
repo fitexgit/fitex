@@ -1,1 +1,1 @@
-vless://4aae04fa-f390-44bb-9558-a344c8baed36@admin.pirped.com:57546?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Orange ┇ 80.13.135.11
+vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?type=grpc&security=reality&sni=ratp.fr&mode=gun&fp=random&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&sid=e9da#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Orange ┇ 80.13.135.11
