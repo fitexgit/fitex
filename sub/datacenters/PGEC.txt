@@ -1,4 +1,2 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.116.134.109:443?type=ws&security=tls&path=/blue&sni=kk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - PGEC ┇ 216.116.134.109
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - PGEC ┇ 216.116.134.43
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?type=ws&security=tls&path=tg@zdyz2fp=chrome&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#US 🇺🇸 ┇ VLESS-WS-TLS - PGEC ┇ 216.116.134.16
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@216.116.134.227:443?type=ws&security=tls&path=/fflsws&sni=lmn59.sbs&host=lmn59.sbs#US 🇺🇸 ┇ VLESS-WS-TLS - PGEC ┇ 216.116.134.227
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@216.116.134.227:443?type=tcp&security=tls&sni=🔒#US 🇺🇸 ┇ VLESS-TCP-TLS - PGEC ┇ 216.116.134.227
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?type=ws&security=tls&sni=🔒#US 🇺🇸 ┇ VLESS-WS-TLS - PGEC ┇ 216.116.134.43

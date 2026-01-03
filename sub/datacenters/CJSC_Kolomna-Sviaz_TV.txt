@@ -1,2 +1,2 @@
-vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE&sid=366e5433f6196a6f#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
-vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?type=grpc&security=reality&sni=www.speedtest.net&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.82.167
+vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?type=tcp&security=reality&sni=🔒#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.82.167
+vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality&sni=🔒&fp=chrome&flow=xtls-rprx-vision&pbk=3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
