@@ -1,56 +1,56 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@77.105.163.186:8880?type=tcp&security=none&sni=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 77.105.163.186
-vless://9cb0fadf-6999-4a6e-ac90-d22ff41586a7@188.164.158.246:2053?type=grpc&security=tls&sni=flnewconect3.fragmentscan.xyz&fp=chrome#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.246
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - 365.partners INC ┇ 77.91.68.70
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
-vless://505b8611-2946-475d-828b-0a07575c8451@93.115.240.88:10000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
-vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
-vless://61545806-60b6-4b38-9d2f-884081a5a913@85.90.207.47:33727?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.47
-vless://0a29e0b5-c4ef-4992-ab0e-1d371dd8b3cd@2a12:5940:1527::2:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.105.163.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link&host=jp.laoyoutiao.link#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.105.163.63
-vless://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@188.164.158.246:2053?type=grpc&security=tls&sni=connectingno.technewspaper.store#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.246
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
-vless://fc8f56b0-7433-4e8f-9798-ab072af1e423@93.115.240.88:20000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@188.164.158.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx&host=ex.sue.x10.mx#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 188.164.158.247
-vless://81037af4-f79d-458e-b3b4-8254ebffb848@85.90.207.130:21357?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.74
-vless://78d743e4-1519-4770-aa84-ca0d6de0cc80@2a12:5940:1527::2:443?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
-vless://4cb8d3bf-2afa-4126-a0ed-f16ce4642889@188.164.158.173:2053?type=grpc&security=tls&sni=connectingno.technewspaper.store#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.173
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10070?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
-vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:55627?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.59
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@188.164.159.158:2096?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳+@WangCai2&sni=sni.111000.de5.net&host=sni.111000.de5.net&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 188.164.159.158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.156.103.148
-vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?type=tcp&security=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.115.240.30
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUXNmM3NZQnBoVHhVZ0x0Z1F6NENi@2.56.207.28:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Proitlab LLC ┇ 2.56.207.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMGZJMEVkbVNYcXBkckZkc3VXNjQzeUdPNE13bFVCZ1FMZmpoZFJZV2Q0PQ@2a12:5940:1527::2:80#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
-vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgNzcuMTA1LjE2My4yNSIsImFkZCI6Ijc3LjEwNS4xNjMuMjUiLCJwb3J0Ijo4ODgwLCJpZCI6IjNlMWUzZTdmLTI2ODMtM2YzNi04M2IxLTE4NTA3OTAyOTVkZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBAV2FuZ0NhaTIgLz9lZD0yNTYwIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Proitlab LLC ┇ 2.56.207.150
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:12065?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
-vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
-vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODguMTY0LjE1OS4xMDIiLCJhZGQiOiIxODguMTY0LjE1OS4xMDIiLCJwb3J0Ijo4NDQzLCJpZCI6ImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImxheDIuaWJnZncudG9wIiwicGF0aCI6Ii9keWFqdndzIiwidGxzIjoidGxzIiwic25pIjoibGF4Mi5pYmdmdy50b3AifQ
-vless://fb2faf39-a134-40ce-cb3b-4abc60a6d05b@85.90.207.130:56551?type=ws&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
-vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.90
-vless://baa10442-7622-4b96-bd86-9f72aaac9846@2a12:5940:1527::2:8880?type=ws&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@85.90.207.47:1990?type=tcp&security=reality&sni=www.refersion.com&fp=firefox&pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&sid=8fa8e38aa17730d6#AM 🇦🇲 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.90.207.47
-vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?type=grpc&security=reality&sni=🔒&mode=gun&fp=chrome&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw#AM 🇦🇲 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 45.129.185.185
+vless://fc8f56b0-7433-4e8f-9798-ab072af1e423@93.115.240.88:20000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
 vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@188.164.159.196:2053?type=grpc&security=tls&sni=connectingno.technewspaper.store#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.159.196
-vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?type=grpc&security=tls&sni=flnewconect3.fragmentscan.xyz&fp=chrome#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.159.178
-vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
 vless://8bfbdbb1-9126-4372-96a1-5547d629559f@2a12:5940:1527::2:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vless://bd4de7ea-d6cc-492c-88a6-f1278b9210c3@2a12:5940:1527::2:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
-vless://5916d1b6-a379-40ea-dbdb-5db7ece2df37@85.90.207.130:22523?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
-vless://36a89e2e-1127-4c5b-8df3-e121866e0bab@93.115.240.88:15500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
-hysteria2://04979c3cfe2a7945@2a12:5940:9acf::2:443?sni=www.google.com&insecure=1&obfs=salamander#AM 🇦🇲 ┇ HYSTERIA2-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:9acf::2
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.158.168:8880?type=ws&security=none&path=🔒&host=kjgx.laoyoutiao.link#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 188.164.158.168
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 146.185.248.22
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880?type=ws&security=none&path=🔒&host=c.82313369.xyz#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.105.163.13
+vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?type=grpc&security=reality&sni=🔒&mode=gun&fp=chrome&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw#AM 🇦🇲 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 45.129.185.185
+vless://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@188.164.158.246:2053?type=grpc&security=tls&sni=connectingno.technewspaper.store#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.246
 vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@188.164.159.171:2053?type=grpc&security=tls&sni=connectingno.technewspaper.store#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.159.171
-vless://4d4c4677-7d6d-433f-832c-a47fa7229135@93.115.240.88:10000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
-vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?type=ws&security=tls&path=/snippets&sni=vless.hubp.de&host=vless.hubp.de&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 188.164.159.61
-vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@armen.torprospeed.ir:1990?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.90.207.47
-vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@armania.vtuix.ir:7033?type=grpc&security=reality&sni=telewebion.com&fp=firefox&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&sid=16b6cda7ab793526#AM 🇦🇲 ┇ VLESS-GRPC-REALITY - G-Core Labs S.A. ┇ 93.115.240.75
-vless://35ebf266-908d-4f1e-abea-fbc69816a46f@or1.pmme.top:443?type=xhttp&security=none&sni=🔒#AM 🇦🇲 ┇ VLESS-XHTTP-NTLS - G-Core Labs S.A. ┇ 93.115.240.91
-vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
+vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@77.105.163.251:8880?type=tcp&security=none&sni=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 77.105.163.251
+vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
+vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@armen.torprospeed.ir:1990?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.90.207.47
+vless://0a29e0b5-c4ef-4992-ab0e-1d371dd8b3cd@2a12:5940:1527::2:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
+vless://4cb8d3bf-2afa-4126-a0ed-f16ce4642889@188.164.158.173:2053?type=grpc&security=tls&sni=connectingno.technewspaper.store#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.173
+vless://35ebf266-908d-4f1e-abea-fbc69816a46f@or1.pmme.top:443?type=xhttp&security=none&sni=🔒#AM 🇦🇲 ┇ VLESS-XHTTP-NTLS - G-Core Labs S.A. ┇ 93.115.240.91
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.105.163.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link&host=jp.laoyoutiao.link#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.105.163.63
+vless://9cb0fadf-6999-4a6e-ac90-d22ff41586a7@188.164.158.246:2053?type=grpc&security=tls&sni=flnewconect3.fragmentscan.xyz&fp=chrome#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.246
+vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?type=ws&security=tls&path=/snippets&sni=vless.hubp.de&host=vless.hubp.de&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 188.164.159.61
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Proitlab LLC ┇ 2.56.207.150
+vless://5916d1b6-a379-40ea-dbdb-5db7ece2df37@85.90.207.130:22523?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
+vless://4d4c4677-7d6d-433f-832c-a47fa7229135@93.115.240.88:10000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.158.168:8880?type=ws&security=none&path=🔒&host=kjgx.laoyoutiao.link#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 188.164.158.168
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMGZJMEVkbVNYcXBkckZkc3VXNjQzeUdPNE13bFVCZ1FMZmpoZFJZV2Q0PQ@2a12:5940:1527::2:80#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
+vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgNzcuMTA1LjE2My4yNSIsImFkZCI6Ijc3LjEwNS4xNjMuMjUiLCJwb3J0Ijo4ODgwLCJpZCI6IjNlMWUzZTdmLTI2ODMtM2YzNi04M2IxLTE4NTA3OTAyOTVkZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBAV2FuZ0NhaTIgLz9lZD0yNTYwIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQU0gXHVkODNjXHVkZGU2XHVkODNjXHVkZGYyIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODguMTY0LjE1OS4xMDIiLCJhZGQiOiIxODguMTY0LjE1OS4xMDIiLCJwb3J0Ijo4NDQzLCJpZCI6ImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImxheDIuaWJnZncudG9wIiwicGF0aCI6Ii9keWFqdndzIiwidGxzIjoidGxzIiwic25pIjoibGF4Mi5pYmdmdy50b3AifQ
+vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?type=grpc&security=tls&sni=flnewconect3.fragmentscan.xyz&fp=chrome#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.159.178
+vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
+vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@188.164.159.158:2096?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳+@WangCai2&sni=sni.111000.de5.net&host=sni.111000.de5.net&fp=chrome#AM 🇦🇲 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 188.164.159.158
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.183
+vless://61545806-60b6-4b38-9d2f-884081a5a913@85.90.207.47:33727?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.47
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880?type=ws&security=none&path=🔒&host=c.82313369.xyz#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.105.163.13
+vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@77.105.163.186:8880?type=tcp&security=none&sni=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 77.105.163.186
+vless://505b8611-2946-475d-828b-0a07575c8451@93.115.240.88:10000?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.156.103.148
+vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?type=ws&security=none&path=/#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.90
+vless://78d743e4-1519-4770-aa84-ca0d6de0cc80@2a12:5940:1527::2:443?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@188.164.158.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx&host=ex.sue.x10.mx#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 188.164.158.247
+vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@85.90.207.47:1990?type=tcp&security=reality&sni=www.refersion.com&fp=firefox&pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&sid=8fa8e38aa17730d6#AM 🇦🇲 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.90.207.47
+vless://81037af4-f79d-458e-b3b4-8254ebffb848@85.90.207.130:21357?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
+vless://baa10442-7622-4b96-bd86-9f72aaac9846@2a12:5940:1527::2:8880?type=ws&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
+vless://36a89e2e-1127-4c5b-8df3-e121866e0bab@93.115.240.88:15500?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 93.115.240.88
+vless://bd4de7ea-d6cc-492c-88a6-f1278b9210c3@2a12:5940:1527::2:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:1527::2
+vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - 365.partners INC ┇ 77.91.68.70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUXNmM3NZQnBoVHhVZ0x0Z1F6NENi@2.56.207.28:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Proitlab LLC ┇ 2.56.207.28
+hysteria2://04979c3cfe2a7945@2a12:5940:9acf::2:443?sni=www.google.com&insecure=1&obfs=salamander#AM 🇦🇲 ┇ HYSTERIA2-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:9acf::2
+vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?type=tcp&security=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.115.240.30
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:12065?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
+vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:55627?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.59
+vless://fb2faf39-a134-40ce-cb3b-4abc60a6d05b@85.90.207.130:56551?type=ws&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.130
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10070?type=tcp&security=none&path=🔒#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.2.119
+vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@armania.vtuix.ir:7033?type=grpc&security=reality&sni=telewebion.com&fp=firefox&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&sid=16b6cda7ab793526#AM 🇦🇲 ┇ VLESS-GRPC-REALITY - G-Core Labs S.A. ┇ 93.115.240.75
