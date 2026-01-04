@@ -1,9 +1,9 @@
-vless://51e0c8cf-d834-4640-841c-a9b4dab2d4e5@tr01.v2-vip.net:48263?type=tcp&security=tls&sni=tr01.v2-vip.net&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Aria Shatel PJSC ┇ 94.182.83.121
-vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.182.92.108
-vless://397ff713-22be-4938-900d-2144d7b85f75@mc.blackintelligence.net:443?type=ws&security=tls&path=/downloader/41203&sni=ramos.blackintelligence.net&host=ramos.blackintelligence.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.182.177.92
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyaWEgU2hhdGVsIFBKU0MgXHUyNTA3IDk0LjE4Mi4xMzMuNiIsImFkZCI6Ijk0LjE4Mi4xMzMuNiIsInBvcnQiOjM1NjgyLCJpZCI6ImNiMTU1NWE1LTdhNDMtNGEyZC05ZjliLWY3NDA0N2VjMDcyMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://51e0c8cf-d834-4640-841c-a9b4dab2d4e5@tr01.v2-vip.net:48263?type=tcp&security=tls&sni=tr01.v2-vip.net&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Aria Shatel PJSC ┇ 94.182.83.121
 vless://68b398ff-8a8c-4fb6-8839-544e5ae6bde1@srv.cactusdomain.site:58911?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.83.105
-vless://a1f4df29-072f-4ade-ac28-b26052024480@s2.vipshop2.top:52630?type=ws&security=none&path=/&host=s2.vipshop2.top#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.182.138.248
-vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.142.16
+vless://397ff713-22be-4938-900d-2144d7b85f75@mc.blackintelligence.net:443?type=ws&security=tls&path=/downloader/41203&sni=ramos.blackintelligence.net&host=ramos.blackintelligence.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Aria Shatel PJSC ┇ 94.182.177.92
 vless://965c6b5e-720f-4483-a12a-72cecdadf9f8@94.182.169.148:8412?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.169.148
+vless://a1f4df29-072f-4ade-ac28-b26052024480@s2.vipshop2.top:52630?type=ws&security=none&path=/&host=s2.vipshop2.top#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.182.138.248
 vless://5e3edaac-5ffa-4058-aee3-0a6da128471a@srv.cactusdomain.site:58911?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.83.105
+vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Aria Shatel PJSC ┇ 94.182.92.108
+vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aria Shatel PJSC ┇ 94.182.142.16
