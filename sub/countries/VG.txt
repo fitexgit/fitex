@@ -1,5 +1,5 @@
-vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@mtn.ircf.space:2096?type=tcp&security=none&mode=gun#VG 🇻🇬 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 203.32.121.53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwWnZ3UDE3Tmx6Mno2anNZblZnWmdm@45.138.74.160:7261#VG 🇻🇬 ┇ SHADOWSOCKS-TCP-NTLS - First Server Limited ┇ 45.138.74.160
 vless://40765c5b-5713-4d4c-9a68-0e1eca7bfa96@203.32.121.53:443?type=ws&security=tls&path=/?ed=2048&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome#VG 🇻🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 203.32.121.53
+vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@mtn.ircf.space:2096?type=tcp&security=none&mode=gun#VG 🇻🇬 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 203.32.121.53
 vmess://eyJ2IjoiMiIsInBzIjoiVkcgXHVkODNjXHVkZGZiXHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpcnN0IFNlcnZlciBMaW1pdGVkIFx1MjUwNyA0NS4xMzguNzQuMTczIiwiYWRkIjoiNDUuMTM4Ljc0LjE3MyIsInBvcnQiOjEzNzAwLCJpZCI6Ijk0ZjliMTExLTY3NzctNDc5NC1hYzRkLWQxNzc0YTBjNDI1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@203.32.121.53:8080?type=ws&security=none&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&host=join-to.vmessorg.Community.#VG 🇻🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 203.32.121.53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwWnZ3UDE3Tmx6Mno2anNZblZnWmdm@45.138.74.160:7261#VG 🇻🇬 ┇ SHADOWSOCKS-TCP-NTLS - First Server Limited ┇ 45.138.74.160
