@@ -1,4 +1,4 @@
-vless://e681c501-18d6-4a14-963e-a88234c68a94@go1.nnvpn.io:443?type=grpc&security=tls&sni=go1.nnvpn.io&mode=gun&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Delta Ltd ┇ 203.189.233.40
-vless://5fa0786d-f0eb-46c7-aeb5-bfe3d3577f10@109.248.33.239:7443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 109.248.33.239
 vless://b9f3a4bb-6055-4890-a8a8-19a83d66bf30@84.252.100.168:2443?type=tcp&security=reality&sni=aliexpress.ru&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 84.252.100.168
+vless://e681c501-18d6-4a14-963e-a88234c68a94@go1.nnvpn.io:443?type=grpc&security=tls&sni=go1.nnvpn.io&mode=gun&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Delta Ltd ┇ 203.189.233.40
 vless://08c7f096-d057-4d53-82fd-c739d372887b@203.189.233.201:1140?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Delta Ltd ┇ 203.189.233.201
+vless://5fa0786d-f0eb-46c7-aeb5-bfe3d3577f10@109.248.33.239:7443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 109.248.33.239
