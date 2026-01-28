@@ -1,6 +1,6 @@
 vless://74024356-443c-4c80-8396-3032a4ae0e05@43.250.54.209:5633?type=tcp&security=none&host=uptvs.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 43.250.54.209
-vless://74024356-443c-4c80-8396-3032a4ae0e05@43.250.54.129:5633?type=tcp&security=none&host=uptvs.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 43.250.54.129
-vless://036cd7ae-68c2-4532-8b3c-5b2f0864b6c6@43.250.54.175:443?type=tcp&security=reality&sni=fonts.gstatic.com&fp=chrome&pbk=DbZWMfQTZQQrOJDgnWetu1ChTlXISZWKt4Kn_G0YyUI#NL 🇳🇱 ┇ VLESS-TCP-REALITY - RedSwitches ┇ 43.250.54.175
 vless://74024356-443c-4c80-8396-3032a4ae0e05@43.250.54.205:5633?type=tcp&security=none&host=uptvs.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 43.250.54.205
-vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?type=grpc&security=reality&sni=google.com&mode=gun&fp=chrome&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&sid=170f8a2036#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - RedSwitches ┇ 43.250.54.155
+vless://036cd7ae-68c2-4532-8b3c-5b2f0864b6c6@43.250.54.175:443?type=tcp&security=reality&sni=fonts.gstatic.com&fp=chrome&pbk=DbZWMfQTZQQrOJDgnWetu1ChTlXISZWKt4Kn_G0YyUI#NL 🇳🇱 ┇ VLESS-TCP-REALITY - RedSwitches ┇ 43.250.54.175
+vless://74024356-443c-4c80-8396-3032a4ae0e05@43.250.54.129:5633?type=tcp&security=none&host=uptvs.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 43.250.54.129
 vless://630b911a-1451-4d6c-b480-0c53c7ec0373@lb6.aliusvpn.ru:8443?type=tcp&security=reality&sni=aliusfilms.ru&fp=chrome&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#NL 🇳🇱 ┇ VLESS-TCP-REALITY - RedSwitches ┇ 43.250.54.145
+vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?type=grpc&security=reality&sni=google.com&mode=gun&fp=chrome&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&sid=170f8a2036#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - RedSwitches ┇ 43.250.54.155
