@@ -1,3 +1,3 @@
 vless://2e46ba5a-db56-4940-9500-a61c7b0bcc0c@cdn.bio4cdn.com:2053?type=ws&security=tls&path=/weborder&sni=bio.bio4cdn.com&host=bio.bio4cdn.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Oshkosh Corporation ┇ 192.206.179.19
-vless://5022906e-b587-414a-9f02-6fe35fdc27e3@cdn.bio4cdn.com:443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Oshkosh Corporation ┇ 192.206.179.19
 vless://64ef56a9-ab99-4a2e-93dc-c1afcf68ad23@cdn.bio4cdn.com:443?type=xhttp&security=tls&path=/clientarea&sni=bio.bio4cdn.com&host=bio.bio4cdn.com&mode=auto&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Oshkosh Corporation ┇ 192.206.179.19
+vless://5022906e-b587-414a-9f02-6fe35fdc27e3@cdn.bio4cdn.com:443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Oshkosh Corporation ┇ 192.206.179.19
