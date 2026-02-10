@@ -1,6 +1,12 @@
-vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
-vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?type=tcp&security=none&host=www.stackoverflow.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.80
-vless://f95d9904-b801-4e91-af1b-63d2b30cb7f8@92.114.24.92:9985?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFZpcmEgQ2xvdWQgRGF0YUNlbnRlciBQSlNDIFx1MjUwNyA5Mi4xMTQuMjQuMTAxIiwiYWRkIjoiZGwubWdsaW51eC5pciIsInBvcnQiOjIwOTMsImlkIjoiMTQ0MTU2OTMtOGFhZS00YTAyLWRkNTEtMzMyZmZlMGQwNDBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFZpcmEgQ2xvdWQgRGF0YUNlbnRlciBQSlNDIFx1MjUwNyA5Mi4xMTQuMjQuMTAxIiwiYWRkIjoiZGwubWdsaW51eC5pciIsInBvcnQiOjIwOTMsImlkIjoiOGI5YjZjNjctNGI4YS00ZTM4LWNhMGItOWRkYWI0OGFlZGY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFZpcmEgQ2xvdWQgRGF0YUNlbnRlciBQSlNDIFx1MjUwNyA5Mi4xMTQuMjQuMTAxIiwiYWRkIjoiZGwubWdsaW51eC5pciIsInBvcnQiOjIwOTMsImlkIjoiMTQ0MTU2OTMtOGFhZS00YTAyLWRkNTEtMzMyZmZlMGQwNDBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://f95d9904-b801-4e91-af1b-63d2b30cb7f8@92.114.24.92:9985?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
+vless://ec91df96-fd4c-4a8f-912a-38fe495724a5@curt234.curtvpy.ir:2375?type=grpc&security=tls&sni=varzesh3.com&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.184
+vless://6988b57f-ffb0-4e8a-baac-14affb3b9a66@curt234.curtvpy.ir:2375?type=grpc&security=tls&sni=varzesh3.com&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.184
+vless://0df52f0c-e2d7-4136-ae6f-fa8d502fc08f@curt232.bestvxau.ir:2373?type=grpc&security=tls&sni=varzesh3.com&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.184
+vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?type=tcp&security=none&host=www.stackoverflow.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.80
 vless://31934792-7487-4837-913f-6ac29b2a805c@2.jetvpn.top:2208?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.99
+vless://1599461e-9615-47d0-bb18-3bae4795ab68@musiciraniafc2.ir:42156?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.150
+vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
+vless://75ab2209-d6fe-4fb0-abf1-2c344829bb80@curt234.curtvpy.ir:2375?type=grpc&security=tls&sni=varzesh3.com&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.184
+vless://f1105df0-af8a-4a45-9c59-3f82dcb3d52f@curt233.bestxau.ir:2374?type=grpc&security=tls&sni=filimo.com&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.184
