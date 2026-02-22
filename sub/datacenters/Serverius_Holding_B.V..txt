@@ -1,6 +1,7 @@
 vless://6fc297ff-17c0-436a-b982-623d682e339a@91.198.77.216:42206?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serverius Holding B.V. ┇ 91.198.77.216
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.155.7.232:8443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 45.155.7.232
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@93.185.163.186:3001?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=a.mifeng.us.kg&host=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 93.185.163.186
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@93.185.163.208:2087?type=ws&security=tls&path=/&sni=13bca32d.ba73fe85.netlib.re&host=13bca32d.ba73fe85.netlib.re#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 93.185.163.208
+vless://18f72be7-0651-4037-928b-8a309d685796@nl2.pineappled.org:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Serverius Holding B.V. ┇ 103.42.240.27
 vless://cda6846f-3382-466d-9b9a-7b37bd9a72b0@93.185.163.183:12001?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=_GciAWBQ1nkeYBmzJvtOBT7VmZ5Z8yyxBrr4pinM6Bk#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Serverius Holding B.V. ┇ 93.185.163.183
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@93.185.163.208:2087?type=ws&security=tls&path=/&sni=13bca32d.ba73fe85.netlib.re&host=13bca32d.ba73fe85.netlib.re#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 93.185.163.208
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@93.185.163.186:3001?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=a.mifeng.us.kg&host=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 93.185.163.186
 vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serverius Holding B.V. ┇ 91.198.77.216
