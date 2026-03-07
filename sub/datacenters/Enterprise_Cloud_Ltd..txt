@@ -1,4 +1,4 @@
 vless://349aca87-ff5b-45c1-8512-4a115c11f95b@176.122.27.49:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Enterprise Cloud Ltd. ┇ 176.122.27.49
+vless://db0900c0-b877-42c4-91fd-71ebcd5ee21a@176.122.25.13:443?type=tcp&security=reality&sni=st.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&sid=0952e8cf962ab9#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Enterprise Cloud Ltd. ┇ 176.122.25.13
 vless://c9a92653-69ef-4291-b2c9-fd0ed9e6d4ea@176.122.27.49:10443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=random&pbk=X3mrlcMHD6ANGB_WE1pqxl7yb_DhPYF13GPmuyheTAw&sid=ff4cb24ada#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Enterprise Cloud Ltd. ┇ 176.122.27.49
 vless://d54d130f-e3cd-43da-a597-48e966d0e668@176.122.27.49:10443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Enterprise Cloud Ltd. ┇ 176.122.27.49
-vless://db0900c0-b877-42c4-91fd-71ebcd5ee21a@176.122.25.13:443?type=tcp&security=reality&sni=st.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&sid=0952e8cf962ab9#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Enterprise Cloud Ltd. ┇ 176.122.25.13
