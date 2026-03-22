@@ -1,2 +1,2 @@
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&sid=590bdc3b6dad#HK 🇭🇰 ┇ VLESS-TCP-REALITY - Sakura Link Limited ┇ 131.143.240.164
 vless://00000000-0000-4000-8000-000000000000@140.235.10.14:30003?type=ws&security=tls&path=/&sni=sub.mot.ip-ddns.com&host=sub.mot.ip-ddns.com#US 🇺🇸 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 140.235.10.14
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?type=tcp&security=none&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&sid=590bdc3b6dad#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Sakura Link Limited ┇ 131.143.240.164
