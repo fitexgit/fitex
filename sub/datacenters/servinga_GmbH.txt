@@ -1,4 +1,4 @@
 vless://ecfbff92-a62c-4b51-912e-17d7fd8d52d5@63.251.122.76:12790?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - servinga GmbH ┇ 63.251.122.76
+vless://58acdb3c-cbe2-4777-ac55-b21d857617f8@ger.redtwist.info:443?type=tcp&security=reality&sni=ger.redtwist.info&fp=ios&flow=xtls-rprx-vision&pbk=D-fCN9EWYJG8E583vAcX5MtZM6449Cpv-trIgfaaBUU&sid=8039316c7a70fcce#ES 🇪🇸 ┇ VLESS-TCP-REALITY - servinga GmbH ┇ 194.154.28.144
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@45.11.183.132:443?type=ws&security=tls&path=/?ed=2560security=tls&sni=happy.mianfeicf.lol&host=happy.mianfeicf.lol&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - servinga GmbH ┇ 45.11.183.132
 vless://fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658@63.251.122.139:443?type=ws&security=tls&path=/chat&sni=es2.vpnbyvinarsky.ru&host=es2.vpnbyvinarsky.ru&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - servinga GmbH ┇ 63.251.122.139
-vless://58acdb3c-cbe2-4777-ac55-b21d857617f8@ger.redtwist.info:443?type=tcp&security=reality&sni=ger.redtwist.info&fp=ios&flow=xtls-rprx-vision&pbk=D-fCN9EWYJG8E583vAcX5MtZM6449Cpv-trIgfaaBUU&sid=8039316c7a70fcce#ES 🇪🇸 ┇ VLESS-TCP-REALITY - servinga GmbH ┇ 194.154.28.144
