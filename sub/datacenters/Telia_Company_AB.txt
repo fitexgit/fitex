@@ -1,6 +1,6 @@
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 90.224.90.18
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 90.224.90.18
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:503?type=tcp&security=reality&sni=refersion.com&fp=randomized&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Telia Company AB ┇ 90.226.162.136
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 90.226.162.136
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR0lYR0swUTdDUVNVM2RfSktPR0hR@217.209.77.111:62005#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Telia Company AB ┇ 217.209.77.111
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?type=tcp&security=reality&sni=api.push.apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Telia Company AB ┇ 90.224.90.18
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?type=grpc&security=reality&sni=nobitex.ir&mode=gun&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3#SE 🇸🇪 ┇ VLESS-GRPC-REALITY - Telia Company AB ┇ 90.224.90.18
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:503?type=tcp&security=reality&sni=refersion.com&fp=randomized&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Telia Company AB ┇ 90.224.90.18
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Telia Company AB ┇ 90.226.162.136
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?type=grpc&security=reality&sni=nobitex.ir&mode=gun&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3#SE 🇸🇪 ┇ VLESS-GRPC-REALITY - Telia Company AB ┇ 90.226.162.136
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?type=tcp&security=reality&sni=api.push.apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Telia Company AB ┇ 90.226.162.136
