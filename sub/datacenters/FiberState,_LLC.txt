@@ -1,2 +1,2 @@
-hysteria2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - FiberState, LLC ┇ 216.236.26.19
 vless://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:43229?type=tcp&security=tls&sni=apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - FiberState, LLC ┇ 216.236.26.19
+hysteria2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - FiberState, LLC ┇ 216.236.26.19
