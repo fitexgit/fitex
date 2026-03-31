@@ -1,4 +1,4 @@
-vless://cd87ea32-4b8e-4e38-ba43-652040511ed8@92.114.24.250:443?type=ws&security=tls&path=/no?ed=443&sni=api.meibourse.com&host=api.meibourse.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.250
 vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
-vless://f95d9904-b801-4e91-af1b-63d2b30cb7f8@92.114.24.92:9985?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
 vless://17f7f5d0-0b56-4fb6-905b-064df6db5752@92.114.24.195:443?type=xhttp&security=tls&path=/api/&sni=api.meibourse.com&mode=auto&fp=random#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.195
+vless://f95d9904-b801-4e91-af1b-63d2b30cb7f8@92.114.24.92:9985?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.92
+vless://cd87ea32-4b8e-4e38-ba43-652040511ed8@92.114.24.250:443?type=ws&security=tls&path=/no?ed=443&sni=api.meibourse.com&host=api.meibourse.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Vira Cloud DataCenter PJSC ┇ 92.114.24.250
