@@ -1,1 +1,1 @@
-vless://ba69baa6-67e5-4ec5-93b2-d111ff2f732f@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 37.49.225.189
+vless://ba69baa6-67e5-4ec5-93b2-d111ff2f732f@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 37.49.225.189
