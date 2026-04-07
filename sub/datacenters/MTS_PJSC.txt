@@ -1,1 +1,3 @@
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@2.59.83.170:443?type=tcp&security=reality&sni=io.ozone.ru&fp=random&flow=xtls-rprx-vision&pbk=prcbdKwFonU0uHkQYvn0HA8nJTqE6z1J968oVeJUZwc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 2.59.83.170
+vless://80f11aa0-030c-4d3d-9772-d602bb2f7148@185.242.17.17:443?type=ws&security=none&path=/getServiceStatus/&sni=seller.applepie-recipe.ru&host=seller.applepie-recipe.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - MTS PJSC ┇ 185.242.17.17
+vless://797bab1f-f7c1-4f56-a431-1cec67c358a4@185.242.17.17:443?type=ws&security=tls&path=/getServiceStatus/&sni=seller.applepie-recipe.ru&host=seller.applepie-recipe.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.17.17
+vless://797bab1f-f7c1-4f56-a431-1cec67c358a4@185.242.16.16:443?type=ws&security=tls&path=/getServiceStatus/&sni=mullsite.applepie-recipe.ru&host=mullsite.applepie-recipe.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.16.16
