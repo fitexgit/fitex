@@ -1,7 +1,7 @@
-vless://402e39c2-7803-46bc-97fc-ca335bee551f@5.42.77.221:16891?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
-vless://071552a0-cf3c-43a4-ba2f-9b0658fea19e@5.42.77.221:43810?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
-vless://2fb17e69-5b6f-49d4-991f-8bf26c001eb3@5.42.72.194:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=IOJu9lxe2-fXVJ9z0-v2_5puh1NFagIr_nFHsBQty0w&sid=e241272d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.72.194
-vless://59cb05a6-8cfd-4692-a2ff-55b9c9c82d16@5.42.77.221:37156?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
-vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
 vless://13380deb-1572-467f-975e-476ef2c7c280@5.42.82.119:443?type=grpc&security=reality&sni=discord.com&fp=chrome&pbk=lC-IttXPaZQw17168-hWeaREu1aFDurUufNNCRyBkz0&sid=aa31260c#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.82.119
+vless://402e39c2-7803-46bc-97fc-ca335bee551f@5.42.77.221:16891?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
+vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
 vless://c063c0c3-6ee5-4a97-adc6-d0375c95fdb3@5.42.77.221:41002?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
+vless://071552a0-cf3c-43a4-ba2f-9b0658fea19e@5.42.77.221:43810?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
+vless://59cb05a6-8cfd-4692-a2ff-55b9c9c82d16@5.42.77.221:37156?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.77.221
+vless://2fb17e69-5b6f-49d4-991f-8bf26c001eb3@5.42.72.194:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=IOJu9lxe2-fXVJ9z0-v2_5puh1NFagIr_nFHsBQty0w&sid=e241272d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - CJSC Kolomna-Sviaz TV ┇ 5.42.72.194
