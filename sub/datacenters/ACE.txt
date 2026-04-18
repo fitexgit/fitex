@@ -1,14 +1,13 @@
-vless://e53b1500-7e11-4052-9f09-226968c54abe@43.175.185.76:80?type=ws&security=none&path=/47187/ws&host=roman288.hpcdn.info#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.175.185.76
-vless://da3d81b7-9748-485f-a39d-ff4511fe3764@43.175.170.117:443?type=ws&security=tls&path=/54762/api&sni=cdn.irandoc.info&host=cdn.irandoc.info&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.175.170.117
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.168.16.112:443?type=ws&security=tls&path=/&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.168.16.112
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNFIFx1MjUwNyA0My4xNTkuOTQuMjUiLCJhZGQiOiJsb2wucHMiLCJwb3J0IjoyMDUyLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyJ9
-vless://X4Azadi-DE@lol.ps:8880?type=tcp&security=none&path=X4azadi?ed=2048#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.159.94.25
-vless://730ae350-17c3-4a05-a7b2-c261ce2c9c3c@turkey.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=turkey.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.24
-vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@43.159.99.26:443?type=ws&security=tls&path=/texaws&sni=hk3.kaipi.link&host=hk3.kaipi.link&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.159.99.26
-vless://26524cce-d514-4014-a426-365fb266a14d@43.168.16.112:443?type=ws&security=tls&path=/danfengfp=chrome&sni=q40ivxuck.danfeng.qzz.io&host=q40ivxuck.danfeng.qzz.io#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.168.16.112
+vless://3c60db8b-f2cc-4cf4-92da-caa9169534f9@canada.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=canada.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.24
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQUNFIFx1MjUwNyA0My4xNTkuMTA3LjExMyIsImFkZCI6IndlYi41MS5sYSIsInBvcnQiOjQ0MywiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://2cb979d0-a94e-4e2c-9f18-43cfc0579a5d@canada.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=canada.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.246.24
-vless://3c60db8b-f2cc-4cf4-92da-caa9169534f9@canada.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=canada.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.246.24
 vless://9081da91-204d-4f94-92df-31d902a9956d@turkey.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=turkey.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.24
-vless://730ae350-17c3-4a05-a7b2-c261ce2c9c3c@canada.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=canada.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.246.24
+vless://e53b1500-7e11-4052-9f09-226968c54abe@43.175.185.76:80?type=ws&security=none&path=/47187/ws&host=roman288.hpcdn.info#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.175.185.76
+vless://X4Azadi-DE@lol.ps:8880?type=tcp&security=none&path=X4azadi?ed=2048#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.159.94.25
+vless://da3d81b7-9748-485f-a39d-ff4511fe3764@43.175.170.117:443?type=ws&security=tls&path=/54762/api&sni=cdn.irandoc.info&host=cdn.irandoc.info&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.175.170.117
+vless://2cb979d0-a94e-4e2c-9f18-43cfc0579a5d@canada.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=canada.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.24
 vless://a34fb195-8644-4e71-9f81-4542eeb7fda3@germany.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=germany.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.24
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.168.16.112:443?type=ws&security=tls&path=/&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.168.16.112
+vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@43.159.99.26:443?type=ws&security=tls&path=/texaws&sni=hk3.kaipi.link&host=hk3.kaipi.link&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.159.99.26
+vless://730ae350-17c3-4a05-a7b2-c261ce2c9c3c@turkey.speedwarp.sbs:443?type=ws&security=tls&path=/jss&sni=turkey.speedwarp.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.24
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNFIFx1MjUwNyA0My4xNTkuOTQuMjUiLCJhZGQiOiJsb2wucHMiLCJwb3J0IjoyMDUyLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyJ9
+vless://26524cce-d514-4014-a426-365fb266a14d@43.168.16.112:443?type=ws&security=tls&path=/danfengfp=chrome&sni=q40ivxuck.danfeng.qzz.io&host=q40ivxuck.danfeng.qzz.io#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.168.16.112
