@@ -1,6 +1,6 @@
-vless://17bf33aa-2485-4295-9c56-8445c7a71918@95.183.11.191:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - EuroByte LLC ┇ 95.183.11.191
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?type=raw&security=none#RU 🇷🇺 ┇ VLESS-RAW-NTLS - EuroByte LLC ┇ 95.142.37.48
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EuroByte LLC ┇ 185.221.153.52
 vless://733f49e3-e9ef-4d6b-8e9b-e9a5188318d3@nl8.node.ibst.me:3502?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 217.144.103.193
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbEdGNXNhdHBHRnY1NE1KaWZPb24@185.221.153.52:51348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EuroByte LLC ┇ 185.221.153.52
 vless://6035325d-399a-5148-9126-29cedfd5966a@185.105.111.50:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=WtKTSZd2ujSiy4M42WgwrSp3flODoh2eHpasVWnySSE&sid=8074a7f8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - EuroByte LLC ┇ 185.105.111.50
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EuroByte LLC ┇ 185.221.153.52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbEdGNXNhdHBHRnY1NE1KaWZPb24@185.221.153.52:51348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EuroByte LLC ┇ 185.221.153.52
+vless://890284b3-6ea1-4d1f-8359-925ccb5c3037@95.183.11.191:443?type=tcp&security=none&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 95.183.11.191
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?type=raw&security=none#RU 🇷🇺 ┇ VLESS-RAW-NTLS - EuroByte LLC ┇ 95.142.37.48
