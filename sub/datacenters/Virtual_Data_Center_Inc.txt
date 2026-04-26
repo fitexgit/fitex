@@ -1,5 +1,5 @@
-vless://bf263367-bb63-4663-b4a1-34946107a72e@213.21.222.196:8443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.196
-vless://15da07d5-7f72-018e-9bd1-e122e9698d24@hub.needforspeed.online:443?type=tcp&security=reality&pbk=53uSdzNGhzfnYHDo36vX49LZo2XD87yNnIQIL-8Sp04&sid=7f7fa27a3ab45d3b#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Virtual Data Center Inc ┇ 91.239.23.55
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.8.6.33:443?type=ws&security=tls&path=/?ed&host=sni.111000.dynv6.net#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 194.8.6.33
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.21.222.70:8443?type=ws&security=none&path=/?ed=2560security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#LV 🇱🇻 ┇ VLESS-WS-NTLS - Virtual Data Center Inc ┇ 213.21.222.70
 vless://31e67aae-2cf0-4dcd-97e2-5840c5b8e9a6@213.21.222.172:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=0a6ba2716a409da6#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Virtual Data Center Inc ┇ 213.21.222.172
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.8.6.33:443?type=ws&security=tls&path=/?ed&host=sni.111000.dynv6.net#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 194.8.6.33
+vless://15da07d5-7f72-018e-9bd1-e122e9698d24@hub.needforspeed.online:443?type=tcp&security=reality&pbk=53uSdzNGhzfnYHDo36vX49LZo2XD87yNnIQIL-8Sp04&sid=7f7fa27a3ab45d3b#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Virtual Data Center Inc ┇ 91.239.23.55
+vless://bf263367-bb63-4663-b4a1-34946107a72e@213.21.222.196:8443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.196
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.21.222.70:8443?type=ws&security=none&path=/?ed=2560security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#LV 🇱🇻 ┇ VLESS-WS-NTLS - Virtual Data Center Inc ┇ 213.21.222.70
