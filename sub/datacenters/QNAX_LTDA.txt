@@ -1,2 +1,2 @@
 vless://58f12e5f-36f9-41cd-83be-d5aa443a2131@bra.hackkcah.xyz:1443?type=xhttp&security=none&path=/vless-xhttp/&host=bra.hackkcah.xyz&mode=auto#BR 🇧🇷 ┇ VLESS-XHTTP-NTLS - QNAX LTDA ┇ 45.140.193.37
-vless://58f12e5f-36f9-41cd-83be-d5aa443a2131@bra.hackkcah.xyz:3442?type=tcp&security=none&mode=gun#BR 🇧🇷 ┇ VLESS-TCP-NTLS - QNAX LTDA ┇ 45.140.193.37
+vless://58f12e5f-36f9-41cd-83be-d5aa443a2131@bra.hackkcah.xyz:3442?type=grpc&security=none&mode=gun#BR 🇧🇷 ┇ VLESS-GRPC-NTLS - QNAX LTDA ┇ 45.140.193.37
