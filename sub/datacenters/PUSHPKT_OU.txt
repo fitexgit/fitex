@@ -1,5 +1,5 @@
-vless://604e557e-41bf-45aa-9168-151715f531b3@117.55.202.41:443?type=tcp&security=tls&sni=hello.opengate.tech&fp=chrome&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 117.55.202.41
-vless://ba69baa6-67e5-4ec5-93b2-d111ff2f732f@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 37.49.229.11
 vless://bdbbd99d-a6c0-4068-ba6b-73336fb4bbbb@37.49.225.127:443?type=tcp&security=reality&pbk=Ubt2RpA0Hh30MNgFMyWcjGSC2ur-SbkMhf2YPa0OwQg&sid=1fae5eb4e580b8a6#NL 🇳🇱 ┇ VLESS-TCP-REALITY - PUSHPKT OU ┇ 37.49.225.127
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@117.55.202.246:443?type=ws&security=tls&path=/&host=1-aym.pages.dev#NL 🇳🇱 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 117.55.202.246
 vless://6038d5a7-3ed9-4298-a927-d7fb0a298522@205.237.104.47:8443?type=xhttp&security=reality&path=/api/v2/sync&sni=www.amd.com&mode=auto&fp=chrome&pbk=uYlJKmVHsSuCk-T9Y4CpqyR2LIP9etRZkRmDEt8-fUs&sid=92e921968d70d4e6#FR 🇫🇷 ┇ VLESS-XHTTP-REALITY - PUSHPKT OU ┇ 205.237.104.47
+vless://604e557e-41bf-45aa-9168-151715f531b3@117.55.202.41:443?type=tcp&security=tls&sni=hello.opengate.tech&fp=chrome&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 117.55.202.41
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@117.55.202.246:443?type=ws&security=tls&path=/&host=1-aym.pages.dev#NL 🇳🇱 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 117.55.202.246
+vless://ba69baa6-67e5-4ec5-93b2-d111ff2f732f@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 37.49.229.11
