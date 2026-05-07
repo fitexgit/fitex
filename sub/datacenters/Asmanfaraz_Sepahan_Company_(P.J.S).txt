@@ -1,3 +1,3 @@
-vless://96542854-eb4c-4c1c-83b6-f35735a3c80b@w07star.meepo1.com:8443?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.107
-vless://8d121e80-d418-4236-ae1b-0ebc88839c43@app.palmal.site:33878?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.24
 vless://5380b44e-5169-4e9e-964f-96eb8ca0538b@p3.ertebatserver.ir:443?type=ws&security=tls&path=/&sni=p4.ertebatserver.ir&host=p4.ertebatserver.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.9
+vless://8d121e80-d418-4236-ae1b-0ebc88839c43@app.palmal.site:33878?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.24
+vless://96542854-eb4c-4c1c-83b6-f35735a3c80b@w07star.meepo1.com:8443?type=tcp&security=tls&sni=w07star.meepo1.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.107
