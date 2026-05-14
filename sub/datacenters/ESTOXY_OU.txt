@@ -1,3 +1,4 @@
 vless://630b911a-1451-4d6c-b480-0c53c7ec0373@lb9.aliusvpn.ru:8443?type=tcp&security=none&sni=🔒&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-NTLS - ESTOXY OU ┇ 37.49.230.5
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@fr-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - ESTOXY OU ┇ 37.49.230.29
 vless://af2e1391-e1df-4939-906f-93ee993c940e@node.capitaledge.blog:8443?type=tcp&security=reality&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#FR 🇫🇷 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.230.5
+vless://ba1581d2-d399-41e0-857b-82151ac0e040@37.49.230.95:443?type=tcp&security=reality&sni=s3.tehno.store&fp=chrome&flow=xtls-rprx-vision&pbk=Cbu6fkQiURQES7hfw916CFcfZYvRXMMgVmxnpK6CgSQ#FR 🇫🇷 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.230.95
+vless://ba1581d2-d399-41e0-857b-82151ac0e040@37.49.230.91:443?type=tcp&security=reality&sni=s3.tehno.store&fp=chrome&flow=xtls-rprx-vision&pbk=Cbu6fkQiURQES7hfw916CFcfZYvRXMMgVmxnpK6CgSQ#FR 🇫🇷 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.230.91
