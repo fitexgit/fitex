@@ -1,1 +1,1 @@
-vless://efdf452e-0f4e-4f14-ae07-0da3b8cb623b@58.191.44.237:443?type=tcp&security=none&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-NTLS - OPTAGE Inc. ┇ 58.191.44.237
+vless://efdf452e-0f4e-4f14-ae07-0da3b8cb623b@58.191.44.237:443?type=tcp&security=tls&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - OPTAGE Inc. ┇ 58.191.44.237
