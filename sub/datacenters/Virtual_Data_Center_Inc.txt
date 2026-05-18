@@ -1,5 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.8.6.33:443?type=ws&security=tls&path=/?ed&host=sni.111000.dynv6.net#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 194.8.6.33
-vless://32bfe5f3-a406-48e3-bad9-932945bd0bc1@91.239.23.180.vhub.pro:443?type=grpc&security=tls#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 91.239.23.180
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.19.84.236:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 146.19.84.236
 vless://bf263367-bb63-4663-b4a1-34946107a72e@213.21.222.196:8443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.196
 vless://31e67aae-2cf0-4dcd-97e2-5840c5b8e9a6@213.21.222.172:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=0a6ba2716a409da6#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Virtual Data Center Inc ┇ 213.21.222.172
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.19.84.236:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#LV 🇱🇻 ┇ VLESS-WS-TLS - Virtual Data Center Inc ┇ 146.19.84.236
+vless://32bfe5f3-a406-48e3-bad9-932945bd0bc1@91.239.23.180.vhub.pro:443?type=grpc&security=tls#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 91.239.23.180
