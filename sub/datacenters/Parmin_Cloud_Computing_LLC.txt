@@ -1,6 +1,4 @@
-vless://4fd6c216-5e0a-469d-9e81-9e0d2d6b9060@46.38.137.156:443?type=ws&security=tls&path=/?ed=2048&sni=matinvpn2.pages.dev&host=matinvpn2.pages.dev&fp=firefox#IR 🇮🇷 ┇ VLESS-WS-TLS - Parmin Cloud Computing LLC ┇ 46.38.137.156
-vless://959f95c2-7bc5-469f-8249-95769f2fde39@46.38.137.156:443?type=ws&security=tls&path=/sub/v1&sni=tunnel.alphavip.dpdns.org&host=tunnel.alphavip.dpdns.org&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Parmin Cloud Computing LLC ┇ 46.38.137.156
-vless://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.241
 vless://57f81938-115f-4067-8609-15b972881914@212.80.24.111:777?type=ws&security=none&path=@BluebberyNetWork#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.111
-vless://f862b617-7a00-4b6f-85fa-ad97252afa9e@212.80.24.164:4040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.164
 vless://ebce1bcb-2f06-4ecc-97ab-72d0f3794e54@109.94.165.114:30000?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parmin Cloud Computing LLC ┇ 109.94.165.114
+vless://4fd6c216-5e0a-469d-9e81-9e0d2d6b9060@46.38.137.156:443?type=ws&security=tls&path=/?ed=2048&sni=matinvpn2.pages.dev&host=matinvpn2.pages.dev&fp=firefox#IR 🇮🇷 ┇ VLESS-WS-TLS - Parmin Cloud Computing LLC ┇ 46.38.137.156
+vless://5699054c-3538-496c-a5d3-62f6fb517d4a@212.80.24.241:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parmin Cloud Computing LLC ┇ 212.80.24.241
