@@ -1,9 +1,8 @@
 vless://89c1e31c-b927-433f-b3cb-2286fb4289d9@panel.testspeedpro.ir:2052?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cloud Software - FZCO ┇ 45.38.228.166
 vless://b0f0bd25-1ff4-4644-827d-5f9675d6c5b6@104.253.134.125:21685?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cloud Software - FZCO ┇ 104.253.134.125
-vless://a0e4e8b6-0518-4f19-803e-eece71583392@fr2.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&mode=gun&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Cloud Software - FZCO ┇ 45.39.255.205
-vless://d65efb8e-8bbb-42f6-adbe-f68c1bac7939@panel.testspeedpro.ir:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.228.166
 vless://6d1dfcdf-f221-4765-b104-30216a977914@45.38.249.19:8443?type=ws&security=tls&path=/?ed=2560fp=random&sni=a.c.e.m.n.o.r.s.u.v.w.x.a.c.trevely.de5.net&host=a.c.e.m.n.o.r.s.u.v.w.x.a.c.trevely.de5.net#US 🇺🇸 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 45.38.249.19
 vless://6af5890f-5267-40ed-bc60-1bd3ee31a88b@45.38.23.87:8080?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cloud Software - FZCO ┇ 45.38.23.87
-vless://26524cce-d514-4014-a426-365fb266a14d@45.39.190.199:443?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=urg0.edge-node-us.danfeng.bond&host=urg0.edge-node-us.danfeng.bond#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 45.39.190.199
 vless://26524cce-d514-4014-a426-365fb266a14d@104.253.175.136:443?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=jbp7i.data-edge.chinav.indevs.in&host=jbp7i.data-edge.chinav.indevs.in#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 104.253.175.136
+vless://26524cce-d514-4014-a426-365fb266a14d@45.39.190.199:443?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=urg0.edge-node-us.danfeng.bond&host=urg0.edge-node-us.danfeng.bond#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 45.39.190.199
+vless://d65efb8e-8bbb-42f6-adbe-f68c1bac7939@panel.testspeedpro.ir:443?type=raw&security=none#FR 🇫🇷 ┇ VLESS-RAW-NTLS - Cloud Software - FZCO ┇ 45.38.228.166
 vless://26524cce-d514-4014-a426-365fb266a14d@45.38.60.153:2053?type=ws&security=tls&path=/danfeng-2cm3?ed=2560fp=firefox&sni=c1mxc.api-gateway.fgfw.qzz.io&host=c1mxc.api-gateway.fgfw.qzz.io#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 45.38.60.153
