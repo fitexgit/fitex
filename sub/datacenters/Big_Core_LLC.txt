@@ -1,9 +1,9 @@
 vless://e8c695e9-2802-4936-90b0-8ba281d5f8cb@185.226.93.224:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.224
+vless://fedbed70-4dcc-4780-badc-addca59b1736@tr3.mynethub99.top:2096?type=tcp&security=tls&sni=tr3.mynethub99.top&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Big Core LLC ┇ 185.226.95.155
+vless://d3459493-c29f-48a4-bc66-9022f4c8eb60@shop.blackscar.top:443?type=tcp&security=reality&sni=www.apple.com.apple.com&fp=chrome&pbk=DeB65WDFH-KBSPbAAmoIt0TG9u9XO1PM3puf-PwV-lU&sid=9dc4b5cbfc#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Big Core LLC ┇ 185.226.92.238
+vless://1ffc9718-bc0b-4c7c-8124-2170ea6e1d15@185.226.95.132:80?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.95.132
 vless://fb77f152-3f32-4190-88bd-8202576ee740@185.226.93.12:28973?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.12
 vless://f4b1855b-5719-4b64-9779-3e7bfbaee4a6@185.226.92.106:80?type=xhttp&security=reality&path=/2FMoonv2r--Telegram--Channel&sni=journalofbigdata.springeropen.com.p30day.ir&host=LunaMoonV2r.global.ssl.fastly.net&mode=auto&fp=chrome&pbk=40P2evGAFzizxEJ7NzAbL9eBCGxJk7YE6d1le-Qij0s&sid=db86aba349ac#TR 🇹🇷 ┇ VLESS-XHTTP-REALITY - Big Core LLC ┇ 185.226.92.106
-vless://f7d9727e-d619-43d9-b61d-7f987214e86c@185.226.93.25:16865?type=tcp&security=none&path=/&host=sheypoor.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.25
-vless://d3459493-c29f-48a4-bc66-9022f4c8eb60@shop.blackscar.top:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.238
-vless://fedbed70-4dcc-4780-badc-addca59b1736@tr3.mynethub99.top:2096?type=tcp&security=tls&sni=tr3.mynethub99.top&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Big Core LLC ┇ 185.226.95.155
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.95.155
-vless://7ac3865f-44c8-45d4-9b4b-2883848a39f9@tr3.mynethub99.top:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.95.155
 vless://236aa1ec-aefc-4399-923e-820b8080c53f@185.226.92.120:8443?type=tcp&security=none&path=/SandBadnetBot-SandBadNet-SandBadNet-Free-SandBadNet-SandBadNetBot-Free-Free-Iran-Stop-The-Filtering-Anti-CensorShip-SandBadNetBot-SandBadNet&host=p30day.ir#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.120
+vless://f7d9727e-d619-43d9-b61d-7f987214e86c@185.226.93.25:16865?type=tcp&security=none&path=/&host=sheypoor.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.25
+vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?type=raw&security=none#TR 🇹🇷 ┇ VLESS-RAW-NTLS - Big Core LLC ┇ 185.226.95.155
