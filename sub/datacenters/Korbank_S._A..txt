@@ -1,4 +1,4 @@
-vless://106c376f-431d-4ea0-bc61-f82308fefb4e@83.168.91.237:443?type=tcp&security=tls&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision-udp443#PL 🇵🇱 ┇ VLESS-TCP-TLS - Korbank S. A. ┇ 83.168.91.237
-vless://5f00b5f5-75f6-4a24-923c-2f561441b03c@pl.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Korbank S. A. ┇ 83.168.91.245
-vless://5f00b5f5-75f6-4a24-923c-2f561441b03c@pl.riotvpn.eu:80?type=xhttp&security=tls&sni=obhod.riotvpn.eu&mode=auto&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - Korbank S. A. ┇ 83.168.91.245
+vless://5f00b5f5-75f6-4a24-923c-2f561441b03c@pl.riotvpn.eu:80?type=xhttp&security=tls&sni=obhod.riotvpn.eu&mode=auto&fp=chrome#PL 🇵🇱 ┇ VLESS-XHTTP-TLS - Korbank S. A. ┇ 83.168.91.240
+vless://5f00b5f5-75f6-4a24-923c-2f561441b03c@pl.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Korbank S. A. ┇ 83.168.91.240
 vless://690cff03-0a82-457a-8532-4a83491458fb@83.168.78.176:58730?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=_-lR8xvn-qaERi-M1iCn6ftH7ChnT0qHHq2GAiROmXA#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Korbank S. A. ┇ 83.168.78.176
+vless://106c376f-431d-4ea0-bc61-f82308fefb4e@83.168.91.237:443?type=tcp&security=tls&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision-udp443#PL 🇵🇱 ┇ VLESS-TCP-TLS - Korbank S. A. ┇ 83.168.91.237
