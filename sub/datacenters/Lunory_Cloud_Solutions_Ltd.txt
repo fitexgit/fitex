@@ -1,6 +1,6 @@
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Lunory Cloud Solutions Ltd ┇ 176.98.186.102
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv162.towersflowerss.com:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Lunory Cloud Solutions Ltd ┇ 45.146.89.121
+vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@45.152.202.52:64534?type=ws&security=none&path=/#SC 🇸🇨 ┇ VLESS-WS-NTLS - Lunory Cloud Solutions Ltd ┇ 45.152.202.52
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv190.towersflowerss.com:443?type=ws&security=none&path=/&sni=srv190.towersflowerss.com&host=srv190.towersflowerss.com#SC 🇸🇨 ┇ VLESS-WS-NTLS - Lunory Cloud Solutions Ltd ┇ 45.145.59.61
 vless://f1233103-f7a8-42f1-b003-26c6dd391229@srv163.towersflowerss.com:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Lunory Cloud Solutions Ltd ┇ 45.146.89.123
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv192.towersflowerss.com:64534?type=ws&security=none&path=/&host=srv192.towersflowerss.com#SC 🇸🇨 ┇ VLESS-WS-NTLS - Lunory Cloud Solutions Ltd ┇ 45.145.59.62
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv162.towersflowerss.com:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Lunory Cloud Solutions Ltd ┇ 45.146.89.121
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Lunory Cloud Solutions Ltd ┇ 176.98.186.102
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?type=ws&security=none&path=/#SC 🇸🇨 ┇ VLESS-WS-NTLS - Lunory Cloud Solutions Ltd ┇ 45.152.202.52
