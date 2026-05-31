@@ -1,10 +1,8 @@
-vless://089f8e83-d0b9-445d-bc58-de72a322fb44@185.242.19.250:80?type=ws&security=none&path=/static&host=top1847871446.mwscdn.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - MTS PJSC ┇ 185.242.19.250
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.251:443?type=ws&security=tls&path=/livestreamcontent&sni=top707762634.mwscdn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.251
+vless://0b2c4d1e-0674-4433-be0b-1e4a2a885cca@185.242.19.249:443?type=xhttp&security=tls&path=/xhttppath&sni=top3529100291.mwscdn.ru&mode=auto#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
+vless://2c2d5845-b403-4556-92f0-474bd21084a8@185.242.19.250:443?type=xhttp&security=tls&path=/storage/blob/v2/&sni=cdnmws-6.fastcon.cc&host=cdnmws-6.fastcon.cc&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.250
+vless://2c2d5845-b403-4556-92f0-474bd21084a8@185.242.19.249:443?type=xhttp&security=tls&path=/storage/blob/v2/&sni=cdnmws-6.fastcon.cc&host=cdnmws-6.fastcon.cc&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?type=ws&security=tls&path=/livestreamcontent/&sni=top707762634.mwscdn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.249
 vless://1e486891-f5d3-469e-9119-40793ebe4f5a@nl-xhttp.hotservice.icu:443?type=ws&security=tls&path=/wspath/&sni=nl-xhttp.hotservice.icu&host=nl-xhttp.hotservice.icu&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.250
 vless://65bc8227-48db-4993-9e9d-68394de672a1@185.242.19.250:443?type=xhttp&security=tls&path=/xhttppath&sni=top3880835722.mwscdn.ru&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.250
-vless://2c2d5845-b403-4556-92f0-474bd21084a8@185.242.19.249:443?type=xhttp&security=tls&path=/storage/blob/v2/&sni=cdnmws-9.fastcon.cc&host=cdnmws-9.fastcon.cc&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
-vless://0b2c4d1e-0674-4433-be0b-1e4a2a885cca@185.242.19.249:443?type=xhttp&security=tls&path=/xhttppath&sni=top3529100291.mwscdn.ru&mode=auto#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
-vless://c57993f7-1875-4a89-b6af-4549d111b6a4@185.242.19.249:443?type=xhttp&security=tls&path=/xhttppath&sni=top2197697635.mwscdn.ru&host=top2197697635.mwscdn.ru&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?type=ws&security=tls&path=/livestreamcontent/&sni=top707762634.mwscdn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.249
-vless://22103504-6608-41d8-aea1-a437125d460e@185.242.19.249:443?type=xhttp&security=tls&path=/xhttppath&sni=top2197697635.mwscdn.ru&host=top2197697635.mwscdn.ru&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 185.242.19.249
-vless://54be2e12-8c3d-4759-8af4-9429d6602383@185.242.19.250:443?type=ws&security=tls&path=/wspath/&sni=zib.sempai.site&fp=firefox#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.250
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.251:443?type=ws&security=tls&path=/livestreamcontent&sni=top707762634.mwscdn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.251
+vless://d48a2fbd-5ceb-4f4b-8441-1dcde061092e@185.242.19.250:80?type=ws&security=none&path=/static&host=top1847871446.mwscdn.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - MTS PJSC ┇ 185.242.19.250
