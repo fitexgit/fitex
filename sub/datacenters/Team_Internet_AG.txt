@@ -1,8 +1,8 @@
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@332.outline-vpn.cloud:443?type=ws&security=tls&path=/?ed=2048&sni=admin.quranmajid.eu.org&host=admin.quranmajid.eu.org#CA 🇨🇦 ┇ VLESS-WS-TLS - Team Internet AG ┇ 104.247.81.99
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjkzMjA1Ny1mZmQ5LTQ0MjYtOGNhNy1mMDY1NGJhYmY4NGY@ddns.olucloud.subapi.cc:20009#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Team Internet AG ┇ 185.53.179.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjkzMjA1Ny1mZmQ5LTQ0MjYtOGNhNy1mMDY1NGJhYmY4NGY@ddns.olucloud.subapi.cc:50001#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Team Internet AG ┇ 185.53.179.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOVhjNGRIWEd2M2M@876.outline-vpn.cloud:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Team Internet AG ┇ 104.247.81.99
-vless://12b9f991-3e67-46f5-938f-7430bfb1adc4@de-node.buylano.com:47193?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&sid=f414e49bc35be542#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Team Internet AG ┇ 185.53.179.146
-vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?type=ws&security=tls&path=/uorpws&sni=oniyx.fun&host=oniyx.fun#CA 🇨🇦 ┇ VLESS-WS-TLS - Team Internet AG ┇ 104.247.81.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@bia-t-o.outline-vpn.cloud:804#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Team Internet AG ┇ 104.247.81.99
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@332.outline-vpn.cloud:443?type=ws&security=tls&path=/?ed=2048&sni=admin.quranmajid.eu.org&host=admin.quranmajid.eu.org#CA 🇨🇦 ┇ VLESS-WS-TLS - Team Internet AG ┇ 104.247.81.99
+vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?type=ws&security=tls&path=/uorpws&sni=oniyx.fun&host=oniyx.fun#CA 🇨🇦 ┇ VLESS-WS-TLS - Team Internet AG ┇ 104.247.81.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZYVh2eWJ4clA5SEw3OUdmbHR5bTlidy81UUlRQVcvZg@2508join.outline-vpn.cloud:8388#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Team Internet AG ┇ 104.247.81.99
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjkzMjA1Ny1mZmQ5LTQ0MjYtOGNhNy1mMDY1NGJhYmY4NGY@ddns.olucloud.subapi.cc:20009#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Team Internet AG ┇ 185.53.179.146
+vless://12b9f991-3e67-46f5-938f-7430bfb1adc4@de-node.buylano.com:47193?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&sid=f414e49bc35be542#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Team Internet AG ┇ 185.53.179.146
