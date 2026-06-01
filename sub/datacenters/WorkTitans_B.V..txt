@@ -1,7 +1,6 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 185.231.205.99
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 2.56.172.83
+vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.27
+vless://60d06568-b005-48bf-ba28-bac13b3a12ce@2.56.179.89:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 2.56.179.89
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?type=tcp&security=none&path=/vless/#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.15.178.124
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - WorkTitans B.V. ┇ 94.131.123.86
 vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV29ya1RpdGFucyBCLlYuIFx1MjUwNyA5NC4xMzEuMTAuNSIsImFkZCI6Ijk0LjEzMS4xMC41IiwicG9ydCI6NDQzLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@45.12.136.81:443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 45.12.136.81
-vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXb3JrVGl0YW5zIEIuVi4gXHUyNTA3IDQ1LjEyLjEzMi4xODMiLCJhZGQiOiI0NS4xMi4xMzIuMTgzIiwicG9ydCI6ODQ0MywiaWQiOiI2ZjFmMWExOC1lY2M0LTQ1MTMtODkwZS1mZDE5MzA0MmY1NjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJwcS1IdW5nYXJ5MS4wOXZwbi5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6InRscyIsInNuaSI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSJ9
-vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?type=tcp&security=reality&sni=yahoo.com&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&sid=30fa#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 91.225.217.26
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 91.225.217.28

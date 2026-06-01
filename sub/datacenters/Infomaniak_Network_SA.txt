@@ -1,5 +1,4 @@
 vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:18921?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.226.72
-vless://d697bc7a-9b53-48cf-b095-d62e137f9b8a@si.lizard2shop.com:2053?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.29.222
-vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.72
 vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:52717?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.226.72
-vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:34129?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.226.72
+vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:34129?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=iQnJ9plqBA9JIc8tnQGYaiuE3EnhOxl9jWGnVyJTWV0&sid=5d9b8a#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.226.72
+vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.226.72

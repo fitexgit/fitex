@@ -1,5 +1,7 @@
-vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 193.164.155.121
+vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 95.182.96.225
+vless://0c3f5b49-d0ec-451b-bf30-f50e229b645c@panel.96s.ir:8080?type=xhttp&security=reality&path=/obito&sni=www.yahoo.com&host=panel.96s.ir&mode=auto&fp=chrome&pbk=0ySdtEa5hyO50lsKB3FdbcHaGCn0tw6BeYvabtJpb2s&sid=775a6745d1#NL 🇳🇱 ┇ VLESS-XHTTP-REALITY - Cgi Global Limited ┇ 46.8.231.158
 vless://200290dc-8698-4284-a6e5-0ffd91be8589@nl.gryaz-vpn.com:35750?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=rtqKOfjHLaN8qzlOOGHXrxWnEoqzQKQLSi8ZGIMjVlQ&sid=01f43c37b8#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 45.89.244.210
 vless://0163a734-64fc-441e-8767-969cb697d5e8@31.57.47.81:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.47.81
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 95.182.96.225
-vless://9e48e5db-e5cb-462f-ab0b-6f573aa73728@31.56.229.237:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.229.237
+vless://5609d1f8-ed3f-4055-98e2-65baea285375@46.8.68.128:57019?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.68.128
+vless://60d06568-b005-48bf-ba28-bac13b3a12ce@31.57.61.76:8443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.61.76
+vless://60d06568-b005-48bf-ba28-bac13b3a12ce@188.130.154.155:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.154.155
