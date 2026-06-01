@@ -1,3 +1,2 @@
-vless://477535ff-7878-0003-a614-5bb0e4b80959@spb.connectv.net:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 83.147.255.170
-vless://9ec5bada-156f-4721-b2ca-6c0a897075f2@62.60.248.14:28485?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=chrome&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - NetCrafters OU ┇ 62.60.248.14
-vless://00000000-0000-4000-8000-000000000000@83.147.216.223:4433?type=ws&security=none#GR 🇬🇷 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 83.147.216.223
+vless://477535ff-7878-0003-a614-5bb0e4b80959@spb.connectv.net:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 83.147.255.170
+vless://2038f8cf-9407-4501-9760-a01f34c2062b@213.176.93.85:8443?type=tcp&security=none&mode=auto#HK 🇭🇰 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 213.176.93.85

@@ -1,4 +1,2 @@
-vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?type=tcp&security=reality&sni=usa32.clearorbitllc.com&fp=chrome&flow=xtls-rprx-vision&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 104.167.198.211
-vless://3d1dbf5c-6f7d-47ee-9138-e217e0a77265@84.75.220.223:41034?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 84.75.220.223
-vless://afce710f-2261-403e-ada6-459dbcb44b64@84.75.220.223:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 84.75.220.223
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@82.40.62.106:2082?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.106
+vless://ed47a356-5b3e-40b2-9e30-aa1ba4805d7a@104.167.199.191:12642?type=tcp&security=none&mode=stream-one#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.191
+vless://e0930335-052e-4f77-a18f-77395ceaf0e2@191.101.238.150:443?type=ws&security=none&path=/&host=191.101.238.150#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 191.101.238.150
