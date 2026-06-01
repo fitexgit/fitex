@@ -1,3 +1,1 @@
 vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@43.169.18.179:80?type=tcp&security=none&path=/XnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn?ed=2560#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.169.18.179
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?type=ws&security=tls&path=/proxyip&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.18.179
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.168.16.112:443?type=tcp&security=tls#SG 🇸🇬 ┇ VLESS-TCP-TLS - ACE ┇ 43.168.16.112

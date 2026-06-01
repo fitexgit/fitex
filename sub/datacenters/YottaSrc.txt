@@ -1,3 +1,4 @@
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 162.217.249.72
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 152.89.253.239
-vless://7c9e8295-7f7c-4ac4-b230-851d858fbc47@germany.chansmaker.ir:443?type=tcp&security=reality&sni=icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=V1wO60MfptJ9jzeo94f1RKIcUPq6frrKoFWPp2Jutlo&sid=3bbaf2c984e16a31#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.6.214
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@198.105.115.65:443?type=tcp&security=reality&sni=germany2.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&pbk=qdp5Q3QZ7JhMnOaETGJjsRJe8m30P7np9xnu75-6xSE&sid=0da3ca76067a5e3c#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.115.65
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSakdfUGQ1MzRaVkpSTWRPRGpDTk1B@45.92.218.56:1080#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - YottaSrc ┇ 45.92.218.56
+vless://7c9e8295-7f7c-4ac4-b230-851d858fbc47@germany.chansmaker.ir:443?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=V1wO60MfptJ9jzeo94f1RKIcUPq6frrKoFWPp2Jutlo&sid=3bbaf2c984e16a31#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.6.214
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?type=tcp&security=reality&sni=France1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&sid=6089640857a72237#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.6.84

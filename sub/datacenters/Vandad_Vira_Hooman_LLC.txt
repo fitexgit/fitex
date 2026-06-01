@@ -1,1 +1,3 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.72.85:40443?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#IR 🇮🇷 ┇ VLESS-WS-TLS - Vandad Vira Hooman LLC ┇ 130.185.72.85
+vless://a5400c9e-2f0f-41c9-aa4d-5a77c0787af3@cnxman.ir:17544?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vandad Vira Hooman LLC ┇ 185.8.172.33
+vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Vandad Vira Hooman LLC ┇ 185.231.115.48

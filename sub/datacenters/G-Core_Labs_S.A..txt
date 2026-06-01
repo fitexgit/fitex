@@ -1,8 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
-vless://258dc62e-e7fe-4993-9b73-3203b47998ea@blit1.hamrahcore.ir:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.60
 vless://69faf88a-d9a5-4abc-9aeb-4caf9155061a@blit2.hamrahcore.ir:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 31.184.246.34
-vless://258dc62e-e7fe-4993-9b73-3203b47998ea@blit3.hamrahcore.ir:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.56.245
-vless://9e3b7ca9-4faa-494e-b1b4-1c285c8dcfef@202.78.174.112:80?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 202.78.174.112
 vless://69faf88a-d9a5-4abc-9aeb-4caf9155061a@blit1.hamrahcore.ir:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.60
+vless://258dc62e-e7fe-4993-9b73-3203b47998ea@blit3.hamrahcore.ir:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.56.245
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@blit2.hamrahcore.ir:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 31.184.246.34
 vless://69faf88a-d9a5-4abc-9aeb-4caf9155061a@blit3.hamrahcore.ir:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.56.245
-vless://258dc62e-e7fe-4993-9b73-3203b47998ea@blit2.hamrahcore.ir:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 31.184.246.34
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@blit1.hamrahcore.ir:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.60
+vless://258dc62e-e7fe-4993-9b73-3203b47998ea@blit1.hamrahcore.ir:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.252.26.60
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@blit3.hamrahcore.ir:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.56.245
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDQ1LjkyLjcwLjIzNiIsImFkZCI6IjQ1LjkyLjcwLjIzNiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://53d7e486-bbdb-4123-900e-6bd861aa5337@85.234.73.39:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.39
