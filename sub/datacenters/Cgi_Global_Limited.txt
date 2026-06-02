@@ -1,3 +1,2 @@
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?type=tcp&security=reality&sni=cloudflare.com&host=@ProxyVPN11&fp=chrome&flow=xtls-rprx-vision&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&sid=b82d7208fe23#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 95.182.96.225
-vless://14a59796-6db6-4c48-b4d5-2c7b875074c1@94.183.159.166:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 94.183.159.166
-vless://e35a69aa-731f-415d-8647-6d65f2e66761@31.57.47.81:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.47.81
+vless://9e48e5db-e5cb-462f-ab0b-6f573aa73728@31.56.229.237:443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=rT-KdyGuCqbP8c-CilgD2sSWMkSSLe8xbEeRNxypsSk&sid=941935f2d0e82539#US 🇺🇸 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.229.237
+vless://e35a69aa-731f-415d-8647-6d65f2e66761@31.57.47.81:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.47.81

@@ -1,31 +1,33 @@
-vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?type=ws&security=tls&path=/&sni=drrfddgbv.turbooserver.net.tr&host=drrfddgbv.turbooserver.net.tr#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.76
-vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1LjE5OS4xMzguMjQzIiwiYWRkIjoiNDUuMTk5LjEzOC4yNDMiLCJwb3J0Ijo0MTAwMSwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMjgyMDE4MjUyNTI2IiwidGxzIjoidGxzIn0
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?type=tcp&security=none&mode=stream-one#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?type=ws&security=tls&path=/?ed=80&sni=ssj.new-persian-song.ir&host=ssj.new-persian-song.ir&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?type=tcp&security=none&mode=gun#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.69
-vless://7dc5ed50-e32b-4a1f-b840-69db2725e767@web.subster.ir:2083?type=tcp&security=none&path=/?ed=2048#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.83.2.101
-vless://Telegram-Parsashonam-8@45.130.125.76:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs&host=p4r34m.hendevaneh.sbs&mode=auto#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@45.130.125.160:8443?type=ws&security=tls&path=/ws&sni=AfarinBeShoma.x-upload.org&host=AfarinBeShoma.x-upload.org&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://5f188e60-f3fc-45fb-8aec-8cc20a4ad876@solar.appleseraj.ir:2083?type=tcp&security=none&path=?ed=2048#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.69
-vless://30bd868d-dc03-4b02-870b-f857ca4bf6df@ir_namava-3.storemestor.ir:443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2053?type=ws&security=tls&path=/&sni=nazanMano.x-upload.org&host=nazanMano.x-upload.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.83.2.101
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.198.173.138
-vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.191:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.191
-vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.168:8443?type=xhttp&security=none#SC 🇸🇨 ┇ VLESS-XHTTP-NTLS - Cloudflare, Inc. ┇ 45.130.125.168
-vless://f9fa9ed3-1381-441c-8672-588cbedd012d@45.130.125.206:443?type=ws&security=tls&path=/&sni=r.bibak.bz&host=r.bibak.bz#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.206
-vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.176:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.176
-vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://258dc62e-e7fe-4993-9b73-3203b47998ea@45.130.125.76:2096?type=ws&security=tls&path=/&sni=KhoshAmadid.x-upload.org&host=KhoshAmadid.x-upload.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://3dca2549-3f62-4be7-afab-2ff88e9f2544@45.130.125.191:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.191
-vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?type=xhttp&security=tls&path=/assignment&sni=www.multiplydose.cc.cd&host=www.multiplydose.cc.cd&mode=stream-one&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://7dc5ed50-e32b-4a1f-b840-69db2725e767@45.130.125.76:2096?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?type=tcp&security=none&mode=gun#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://7dc5ed50-e32b-4a1f-b840-69db2725e767@45.130.125.160:8443?type=tcp&security=none&path=/ws#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://telegram-id-Arfilter@156.243.83.167:443?type=ws&security=tls&path=/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter?ed=2048&sni=cdn-alman1.arfilter2.blog&host=cdn-alman1.arfilter2.blog&fp=firefox#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 156.243.83.167
-vless://Telegram-Parsashonam-1@45.130.125.160:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs&host=p4r34m.hendevaneh.sbs&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:2053?type=tcp&security=tls&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://2df587e5-b81e-4078-93c1-2e4c97e44ccf@45.130.125.160:8443?type=ws&security=tls&path=/ws&sni=AfarinBeShoma.x-upload.org&host=AfarinBeShoma.x-upload.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.160
 vless://468785c9-7815-46e5-8037-e3f4cf9cfb1e@fast.postshup.ir:8880?type=httpupgrade&security=none&path=/?ed=2082&host=cdn-pro1.postshup.ir#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare, Inc. ┇ 45.130.125.0
-vless://47087a28-3059-448f-aa06-1489ffeefb2b@45.130.125.69:8443?type=xhttp&security=tls&path=/&sni=pol.velizor.ir&host=pol.velizor.ir&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.69
-vless://b04ed501-5abc-42cd-a68a-a896490c8865@45.130.125.69:8443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&host=vercel1.gamelistak.com&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.69
+vless://0495bbdf-add5-425a-9662-53cb00949695@45.130.125.126:2096?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.126
+vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.76:443?type=tcp&security=none&path=/ae-bo#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://27302727-9dfa-4975-990e-88c7a63747cd@45.130.125.76:443?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.160:443?type=tcp&security=none&path=/ae-bo#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
+vless://f9fa9ed3-1381-441c-8672-588cbedd012d@45.130.125.206:443?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.206
+vless://Telegram-Parsashonam-8@45.130.125.76:443?type=xhttp&security=tls&path=/p4r34m&sni=p4r34m.hendevaneh.sbs&host=p4r34m.hendevaneh.sbs&mode=auto#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://7ea79a74-7289-4a01-987c-c6379ddb8dc5@45.130.125.167:443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.167
+vless://26def452-b87f-42f5-92f6-e7ba0711ce69@web.subster.ir:2053?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.101
+vless://7ea79a74-7289-4a01-987c-c6379ddb8dc5@45.130.125.222:443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.222
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@web.subster.ir:2053?type=ws&security=tls&path=/&sni=nazanMano.x-upload.org&host=nazanMano.x-upload.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.83.2.101
+vless://c466ef48-fb57-40c6-808d-ee48d537844d@45.130.125.76:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?type=ws&security=tls&path=/&sni=drrfddgbv.turbooserver.net.tr&host=drrfddgbv.turbooserver.net.tr#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?type=grpc&security=tls&sni=WhImsIcAl-DefINiTIONPegPHM2bT5.WINDLeR.co.Uk&mode=gun&fp=chrome#SC 🇸🇨 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://258dc62e-e7fe-4993-9b73-3203b47998ea@45.130.125.76:2096?type=ws&security=tls&path=/&sni=KhoshAmadid.x-upload.org&host=KhoshAmadid.x-upload.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?type=tcp&security=none&mode=stream-one#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?type=tcp&security=none&path=/?ed=80#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
+vless://26def452-b87f-42f5-92f6-e7ba0711ce69@45.130.125.76:2096?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://78d87849-56f6-410c-b4b3-de764d5feadc@fast.postshup.ir:8880?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.0
+vless://26def452-b87f-42f5-92f6-e7ba0711ce69@45.130.125.160:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.160
+vless://26def452-b87f-42f5-92f6-e7ba0711ce69@web.subster.ir:2083?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 154.83.2.101
+vless://dd24f07d-5ed1-4e51-8073-5733e904fa88@45.130.125.141:2096?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.141
+vless://7dc5ed50-e32b-4a1f-b840-69db2725e767@web.subster.ir:2083?type=ws&security=tls&path=/?ed=2048&sni=chikarmikoni.x-upload.org&host=chikarmikoni.x-upload.org#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 154.83.2.101
+vless://telegram-id-Arfilter@156.243.83.167:443?type=ws&security=tls&path=/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter?ed=2048&sni=cdn-alman1.arfilter2.blog&host=cdn-alman1.arfilter2.blog&fp=firefox#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 156.243.83.167
+vless://c466ef48-fb57-40c6-808d-ee48d537844d@45.130.125.69:2087?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.69
+vless://58225ed2-9017-4204-8852-1b5cc1311fb8@45.130.125.76:443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.76
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxNTQuODMuMi45MCIsImFkZCI6IjE1NC44My4yLjkwIiwicG9ydCI6MjA4NywiaWQiOiI3MTI3NzJjMi1mN2Q3LTRkMzMtYmYwMi1iN2E3ZTVmNzI5YzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIn0
-vless://7dc5ed50-e32b-4a1f-b840-69db2725e767@web.subster.ir:2053?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 154.83.2.101
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:2053?type=tcp&security=tls&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
+vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?type=tcp&security=none&path=/ae-bo#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
+vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?type=grpc&security=tls&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir&mode=gun&fp=chrome#SC 🇸🇨 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 45.130.125.69
+vless://4ca9310c-3555-496e-9700-5a3ace3f2645@cd2.pascalplus.com:2095?type=httpupgrade&security=none&path=/&host=it.carefreemob2.com.#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare, Inc. ┇ 156.243.83.167
