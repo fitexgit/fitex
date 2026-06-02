@@ -1,4 +1,1 @@
-vless://3617290e-f2e0-4eb5-9576-a610aa6f2c95@104.167.199.23:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.23
-vless://5c5cb739-1112-4eea-bad1-282db5c24512@84.75.220.223:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=g_oiiXO-P1L5MgEzE9qx7Vt0x-Z1-vI5QjXmscfh6Uw&sid=27fd6d7ea3#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 84.75.220.223
-vless://6deef405-aad5-422e-9742-878aa6e7a1c5@104.167.196.169:11009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.196.169
-vless://3d1dbf5c-6f7d-47ee-9138-e217e0a77265@84.75.220.223:41034?type=xhttp&security=none&path=/&mode=auto#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Newserverlife LLC ┇ 84.75.220.223
+vless://6deef405-aad5-422e-9742-878aa6e7a1c5@104.167.196.169:11009?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=M0wZikKBQfPaEFAkwMwyilDChmP0w6b-k3CvFvQZeXg&sid=90946481#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 104.167.196.169

@@ -1,10 +1,4 @@
-vless://c871b272-4bb8-4d52-a1a9-a94a19220aa0@77.91.101.14:443?type=tcp&security=none#GE 🇬🇪 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 77.91.101.14
-vless://018e399d-fbb0-4c03-a4b0-a7e723818606@45.12.143.10:15545?type=tcp&security=none&path=/ws#TR 🇹🇷 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.12.143.10
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 193.57.138.53
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?type=tcp&security=reality#UA 🇺🇦 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 95.164.44.237
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality#HU 🇭🇺 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 5.182.38.91
+vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.27
 vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV29ya1RpdGFucyBCLlYuIFx1MjUwNyA5NC4xMzEuMTAuNSIsImFkZCI6Ijk0LjEzMS4xMC41IiwicG9ydCI6NDQzLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.67.95
-vless://c871b272-4bb8-4d52-a1a9-a94a19220aa0@91.228.10.248:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.228.10.248
-vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?type=xhttp&security=reality&path=/&sni=travel.yandex.ru&mode=auto&fp=chrome&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&sid=fb711576#MD 🇲🇩 ┇ VLESS-XHTTP-REALITY - WorkTitans B.V. ┇ 62.3.12.171
-vless://04600c5d-97ad-49fa-8eec-6c081f4981b0@45.12.136.165:40285?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.12.136.165
+vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV29ya1RpdGFucyBCLlYuIFx1MjUwNyA0NS4xNS4xNzAuMjM3IiwiYWRkIjoiNDUuMTUuMTcwLjIzNyIsInBvcnQiOjgwLCJpZCI6IjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0
+vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.26

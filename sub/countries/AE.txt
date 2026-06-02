@@ -1,6 +1,4 @@
-vless://6d088fbd-528d-4f2a-be26-317dcda3c6ee@31.207.5.73:443?type=tcp&security=reality&sni=www.amd.com&fp=chrome&pbk=HlxgAXuwwby0lujjT2LKBPF0udWK4SVjtMPyKtiNdEw&sid=232cd9a21e42#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Snowd Security OU ┇ 31.207.5.73
-vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 188.72.103.3
 vless://24323a9a-5962-47f0-ae60-7b12f4503dea@nl3.freekeysh110.online:443?type=tcp&security=reality&sni=nl3.freekeysh110.online&fp=chrome&flow=xtls-rprx-vision&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&sid=b664d93e9d7a04f1#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Baxet Group Inc. ┇ 89.125.147.214
-vless://4992f0a0-c84d-4c02-b76d-88703b05a42a@185.215.234.175:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.175
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.194

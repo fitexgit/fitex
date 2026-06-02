@@ -1,8 +1,1 @@
-vless://d634cd92-6ce4-4790-9b3d-2fb6c5972817@2.26.84.221:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 2.26.84.221
-vless://85a226ce-f082-4886-9173-a1ee7ec3d165@150.241.94.160:47863?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 150.241.94.160
-vless://d634cd92-6ce4-4790-9b3d-2fb6c5972817@31.76.77.46:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 31.76.77.46
-vless://327bf8a4-52ec-4fc1-afab-fc37ecec8be9@150.241.94.160:33199?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 150.241.94.160
-vless://74120ed7-7f61-4017-8882-bd3dbb393bd7@94.156.170.46:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 94.156.170.46
-vless://d634cd92-6ce4-4790-9b3d-2fb6c5972817@2.26.82.159:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 2.26.82.159
-vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@2.26.96.173:6443?type=xhttp&security=none#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - Play2go International Limited ┇ 2.26.96.173
-vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@45.133.251.23:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 45.133.251.23
+vless://74120ed7-7f61-4017-8882-bd3dbb393bd7@94.156.170.46:8443?type=tcp&security=reality&sni=discordapp.com&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 94.156.170.46
