@@ -1,4 +1,5 @@
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
-vless://473b4ca4-b112-4bc5-a1f5-4e845662d446@94.183.231.80:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Tejarat Electronic Nojhan Pardazesh LLC ┇ 94.183.231.80
+vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
 vless://24323a9a-5962-47f0-ae60-7b12f4503dea@nl3.freekeysh110.online:443?type=tcp&security=reality&sni=nl3.freekeysh110.online&fp=chrome&flow=xtls-rprx-vision&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&sid=b664d93e9d7a04f1#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Baxet Group Inc. ┇ 89.125.147.214
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.194
+ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
+vless://f7559b56-fe33-41d0-b54e-8ebdfb491dbd@cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.169.29

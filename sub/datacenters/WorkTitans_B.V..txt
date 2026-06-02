@@ -1,7 +1,6 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.83.21.39:443?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 45.83.21.39
-vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.27
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality#HU 🇭🇺 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 5.182.38.91
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 171.22.114.248
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?type=ws&security=none&path=/vless/&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#CY 🇨🇾 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 45.82.245.173
 vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV29ya1RpdGFucyBCLlYuIFx1MjUwNyA5NC4xMzEuMTAuNSIsImFkZCI6Ijk0LjEzMS4xMC41IiwicG9ydCI6NDQzLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?type=tcp&security=reality&sni=yahoo.com&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 91.225.217.28
-vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.26
-vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXb3JrVGl0YW5zIEIuVi4gXHUyNTA3IDQ1LjEyLjEzMi4xODMiLCJhZGQiOiI0NS4xMi4xMzIuMTgzIiwicG9ydCI6ODQ0MywiaWQiOiI2ZjFmMWExOC1lY2M0LTQ1MTMtODkwZS1mZDE5MzA0MmY1NjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoicHEtSHVuZ2FyeTEuMDl2cG4uY29tIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwcS1IdW5nYXJ5MS4wOXZwbi5jb20ifQ
+vless://1lpxy6haqm@45.15.167.13:443?type=tcp&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&fp=chrome&flow=xtls-rprx-vision#CY 🇨🇾 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 45.15.167.13
+vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.67.77
