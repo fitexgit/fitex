@@ -1,7 +1,7 @@
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.202.1
-vless://fvpnproxy@85.192.38.162:80?type=xhttp&security=none&path=/&host=google.com&mode=auto#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - Aeza Group LLC ┇ 85.192.38.162
-vless://50628a33-a008-4d2f-b8a2-4d4122dddcd3@txt.irajapan.store:28561?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&sid=538dbb66ff#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.114.111
+vless://a845ce7c-ea10-47b0-8de4-92810260eeab@de.corsair-web.space:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 176.124.204.4
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?type=tcp&security=tls&sni=decdn7.suio.me#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 109.120.177.84
+vless://4df17c6b-52db-4fc8-a209-af993ace5b5b@american.ssabzlearn.ir:9443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.109.178
+vless://708d4bd8-85df-4a6a-8a11-e159e3f02e37@194.226.169.79:80?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.226.169.79
 vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 95.163.152.31
-vless://IR_NETLIFY@89.22.236.213:54346?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
-vless://2aa33f2a-d912-4bd5-9d15-7daa837094dc@89.22.229.189:443?type=tcp&security=none&mode=stream-up#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.229.189
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality&sni=www.yahoo.com&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&sid=0a41bdaa#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.165.42.40
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab#US 🇺🇸 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.202.1

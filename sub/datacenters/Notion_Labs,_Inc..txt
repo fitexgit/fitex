@@ -1,5 +1,2 @@
-vless://26def452-b87f-42f5-92f6-e7ba0711ce69@208.103.161.1:2096?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Notion Labs, Inc. ┇ 208.103.161.1
+vless://ecd35e0a-941f-46a5-b76a-73551ba10925@208.103.161.101:2086?type=xhttp&security=none&path=/&host=xvh.andishehparenting.com&mode=packet-up#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Notion Labs, Inc. ┇ 208.103.161.101
 vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.222:443?type=xhttp&security=tls&path=/&sni=pump.lezzatcore.ir&host=pump.lezzatcore.ir&mode=auto&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Notion Labs, Inc. ┇ 208.103.161.222
-vless://7dc5ed50-e32b-4a1f-b840-69db2725e767@208.103.161.1:2096?type=ws&security=tls&path=/&sni=bozoAzYeralTi.x-upload.org&host=bozoAzYeralTi.x-upload.org#US 🇺🇸 ┇ VLESS-WS-TLS - Notion Labs, Inc. ┇ 208.103.161.1
-vless://2dc797c8-9588-48a6-bc4a-265c23d87cd6@208.103.161.170:443?type=tcp&security=none&path=/id-pusat#US 🇺🇸 ┇ VLESS-TCP-NTLS - Notion Labs, Inc. ┇ 208.103.161.170
-vless://ac558a72-1733-43cf-8ea2-d8a1b8e34dea@208.103.161.101:80?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Notion Labs, Inc. ┇ 208.103.161.101
