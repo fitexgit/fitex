@@ -1,2 +1,2 @@
-vless://f3a61acd-8589-4c27-b6ed-81ec3b57e6a7@93665.xin:443?type=tcp&security=none&path=/49614/cdn#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.247.29
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?type=ws&security=tls&path=/&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.18.179
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?type=ws&security=tls&path=/proxyip&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.18.179
+vless://f3a61acd-8589-4c27-b6ed-81ec3b57e6a7@93665.xin:443?type=ws&security=tls&path=/49614/cdn&sni=free.irandoc.info&host=free.irandoc.info&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.29
