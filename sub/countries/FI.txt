@@ -1,14 +1,9 @@
-vless://0d11eed5-50e3-4e35-bc98-c316982ff0f2@wpmanage.levron.pro:2089?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.177.206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQc29kcXg4Q0U1NUY1RVEzMGpsS0J5@195.133.2.2:34898#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 195.133.2.2
-vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBIZXR6bmVyIE9ubGluZSBHbWJIIFx1MjUwNyA2NS4yMS4yNDAuMTA4IiwiYWRkIjoiNjUuMjEuMjQwLjEwOCIsInBvcnQiOjQ0MywiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
-vless://72d91662-aded-45b7-9678-c68226c958e3@135.181.26.64:2089?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 135.181.26.64
-vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 193.233.23.121
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.47.60.186
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Scalaxy B.V. ┇ 38.244.137.198
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 150.241.71.35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 195.133.2.2
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGV0em5lciBPbmxpbmUgR21iSCBcdTI1MDcgNjUuMTA5LjEzNC4xOTEiLCJhZGQiOiI2NS4xMDkuMTM0LjE5MSIsInBvcnQiOjgwLCJpZCI6IjkxNjk4NzQ3LTkyYjMtNGEwNy1iNWRhLTIyNjk0ZWRiZWE4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2dyYXBocWwifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWFvM2xhUXR4Qm5FZ3pidUowa2hi@109.107.182.229:51544#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 109.107.182.229
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.47.60.186
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBIZXR6bmVyIE9ubGluZSBHbWJIIFx1MjUwNyA2NS4yMS4yNDAuMTA4IiwiYWRkIjoiNjUuMjEuMjQwLjEwOCIsInBvcnQiOjQ0MywiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
+vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 193.233.23.121
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?type=tcp&security=none&host=bmi.ir#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 95.217.243.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 109.107.182.229
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.216.90
+vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?type=tcp&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.218.179
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGV0em5lciBPbmxpbmUgR21iSCBcdTI1MDcgNjUuMTA5LjEzNC4xOTEiLCJhZGQiOiI2NS4xMDkuMTM0LjE5MSIsInBvcnQiOjgwLCJpZCI6IjkxNjk4NzQ3LTkyYjMtNGEwNy1iNWRhLTIyNjk0ZWRiZWE4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2dyYXBocWwifQ
