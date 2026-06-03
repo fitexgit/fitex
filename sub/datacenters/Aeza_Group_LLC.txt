@@ -1,11 +1,9 @@
-vless://7461e4a6-1086-4f33-8c2c-c81c561c4aee@american.ssabzlearn.ir:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.109.178
-vless://af9a35f6-6d08-4e39-b1f3-0bb623369da8@193.33.153.96:1418?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.33.153.96
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.202.7
-vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
+vless://IR_NETLIFY@89.22.236.213:54346?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=reality&sni=www.yahoo.com&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&sid=0a41bdaa#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.165.42.40
-vless://6593998b-23d4-4a09-9ba0-3890406f6600@american.ssabzlearn.ir:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.109.178
-vless://4fcf69cd-3896-4ffa-a137-55bc85b934e5@american.ssabzlearn.ir:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.109.178
-vless://708d4bd8-85df-4a6a-8a11-e159e3f02e37@194.226.169.79:80?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.226.169.79
+vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
 vless://72d91662-aded-45b7-9678-c68226c958e3@95.181.162.245:2089?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 95.181.162.245
-vless://86e507a8-eca1-4b7b-b5d9-47be47d3e87c@89.208.97.86:80?type=xhttp&security=none&path=/&host=google.com&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Aeza Group LLC ┇ 89.208.97.86
+vless://7461e4a6-1086-4f33-8c2c-c81c561c4aee@american.ssabzlearn.ir:9443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.109.178
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=tls&sni=yahoo.com&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 194.226.169.36
 vless://b701c808-3aeb-4bab-8e4c-1ce8479fc4bb@american.ssabzlearn.ir:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.109.178
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&security=reality&sni=yahoo.com&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55#US 🇺🇸 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.202.7
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 185.221.199.37
