@@ -1,7 +1,5 @@
-vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?type=xhttp&security=none&path=/&host=google.com&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Aeza Group LLC ┇ 95.163.152.31
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.42.40
 vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?type=tcp&security=none&host=www.speedtest.com#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.148.226
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 185.221.199.37
-vless://72d91662-aded-45b7-9678-c68226c958e3@95.181.162.245:2089?type=tcp&security=none&host=telewebion.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 95.181.162.245
-vless://b272917b-d154-423d-cdbe-9627f6099472@213.176.65.115:8501?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.176.65.115
 vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
+vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?type=xhttp&security=none&path=/&host=google.com&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Aeza Group LLC ┇ 95.163.152.31
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=raw&security=none#SE 🇸🇪 ┇ VLESS-RAW-NTLS - Aeza Group LLC ┇ 109.120.132.142
