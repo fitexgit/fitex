@@ -1,2 +1,1 @@
-vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@185.139.214.254:443?type=tcp&security=tls&sni=cloudcdn-m9-15.cdn.yandex.net&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alexhost Srl ┇ 185.139.214.254
-vless://bb2b0112-577f-4862-886a-3c2ee004ca23@185.212.117.34:443?type=tcp&security=tls&sni=www.scaleway.com&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Alexhost Srl ┇ 185.212.117.34
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@185.139.214.254:443?type=tcp&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net&fp=randomized&flow=xtls-rprx-vision&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI#US 🇺🇸 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 185.139.214.254
