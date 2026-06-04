@@ -1,6 +1,7 @@
-vless://9258527e-4a92-4932-8ba9-27e2e3030222@95.181.173.111:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&mode=auto&fp=chrome&pbk=nb4KaSPDM33uIfKWzptz0M8DAUBtZy37S4YvD6oa0FE&sid=40#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Aeza Group LLC ┇ 95.181.173.111
-vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
-vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?type=tcp&security=none&host=www.speedtest.com#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.148.226
-vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.42.40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTRjYjU3NS0xNWJkLTQ2NjQtYjk0ZC0yZTZhNmI0Y2NkYTg@109.120.138.95:28655#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.120.138.95
-vless://03192830-2b81-4e18-a7f3-cb77d4377325@poiala.portalcode.ir:2026?type=tcp&security=none&host=play.google.com#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
+vless://03192830-2b81-4e18-a7f3-cb77d4377325@poiala.portalcode.ir:2026?type=tcp&security=none&path=/&host=play.google.com#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
+vless://05d79f12-6a07-47ce-a566-5d5f571b8c59@82.117.87.213:443?type=tcp&security=reality&sni=slopllex.app&fp=chrome&flow=xtls-rprx-vision&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fa#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 82.117.87.213
+vless://9258527e-4a92-4932-8ba9-27e2e3030222@95.181.173.111:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&mode=auto&fp=chrome&pbk=nb4KaSPDM33uIfKWzptz0M8DAUBtZy37S4YvD6oa0FE&sid=40#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Aeza Group LLC ┇ 95.181.173.111
+vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.42.40
+vless://b272917b-d154-423d-cdbe-9627f6099472@213.176.65.115:8501?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.176.65.115
+vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.37.119
