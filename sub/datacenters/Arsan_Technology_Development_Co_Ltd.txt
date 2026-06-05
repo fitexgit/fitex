@@ -1,15 +1,1 @@
-vless://f7b750e4-289e-4a1c-b929-60de654fa001@tunn.fxfast.ir:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.92.32
-vless://ff15091f-d70f-4e94-8ee9-8dd6d168e0cf@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://ebf5704c-b6d4-4cb9-91b9-f1f82871a091@81.12.92.11:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Arsan Technology Development Co Ltd ┇ 81.12.92.11
-vless://fda10354-680c-4e62-bb0c-2950698aa95e@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f6c6cfb0-4ee5-4fb2-bde6-31169431a658@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://ffcb20f6-f439-4bd4-b321-8ae78b3c1143@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://fcea3f5b-e07b-41d3-b07a-a290e4e15ada@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f907364a-debd-4904-83d2-774b28f664eb@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f581fe5c-98dc-42ed-a9fd-5233a1b74835@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f5129a51-e374-4f10-93da-75fd0e346e84@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f9634636-e279-4219-a080-d20681c2459d@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://ffd9cae1-82a3-44c2-aaa0-50d5d55ed90f@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f6d34d8f-1b07-4876-9b31-6be42cc61623@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://feba2a21-5754-4824-8228-b55faae40fae@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
-vless://f5c04c7c-4482-403a-bcc7-aa0cc1e9272b@tn14.radmehrmax.ir:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 81.12.57.236
+vless://ebf5704c-b6d4-4cb9-91b9-f1f82871a091@81.12.92.11:443?type=tcp&security=tls&sni=meh.mozogame.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Arsan Technology Development Co Ltd ┇ 81.12.92.11
