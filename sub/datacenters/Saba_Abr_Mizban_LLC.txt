@@ -1,5 +1,1 @@
-vless://6f833fa5-fd39-4cec-903f-eea26fb8791f@best.tvpshop.ir:443?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.142.42
-vless://d59ca237-4502-4172-9c30-13a896199d95@185.226.142.42:2095?type=ws&security=none&path=/API/superip&host=mame.cloudsv.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.142.42
-vless://901b5203-b6da-4791-ad53-292a629b7e12@skh24.ir:80?type=ws&security=none&path=/&host=eden.un1ty.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.40
-vless://fb713b04-9e9e-4eea-8fe5-3dd84750432c@ecare.ciscoserver.com:443?type=ws&security=tls&path=/dash&sni=cloudn.gamespasebot.ir&host=cloudn.gamespasebot.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.226.140.140
-vless://79960982-8f09-4ddc-8166-524c61bcfe9a@ecare.ciscoserver.com:8443?type=ws&security=tls&path=/&sni=dash.gamespasebot.ir&host=dash.gamespasebot.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.226.140.140
+vless://901b5203-b6da-4791-ad53-292a629b7e12@skh24.ir:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.40

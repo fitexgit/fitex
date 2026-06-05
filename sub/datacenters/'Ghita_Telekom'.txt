@@ -1,1 +1,2 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - 'Ghita Telekom' ┇ 83.243.86.118
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.183:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision#EE 🇪🇪 ┇ VLESS-TCP-TLS - 'Ghita Telekom' ┇ 5.175.178.183
+vless://478dd3f5-550c-4f3f-8848-fe75c21136db@fr-node.prostosetup.org:443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&sid=509d#DE 🇩🇪 ┇ VLESS-TCP-REALITY - 'Ghita Telekom' ┇ 83.243.86.27
