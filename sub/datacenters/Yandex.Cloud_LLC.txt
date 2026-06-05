@@ -1,6 +1,3 @@
-vless://a25233a1-b8e7-48a8-a012-27834248ade7@51.250.9.25:7443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 51.250.9.25
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.103.206:443?type=ws&security=tls&path=/sequre/ws?ed=2560&sni=cloudflare.tyr-agentstvo.tech&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 158.160.103.206
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.252.176:443?type=tcp&security=none&path=/sequre/ws#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.252.176
 vless://bb55e055-8e76-485c-9e2a-9978deeeeb52@51.250.106.87:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 51.250.106.87
-vless://9e338c0b-72cd-4abd-84c0-d4c87d1e919d@158.160.32.64:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.32.64
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
+vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.252.176:443?type=tcp&security=none&path=/sequre/ws#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.252.176
