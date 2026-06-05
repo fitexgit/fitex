@@ -1,2 +1,5 @@
-vless://561f5c48-89d0-420e-8f50-9bbca92778fb@31.14.123.13:58388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.13
+vless://fe131236-082e-4be7-a25e-7a630327ef64@93.113.230.145:9090?type=ws&security=none&path=/&host=web.irivp.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Afranet ┇ 93.113.230.145
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?type=tcp&security=none&host=fast.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.118.226
+vless://f7f06dd6-fdbb-439d-b68e-11febb028664@79.175.149.248:52170?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.149.248
+vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.196
+vless://fbc1777d-f73c-4804-8212-70c008b8fe5a@31.14.116.74:443?type=xhttp&security=reality&path=/&sni=aparat.com&host=aparat.com&fp=chrome&pbk=PJe8eZp_kumcwDXcR7j375o1K9K906tpEGhD0-GPCz8&sid=93#IR 🇮🇷 ┇ VLESS-XHTTP-REALITY - Afranet ┇ 31.14.116.74

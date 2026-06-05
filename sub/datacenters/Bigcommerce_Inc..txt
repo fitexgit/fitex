@@ -1,3 +1,12 @@
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?type=tcp&security=none&path=/?ed#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.5
-vless://dc1c0c97-4518-470e-aa39-ab7678948086@192.200.160.253:2086?type=xhttp&security=none&path=/&host=xvh.andishehparenting.com&mode=packet-up#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253
+vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@63.141.128.48:443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.48
+vless://3bbe661f-ea71-4d8c-b9a5-0a700d490a70@63.141.128.5:2053?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.5
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.63:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=jp.laoyoutiao.link&host=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - Bigcommerce Inc. ┇ 63.141.128.63
+vless://fdf376b1-4df5-4bd3-a7c7-1ce76ec4e3f1@192.200.160.253:2086?type=xhttp&security=none&path=/&host=xvh.andishehparenting.com&mode=packet-up#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253
+vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?type=xhttp&security=tls&path=/eQ7EK5s88mh1QkaLDB4v5psc&sni=cd2.serviceali.ir&host=cd2.serviceali.ir&mode=auto#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Bigcommerce Inc. ┇ 63.141.128.237
+vless://dc1c0c97-4518-470e-aa39-ab7678948086@192.200.160.253:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253
+vless://JynMarket@63.141.128.25:443?type=xhttp&security=tls&path=/JynMarket&sni=a.pedramdns.shop&host=a.pedramdns.shop&mode=packet-up&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Bigcommerce Inc. ┇ 63.141.128.25
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.45
+vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?type=tcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.64
+vless://Telegram-Parsashonam-2@192.200.160.253:443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
+vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=ws&security=none&path=/&host=hamon.hamimelectronic.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - Bigcommerce Inc. ┇ 192.200.160.20

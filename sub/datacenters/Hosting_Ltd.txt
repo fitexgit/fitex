@@ -1,2 +1,1 @@
-vless://c3ef0f28-7123-4dd5-aa69-6a99b13fa65f@178.250.243.50:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Hosting Ltd ┇ 178.250.243.50
-vless://c3ef0f28-7123-4dd5-aa69-6a99b13fa65f@178.250.243.182:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Hosting Ltd ┇ 178.250.243.182
+vless://ff775d16-a47d-4138-ab66-cca44d3bc380@178.250.243.143:3443?type=grpc&security=reality&sni=dzen.ru&fp=chrome&pbk=oKoo_wcsbveS6Y6_AmwdKqCVxcvIHTcWW70b0CvzUjg#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Hosting Ltd ┇ 178.250.243.143

@@ -1,2 +1,5 @@
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?type=tcp&security=reality&sni=front.xwhiteness.site&fp=firefox&flow=xtls-rprx-vision&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA#US 🇺🇸 ┇ VLESS-TCP-REALITY - QWINS LTD ┇ 31.77.56.53
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 31.77.56.53
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 84.21.189.26
+vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@metro.xwhiteness.site:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 89.125.48.0
+vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@132.243.223.219:8443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 132.243.223.219
 vless://caa3af29-3b04-4099-9772-c64a1b7cca34@103.27.157.161:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#DE 🇩🇪 ┇ VLESS-TCP-REALITY - QWINS LTD ┇ 103.27.157.161
