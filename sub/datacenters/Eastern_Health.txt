@@ -1,2 +1,1 @@
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?type=tcp&security=none&path=/id-pusat#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Eastern Health ┇ 103.18.49.100
-vless://5dbfed06-dd62-48c0-8e39-b4835defcdb0@103.18.49.100:443?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Eastern Health ┇ 103.18.49.100
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?type=ws&security=tls&path=/id-pusat&sni=support.zoom.us.cyylr.eu.cc&host=support.zoom.us.cyylr.eu.cc#AU 🇦🇺 ┇ VLESS-WS-TLS - Eastern Health ┇ 103.18.49.100

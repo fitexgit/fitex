@@ -1,2 +1,5 @@
-vless://7d1591c2-c313-0024-a56a-cfff98808bdc@ru01.goodmaximum.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 87.239.105.224
-vless://fc358fdd-9109-4b19-80d5-ba7568641468@185.130.115.132:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 185.130.115.132
+vless://73d75a84-7c29-001f-92ca-cc2fd46c254c@ru02.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.28.235
+vless://73d75a84-7c29-001e-92ca-cc2fd46c254c@ru01.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 90.156.213.181
+vless://7d1591c2-c313-0024-a56a-cfff98808bdc@ru01.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 90.156.213.181
+vless://73d75a84-7c29-0024-92ca-cc2fd46c254c@ru01.goodmaximum.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 90.156.213.181
+vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 146.185.240.23

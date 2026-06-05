@@ -1,10 +1,3 @@
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.237.85.198
-vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
-vless://5398542b-adb7-4451-8bc1-7b81e5750b70@nl3.freekeysh110.online:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 89.125.147.214
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none&host=bmw.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Seyed M. Ehsan MirGhafori ┇ 94.183.171.3
-vless://ef6eeefc-037e-45fe-99f6-267e554a0b7f@de.vnet500.xyz:1102?type=tcp&security=none&host=soft98.ir#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.237.70.9
-vless://fc6b93ca-94c3-4843-8139-311e7edd385b@94.183.229.160:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HOSTES LTD ┇ 94.183.229.160
-vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?type=tcp&security=none&host=myket.ir#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 92.242.196.229
-vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
+vless://a0d9d727-a3a8-43bd-bbaf-1b590e6f0143@185.253.116.18:8443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.18
 vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
-vless://c5f28348-2cd8-4e98-a819-2d5cbc6b9e53@voip9.divar.mom:55009?type=tcp&security=reality&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Giti Secure Cloud LLC ┇ 94.183.162.82
+vless://6d088fbd-528d-4f2a-be26-317dcda3c6ee@31.207.5.73:443?type=tcp&security=tls&sni=www.amd.com&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-TLS - Snowd Security OU ┇ 31.207.5.73

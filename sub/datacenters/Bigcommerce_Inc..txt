@@ -1,4 +1,4 @@
-vless://fdf376b1-4df5-4bd3-a7c7-1ce76ec4e3f1@192.200.160.253:2086?type=xhttp&security=none&path=/&host=xvh.andishehparenting.com&mode=packet-up#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253
-vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.20
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
-vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?type=tcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.64
+vless://ffea494e-6658-b9fa-73f6-5dcc51046bf1@192.200.160.253:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Bigcommerce Inc. ┇ 192.200.160.253
+vless://ffea494e-6658-b9fa-73f6-5dcc51046bf1@63.141.128.5:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Bigcommerce Inc. ┇ 63.141.128.5
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?type=ws&security=tls&path=/api/v1/streamfp=chrome&sni=sync.amordad.xyz&host=sync.amordad.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.3
