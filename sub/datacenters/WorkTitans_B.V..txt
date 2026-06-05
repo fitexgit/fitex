@@ -1,1 +1,4 @@
-vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 94.131.8.19
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.159.248.125
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?type=ws&security=none&path=/vless/&host=pq-BosniaandHerzegovina1.09vpn.com#CY 🇨🇾 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 45.15.178.124
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - WorkTitans B.V. ┇ 94.131.123.86
+vless://fc1118f0-bdd6-46e7-9a97-259a5b2aabc3@45.15.178.124:8443?type=ws&security=tls&path=/vless/&sni=pq-bosniaandherzegovina1.09vpn.com#CY 🇨🇾 ┇ VLESS-WS-TLS - WorkTitans B.V. ┇ 45.15.178.124
