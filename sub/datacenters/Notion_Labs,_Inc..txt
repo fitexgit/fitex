@@ -1,1 +1,2 @@
-vless://950518cc-fcd4-4547-be3d-32acf65257ca@208.103.161.1:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Notion Labs, Inc. ┇ 208.103.161.1
+vless://v2raydia-tel@208.103.161.1:443?type=ws&security=tls&path=/@v2raydia&sni=v2raydia.cCnNx.IR&host=v2raydia.cCnNx.IR&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Notion Labs, Inc. ┇ 208.103.161.1
+vless://v2raydia-tel@208.103.161.33:443?type=ws&security=tls&path=/@v2raydia&sni=v2raydia.cCnNx.IR&host=v2raydia.cCnNx.IR&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Notion Labs, Inc. ┇ 208.103.161.33

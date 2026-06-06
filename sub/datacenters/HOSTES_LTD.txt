@@ -1,1 +1,3 @@
 vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@31.56.188.90:7443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HOSTES LTD ┇ 31.56.188.90
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@94.183.219.239:443?type=grpc&security=reality&sni=google.com&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - HOSTES LTD ┇ 94.183.219.239
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@31.56.188.93:7443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HOSTES LTD ┇ 31.56.188.93
