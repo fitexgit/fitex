@@ -1,3 +1,2 @@
-vless://a6ceafaa-128e-4253-84ea-54d23caabea1@nl.riotvpn.eu:8443?type=tcp&security=none&mode=multi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.103.210
-vless://a6ceafaa-128e-4253-84ea-54d23caabea1@nl.riotvpn.eu:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.103.210
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 191.44.113.251
+vless://a6ceafaa-128e-4253-84ea-54d23caabea1@nl.riotvpn.eu:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.103.212
+vless://a6ceafaa-128e-4253-84ea-54d23caabea1@nl.riotvpn.eu:8443?type=tcp&security=none&mode=multi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.103.212
