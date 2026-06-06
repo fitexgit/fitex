@@ -1,9 +1,6 @@
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.113.194
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
-vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-vless://a15b6ac3-707b-4435-bf1c-fc1d9c7d075d@87.120.106.20:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.20
-vless://29a1e3d5-87b4-4232-91af-6b2cd79daec8@91.206.71.162:2095?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 91.206.71.162
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@141.98.119.156:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 141.98.119.156
-vless://a566934d-1191-4304-b312-feebee678111@38.180.104.152:21077?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.104.152
+vless://93465fd8-d4b6-43d3-9c40-5a700c9503de@87.120.106.231:48203?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 87.120.106.231
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-vless://e79f2bf6-9953-4476-bbf9-2f19b568064d@87.120.106.44:2044?type=tcp&security=none&host=varzesh3.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.44
+vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
+vless://336772f1-5e30-4c9b-b627-fe7c653c1c04@77.83.203.149:2003?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 77.83.203.149
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVHVydW5jIFNtYXJ0IEJpbGdpc2F5YXIgVGVrbm9sb2ppIFZlIERpcyBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgMTg1LjEwNC4xODkuMzgiLCJhZGQiOiIxODUuMTA0LjE4OS4zOCIsInBvcnQiOjgwLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.113.194
