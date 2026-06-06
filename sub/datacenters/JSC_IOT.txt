@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206bUZkZm9DMUtkV1VWTHFCdkNXZ2xqZw@ss.sps1.sbs:20#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC IOT ┇ 92.63.193.252
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.235.101:2096?type=grpc&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC IOT ┇ 83.136.235.101
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.235.101:2096?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC IOT ┇ 83.136.235.101

@@ -1,7 +1,5 @@
+vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.125
+vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
 vless://15092f14-d137-4c4e-a5ad-58bb3e5ab057@77.237.73.166:5050?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 77.237.73.166
-vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
-vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=grpc&security=reality&mode=gun&fp=chrome&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - G-Core Labs S.A. ┇ 85.234.73.125
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.237.85.198
-vless://7a788fdd-7513-499f-8a99-7389ece44c18@94.140.0.0:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.0
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 176.97.78.29

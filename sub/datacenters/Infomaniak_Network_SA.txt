@@ -1,7 +1,1 @@
-hysteria2://Masir_Sefid@195.15.253.119:44044?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@195.15.253.119:443?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@195.15.253.119:4040?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@195.15.253.119:8880?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@195.15.253.119:444?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@195.15.253.119:1040?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@195.15.253.119:54040?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
+vless://e72dfecf-7d26-4065-94cc-3fc6ce2d8314@195.15.253.119:443?type=tcp&security=tls#CH 🇨🇭 ┇ VLESS-TCP-TLS - Infomaniak Network SA ┇ 195.15.253.119

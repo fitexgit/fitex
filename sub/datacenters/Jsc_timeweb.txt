@@ -1,6 +1,1 @@
-vless://d9aff7cc-4e0f-4cd6-bb30-40f083974874@field.wildgarden.digital:443?type=grpc&security=reality&sni=field.wildgarden.digital&mode=gun&fp=chrome&pbk=dtxZ0lFLHE0IGfg45g2t1t7WwHWHuDW4xbfww3zKhDQ&sid=bbbbe9607d343bb6#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Jsc timeweb ┇ 85.239.54.44
-vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@ser.moktana.app:443?type=tcp&security=none&mode=gun#US 🇺🇸 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 72.56.34.198
-vless://f3368578-8389-458d-9aee-08dc350c5230@clickfunt.3cloudhost.com:443?type=tcp&security=reality&sni=mzone.dem.3cloudhost.com&fp=chrome&flow=xtls-rprx-vision&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 147.45.184.158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 72.56.37.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSLURYRzNQMlFwRW9CcnFYdjdWQlNR@90.156.225.233:2050#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 90.156.225.233
-vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@ltr.moktana.app:443?type=tcp&security=none&mode=gun#US 🇺🇸 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 72.56.34.50
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@91.186.199.129:443?type=tcp&security=tls&sni=gwapp-ru01.freenets.store&fp=chrome&flow=xtls-rprx-vision-udp443#GR 🇬🇷 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 91.186.199.129
