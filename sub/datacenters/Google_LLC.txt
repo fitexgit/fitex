@@ -1,2 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=tcp&security=tls#BE 🇧🇪 ┇ VLESS-TCP-TLS - Google LLC ┇ 34.22.142.117
-vless://eeee4444-bbbb-3ccc-1eee-eeeeaaaacccc@online-google-cloud-speed-dbc7rm3m4a-uc.a.run.app:443?type=tcp&security=none&path=/Telegram/@w2ilwe/@x_3_o_x#US 🇺🇸 ┇ VLESS-TCP-NTLS - Google LLC ┇ 34.143.79.2
+vless://eeee4444-bbbb-3ccc-1eee-eeeeaaaacccc@online-google-cloud-speed-dbc7rm3m4a-uc.a.run.app:443?type=ws&security=tls&path=/Telegram/@w2ilwe/@x_3_o_x#US 🇺🇸 ┇ VLESS-WS-TLS - Google LLC ┇ 34.143.77.2

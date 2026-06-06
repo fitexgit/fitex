@@ -1,2 +1,4 @@
+vless://cce7a74d-2708-4d80-b970-a9223284db5c@ltt.alimv82.ir:443?type=tcp&security=none&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.18.252
 vless://651bc3e5-a865-4ff9-b8e7-c37d9bdeb0fc@104.252.19.150:58954?type=grpc&security=reality&sni=www.apple.com&mode=gun&fp=firefox&pbk=_TiHbvy4uav53YSFnKjvZSN1xx4ISwsWHV82vk49cGM&sid=c40ade#LV 🇱🇻 ┇ VLESS-GRPC-REALITY - Cloud Software - FZCO ┇ 104.252.19.150
 vless://42ff79c9-e293-4e31-8fba-a59bf8875592@tenncy.cyberbear.io:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.92.19
+vless://cce7a74d-2708-4d80-b970-a9223284db5c@ltt.alimv82.ir:26478?type=tcp&security=tls#LV 🇱🇻 ┇ VLESS-TCP-TLS - Cloud Software - FZCO ┇ 104.253.18.252

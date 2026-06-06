@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@blit333.hamrahcore.ir:719?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
-vless://93465fd8-d4b6-43d3-9c40-5a700c9503de@87.120.106.231:48203?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 87.120.106.231
-vless://2c9db74e-4cab-45e6-ae93-df1f977e4ca5@93.114.56.217:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.56.217
-vless://4352f2a7-d620-474e-9249-e866774a2c80@92.38.145.145:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 92.38.145.145
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@blit22.hamrahcore.ir:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.44
-vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=grpc&security=reality&mode=gun&fp=chrome&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - G-Core Labs S.A. ┇ 85.234.73.125
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?type=tcp&security=tls#HK 🇭🇰 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 89.223.95.63
+vless://4352f2a7-d620-474e-9249-e866774a2c80@92.38.145.145:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 92.38.145.145
+vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.125
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@blit333.hamrahcore.ir:719?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
+vless://34167800-08d7-03ff-2e1b-0ea8e4be8b25@ar.sannest.ir:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&sid=b73cff#AM 🇦🇲 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.115.240.240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
