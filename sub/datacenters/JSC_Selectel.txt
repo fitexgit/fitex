@@ -1,4 +1,2 @@
-vless://fb5f28b5-770a-4214-9453-76d061901ebd@185.91.54.70:443?type=tcp&security=none&mode=packet-up#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.54.70
-vless://f9f17a1c-a7cf-4c5d-b262-f5e2b84fae7a@185.91.54.76:443?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.54.76
-vless://fb56a2d2-be14-4b89-af97-8e5f3a0b4079@185.91.54.70:443?type=tcp&security=none&mode=packet-up#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.54.70
-vless://c726b231-d349-4362-8708-a3f5d0ee0c9e@185.91.54.70:443?type=tcp&security=none&mode=packet-up#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.54.70
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 94.26.228.10
+vless://c5167719-2b91-478e-a3dc-ffc52910faf8@cdn2.cloud-vk.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 178.72.141.195

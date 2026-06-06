@@ -1,6 +1,2 @@
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ll0ll.vip:8082?type=grpc&security=tls&sni=id.vk.com&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Aeza Group LLC ┇ 138.124.113.61
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
-vless://b880e510-8196-44bb-b715-781a9461b4a0@at.synthori.space:8443?type=tcp&security=reality&sni=max.ru&flow=xtls-rprx-vision&pbk=5MiRrRpYPJy9FPN1CsUfDz4q3CccSYoCASWDexrcAFY&sid=74db54ed1da8a3d3#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 212.113.119.190
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@89.22.236.213:666?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
-vless://9258527e-4a92-4932-8ba9-27e2e3030222@95.181.173.111:8443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 95.181.173.111
-vless://3f714544-cb38-49cf-9b5d-e4ddf08e22c4@vip-srv-for-you.neoservers.shop:4030?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.176.67.222
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.226.169.36

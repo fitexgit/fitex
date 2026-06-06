@@ -1,5 +1,2 @@
-vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@63.141.128.48:443?type=ws&security=tls&path=/&sni=nEO1-3zC.pAGes.DeV&host=nEO1-3zC.pAGes.DeV#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 63.141.128.48
-vless://@JynMarket@63.141.128.25:443?type=xhttp&security=tls&path=/JynMarket&sni=a.pedramdns.shop&host=a.pedramdns.shop&mode=packet-up&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Bigcommerce Inc. ┇ 63.141.128.25
-vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
 vless://346b6e85-8874-4f58-870b-2539b4354dba@192.200.160.253:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253
-vless://3bbe661f-ea71-4d8c-b9a5-0a700d490a70@63.141.128.5:2053?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.5
+vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
