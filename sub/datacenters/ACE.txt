@@ -1,3 +1,4 @@
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&security=tls&path=/16838/c89d26b724fe/&sni=sni.mmadcoffee.info&host=smtp.mmadcoffee.info&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.50
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:80?type=ws&security=none&path=/16838/c89d26b724fe/&host=smtp.mmadcoffee.info#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.174.247.50
 vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?type=tcp&security=none&path=/16838/c89d26b724fe/#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.175.169.174
 vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?type=tcp&security=none&path=/15284/coffee#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.247.27
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&security=tls&path=/16838/c89d26b724fe/&sni=sni.mmadcoffee.info&host=smtp.mmadcoffee.info&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.50

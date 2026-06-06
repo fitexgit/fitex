@@ -1,4 +1,1 @@
-vless://e85266e2-6129-4a4f-9540-aa5a5282b44b@107.161.175.252:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.175.252
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?type=tcp&security=reality&sni=nether1cxc.chickenkiller.com&flow=xtls-rprx-vision&pbk=MFedImeNi-4keZx_rkV8WL6jjY6sLncSaXgNjpUBPGo&sid=8917bfb9900788d5#NL 🇳🇱 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 162.217.249.72
-vless://6dcfa6a6-4fa9-4381-a0ce-177b99bf3fc0@217.179.6.48:16531?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.6.48
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.119
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.6.84

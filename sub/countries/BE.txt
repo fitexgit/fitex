@@ -1,2 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 194.71.227.178
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=tcp&security=tls#BE 🇧🇪 ┇ VLESS-TCP-TLS - Google LLC ┇ 34.22.142.117
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.65.255:443?type=tcp&security=tls#BE 🇧🇪 ┇ VLESS-TCP-TLS - Fastly, Inc. ┇ 140.248.65.255
+vless://2bf4081b-2a8a-4918-a058-0b4b3c51cdbb@cdn1.greewebservices.ir:2095?type=httpupgrade&security=none&path=/&host=gerpane2cdn.consolegamenet.ir#BE 🇧🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
+ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.93
