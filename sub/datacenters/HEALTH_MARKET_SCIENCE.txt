@@ -1,5 +1,8 @@
-vless://ace095c0-debd-46fd-903f-d29b9c8b4101@198.62.62.18:443?type=tcp&security=none&path=/ae-bo#US 🇺🇸 ┇ VLESS-TCP-NTLS - HEALTH MARKET SCIENCE ┇ 198.62.62.18
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.254:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - HEALTH MARKET SCIENCE ┇ 198.62.62.254
+vless://@JynMarket@69.84.182.49:443?type=xhttp&security=tls&path=/JynMarket&sni=nw.pedramdns.shop&host=nw.pedramdns.shop&mode=packet-up&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - HEALTH MARKET SCIENCE ┇ 69.84.182.49
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIRUFMVEggTUFSS0VUIFNDSUVOQ0UgXHUyNTA3IDY5Ljg0LjE4Mi4xNiIsImFkZCI6IjY5Ljg0LjE4Mi4xNiIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@69.84.182.20:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HEALTH MARKET SCIENCE ┇ 69.84.182.20
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - HEALTH MARKET SCIENCE ┇ 69.84.182.233
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.183:443?type=ws&security=tls&path=/blue&sni=xq.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HEALTH MARKET SCIENCE ┇ 198.62.62.183
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.231:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - HEALTH MARKET SCIENCE ┇ 198.62.62.231
+vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HEALTH MARKET SCIENCE ┇ 69.84.182.152
+vless://ace095c0-debd-46fd-903f-d29b9c8b4101@198.62.62.18:443?type=ws&security=tls&path=/ae-bo&sni=collection.linefriends.com.cyylr.eu.cc&host=collection.linefriends.com.cyylr.eu.cc#US 🇺🇸 ┇ VLESS-WS-TLS - HEALTH MARKET SCIENCE ┇ 198.62.62.18
