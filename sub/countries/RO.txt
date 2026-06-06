@@ -1,20 +1,14 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 77.74.123.167
-vless://8400e5b6-6653-48f2-9663-4eee029a7341@ro-bac-1.novexcloud.ir:1154?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-REALITY - Freakhosting Ltd ┇ 82.29.1.16
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 77.74.123.163
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.74
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 77.74.123.168
-vless://23e35579-baad-487c-80de-aca4475d50b2@ktkuk6bnulgc.hosted-in.irani.uno:2052?type=httpupgrade&security=none&path=/phpMyAdmin?q=一位處女在孫先生的農場工作。&host=52c88445c2a377f0.ch3.node.glynet.qzz.io#RO 🇷🇴 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 45.85.119.114
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.166
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.72
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.76
-vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTguODgiLCJhZGQiOiI0NS44NS4xMTguODgiLCJwb3J0Ijo0NDMsImlkIjoiZWUzMGQzZmYtZGExNC00ZWE4LWJjZDItMDJlOGVlMzY2N2RlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaHN0cjE2NzU1MjAxMDYyNzAuYWlkYXBwLmxpZmUiLCJwYXRoIjoiL2FpZGFwcC5saWZldndzIiwidGxzIjoidGxzIiwic25pIjoiaHN0cjE2NzU1MjAxMDYyNzAuYWlkYXBwLmxpZmUifQ
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.67
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.73
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.75
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 77.74.123.165
-vless://451ccfb4-4d9f-4d16-a748-48862ff46b86@195.74.93.254:443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 195.74.93.254
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.169
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.171
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-REALITY - Interkvm Host Srl ┇ 195.74.93.254
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.169
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 162.249.126.71
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.163
+vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-REALITY - Interkvm Host Srl ┇ 195.74.93.254
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 162.249.126.76
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 162.249.126.73
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
+vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Netrouting B.V. ┇ 91.199.50.37
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.165
+vless://23e35579-baad-487c-80de-aca4475d50b2@ktkuk6bnulgc.hosted-in.irani.uno:2052?type=httpupgrade&security=none&path=/phpMyAdmin?q=一位處女在孫先生的農場工作。&host=52c88445c2a377f0.ch3.node.glynet.qzz.io#RO 🇷🇴 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 45.85.119.114
+vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:8443?type=xhttp&security=tls&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&sni=jokerv.membergolabi.ir.&host=jokerv.membergolabi.ir.&mode=auto&fp=chrome#RO 🇷🇴 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 45.12.30.95
 vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTkuMjA3IiwiYWRkIjoiNDUuODUuMTE5LjIwNyIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 162.249.126.69
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?type=tcp&security=none#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Interkvm Host Srl ┇ 77.74.123.171
