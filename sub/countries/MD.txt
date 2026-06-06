@@ -1,3 +1,11 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.72.63
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - WorkTitans B.V. ┇ 194.62.42.21
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS ┇ 185.236.232.123
+vless://telegram-id-ArV2ray@185.234.65.232:4423?type=grpc&security=reality&sni=animejs.com&fp=chrome&pbk=D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc&sid=b740#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.232
+vless://telegram-id-ArV2ray@185.234.65.143:4423?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=ios&pbk=uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ&sid=7a0bea4731381dda#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.143
+vless://telegram-id-ArV2ray@185.234.65.122:443?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=firefox&pbk=uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ&sid=7a0bea4731381dda#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.122
+vless://telegram-id-ArV2ray1@185.234.65.122:443?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=firefox&pbk=uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ&sid=7a0bea4731381dda#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.122
+vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.26
+vless://telegram-id-ArV2ray@185.234.65.145:4423?type=grpc&security=reality&sni=animejs.com&mode=gun&fp=chrome&pbk=D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc&sid=b740#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.145
+vless://telegram-id-ArV2ray@185.234.65.132:443?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=firefox&pbk=uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ&sid=7a0bea4731381dda#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.132
+vless://telegram-id-ArV2ray@185.234.65.133:4423?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=firefox&pbk=uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ&sid=7a0bea4731381dda#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.133
+vless://nasnet@nasnet-146198073-direct.iranpress.co:443?type=tcp&security=tls&sni=nasnet-146198073-direct.iranpress.co&fp=chrome&flow=xtls-rprx-vision#MD 🇲🇩 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 146.19.80.73
+vless://telegram-id-ArV2ray@185.234.65.181:4423?type=grpc&security=reality&sni=animejs.com&mode=gun&fp=chrome&pbk=D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc&sid=b740#MD 🇲🇩 ┇ VLESS-GRPC-REALITY ┇ 185.234.65.181
+vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 91.225.217.27

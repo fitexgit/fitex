@@ -1,1 +1,4 @@
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.218.253:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.218.253
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.65.255:443?type=tcp&security=tls#BE 🇧🇪 ┇ VLESS-TCP-TLS - Fastly, Inc. ┇ 140.248.65.255
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.236.147
+vless://2bf4081b-2a8a-4918-a058-0b4b3c51cdbb@cdn1.greewebservices.ir:2095?type=tcp&security=none&path=/#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=ws&security=tls&path=/blue&sni=kr.ylks.xyz#BE 🇧🇪 ┇ VLESS-WS-TLS - Google LLC ┇ 34.22.142.117
