@@ -1,5 +1,4 @@
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://de3104b0-0c51-49df-8350-da4bbe654820@89.22.230.82:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.230.82
-vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.108.20.152
-vless://IR_NETLIFY@89.22.236.213:54346?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 194.33.34.167
+vless://fvpnproxy@85.192.38.162:80?type=xhttp&security=none&path=/&host=google.com&mode=auto#GB 🇬🇧 ┇ VLESS-XHTTP-NTLS - Aeza Group LLC ┇ 85.192.38.162
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+vless://af9a35f6-6d08-4e39-b1f3-0bb623369da8@193.33.153.96:1418?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.33.153.96

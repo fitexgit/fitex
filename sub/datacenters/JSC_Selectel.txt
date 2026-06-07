@@ -1,5 +1,8 @@
-vless://323347a1-721c-499e-a1be-d76087dc7cc8@185.91.52.217:1443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.52.217
-vless://ab7444d8-b369-44ba-82d0-6aaf707a7d95@185.91.52.217:1443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.52.217
-vless://f5116fb4-61c6-4bac-82ac-67b0e68e0b87@37.9.4.224:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 37.9.4.224
-vless://1d051e48-1984-490a-8ed6-6da808f0b113@81.163.23.159:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 81.163.23.159
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 212.41.11.152
+vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@31.129.42.131:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 31.129.42.131
+vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@31.129.42.122:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 31.129.42.122
+vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@5.178.85.202:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.178.85.202
+vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@81.163.23.125:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 81.163.23.125
+vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@5.188.114.240:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.114.240
+vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@5.188.114.66:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.114.66
+vless://ff50cabc-de03-42d3-8177-b6a0834ee373@87.228.101.57:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.101.57
+vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@185.91.54.151:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.54.151

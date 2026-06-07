@@ -1,12 +1,2 @@
-vless://701734a9-a1a1-4021-ba8d-90769364b304@185.130.114.211:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 185.130.114.211
-vless://701734a9-a1a1-4021-ba8d-90769364b304@89.208.210.165:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.210.165
-vless://701734a9-a1a1-4021-ba8d-90769364b304@185.130.115.132:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 185.130.115.132
-vless://74dadffe-e90b-4922-9ffc-98c5a8c09442@217.16.27.113:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.27.113
-vless://69b578b6-6167-447d-a82c-033928da5e03@212.233.122.244:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 212.233.122.244
-vless://c08222b9-02f7-0bb8-a06b-7ea44d527b86@89.208.231.191:52006?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.231.191
-vless://701734a9-a1a1-4021-ba8d-90769364b304@89.208.210.216:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.210.216
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@87.239.106.153:443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 87.239.106.153
-vless://8d46a395-0697-4aa4-83d5-d518bf4d607c@89.208.210.51:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.210.51
-vless://c08222b9-02f7-07d0-a06b-7ea44d527b86@89.208.231.191:52006?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.231.191
-vless://c65ca957-329a-0001-8e62-eaaa48468833@b02.connectv.net:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 94.139.247.211
-vless://c08222b9-02f7-03e8-a06b-7ea44d527b86@89.208.231.191:52006?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.231.191
+vless://c65ca957-329a-0001-8e62-eaaa48468833@94.139.247.211:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 94.139.247.211
+vless://c08222b9-02f7-1f40-a06b-7ea44d527b86@89.208.231.191:52006?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.231.191
