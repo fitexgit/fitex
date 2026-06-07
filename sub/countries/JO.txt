@@ -1,1 +1,1 @@
-vless://74aed513-ec0f-441c-9f9a-e569a7e47280@62.72.166.64:443?type=tcp&security=none#JO 🇯🇴 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 62.72.166.64
+vless://74aed513-ec0f-441c-9f9a-e569a7e47280@62.72.166.64:443?type=ws&security=tls&path=/content/stream/hls/live/segment-109283-init-v1-fragment-8a2&sni=blazor-de.shebrix.ir&host=blazor-de.shebrix.ir&fp=chrome#JO 🇯🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 62.72.166.64

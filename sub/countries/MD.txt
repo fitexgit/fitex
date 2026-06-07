@@ -1,1 +1,3 @@
-vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@md.riotvpn.eu:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.235
+vless://ac0321ed-0ecf-4200-9d5a-a8321252fb28@md.riotvpn.eu:8443?type=tcp&security=none&mode=multi#MD 🇲🇩 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.236
+vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@md.riotvpn.eu:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.236
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS ┇ 185.236.232.189
