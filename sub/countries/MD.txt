@@ -1,3 +1,1 @@
-vless://7fe363a0-c6e2-4609-9301-7a7d92ddb780@md.riotvpn.eu:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.240
-vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@md.riotvpn.eu:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.240
-vless://b42e34e3-d95c-4f9e-9e8c-e327e2323b6c@md.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.240
+vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@md.riotvpn.eu:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.235

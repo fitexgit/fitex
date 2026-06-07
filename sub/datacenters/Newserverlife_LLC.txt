@@ -1,4 +1,5 @@
-vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.134
+vless://66d3f133-9849-4a16-b835-7b4f82046fda@pl-1.pandaonline.org:443?type=tcp&security=reality&sni=pl-1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=KAGeBjxeFwvJ1Cub9sBRm_VCu75VaLxwdVDQPGK_hHg#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 45.144.49.212
 vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@38.107.233.130:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 38.107.233.130
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@us.healthy-connected.com:443?type=tcp&security=reality&sni=us.healthy-connected.com&fp=chrome&flow=xtls-rprx-vision&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&sid=30e570274c0c72cc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 38.107.237.91
 vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?type=tcp&security=none&mode=auto#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.3
+vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?type=tcp&security=none&path=/stream#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.134
+vless://45b9ce66-4881-4099-bb7e-21bf71942444@82.40.62.3:80?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.3

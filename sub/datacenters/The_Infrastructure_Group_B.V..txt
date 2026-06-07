@@ -1,2 +1,4 @@
+vless://4a18e07a-4600-4475-b88b-7da09e0d9131@nloxv.aswall.ir:49755?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.113.21
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?type=grpc&security=reality&sni=colorlib.com&mode=gun&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - The Infrastructure Group B.V. ┇ 5.255.102.104
-vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?type=tcp&security=none&host=check-host.net#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.100.32
+vless://d85b313a-bc5c-4f40-8d17-dd24861a28f4@5.255.105.59:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - The Infrastructure Group B.V. ┇ 5.255.105.59
+vless://ed4bafcf-f822-4309-94b3-aa7be5807275@5.255.105.59:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.105.59

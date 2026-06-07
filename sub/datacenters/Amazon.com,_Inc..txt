@@ -1,56 +1,61 @@
-hysteria2://%40Masir_Sefid@18.157.222.169:8880?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgMTMuMjQ4LjE2OS40OCIsImFkZCI6ImNuLnp6djA2LmluZm9ub2RlLnh5eiIsInBvcnQiOjE3MDE2LCJpZCI6ImVkYWMxMTUzLWVmZjQtMzcxOS05MmEzLWM3NjIwZWEwMGJkNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://ae478bea-2809-4ebc-b110-26cf60f2250a@18.195.205.133:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.195.205.133
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.195.94.102
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoibmV3My5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMjkyNmJiY2YtZWVmMC00ZDBkLWQ4YTctNDAwZTQxNzYwOGFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://21b21d47-ee0d-453d-98da-1b9fa994a85e@ger2.lezzatbase.ir:4020?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 3.71.176.15
-vless://b6256757-8de2-4eb9-b52b-5ec05b228e55@f1.rug.locker:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.65.212.149
-hysteria2://%40Masir_Sefid@18.157.222.169:4040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-vless://87ed681b-a3f7-4915-afb2-74f28d07c0ab@51.20.184.97:1005?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 51.20.184.97
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxNS4xOTcuMjI1LjEyOCIsImFkZCI6ImthbXBvbmcub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIn0
-vless://2e82cda5-e020-4c63-8271-e58a00831447@hk4.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.ikea.com.hk&fp=chrome&flow=xtls-rprx-vision&pbk=6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE&sid=de392136#HK 🇭🇰 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 16.163.154.75
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.200.101.228
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA1NC4yNDMuMTI5LjIxNSIsImFkZCI6InhyLTEuaGVyb2t1YXBwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxN2FmNzZlMS1hNWQ3LTQxYWItYWU4Ny1iNDhmMTg1MDc1ZDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InhyLTEuaGVyb2t1YXBwLmNvbSIsInBhdGgiOiIvMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoieHItMS5oZXJva3VhcHAuY29tIn0
+hysteria2://@Masir_Sefid@18.157.222.169:1040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.101.196:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 3.124.101.196
-vless://84b07d94-0c33-4c9e-a2e8-9e4ead9ba63e@18.198.227.192:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.198.227.192
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAzLjIwOS4xNzIuNzIiLCJhZGQiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJwYXRoIjoiLzE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMS12bWVzcyIsInRscyI6InRscyIsInNuaSI6InhyLTEuaGVyb2t1YXBwLmNvbSJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.96.152.83:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 3.96.152.83
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgNzYuMjIzLjU0LjE0NiIsImFkZCI6ImZyZWUtcnVzc2lhbjAxLWNkbi54aWFvaG91emkuY2x1YiIsInBvcnQiOjgwLCJpZCI6IjNkMzE3MjhlLTA2NGQtNDJiOC1iOTQ1LWY3OWMwMDhmNzNmYyIsImFpZCI6MjMzLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDI2aGsuZmFuczgueHl6IiwicG9ydCI6NDQzLCJpZCI6IjkzYmRhZWQ1LTEzYzUtMzkyNy05M2Q3LWE2ODc3YzVhYzhkMiIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3JheSIsInRscyI6InRscyJ9
-vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?type=xhttp&security=tls&path=/bamacloud&sni=nextjs.org&host=vercel-xhttpnimacloud.vercel.app&mode=auto&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Amazon.com, Inc. ┇ 216.230.86.1
-hysteria2://Masir_Sefid@18.193.90.31:443?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.193.90.31
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxOC4yMDguNjAuMjE2IiwiYWRkIjoieHItNS5oZXJva3VhcHAuY29tIiwicG9ydCI6NDQzLCJpZCI6IjE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-hysteria2://masir_sefid@18.157.51.145:443?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.51.145
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDIyd2tsLmZhbnM4Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiI3ZjRmZjJlMS1jMDhmLTM1YmQtYWZlNy00YTZhMzg2OTA3YWEiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-hysteria2://Masir_Sefid@18.185.89.204:4040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.185.89.204
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxOC4yMDguNjAuMjE2IiwiYWRkIjoiYWMyMDg4Lmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZDFiYWJlMDgtZjhhYy00OTBiLWI2NmYtOWJlMjc0NjdmM2NjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZDFiYWJlMDgtZjhhYy00OTBiLWI2NmYtOWJlMjc0NjdmM2NjLXZtZXNzIiwidGxzIjoidGxzIn0
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@168.100.6.42:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 168.100.6.42
-hysteria2://%40Masir_Sefid@18.157.222.169:54040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 52.14.47.44
+vless://2e82cda5-e020-4c63-8271-e58a00831447@hk4.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.ikea.com.hk&fp=chrome&flow=xtls-rprx-vision&pbk=6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE&sid=de392136#HK 🇭🇰 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 16.163.154.75
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA3NS4yLjY1LjE2OSIsImFkZCI6Im5lc3RsZS5pciIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
 hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.1.14:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.207.1.14
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.49.89:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.215.49.89
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.71.187.131
-vless://336772f1-5e30-4c9b-b627-fe7c653c1c04@london.netguardians.ir:2003?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.135.251.30
-vless://56f266ad-036a-46e2-bca3-4448121f2605@3.126.60.78:136?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.126.60.78
-hysteria2://%40Masir_Sefid@18.157.222.169:44044?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@ir8.seeb.shop:443?type=ws&security=tls&path=/kos_madar_publisher&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&host=dl.khodavakili.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 76.223.54.146
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.192.50.101
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.26.144:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 13.36.26.144
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA5OS44My4xMjkuNjgiLCJhZGQiOiJuZXN0bGUuaXIiLCJwb3J0Ijo0NDMsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3NzNTEwNjgiLCJ0bHMiOiJ0bHMifQ
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.153.94.54
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgMTMuMjQ4LjE2OS40OCIsImFkZCI6IjAyMTh0dzAyLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjVjNzBkYTVkLWU2NDEtM2JmOC1iN2RjLTViYWJkODQzZmYzYyIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3YycmF5In0
-hysteria2://%40Masir_Sefid@18.157.222.169:1040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiemh1eW9uZy5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNGNlMjFhMTEtNDRmZS00ODE0LWE2MzktNGI3Y2FmNTAxMDMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAzNC4yMDEuODEuMzQiLCJhZGQiOiJteWNmd29yay5oZXJva3VhcHAuY29tIiwicG9ydCI6NDQzLCJpZCI6IjA3YTNhMWUzLWQ1MmUtNGFjYy05NThlLWMzMDE2ODFiNWYwOSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLzA3YTNhMWUzLWQ1MmUtNGFjYy05NThlLWMzMDE2ODFiNWYwOS12bWVzcyIsInRscyI6InRscyJ9
-vless://21b21d47-ee0d-453d-98da-1b9fa994a85e@uk2.iranmomas.org:4020?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.130.245.148
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.46.196:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.213.46.196
-vless://a65ad386-6ca5-42df-b4fd-7c9cd4b605d6@18.196.110.116:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.196.110.116
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.60.99.199:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 52.60.99.199
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNTI3aGsxLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.177.216:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.215.177.216
-hysteria2://Masir_Sefid@18.157.222.169:444?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
-vless://21b21d47-ee0d-453d-98da-1b9fa994a85e@ca2.lezzatbase.ir:4020?type=tcp&security=reality#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 3.96.172.167
-hysteria2://Masir_Sefid@18.193.90.31:444?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.193.90.31
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.143.201:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 51.44.143.201
-vless://348b9173-d353-48d7-82bc-8f15d4c7cd37@18.194.140.98:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.194.140.98
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.48.212:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.201.48.212
+hysteria2://%40Masir_Sefid@18.157.222.169:8880?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vless://84b07d94-0c33-4c9e-a2e8-9e4ead9ba63e@18.198.227.192:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.198.227.192
+vless://56f266ad-036a-46e2-bca3-4448121f2605@3.126.60.78:136?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.126.60.78
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoibmV3My5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMjkyNmJiY2YtZWVmMC00ZDBkLWQ4YTctNDAwZTQxNzYwOGFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+hysteria2://%40Masir_Sefid@18.157.222.169:54040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+ss://YWVzLTI1Ni1nY206NmM0YmQ0NzQtYWMyMy00N2ZjLTg3NDItYzhmOTkwMzU3ODM2@ss.016.node-for-bigairport.win:13004#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 18.163.185.197
+hysteria2://%40Masir_Sefid@18.157.222.169:4040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDIyd2tsLmZhbnM4Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiI3ZjRmZjJlMS1jMDhmLTM1YmQtYWZlNy00YTZhMzg2OTA3YWEiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiemh1eW9uZy5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNGNlMjFhMTEtNDRmZS00ODE0LWE2MzktNGI3Y2FmNTAxMDMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+hysteria2://Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.153.94.54
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.49.89:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.215.49.89
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.206.28:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 3.69.206.28
+vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.200.101.228
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA1NC4xNjUuNTguMjA5IiwiYWRkIjoiYWMyMDg4Lmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZDFiYWJlMDgtZjhhYy00OTBiLWI2NmYtOWJlMjc0NjdmM2NjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZDFiYWJlMDgtZjhhYy00OTBiLWI2NmYtOWJlMjc0NjdmM2NjLXZtZXNzIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNTI3aGsxLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgNzYuMjIzLjU0LjE0NiIsImFkZCI6ImZyZWUtcnVzc2lhbjAxLWNkbi54aWFvaG91emkuY2x1YiIsInBvcnQiOjgwLCJpZCI6IjNkMzE3MjhlLTA2NGQtNDJiOC1iOTQ1LWY3OWMwMDhmNzNmYyIsImFpZCI6MjMzLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.1.14:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.207.1.14
+vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?type=tcp&security=none&mode=stream-one#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.194.4.109
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.254.10:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 63.180.254.10
+hysteria2://%40Masir_Sefid@18.157.222.169:44044?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.96.152.83:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 3.96.152.83
+hysteria2://Masir_Sefid@18.157.222.169:444?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA1NC4yMDguMTg2LjE4MiIsImFkZCI6Im15Y2Z3b3JrLmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMDdhM2ExZTMtZDUyZS00YWNjLTk1OGUtYzMwMTY4MWI1ZjA5IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvMDdhM2ExZTMtZDUyZS00YWNjLTk1OGUtYzMwMTY4MWI1ZjA5LXZtZXNzIiwidGxzIjoidGxzIn0
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.192.50.101
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.46.196:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.213.46.196
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.177.216:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.215.177.216
+hysteria2://%40Masir_Sefid@18.157.222.169:1040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.143.201:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 51.44.143.201
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 52.14.47.44
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.146.88:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 18.193.146.88
+hysteria2://masir_sefid@18.194.63.255:443?sni=content.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.194.63.255
+hysteria2://Masir_Sefid@18.157.222.169:8880?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxNS4xOTcuMjI1LjEyOCIsImFkZCI6ImthbXBvbmcub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIn0
+vless://348b9173-d353-48d7-82bc-8f15d4c7cd37@18.194.140.98:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.194.140.98
+hysteria2://@Masir_Sefid@18.157.222.169:54040?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+hysteria2://Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.28.206:8686?type=tcp&security=tls&sni=www.apple.com&fp=chrome#KR 🇰🇷 ┇ VLESS-TCP-TLS - Amazon.com, Inc. ┇ 43.201.28.206
+hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 3.115.9.140
+vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.195.94.102
+vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&security=tls&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Amazon.com, Inc. ┇ 51.44.25.250
+vless://01a890dd-71b9-4c5e-8999-1d5269967901@de1.miyazono-kaori.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.79.155.45
+vless://01a890dd-71b9-4c5e-8999-1d5269967901@de2.miyazono-kaori.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 35.159.169.219
+vless://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 54.252.231.115
+hysteria2://masir_sefid@18.157.51.145:443?insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.51.145
+hysteria2://%40Masir_Sefid@18.157.222.169:444?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA1Mi41LjgyLjE3NCIsImFkZCI6InhyLTUuaGVyb2t1YXBwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxN2FmNzZlMS1hNWQ3LTQxYWItYWU4Ny1iNDhmMTg1MDc1ZDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+hysteria2://Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.60.99.199:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 52.60.99.199
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDI2aGsuZmFuczgueHl6IiwicG9ydCI6NDQzLCJpZCI6IjkzYmRhZWQ1LTEzYzUtMzkyNy05M2Q3LWE2ODc3YzVhYzhkMiIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3JheSIsInRscyI6InRscyJ9
+vless://ae478bea-2809-4ebc-b110-26cf60f2250a@18.195.205.133:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.195.205.133
+hysteria2://Masir_Sefid@18.157.222.169:1040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Amazon.com, Inc. ┇ 18.157.222.169
+vless://21b21d47-ee0d-453d-98da-1b9fa994a85e@uk2.iranmomas.org:4020?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.130.245.148
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgMTMuMjQ4LjE2OS40OCIsImFkZCI6IjAyMTh0dzAyLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjVjNzBkYTVkLWU2NDEtM2JmOC1iN2RjLTViYWJkODQzZmYzYyIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3YycmF5In0

@@ -1,69 +1,46 @@
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@194.93.0.180:47200?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - ServTech LTD ┇ 194.93.0.180
-vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 5.35.85.51
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNC4xMTgiLCJhZGQiOiIxODUuMTQ4LjEwNC4xMTgiLCJwb3J0Ijo0NDMsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2In0
-vless://5f3c8c91-d37c-40c4-95ad-4f395d9e2d55@158.160.32.64:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.32.64
-vless://56fbb939-580e-4d1c-880b-c458528ccddb@51.250.15.175:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.15.175
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 82.202.159.141
-vless://56fbb939-580e-4d1c-880b-c458528ccddb@51.250.9.161:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.9.161
-vless://bfef1a3f-d106-4346-89fa-4f7e369e99de@195.209.88.153:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OOO Sovremennye setevye tekhnologii ┇ 195.209.88.153
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@51.250.18.25:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.18.25
-vless://bb7b4908-a24a-44ae-b9c7-6691b2576269@45.67.215.165:443?type=tcp&security=none&path=/?ed#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Microcredit Company Zaymer PJSC ┇ 45.67.215.165
-vless://da893db2-b7a3-4a26-890a-2cde7e308828@51.250.9.161:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.9.161
-vless://59341a57-7f08-4776-9f94-e4aab1461432@51.250.66.119:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 51.250.66.119
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNS41MiIsImFkZCI6Im1idC5pcmNmLnNwYWNlIiwicG9ydCI6NDQzLCJpZCI6Ijc5NzcwYTMyLTk2MDctNDkxOS05NDgzLTBmMTc5NDU1OTM5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2p1WUx5dk5CcFkwTEJPQW9tbXkyYUpFIiwidGxzIjoidGxzIn0
-vless://ff50cabc-de03-42d3-8177-b6a0834ee373@51.250.40.74:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.40.74
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Naoborot Llp ┇ 85.234.114.53
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb2NyZWRpdCBDb21wYW55IFpheW1lciBQSlNDIFx1MjUwNyA0NS42Ny4yMTUuMTE5IiwiYWRkIjoiNDUuNjcuMjE1LjExOSIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.158.107:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 82.202.158.107
-vless://bfef1a3f-d106-4346-89fa-4f7e369e99de@195.209.90.182:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OOO Sovremennye setevye tekhnologii ┇ 195.209.90.182
-vless://c65ca957-329a-0001-8e62-eaaa48468833@94.139.247.211:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 94.139.247.211
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@51.250.7.246:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.7.246
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@31.129.42.131:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 31.129.42.131
-ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.200:20129#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 46.29.163.200
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@31.129.42.122:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 31.129.42.122
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@5.178.85.202:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.178.85.202
-vless://5f3c8c91-d37c-40c4-95ad-4f395d9e2d55@185.22.235.45:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 185.22.235.45
-vless://bfef1a3f-d106-4346-89fa-4f7e369e99de@194.58.115.103:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 194.58.115.103
-vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@217.149.25.106:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 217.149.25.106
-vless://c08222b9-02f7-1f40-a06b-7ea44d527b86@89.208.231.191:52006?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.231.191
-vless://f5116fb4-61c6-4bac-82ac-67b0e68e0b87@45.11.26.216:8443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Mt Finance LLC ┇ 45.11.26.216
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@31.172.67.43:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Fornex Hosting S.L. ┇ 31.172.67.43
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@81.163.23.125:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 81.163.23.125
-vless://59341a57-7f08-4776-9f94-e4aab1461432@84.201.168.122:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 84.201.168.122
-vless://f5116fb4-61c6-4bac-82ac-67b0e68e0b87@213.226.112.199:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Mt Finance LLC ┇ 213.226.112.199
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@5.188.114.240:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.114.240
-vless://f5116fb4-61c6-4bac-82ac-67b0e68e0b87@213.226.112.208:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Mt Finance LLC ┇ 213.226.112.208
-vless://7b7619ef-3015-45e4-a1c0-5672f81b864c@62.84.112.113:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 62.84.112.113
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@5.188.114.66:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.114.66
+vless://c65ca957-329a-0001-8e62-eaaa48468833@b02.connectv.net:443?type=tcp&security=tls&sni=b02.connectv.net&fp=chrome&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - LLC VK ┇ 94.139.247.211
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPT08gU292cmVtZW5ueWUgc2V0ZXZ5ZSB0ZWtobm9sb2dpaSBcdTI1MDcgOTMuOTMuODkuMTE3IiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBvcnQiOjQ0MywiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
+vless://ff50cabc-de03-42d3-8177-b6a0834ee373@178.154.214.111:443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&fp=chrome&flow=xtls-rprx-vision&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 178.154.214.111
+vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@ru.riotvpn.eu:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - UFO Hosting LLC ┇ 2.56.178.206
+vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@217.149.25.106:443?type=tcp&security=tls&sni=ai.sellflow.org&fp=chrome&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 217.149.25.106
+vless://17172b99-16ae-4453-99f9-bd15191228a9@b3aa11az-k15gg1.ru.y-tun.com:8443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 178.154.211.116
+vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@111.88.107.251:80?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 111.88.107.251
+vless://0b0bd858-dc7f-425b-b026-e28224425058@171.22.136.84:443?type=ws&security=none&path=/path&host=play.google.com#RU 🇷🇺 ┇ VLESS-WS-NTLS - UFO Hosting LLC ┇ 171.22.136.84
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?type=tcp&security=tls&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision-udp443-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Naoborot Llp ┇ 85.234.114.53
+vless://8d46a395-0697-4aa4-83d5-d518bf4d607c@89.208.210.51:443?type=tcp&security=reality&sni=www.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 89.208.210.51
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?type=ws&security=none&path=Telegram:@ShadowProxy66/?ed=2560&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz#RU 🇷🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.142.120.134
-vless://f5116fb4-61c6-4bac-82ac-67b0e68e0b87@45.11.26.233:8443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Mt Finance LLC ┇ 45.11.26.233
-vless://597ef4d6-bdc1-4b73-8343-e39b3a7276b9@185.22.235.45:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 185.22.235.45
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPT08gU292cmVtZW5ueWUgc2V0ZXZ5ZSB0ZWtobm9sb2dpaSBcdTI1MDcgMTk1LjIwOS44Ni4yNDEiLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwicG9ydCI6NDQzLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyJ9
-vless://0ee7eb22-e4e3-414b-bb01-3006ef852861@b3aa11az-k15gg1.ru.y-tun.com:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 178.154.211.116
-vless://da893db2-b7a3-4a26-890a-2cde7e308828@51.250.15.175:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.15.175
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBVRk8gSG9zdGluZyBMTEMgXHUyNTA3IDE3MS4yMi4xMzQuMTIiLCJhZGQiOiIxNzEuMjIuMTM0LjEyIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE2ODk5MzUyNDMwMjciLCJ0bHMiOiJ0bHMifQ
-vless://7283d2d5-7b14-431b-9d1f-96f2dac4a97b@194.55.245.34:58888?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 194.55.245.34
-vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@ru.riotvpn.eu:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - UFO Hosting LLC ┇ 45.12.114.81
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@158.160.109.80:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.109.80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
-vless://597ef4d6-bdc1-4b73-8343-e39b3a7276b9@158.160.32.64:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.32.64
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.86.75:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 85.208.86.75
-vless://17172b99-16ae-4453-99f9-bd15191228a9@b3aa11az-k15gg1.ru.y-tun.com:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 178.154.211.116
-vless://ff50cabc-de03-42d3-8177-b6a0834ee373@87.228.101.57:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.101.57
-vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&host=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@158.160.206.199:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.206.199
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@46.8.209.104:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kontel LLC ┇ 46.8.209.104
-vless://55b0463c-e27f-455b-a25a-70123297b9f4@45.67.215.233:443?type=ws&security=tls&path=/ws&sni=rAyAn-cOnFiG-sg-1.pAriSa.dPdNs.oRg&host=rAyAn-cOnFiG-sg-1.pAriSa.dPdNs.oRg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Microcredit Company Zaymer PJSC ┇ 45.67.215.233
-vless://59341a57-7f08-4776-9f94-e4aab1461432@51.250.19.156:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 51.250.19.156
-vless://bfef1a3f-d106-4346-89fa-4f7e369e99de@195.208.65.154:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OOO Sovremennye setevye tekhnologii ┇ 195.208.65.154
-vless://bfef1a3f-d106-4346-89fa-4f7e369e99de@195.209.87.184:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - OOO Sovremennye setevye tekhnologii ┇ 195.209.87.184
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgNDUuMTQyLjEyMC4xOTAiLCJhZGQiOiI0NS4xNDIuMTIwLjE5MCIsInBvcnQiOjIwODIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@84.252.134.76:443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Yandex.Cloud LLC ┇ 84.252.134.76
+vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?type=tcp&security=tls&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Baykov Ilya Sergeevich ┇ 213.108.2.130
+vless://59341a57-7f08-4776-9f94-e4aab1461432@84.201.168.122:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 84.201.168.122
+vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?type=tcp&security=tls&sni=www.kinopoisk.ru&fp=qq&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Beget LLC ┇ 5.35.85.51
+vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@5.178.85.225:443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 5.178.85.225
 vless://db62e9f2-49a3-4e9d-a59b-0bf77f102420@ru3.sipipro.su:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 85.208.85.246
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@185.242.19.250:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 185.242.19.250
-vless://ff50cabc-de03-42d3-8177-b6a0834ee373@178.154.214.111:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 178.154.214.111
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@84.252.134.76:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 84.252.134.76
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@185.91.54.151:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.54.151
-vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?type=tcp&security=none&path=/test#RU 🇷🇺 ┇ VLESS-TCP-NTLS - UFO Hosting LLC ┇ 171.22.136.84
-vless://bfef1a3f-d106-4346-89fa-4f7e369e99de@84.201.129.232:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 84.201.129.232
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ch-xh-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=ch-xh-01.hpdata.click&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC IOT ┇ 176.12.69.2
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Naoborot Llp ┇ 85.234.114.53
+vless://59341a57-7f08-4776-9f94-e4aab1461432@51.250.19.156:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&sid=27e53bbcab7593d7#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 51.250.19.156
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@shveccxc1.twilightparadox.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 193.151.108.143
+vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@ru.riotvpn.eu:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - UFO Hosting LLC ┇ 2.56.178.206
+vless://7283d2d5-7b14-431b-9d1f-96f2dac4a97b@194.55.245.34:58888?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 194.55.245.34
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.24.172:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 213.171.24.172
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&host=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.232.177.114:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 89.232.177.114
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNS41MiIsImFkZCI6Im1idC5pcmNmLnNwYWNlIiwicG9ydCI6NDQzLCJpZCI6Ijc5NzcwYTMyLTk2MDctNDkxOS05NDgzLTBmMTc5NDU1OTM5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2p1WUx5dk5CcFkwTEJPQW9tbXkyYUpFIiwidGxzIjoidGxzIn0
+vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 80.249.131.7
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgNDUuMTQyLjEyMC4xOTAiLCJhZGQiOiI0NS4xNDIuMTIwLjE5MCIsInBvcnQiOjIwODIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@31.172.67.43:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Fornex Hosting S.L. ┇ 31.172.67.43
+vless://76c60eb2-4973-4c40-8ccb-6a8ff2746e9c@193.168.46.180:443?type=tcp&security=reality&sni=rruu.persik.host&fp=chrome&flow=xtls-rprx-vision&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 193.168.46.180
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb2NyZWRpdCBDb21wYW55IFpheW1lciBQSlNDIFx1MjUwNyA0NS42Ny4yMTUuMTE5IiwiYWRkIjoiNDUuNjcuMjE1LjExOSIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.200:30120#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 46.29.163.200
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.200:20129#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 46.29.163.200
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
+vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@87.228.102.182:80?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.102.182
+vless://bb7b4908-a24a-44ae-b9c7-6691b2576269@45.67.215.165:443?type=tcp&security=none&path=/?ed#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Microcredit Company Zaymer PJSC ┇ 45.67.215.165
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNC4xMTgiLCJhZGQiOiIxODUuMTQ4LjEwNC4xMTgiLCJwb3J0Ijo0NDMsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2In0
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@uk-xh-01.hpdata.click:443?type=tcp&security=tls&sni=uk-xh-01.hpdata.click&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC IOT ┇ 157.22.195.90
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ch-xh-01.hpdata.click:443?type=tcp&security=tls&sni=ch-xh-01.hpdata.click&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - JSC IOT ┇ 176.12.69.2
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBVRk8gSG9zdGluZyBMTEMgXHUyNTA3IDE3MS4yMi4xMzQuMTIiLCJhZGQiOiIxNzEuMjIuMTM0LjEyIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE2ODk5MzUyNDMwMjciLCJ0bHMiOiJ0bHMifQ
+vless://0752b610-6fd0-4382-a40c-39d59b416a1e@91.220.109.185:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 91.220.109.185
+vless://f5116fb4-61c6-4bac-82ac-67b0e68e0b87@45.11.26.216:8443?type=tcp&security=reality&sni=wl-7-2.nodes.ac&fp=chrome&flow=xtls-rprx-vision&pbk=XcKsq814Eci-OL3RwNbjvTMn73QzoczITlTSmnY-syI&sid=ba4ce2cb1029b0dd#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Mt Finance LLC ┇ 45.11.26.216
+vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@81.163.23.125:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=7e2a9d4c5f18b0#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 81.163.23.125
+vless://ff50cabc-de03-42d3-8177-b6a0834ee373@87.228.101.57:8443?type=xhttp&security=reality&path=/&sni=api.yandex.ru&mode=auto&fp=chrome&pbk=4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk&sid=ee82aca370f4428b#RU 🇷🇺 ┇ VLESS-XHTTP-REALITY - JSC Selectel ┇ 87.228.101.57
+vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@178.72.149.133:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 178.72.149.133

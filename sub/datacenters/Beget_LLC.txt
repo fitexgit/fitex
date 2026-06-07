@@ -1,1 +1,2 @@
-vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 5.35.85.51
+vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?type=tcp&security=tls&sni=www.kinopoisk.ru&fp=qq&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Beget LLC ┇ 5.35.85.51
+vless://76c60eb2-4973-4c40-8ccb-6a8ff2746e9c@193.168.46.180:443?type=tcp&security=reality&sni=rruu.persik.host&fp=chrome&flow=xtls-rprx-vision&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 193.168.46.180
