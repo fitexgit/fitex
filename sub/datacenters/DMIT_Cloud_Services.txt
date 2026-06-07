@@ -1,1 +1,3 @@
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.31.113.22:443?type=tcp&security=tls#JP 🇯🇵 ┇ VLESS-TCP-TLS - DMIT Cloud Services ┇ 154.31.113.22
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.3.32.164:8443?type=tcp&security=tls#HK 🇭🇰 ┇ VLESS-TCP-TLS - DMIT Cloud Services ┇ 154.3.32.164
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?type=ws&security=tls&path=/proxyip=ProxyIP.CMLiussss.net&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch#US 🇺🇸 ┇ VLESS-WS-TLS - DMIT Cloud Services ┇ 64.186.225.13

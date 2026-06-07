@@ -1,1 +1,2 @@
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?type=ws&security=tls&path=/16838/c89d26b724fe/&sni=sni.mmadcoffee.info&host=smtp.mmadcoffee.info&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.175.169.174
+vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@43.175.169.174:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.175.169.174
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?type=ws&security=tls&path=/16838/c89d26b724fe/&sni=sni.mmadcoffee.info&host=smtp.mmadcoffee.info&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.175.169.174
