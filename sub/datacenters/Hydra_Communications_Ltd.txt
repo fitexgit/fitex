@@ -1,1 +1,2 @@
-vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?type=tcp&security=none&path=/DarkTeam_VPN#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Hydra Communications Ltd ┇ 193.104.58.46
+vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?type=ws&security=none&path=/DarkTeam_VPN&host=speedtest.net#UA 🇺🇦 ┇ VLESS-WS-NTLS - Hydra Communications Ltd ┇ 193.104.58.46
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hydra Communications Ltd ┇ 185.134.22.115

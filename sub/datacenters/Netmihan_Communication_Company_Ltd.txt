@@ -1,2 +1,2 @@
 vless://e6d74f1f-bce5-43e3-b65a-63bb6d825764@tun2.axenet.company:8443?type=tcp&security=tls&path=/513sas?&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-TLS - Netmihan Communication Company Ltd ┇ 217.144.104.176
-vless://a110b967-f1f3-4a83-9172-d896a1964197@pey.peymanboy.online:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.45.89.55
+vless://a110b967-f1f3-4a83-9172-d896a1964197@pey.peymanboy.online:443?type=ws&security=tls&path=/&sni=pey.peymanboy.online&host=pey.peymanboy.online&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netmihan Communication Company Ltd ┇ 89.45.89.55

@@ -1,8 +1,2 @@
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newde.myatris.org:1005?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 198.105.115.98
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newtr.myatris.org:1004?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.71.219.233
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newtr.myatris.org:7500?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 185.71.219.233
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newnl.myatris.org:2024?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.43.92.136
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3a3dFNE5tMUxvdGJDRG1rWUp1UmhR@9newde.myatris.org:4302#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - YottaSrc ┇ 198.105.115.98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3a3dFNE5tMUxvdGJDRG1rWUp1UmhR@9newtr.myatris.org:4303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - YottaSrc ┇ 185.71.219.233
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newnl.myatris.org:7500?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.92.136
-vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newde.myatris.org:7500?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.115.98
+vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newde.myatris.org:7500?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 198.105.115.98
+vless://6c76efec-ee0e-4bcc-b9e6-98859ab68484@9newtr.myatris.org:7500?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.71.219.233

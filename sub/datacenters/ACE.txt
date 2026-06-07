@@ -1,3 +1,4 @@
 vless://b3ddc03c-0be7-4b46-8a4e-9f79de03d4f5@43.169.18.179:443?type=ws&security=tls&path=/id-tksi&sni=unnes.ac.id.cyylr.eu.cc&host=unnes.ac.id.cyylr.eu.cc#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.18.179
 vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@43.175.169.174:443?type=tcp&security=none&path=/14708/31d3c8561998/#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.175.169.174
-vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?type=tcp&security=none&path=/15284/coffee#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.246.27
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?type=tcp&security=none&path=/16838/c89d26b724fe/#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.175.169.174
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=tcp&security=none&path=/16838/c89d26b724fe/#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.246.50
