@@ -1,4 +1,7 @@
+vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.72
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.125
+vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
 vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=wsoliver&security=none&path=/&host=2.naxm.ir#AE 🇦🇪 ┇ VLESS-WSOLIVER-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
+vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6

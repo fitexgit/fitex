@@ -1,2 +1,6 @@
-vless://de3104b0-0c51-49df-8350-da4bbe654820@89.22.230.82:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.230.82
+vless://b36af010-4146-478b-ac7b-d929b96b7314@77.110.110.166:443?type=tcp&security=reality&sni=ads.x5.ru&fp=randomized&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.110.110.166
+vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.148.226
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
+vless://b36af010-4146-478b-ac7b-d929b96b7314@gosuslugiru.outlinekeys.net:443?type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 84.22.148.188
+vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.108.20.152
+vless://b7e79518-fb32-446b-a74a-755cfbe77da0@91.103.140.69:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 91.103.140.69

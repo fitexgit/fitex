@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.9:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.9
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?type=ws&security=tls&path=/?ed&sni=mzaxmc.lizardshop.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 63.141.128.5
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
