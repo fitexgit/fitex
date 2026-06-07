@@ -1,1 +1,4 @@
-vless://97de1f85-5f2c-4446-8507-b437125623a2@62.60.245.10:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 62.60.245.10
+vless://d3f7ef37-faab-4679-9c22-681c9167f7a9@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://0e410712-bb57-454d-b2ee-57301ecb3db4@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://3db21a9a-1ec9-4b3e-811e-ce8c8762378f@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://a7fba015-a571-4996-bead-acc8f10c9c5f@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191

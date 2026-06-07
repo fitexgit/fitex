@@ -1,5 +1,4 @@
+vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.125
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://a0d9d727-a3a8-43bd-bbaf-1b590e6f0143@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.18
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Respina Networks & Beyond PJSC ┇ 77.237.85.198
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
-vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=wsoliver&security=none&path=/&host=2.naxm.ir#AE 🇦🇪 ┇ VLESS-WSOLIVER-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
