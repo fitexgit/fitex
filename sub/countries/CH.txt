@@ -1,18 +1,12 @@
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l10-1.l-itx.info:443?type=tcp&security=tls&sni=yandex.by&fp=firefox#CH 🇨🇭 ┇ VLESS-TCP-TLS - Infomaniak Network SA ┇ 179.237.69.218
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTguMjUwLjcwIiwiYWRkIjoiMTg1LjE4LjI1MC43MCIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
-hysteria2://Masir_Sefid@195.15.253.119:443?sni=free2.masir-sefid-1.my&insecure=0&obfs=salamander#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 195.15.253.119
-hysteria2://Masir_Sefid@84.234.31.190:4040?sni=free3.masir-sefid-1.my&insecure=0&obfs=salamander#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.190
-hysteria2://Masir_Sefid@84.234.31.190:8880?sni=free3.masir-sefid-1.my&insecure=0&obfs=salamander#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.190
-hysteria2://Masir_Sefid@84.234.31.190:54040?sni=free3.masir-sefid-1.my&insecure=0&obfs=salamander#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.190
-hysteria2://Masir_Sefid@84.234.31.190:1040?sni=free3.masir-sefid-1.my&insecure=0&obfs=salamander#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.190
-vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 45.59.124.139
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0@86.106.84.198:13265#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 86.106.84.198
-vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=xfFtXn8eIYgILiGMvwYorrrHMiH-KBDPIa8uwEDWkik&sid=723f912a60ed8b#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 195.15.253.247
-vless://f77299ea-e13d-417d-8cdc-ce5566dfc94b@185.18.250.252:443?type=tcp&security=tls#CH 🇨🇭 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 185.18.250.252
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?type=xhttp&security=none&path=/awduhiawad?ed=2560&host=amazon.joingulf.lol&mode=auto#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 185.18.250.67
-vless://f77299ea-e13d-417d-8cdc-ce5566dfc94b@185.18.250.245:443?type=tcp&security=tls#CH 🇨🇭 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 185.18.250.245
+vless://92d41509-4228-43da-aebb-70b1d8d68f04@swiss.janusgate.org:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Julian Achter ┇ 45.141.119.85
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHVEhvc3QgXHUyNTA3IDE4Ni4xOTAuMjE1Ljc1IiwiYWRkIjoiMTg2LjE5MC4yMTUuNzUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@37.120.213.230:50004#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 37.120.213.230
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTguMjUwLjcwIiwiYWRkIjoiMTg1LjE4LjI1MC43MCIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
+vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:2083?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 195.15.253.247
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?type=xhttp&security=none&path=/awduhiawad?ed=2560&host=amazon.joingulf.lol&mode=auto#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 185.18.250.67
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M@86.106.84.195:13262#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 86.106.84.195
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHVEhvc3QgXHUyNTA3IDE4Ni4xOTAuMjE1LjMyIiwiYWRkIjoiMTg2LjE5MC4yMTUuMzIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 185.18.250.252
-vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:2083?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=xGtE0lNJhquu9-SbAz0ONZrbKXp7jztZUn6lyz9iUW4&sid=635e294ebe95#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 195.15.253.247
+vless://a1e34e93-e9cc-46fb-89c5-d3f371172ad6@83.228.250.76:2083?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.250.76
+vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 45.59.124.139
+vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 195.15.253.247
