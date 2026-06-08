@@ -1,9 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1BVVRPIC0gV29ya1RpdGFucyBCLlYuIFx1MjUwNyA0NS4xMi4xMzIuMTgzIiwiYWRkIjoicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiYXV0byJ9
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.12.146.12:443?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.12.146.12
-vmess://eyJ2IjoiMiIsInBzIjoiQ1kgXHVkODNjXHVkZGU4XHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXb3JrVGl0YW5zIEIuVi4gXHUyNTA3IDQ1LjEyLjEzMi4xODMiLCJhZGQiOiJwcS1IdW5nYXJ5MS4wOXZwbi5jb20iLCJwb3J0Ijo4NDQzLCJpZCI6IjZmMWYxYTE4LWVjYzQtNDUxMy04OTBlLWZkMTkzMDQyZjU2NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6InRscyJ9
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&path=/XIXVPN&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#HU 🇭🇺 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 5.182.38.91
-vless://85f15b9d-74da-4ea0-9ffd-5fc0bb03e3d5@185.237.223.36:13295?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 185.237.223.36
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?type=ws&security=none&path=/vless/#CY 🇨🇾 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 45.15.170.237
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443?type=ws&security=tls&path=/#CY 🇨🇾 ┇ VLESS-WS-TLS - WorkTitans B.V. ┇ 2.56.126.30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&security=none&mode=gun#BG 🇧🇬 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 95.164.45.95
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 45.159.248.125
+vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.15.152.73
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 185.231.205.99

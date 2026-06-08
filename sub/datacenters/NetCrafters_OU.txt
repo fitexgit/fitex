@@ -1,6 +1,4 @@
-vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
-vless://7a5dde25-ba38-48dd-9935-bbe5407c82d1@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@83.147.253.18:443?type=ws&security=tls&path=/&sni=3-7ny.pages.dev&host=3-7ny.pages.dev&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - NetCrafters OU ┇ 83.147.253.18
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
 vless://309b755b-3af0-4ae0-8244-5fd79d30a7d0@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@77.110.122.22:8443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Nlsu3xrYPB9ePk3pkcCPJbsuhsLrmAOeXMKaNAZyOww&sid=97783a46#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 77.110.122.22
+vless://c65ca957-329a-0004-8e62-eaaa48468833@spb.connectv.net:443?type=tcp&security=tls&sni=spb.connectv.net&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - NetCrafters OU ┇ 83.147.255.170
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
