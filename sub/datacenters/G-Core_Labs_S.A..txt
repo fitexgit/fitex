@@ -1,10 +1,7 @@
-vless://07618b34-bb79-4e19-8cef-7170f70c2214@orin-ing-10.orinvpn.ru:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.120
-vless://c2e0d5cb-de84-4f44-b230-6e0e77ebab40@iplookup.mobileemdad.top:36854?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.126
-vless://373209d7-c464-4ad3-9027-07e94afad7d5@www.downloadnova.live:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.44
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
-vless://5f9366ec-90e6-4263-a37e-fe90e11668b8@iran.wpax.ir:1050?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.21
-vless://bbd67e54-1b4b-488b-a5df-708ef896ecaa@rt1.mwnst.com:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.81
+ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
+vless://bbd67e54-1b4b-488b-a5df-708ef896ecaa@rf3.mwnst.com:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 80.93.217.181
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
+vless://5f9366ec-90e6-4263-a37e-fe90e11668b8@iran.wpax.ir:1050?type=tcp&security=none&host=arvancload.ir#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.21
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?type=tcp&security=tls&sni=45.80.215.68&host=45.80.215.68#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 45.80.215.68
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
-vless://44ee527d-c865-4631-8315-c2887ff3a9bb@iplookup.mobileemdad.top:36854?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.126
-vless://5f9366ec-90e6-4263-a37e-fe90e11668b8@irans.wpax.ir:1050?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.31.219
+vless://9f1fcaa7-1dda-49f1-abd9-5dcdd0c820a1@tr.parsashoporg.ir:8080?type=tcp&security=none&path=/video#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.96

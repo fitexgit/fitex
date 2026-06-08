@@ -1,3 +1,4 @@
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 212.80.10.215
-vless://a1c30f35-e254-409c-89be-7754fed29ab0@87.107.193.3:8443?type=grpc&security=reality&sni=www.sanjesh.org&mode=gun&fp=chrome&pbk=XG7zu6GMH-maiYcacOIcbiDB9WwwNZLUmOkOp7nmcmw&sid=0f#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - Giti Secure Cloud LLC ┇ 87.107.193.3
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Giti Secure Cloud LLC ┇ 94.183.153.85
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
+vless://a1c30f35-e254-409c-89be-7754fed29ab0@87.107.193.3:8443?type=grpc&security=reality&sni=www.sanjesh.org&mode=gun&fp=chrome&pbk=XG7zu6GMH-maiYcacOIcbiDB9WwwNZLUmOkOp7nmcmw&sid=0f#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - Giti Secure Cloud LLC ┇ 87.107.193.3
