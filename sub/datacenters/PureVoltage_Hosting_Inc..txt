@@ -1,2 +1,3 @@
-vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - PureVoltage Hosting Inc. ┇ 140.235.169.7
-vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.168.3:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - PureVoltage Hosting Inc. ┇ 140.235.168.3
+vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - PureVoltage Hosting Inc. ┇ 140.235.169.7
+vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.168.3:993?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - PureVoltage Hosting Inc. ┇ 140.235.168.3
+vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:993?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - PureVoltage Hosting Inc. ┇ 140.235.169.7

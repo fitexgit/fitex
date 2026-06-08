@@ -1,2 +1,1 @@
-vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?type=ws&security=tls&path=/dahuqpws#CY 🇨🇾 ┇ VLESS-WS-TLS - WorkTitans B.V. ┇ 45.128.54.17
-vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.15.152.73
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 195.42.233.125
