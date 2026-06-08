@@ -1,7 +1,8 @@
-vless://a0d47204-1b5d-4038-82d0-467cc88a1763@informationprovided.vidboxco.ir:800?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.158.169.48
-vless://c88089af-01cf-4c3f-b53f-7cb6bc44928c@188.130.206.60:2086?type=tcp&security=reality&sni=emalls.ir&fp=chrome&flow=xtls-rprx-vision&pbk=zJipoflsCdl1n-6bk93GrLB7tO8sLecz0OA65hmY6UM&sid=0ef62963292d89#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 188.130.206.60
-vless://27cab83e-e48c-467a-a641-32eb070c03ac@31.56.28.52:46574?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.28.52
-vless://63428895-037b-4b61-b756-b984c3be5fd5@vip.dynamicmc.ir:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.143.196
+vless://fab8af66-409e-4946-b263-1821882ef6ec@188.130.206.48:50136?type=tcp&security=tls&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Cgi Global Limited ┇ 188.130.206.48
+vless://f2afa642-76c6-419f-af1c-45674d8284e7@46.8.68.167:13278?type=grpc&security=reality&mode=gun&fp=chrome&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Cgi Global Limited ┇ 46.8.68.167
+vless://0d8691c0-701f-4f6a-a0f4-21c0bbe5734a@188.130.206.60:2086?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.206.60
+vless://200290dc-8698-4284-a6e5-0ffd91be8589@45.89.244.210:35750?type=tcp&security=reality&sni=cloudflare.com&host=@ProxyVPN11&fp=chrome&flow=xtls-rprx-vision&pbk=rtqKOfjHLaN8qzlOOGHXrxWnEoqzQKQLSi8ZGIMjVlQ&sid=01f43c37b8#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 45.89.244.210
 vless://27cab83e-e48c-467a-a641-32eb070c03ac@31.56.28.52:14862?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.28.52
-vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 193.164.155.121
+vless://1b16b6f8-b8dd-43d7-84f9-8eb8a7e15504@sina.35o.ir:25645?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GnAQ0pqW4HGqMuOY7crTmcQ56FuABKPP9YaiJzOS3X8&sid=d6372f1a0a#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 217.60.252.90
+vless://5cc50acf-586c-4d81-9ee1-bd26799063b9@31.56.146.15:22285?type=grpc&security=reality&sni=Zara.com&fp=chrome&pbk=0fQ7s4kl6-F3PlRit7ujsiseddifSgDa4LEQqGdJNEw&sid=ab#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Cgi Global Limited ┇ 31.56.146.15
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.238.171

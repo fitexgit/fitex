@@ -1,1 +1,8 @@
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@217.16.21.116:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.21.116
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@vk-most-pl.harknmav.fun:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.230.46
+vless://cb85bc22-3c44-4b47-bef2-0b1d9dcd0b21@185.130.114.211:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 185.130.114.211
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@vk-most-gaming.harknmav.fun:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.21.170
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 37.139.34.145
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@146.185.211.107:8444?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - LLC VK ┇ 146.185.211.107
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - LLC VK ┇ 146.185.209.234
+vless://10822003-3825-4d23-a07c-cb7303e1e4d0@217.16.27.113:443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 217.16.27.113
+vless://3085a189-b07c-41f4-b686-1810226f8e1d@185.130.114.211:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 185.130.114.211

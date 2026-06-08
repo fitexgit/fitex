@@ -1,2 +1,1 @@
-vless://d5df530c-da32-4c83-95a6-33bd851ac652@go.bcinetworkcore.com:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 80.89.237.42
-vless://d5df530c-da32-4c83-95a6-33bd851ac652@direct.bcinetworkcore.com:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Podaon SIA ┇ 80.89.237.42
+vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?type=ws&security=none&path=/&host=188.137.230.245#DE 🇩🇪 ┇ VLESS-WS-NTLS - Podaon SIA ┇ 188.137.230.245

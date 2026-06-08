@@ -1,1 +1,2 @@
-vless://53707df1-4a41-4b9f-82b1-84e3ee6c76d8@185.189.58.195:29703?type=tcp&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Massivegrid Ltd ┇ 185.189.58.195
+vless://bc7c7c10-8f24-332e-b303-fb3c8943c24f@s644.ccgfw.top:443?type=tcp&security=tls&sni=u712927ud3c8s644.ccgfw.top&host=s644.ccgfw.top&fp=random&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Massivegrid Ltd ┇ 185.85.242.156
+vless://ccf58b3f-66af-4842-b419-2b3d0a603462@185.168.195.211:23310?type=ws&security=none&path=/ws&host=185.168.195.211#GB 🇬🇧 ┇ VLESS-WS-NTLS - Massivegrid Ltd ┇ 185.168.195.211

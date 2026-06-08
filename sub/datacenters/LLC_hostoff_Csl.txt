@@ -1,4 +1,2 @@
-vless://be2e1543-d450-481b-a955-c691086e41b1@85.155.96.166:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LLC hostoff Csl ┇ 85.155.96.166
-vless://be2e1543-d450-481b-a955-c691086e41b1@144.31.112.22:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - LLC hostoff Csl ┇ 144.31.112.22
-vless://be2e1543-d450-481b-a955-c691086e41b1@103.137.193.159:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LLC hostoff Csl ┇ 103.137.193.159
-vless://be2e1543-d450-481b-a955-c691086e41b1@2.27.57.3:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - LLC hostoff Csl ┇ 2.27.57.3
+vless://be2e1543-d450-481b-a955-c691086e41b1@pl-modx.nodexphere.net:443?type=tcp&security=reality&sni=pl-modx.nodexphere.net&host=CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex&fp=chrome&flow=xtls-rprx-vision&pbk=_S6MJ2-dROx_X7rUM_Gnh01MPAVVgnB0_x0t4_2XuVc#PL 🇵🇱 ┇ VLESS-TCP-REALITY - LLC hostoff Csl ┇ 103.68.110.96
+vless://be2e1543-d450-481b-a955-c691086e41b1@144.31.112.22:443?type=tcp&security=reality&sni=pl-modx.nodexphere.net&fp=chrome&flow=xtls-rprx-vision&pbk=_S6MJ2-dROx_X7rUM_Gnh01MPAVVgnB0_x0t4_2XuVc#PL 🇵🇱 ┇ VLESS-TCP-REALITY - LLC hostoff Csl ┇ 144.31.112.22

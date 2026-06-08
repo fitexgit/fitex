@@ -1,1 +1,2 @@
-vless://02790c0e-87f3-46f6-91c8-973a804621e7@67.159.25.18:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - FDCservers.net ┇ 67.159.25.18
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@50.7.85.221:443?type=ws&security=tls&path=/?ed=2048&sni=mohsenfitshr.wibibin259.workers.dev&host=mohsenfitshr.wibibin259.workers.dev#DE 🇩🇪 ┇ VLESS-WS-TLS - FDCservers.net ┇ 50.7.85.221
+vless://68c58767-b300-4490-94d4-844f4bd44c66@fr.c2horizon.app:443?type=tcp&security=tls&sni=fr.c2horizon.app&fp=edge&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - FDCservers.net ┇ 67.159.44.196

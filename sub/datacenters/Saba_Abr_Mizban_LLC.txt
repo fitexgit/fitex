@@ -1,3 +1,2 @@
-vless://577998a4-e757-460d-b176-d1bea7abf954@ecare.ciscoserver.com:8443?type=ws&security=tls&path=/&sni=dash.gamespasebot.ir&host=dash.gamespasebot.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.226.140.140
-vless://577998a4-e757-460d-b176-d1bea7abf954@ecare.ciscoserver.com:443?type=ws&security=tls&path=/dash&sni=cloudn.gamespasebot.ir&host=cloudn.gamespasebot.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.226.140.140
-vless://42e41db1-f95d-421c-bfd5-94b7f3dbbae3@best.tvpshop.ir:443?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 185.226.142.42
+vless://8840a7b2-302d-4f71-9414-fc0bc4d4a907@ecare.ciscoserver.com:8443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.140
+vless://8840a7b2-302d-4f71-9414-fc0bc4d4a907@ecare.ciscoserver.com:443?type=tcp&security=none&path=/dash#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.140
