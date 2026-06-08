@@ -1,7 +1,1 @@
-vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@111.88.107.251:80?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 111.88.107.251
-vless://93402fb1-56e0-4f7c-bf9c-4956c27e7e31@5.178.85.225:443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 5.178.85.225
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 80.249.131.7
-vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@87.228.102.182:80?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.102.182
-vless://d1e9c0d3-b899-43cd-bf75-b24535011d2c@81.163.23.125:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=7e2a9d4c5f18b0#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 81.163.23.125
-vless://ff50cabc-de03-42d3-8177-b6a0834ee373@87.228.101.57:8443?type=xhttp&security=reality&path=/&sni=api.yandex.ru&mode=auto&fp=chrome&pbk=4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk&sid=ee82aca370f4428b#RU 🇷🇺 ┇ VLESS-XHTTP-REALITY - JSC Selectel ┇ 87.228.101.57
-vless://372a64ab-298d-4b4f-abc1-9b3fbe242bc3@178.72.149.133:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 178.72.149.133
