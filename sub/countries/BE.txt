@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:809#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
 vless://48d7e2e5-6ddc-434f-a5e5-c53b9e2f6301@109.69.218.212:443?type=tcp&security=reality#BE 🇧🇪 ┇ VLESS-TCP-REALITY - VERIXI SA ┇ 109.69.218.212
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=tcp&security=none&path=/?ed=2048#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.110

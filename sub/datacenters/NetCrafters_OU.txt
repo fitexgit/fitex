@@ -1,4 +1,10 @@
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 193.233.202.1
-vless://2804b208-ee69-4d86-a478-79905f7213c4@62.60.245.10:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 62.60.245.10
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://f8ab9070-76c8-47f7-bd8b-eec82a302e83@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@77.110.127.139:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.139
+vless://8603ff9b-34c8-4f81-a9cc-3102cdffc112@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://148fe3f2-fbfd-4287-a298-33c04babcf07@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 193.233.202.7
+vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://7a5dde25-ba38-48dd-9935-bbe5407c82d1@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
 vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@77.110.115.192:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 77.110.115.192

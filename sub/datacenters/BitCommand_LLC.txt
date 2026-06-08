@@ -1,3 +1,4 @@
-vless://f40f1cb8-486e-49e3-b82c-fc795b1f97d6@prophet.nodeforge.ir:6443?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 46.249.101.61
-vless://af9a35f6-6d08-4e39-b1f3-0bb623369da8@89.251.8.24:2096?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - BitCommand LLC ┇ 89.251.8.24
-vless://af9a35f6-6d08-4e39-b1f3-0bb623369da8@89.251.8.24:1418?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - BitCommand LLC ┇ 89.251.8.24
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.91.5
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:43160?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.91.5
+vless://f40f1cb8-486e-49e3-b82c-fc795b1f97d6@prophet.nodeforge.ir:6443?type=xhttp&security=reality&path=/&sni=www.google.com&mode=auto&fp=chrome&pbk=zuBo7pveAqfNdou4kPYPvcfH5uQ7K7V365D7a51WUFo&sid=059ade2f5d#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - BitCommand LLC ┇ 46.249.101.61
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.91.5

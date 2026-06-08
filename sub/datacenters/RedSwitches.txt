@@ -1,3 +1,1 @@
-vless://7d1591c2-c313-0014-a56a-cfff98808bdc@de01.goodmaximum.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 103.147.152.14
-vless://db95b766-43a8-0014-9b5d-5ca6f2735188@de01.goodmaximum.com:443?type=tcp&security=reality&sni=data.glimmerhouse.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#DE 🇩🇪 ┇ VLESS-TCP-REALITY - RedSwitches ┇ 103.147.152.14
-vless://588ebd11-eca7-0014-b629-5bdae3bf7ad8@de01.goodmaximum.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - RedSwitches ┇ 103.147.152.14
+vless://62c82c17-c70f-002d-95e4-e52a67a435ef@leg.goodmaximum.com:443?type=grpc&security=reality&sni=workspace.sablefrost.com&mode=gun&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - RedSwitches ┇ 103.147.152.14
