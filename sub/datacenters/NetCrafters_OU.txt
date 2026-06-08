@@ -1,3 +1,2 @@
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 193.233.202.1
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@77.110.115.192:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 77.110.115.192
-vless://c65ca957-329a-0004-8e62-eaaa48468833@spb.connectv.net:443?type=tcp&security=tls&sni=spb.connectv.net&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - NetCrafters OU ┇ 83.147.255.170
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 62.60.251.131
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191

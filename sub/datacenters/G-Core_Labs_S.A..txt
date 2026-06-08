@@ -1,9 +1,5 @@
-vless://07618b34-bb79-4e19-8cef-7170f70c2214@orin-ing-10.orinvpn.ru:2053?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.120
-vless://3f2b5e60-9d40-42b6-9a2c-5e1aab139d7d@helixgaming.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
-vless://25528d57-0319-4811-9f00-95e5cdee839a@blit1.hamrahcore.ir:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 82.158.120.56
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
-vless://373209d7-c464-4ad3-9027-07e94afad7d5@www.downloadnova.live:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.44
-vless://373209d7-c464-4ad3-9027-07e94afad7d5@about.downloadnova.live:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.137.142
+vless://07618b34-bb79-4e19-8cef-7170f70c2214@orin-ing-10.orinvpn.ru:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.120
+vless://718075e2-d132-4a04-8364-30c59a12ba57@92.223.124.62:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 92.223.124.62
+vless://373209d7-c464-4ad3-9027-07e94afad7d5@www.downloadnova.live:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.44
 vless://193b1e00-fd19-478a-8467-841cc81e779b@blit33.hamrahcore.ir:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.163.53
