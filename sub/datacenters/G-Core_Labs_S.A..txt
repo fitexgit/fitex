@@ -1,4 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?type=tcp&security=tls&sni=45.80.215.68&host=45.80.215.68#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 45.80.215.68
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+vless://875d0422-9b8d-4a43-9471-44144a468c75@map.downloadnova.live:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.56
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
 vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDUuMTgxLjI1LjgxIiwiYWRkIjoiNS4xODEuMjUuODEiLCJwb3J0IjoyMTAwOCwiaWQiOiI4MGI1NjQ1YS04NmI3LTQ4YWYtOTI1Mi05NzdiYTgwN2EzMzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://875d0422-9b8d-4a43-9471-44144a468c75@www.downloadnova.live:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.44
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
+vless://74dfb479-826c-42f7-95c4-b0725d96a437@helixgaming.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://80d4ae97-b4a3-4924-ae8e-983a41419cf5@helixgaming.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://373209d7-c464-4ad3-9027-07e94afad7d5@about.downloadnova.live:719?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.38
+vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.125
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?type=tcp&security=tls&sni=45.80.215.68&host=45.80.215.68#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 45.80.215.68
+vless://373209d7-c464-4ad3-9027-07e94afad7d5@www.downloadnova.live:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.44
+vless://875d0422-9b8d-4a43-9471-44144a468c75@about.downloadnova.live:719?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.10.59.38

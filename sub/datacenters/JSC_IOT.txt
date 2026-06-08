@@ -1,1 +1,1 @@
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC IOT ┇ 80.87.200.175
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru&mode=multi#RU 🇷🇺 ┇ VLESS-GRPC-TLS - JSC IOT ┇ 80.87.200.175
