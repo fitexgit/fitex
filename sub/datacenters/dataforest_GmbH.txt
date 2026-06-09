@@ -1,6 +1,5 @@
-vless://37809eb5-6c98-4784-a05b-909acb2ec0aa@de.riotvpn.eu:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 176.96.139.160
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 176.96.139.160
-vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 45.145.43.46
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&sid=b3#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 193.46.81.151
+vless://ec06516e-7517-434e-a77f-31ee65ac70e7@de46.whost-solutions.ru:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 194.238.79.203
+vless://join--ZEDMODEON@2a0d:5940:47:31:::25365?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 2a0d:5940:47:31::
 vless://ee493449-df40-4d17-9a50-cf28c9288923@45.157.232.164:15198?type=xhttp&security=reality&path=/MTPV2ray&sni=www.varzesh3.com&mode=packet-up&fp=firefox&pbk=8lGfxA5t5bj7JNPYgLxmeta47c7He4M0i9gYoaTAvAo&sid=f4ad#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - dataforest GmbH ┇ 45.157.232.164
-vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:2048?type=ws&security=none&path=/&host=ads.x5.ru#DE 🇩🇪 ┇ VLESS-WS-NTLS - dataforest GmbH ┇ 194.107.126.57
+vless://fde86c85-6d4d-420b-bfde-47687763517e@night.dl.darinips.com:443?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 193.46.81.220

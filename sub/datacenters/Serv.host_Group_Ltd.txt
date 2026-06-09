@@ -1,8 +1,5 @@
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@de.pink-perfect.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.90.127
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.72.136
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@china-node.appbyte.online:2040?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.53.213
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@fin.pink-perfect.ru:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 2.26.9.230
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@fr.pink-perfect.ru:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 213.176.73.54
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.53.0
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.217.99
-vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.82.47
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.53.0
+vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@de.pink-perfect.ru:443?type=tcp&security=reality&sni=www.google.com&fp=qq&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.90.127
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.103.208
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.217.99
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.101.222

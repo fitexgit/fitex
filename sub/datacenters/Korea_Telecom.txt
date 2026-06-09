@@ -1,3 +1,2 @@
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@175.206.2.186:10255?type=ws&security=tls&path=/blue&sni=jt.ylks01.eu.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 175.206.2.186
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?type=grpc&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34#KR 🇰🇷 ┇ VLESS-GRPC-REALITY - Korea Telecom ┇ 121.154.180.50
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.20:55104#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 221.150.109.20
+vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@183.98.120.11:12266?type=ws&security=tls&path=/&sni=am-tunnel-6fs.pages.dev#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 183.98.120.11

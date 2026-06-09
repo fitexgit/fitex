@@ -1,2 +1,4 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.9:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.9
+vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?type=xhttp&security=tls&path=/eQ7EK5s88mh1QkaLDB4v5psc&sni=cd2.serviceali.ir&host=cd2.serviceali.ir&mode=auto#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Bigcommerce Inc. ┇ 63.141.128.237
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
+vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=ws&security=none&path=/&host=hamon.hamimelectronic.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - Bigcommerce Inc. ┇ 192.200.160.20
+vless://fdf376b1-4df5-4bd3-a7c7-1ce76ec4e3f1@192.200.160.253:2086?type=xhttp&security=none&path=/&host=xvh.andishehparenting.com&mode=packet-up#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Bigcommerce Inc. ┇ 192.200.160.253

@@ -1,2 +1,2 @@
-vless://3e72a68f-e40d-44c6-a73d-13b99d0d1d50@nl.riotvpn.eu:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.103.222
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l7.l-itx.info:7443?type=tcp&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 31.76.240.74
+vless://fd56bd53-abbd-4841-b332-3a06d63ca23c@94.125.102.179:443?type=tcp&security=reality&sni=www.icloud.com:443&fp=chrome&flow=xtls-rprx-vision&pbk=5nvAsUrFIVynQK9nPwDLzhh8upfTz3VGAaBvPh0U-RY&sid=ce41e5e590#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.102.179
+vless://ff775d16-a47d-4138-ab66-cca44d3bc380@2.26.255.24:443?type=tcp&security=reality&sni=gov.pl&fp=chrome&flow=xtls-rprx-vision&pbk=2uUeX_yOOaOyyY15NwoKjHG_1M8eYtNQHwnMrkkhIEg#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 2.26.255.24
