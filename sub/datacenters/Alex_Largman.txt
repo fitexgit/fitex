@@ -1,2 +1,1 @@
-vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-NTLS - Alex Largman ┇ 122.8.44.3
-vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.4:993?type=tcp&security=reality&sni=cdn.steamstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE#CN 🇨🇳 ┇ VLESS-TCP-REALITY - Alex Largman ┇ 122.8.44.4
+vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?type=tcp&security=reality#CN 🇨🇳 ┇ VLESS-TCP-REALITY - Alex Largman ┇ 122.8.44.3
