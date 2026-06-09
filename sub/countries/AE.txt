@@ -1,7 +1,1 @@
-vless://7e3503ef-2bd8-40bd-a4fc-f3a9f5e787b7@94.140.0.0:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfVHVzdUU1aTBFenl2V3NRdVRpS01Ncl9qX3NkdXUyRQ@130.49.161.18:28474#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Digital City FZE ┇ 130.49.161.18
-vless://cbc9f9be-bd9c-4a8a-8439-ec606ea4803f@185.253.116.18:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
-vless://05c78030-da42-4549-a13c-3a9c0dff539e@172.86.77.189:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 172.86.77.189
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://386c2a79-2ace-4784-8831-9189e58702f3@94.140.0.204:80?type=tcp&security=none&path=/?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.204
