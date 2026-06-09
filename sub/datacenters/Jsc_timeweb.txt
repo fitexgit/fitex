@@ -1,5 +1,4 @@
 vless://e438ed18-0208-4620-b7f4-56ba7045f397@5.42.115.36:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 5.42.115.36
-vless://28e16798-7233-4537-a8f4-ef3cffefa9bc@81.200.149.15:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 81.200.149.15
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 46.229.215.189
+vless://4121a71e-a3d6-455c-a00f-cc4125aecedb@217.149.30.27:2087?type=tcp&security=no#RU 🇷🇺 ┇ VLESS-TCP-NO - Jsc timeweb ┇ 217.149.30.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 72.56.37.24
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 46.229.215.189
-vless://e7cb547e-5a74-4695-9019-a2c93e7593ea@ru50.whost-solutions.ru:443?type=tcp&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 185.247.16.29

@@ -1,8 +1,7 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 147.45.41.83
-vless://045acec8-7d9e-4793-9917-c909a4a70887@poiala.portalcode.ir:11332?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U0lEc2lDVGdWaDlINlQyUWJQNEZ0@212.113.106.76:61992#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 212.113.106.76
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
-vless://a1ccecd5-493b-45f8-86a7-ede556dc2cbd@files.2365855155.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&mode=packet-up&fp=chrome&pbk=V2DnHta7YKXsdC6St2X2seosnXJe08070FAT-nNVLUg&sid=c0c69284#SE 🇸🇪 ┇ VLESS-XHTTP-REALITY - Aeza Group LLC ┇ 138.124.34.239
+vless://621c8430-afe6-4a24-83b1-32f2ff9c3f10@109.120.178.144:11224?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.178.144
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-vless://3d4e77b2-14ef-44b2-9caa-ad163058afce@hajsajjad.amod.site:16246?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.78.94
+vless://621c8430-afe6-4a24-83b1-32f2ff9c3f10@213.165.38.233:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.38.233
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?type=tcp&security=tls&sni=decdn7.suio.me#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 109.120.177.84
+vless://4dde0df3-aa67-417c-882e-28beb3886961@as.pinkweb.one:443?type=tcp&security=reality&sni=as.pinkweb.one&fp=chrome&flow=xtls-rprx-vision&pbk=Acr_m1aQ1wca5PAoQiVNUPLcSZdgrUzCbM9he_r1N3o&sid=262b0f2ad950abd9#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 78.153.130.92
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
