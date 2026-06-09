@@ -1,6 +1,6 @@
-vless://fd8003d7-cd89-4b7b-b34c-65f275b223a7@81.200.149.15:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=bEX0sADFhBSfvkcH7CaxjIvTXfdqUUYZQDXRsTJTVAQ&sid=a1c01ea388528afb#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 81.200.149.15
-vless://fe24b74e-b016-41bf-9b28-98425480f7b1@62.113.43.195:443?type=tcp&security=reality&sni=eh.vk.com&fp=qq&flow=xtls-rprx-vision&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 62.113.43.195
+vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@217.149.25.106:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 217.149.25.106
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 188.225.58.59
+vless://ea060814-0495-4025-8996-2e9b2145fd9b@80.90.188.56:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 80.90.188.56
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-msk-tw.hpdata.click:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 147.45.249.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 72.56.37.24
-vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?type=tcp&security=reality&sni=sellflow.org&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.11.76
-vless://fde8f78b-ec9b-4047-b288-d712f2d6c08d@ser.moktana.app:443?type=grpc&security=reality&sni=se.moktana.app&fp=chrome&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=2e9f4c7b1a8d6e3f#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Jsc timeweb ┇ 217.149.29.60
-vless://bd91187b-aeeb-403d-8cff-5bdc5ebc04c1@cdn15.cloud-vk.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.129.243.87
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@2.59.43.249:5443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 2.59.43.249

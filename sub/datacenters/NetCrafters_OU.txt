@@ -1,3 +1,4 @@
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 193.233.202.7
-vless://id7890941744@s4.nodu8.ru:443?type=tcp&security=reality&sni=www.findlaw.com&fp=chrome&flow=xtls-rprx-vision&pbk=NOxCvi9RXAiS1pC8Q3LxGMvvG_X4AvL-9CUr2IioPj4&sid=67ee6a4093755d1e#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 95.181.173.153
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://931a0424-2ef4-44e0-9d9f-f957aab993ae@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 62.60.251.131
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://9258527e-4a92-4932-8ba9-27e2e3030222@95.181.173.111:8443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 95.181.173.111

@@ -1,10 +1,2 @@
-vless://nasnet@nasnet-146198073-direct.iranpress.co:443?type=tcp&security=tls&sni=nasnet-146198073-direct.iranpress.co&fp=chrome&flow=xtls-rprx-vision#MD 🇲🇩 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 146.19.80.73
-vless://1lpxy6haqm@45.15.167.13:443?type=tcp&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&fp=chrome&flow=xtls-rprx-vision#CY 🇨🇾 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 45.15.167.13
-vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?type=tcp&security=tls&sni=jrghxqxyoy-518237151-direct.bahame.co&fp=randomized&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 5.182.37.151
-vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?type=tcp&security=reality&sni=yahoo.com&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#GB 🇬🇧 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 5.181.20.219
-vless://id8302072915@5.180.45.245:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&sid=d9b9c014#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 5.180.45.245
-vless://id7890941744@s5.nodu10.ru:443?type=tcp&security=reality&sni=trendyol.com&fp=chrome&flow=xtls-rprx-vision&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&sid=d7f1beae#RU 🇷🇺 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 45.89.52.228
-vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?type=tcp&security=tls&sni=v1bsy2b9q5-451516735-direct.bahame.co&fp=randomized&flow=xtls-rprx-vision#CY 🇨🇾 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 45.15.167.35
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.12.146.12:443?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.12.146.12
-vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@94.131.118.117:4443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 94.131.118.117
-vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 45.15.152.73
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 185.231.205.99
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 171.22.114.248
