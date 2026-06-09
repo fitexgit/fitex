@@ -1,3 +1,5 @@
-vless://a2e5ac45-fd88-4f77-8e23-a7751f6a69e6@104.253.43.47:5775?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.43.47
 vless://3ade7ca1-c7e7-40a4-80f2-d1ac301b5fd6@45.38.60.52:443?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 45.38.60.52
+vless://a6774cb8-4a8e-4956-b1f7-e23471314f86@45.38.249.50:443?type=tcp&security=none&mode=stream-up#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.249.50
+vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1IVFRQVVBHUkFERS1OVExTIC0gQ2xvdWQgU29mdHdhcmUgLSBGWkNPIFx1MjUwNyA0NS4zOS44NC42NSIsImFkZCI6IjQ1LjM5Ljg0LjY1IiwicG9ydCI6MTYwNjMsImlkIjoiYzdkY2M2YTgtMDRhZi00Y2RmLWE0NGYtNGQ0NzNkZWRiNTY1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://a2e5ac45-fd88-4f77-8e23-a7751f6a69e6@104.253.43.47:5775?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=ny33x7ljQJAzFN1sDxaTb90zlGIPABs3SskxeuXE4kI&sid=6443cb87ea#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.43.47
 vless://e1afa1d3-11ec-4d7e-81c8-4757d2e34d35@f45.sktf.site:45501?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=-89bnZodi2STLN8tgGh9JHv7nUnwESwaSEwJl5V5dFs&sid=c358bd10478245#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.82.45

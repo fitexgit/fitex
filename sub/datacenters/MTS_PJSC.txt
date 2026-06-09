@@ -1,5 +1,1 @@
-vless://c735df36-db16-4571-8b4b-e20756e3ff28@89.169.90.8:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 89.169.90.8
-vless://882e17c8-b013-4e99-9774-36e26e5001ff@89.169.90.8:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 89.169.90.8
-vless://67bfe7d9-fb81-496c-9236-eb9484109417@89.169.90.8:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 89.169.90.8
-vless://c8e83bdd-40ae-43f9-9e2a-c19241d2ca33@185.242.19.250:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 185.242.19.250
-vless://c8e83bdd-40ae-43f9-9e2a-c19241d2ca33@185.242.19.1:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 185.242.19.1
+vless://c8e83bdd-40ae-43f9-9e2a-c19241d2ca33@185.242.19.1:443?type=ws&security=tls&path=/mws-ws&sni=top3097655569.mwscdn.ru&host=top3097655569.mwscdn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 185.242.19.1

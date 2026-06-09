@@ -1,2 +1,4 @@
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@ips.gcore.mobileemdad.top:42538?type=tcp&security=none&path=/&host=ips.gcore.mobileemdad.top#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.244
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://579356e7-1156-4d88-bc04-375ac954dac1@ir-de3.zarghamweb.ir:64828?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 94.183.214.114
+vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105

@@ -1,29 +1,30 @@
-vless://58b9bf91-2e03-4a35-afd7-ec422b07882d@45.130.125.160:443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.160
 vless://telegram-id-Arfilter@156.243.83.167:443?type=ws&security=tls&path=/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter?ed=2048&sni=cdn-alman1.arfilter2.blog&host=cdn-alman1.arfilter2.blog&fp=firefox#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 156.243.83.167
-vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.192
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv192.towersflowerss.com:64534?type=ws&security=none&path=/#SC 🇸🇨 ┇ VLESS-WS-NTLS - Lunory Cloud Solutions Ltd ┇ 45.145.59.62
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?type=tcp&security=none&path=/tsghdws#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.96
-vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.194:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.194
-vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxNTQuODMuMi45MCIsImFkZCI6IjE1NC44My4yLjkwIiwicG9ydCI6MjA4NywiaWQiOiI3MTI3NzJjMi1mN2Q3LTRkMzMtYmYwMi1iN2E3ZTVmNzI5YzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIn0
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.160:443?type=tcp&security=none&path=/?ed=80#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
+vless://b4fa2095-2813-47a7-a4c2-54da6a8b9ccc@45.130.125.193:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.193
+vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.194
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.158
-vless://2b127cd7-6117-46c7-8efc-f69dc003b206@45.130.125.158:443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.158
-vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.194
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.193:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.193
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.162
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.162:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.162
+vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVJPU1NDTE9VRCBJTkMuIFx1MjUwNyAxNTYuMjM5LjQ3LjgzIiwiYWRkIjoiMTU2LjIzOS40Ny44MyIsInBvcnQiOjEzNjY2LCJpZCI6IjFkMzlmNzE1LTI3NDAtNGQ5OS1iYzNiLTE5N2NjNDhkY2VlNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2dyYXBocWwifQ
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#SC 🇸🇨 ┇ HYSTERIA2-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.133.232
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?type=ws&security=tls&path=/tsghdws&sni=octopusss4.com&host=octopusss4.com#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.96
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.194
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?type=ws&security=tls&path=/&sni=drrfddgbv.turbooserver.net.tr&host=drrfddgbv.turbooserver.net.tr#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.76
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.193
-vless://77e69c70-31b4-44ea-af46-4664df9a614c@45.130.125.218:8443?type=xhttp&security=tls&path=/DrPing_channel&sni=app5.dr-ping.com&host=app5.dr-ping.com&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.218
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.192:8443?type=xhttp&security=tls&path=/?ed=80&sni=vh.mojaz-persian-music.ir&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.192
+vless://77e69c70-31b4-44ea-af46-4664df9a614c@45.130.125.218:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.218
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.192:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.192
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.194
-vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.160:443?type=tcp&security=none&path=/?ed=80#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?type=tcp&security=none&path=/#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.162
-vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?type=ws&security=tls&path=/id-pusat&sni=dfsuporte.garena.com.ex33r.eu.cc&host=dfsuporte.garena.com.ex33r.eu.cc#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.96
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.192
 vless://75dd6c7d-b5a2-44f3-843c-812facb22c5e@45.130.125.0:443?type=tcp&security=none&path=/sg-melbi#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.0
-vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?type=ws&security=tls&path=/&sni=drrfddgbv.turbooserver.net.tr&host=drrfddgbv.turbooserver.net.tr#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.76
-vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.194
-vless://c1f8f77d-b9a6-4f3d-bd77-9bafdf2d9ca9@45.130.125.194:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.194
-vless://efd4280b-57c1-45f4-96d2-2064e32fec11@45.130.125.160:443?type=tcp&security=none&path=/kvesdpws#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.160
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv162.towersflowerss.com:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Lunory Cloud Solutions Ltd ┇ 45.146.89.121
-vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.162:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.162
-vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vi.new-persian-song.ir&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.194
+vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1YSFRUUC1UTFMgLSBDbG91ZGZsYXJlLCBJbmMuIFx1MjUwNyA0NS4xMzAuMTI1LjIzIiwiYWRkIjoiNDUuMTMwLjEyNS4yMyIsInBvcnQiOjg0NDMsImlkIjoiYTQwNGZiYzItM2IzNS00ZDJiLTlhYTEtNDY5NDczNDJjNjIyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJnRXJ0T3cxLmxPb2xPb2xPb2xPby5jT00iLCJwYXRoIjoiL3BocC9hZG1pbi9sb2cvQHYyYm94X3YyL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnRXJ0T3cxLmxPb2xPb2xPb2xPby5jT00ifQ
+vless://Telegram-Parsashonam-12@45.130.125.76:443?type=tcp&security=tls&sni=p4r34m.hendevaneh.sbs&fp=chrome#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.76
+vless://b4fa2095-2813-47a7-a4c2-54da6a8b9ccc@45.130.125.194:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.194
+vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?type=ws&security=tls&path=/id-pusat&sni=dfsuporte.garena.com.ex33r.eu.cc&host=dfsuporte.garena.com.ex33r.eu.cc#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.96
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?type=tcp&security=tls#SC 🇸🇨 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 45.130.125.192
+vless://0284cc16-1e0f-40f0-900d-dfada20ff258@45.130.125.192:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.192
+vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.192:8443?type=xhttp&security=tls&path=/?ed=80&sni=vh.mojaz-persian-music.ir&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.192
 vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443?type=tcp&security=none&mode=auto#SC 🇸🇨 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 45.130.125.194
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vo.new-persian-song.ir&mode=auto&fp=chrome#SC 🇸🇨 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 45.130.125.194
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?type=ws&security=tls&path=/sg-orcl&sni=ads.ruangguru.com.cyylr.eu.cc&host=ads.ruangguru.com.cyylr.eu.cc#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.0
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.0:443?type=ws&security=tls&path=/tsghdws&sni=octopusss4.com&host=octopusss4.com&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 45.130.125.0
+vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxNTQuODMuMi45MCIsImFkZCI6IjE1NC44My4yLjkwIiwicG9ydCI6MjA4NywiaWQiOiI3MTI3NzJjMi1mN2Q3LTRkMzMtYmYwMi1iN2E3ZTVmNzI5YzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIn0
