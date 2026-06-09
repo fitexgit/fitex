@@ -1,1 +1,4 @@
-vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.230:8443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Citytelecom LLC ┇ 62.152.56.230
+vless://9bb154f2-fd72-44e5-8f9d-9244cb6ef3c2@185.229.9.131:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Citytelecom LLC ┇ 185.229.9.131
+vless://447441de-36d6-4775-9df5-8d575c232322@62.152.59.103:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=W35StMkmGPguLMNX8_ezl8Hm0NQ3MFR7rpcbWRrOCyY&sid=5FA44664f6a566d3#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Citytelecom LLC ┇ 62.152.59.103
+vless://9a18774f-dde4-4834-aa29-9b8cc8589920@62.152.56.172:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Citytelecom LLC ┇ 62.152.56.172
+vless://f05a4cd8-9a12-4896-b399-b758fdf12e4e@185.229.9.77:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Citytelecom LLC ┇ 185.229.9.77

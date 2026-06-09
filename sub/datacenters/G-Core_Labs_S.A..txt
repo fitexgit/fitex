@@ -1,3 +1,5 @@
-vless://2954147d-59e9-473f-a818-16da698d1366@helixgaming.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?type=tcp&security=tls&sni=45.80.215.68&host=45.80.215.68#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 45.80.215.68
-ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
+vless://ebdc430c-8f41-4aa9-8dc6-112de5eb47e3@helixgaming.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@ips.gcore.mobileemdad.top:42538?type=tcp&security=none&path=/&host=ips.gcore.mobileemdad.top#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.244

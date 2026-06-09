@@ -1,3 +1,2 @@
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.119.19.72:8443?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Mastersoft S.R.L. ┇ 103.119.19.72
 vless://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - Mastersoft S.R.L. ┇ 103.119.19.201
-vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.112.71.172:7443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Mastersoft S.R.L. ┇ 103.112.71.172
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.119.19.72:8443?type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=4sm4mUC0igscX3gHfsxD2b0F6bimVQf_M6w2ZvV7QW8&sid=39f0#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - Mastersoft S.R.L. ┇ 103.119.19.72

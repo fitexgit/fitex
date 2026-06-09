@@ -1,2 +1,4 @@
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.123:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.123
+vless://65c705a4-0b2e-468d-bbfe-9428ccb4aa7b@188.95.12.110:8080?type=tcp&security=none&path=/?ed=2048#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.110
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.232.21.53:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.232.21.53
 vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Datacamp Limited ┇ 79.127.224.12
