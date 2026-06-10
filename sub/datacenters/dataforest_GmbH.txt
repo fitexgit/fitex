@@ -1,3 +1,5 @@
-vless://e8cd1edf-d722-459e-9581-6a30a751e6c2@de.riotvpn.eu:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 45.157.233.74
-vless://ee493449-df40-4d17-9a50-cf28c9288923@45.157.232.164:15198?type=xhttp&security=reality&path=/MTPV2ray&sni=www.varzesh3.com&mode=packet-up&fp=firefox&pbk=8lGfxA5t5bj7JNPYgLxmeta47c7He4M0i9gYoaTAvAo&sid=f4ad#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - dataforest GmbH ┇ 45.157.232.164
+vless://c470171c-2951-4806-988d-61d4d811486d@de.riotvpn.eu:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 185.254.99.13
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&sid=b3#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 193.46.81.151
+vless://ee493449-df40-4d17-9a50-cf28c9288923@45.157.232.164:15198?type=xhttp&security=reality&path=/MTPV2ray&sni=www.varzesh3.com&mode=packet-up&fp=firefox&pbk=8lGfxA5t5bj7JNPYgLxmeta47c7He4M0i9gYoaTAvAo&sid=f4ad#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - dataforest GmbH ┇ 45.157.232.164
+vless://b42e34e3-d95c-4f9e-9e8c-e327e2323b6c@de.riotvpn.eu:8443?type=grpc&security=reality&sni=ads.x5.ru&mode=multi&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - dataforest GmbH ┇ 185.254.99.13
+vless://4b0735b5-672b-468f-af98-d6901d620e50@autos.jykvpn.com:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - dataforest GmbH ┇ 185.254.96.142

@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?type=tcp&security=none&host=sni.jpmj.dev#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.132.244.52
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?type=ws&security=tls&path=/?ed=2560&sni=sni.jpmj.dev&host=sni.jpmj.dev#HK 🇭🇰 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.132.244.52

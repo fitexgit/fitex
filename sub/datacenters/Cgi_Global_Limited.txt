@@ -1,3 +1,7 @@
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 188.130.206.148
-vless://6a245dfd-5c8b-49d0-a7e2-fffe9b046a88@31.57.105.117:8080?type=tcp&security=none&path=/as#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.105.117
-vless://98a0fab4-3be2-48ae-a99e-3d812315e11b@ch.zoroem.opik.net:80?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.157.30
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.38.139.214:2053?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.139.214
+vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.206.60
+vless://88f89a08-6f31-43bf-8884-decdb0082b57@yandexcdn6.ookcdn.ru:8443?type=grpc&security=tls&sni=yandexcdn6.ookcdn.ru&mode=gun&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Cgi Global Limited ┇ 94.183.151.206
+vless://6260a3b2-bf3b-49ec-8dd6-92c4aded8a84@io.majidjoing.dpdns.org:443?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.27.173
+vless://08c43ea7-7f9e-4d65-9e9f-042811beb986@se2.mail-appstatus.net:23356?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 46.8.231.47
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@31.58.137.126:8443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.58.137.126

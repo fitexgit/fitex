@@ -1,1 +1,2 @@
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@217.9.12.204:443?type=tcp&security=reality&sni=ee.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&sid=7a3f9e2b1c8d4f6a#EE 🇪🇪 ┇ VLESS-TCP-REALITY - QWINS LTD ┇ 217.9.12.204
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@217.9.12.204:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 217.9.12.204
+vless://4b162e24-7f55-4d5a-9eaf-13c8b4a1d7ec@45.80.108.128:443?type=tcp&security=tls#EE 🇪🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 45.80.108.128

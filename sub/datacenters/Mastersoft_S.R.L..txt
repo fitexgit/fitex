@@ -1,1 +1,2 @@
-vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.112.71.172:7443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Mastersoft S.R.L. ┇ 103.112.71.172
+vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.112.71.172:7443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Mastersoft S.R.L. ┇ 103.112.71.172
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.200.28.25:8443?type=tcp&security=none&mode=auto#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Mastersoft S.R.L. ┇ 103.200.28.25
