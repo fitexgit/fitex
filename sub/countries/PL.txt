@@ -1,10 +1,7 @@
-vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?type=tcp&security=none&fp=chrome#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.3
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?type=tcp&security=none&path=/#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Atman Sp. z o.o. ┇ 128.204.223.94
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.70:9097#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 217.30.10.70
-vless://07548ad1-b94e-44ee-90a1-3e6d879126db@54.38.136.47:80?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 54.38.136.47
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyA1Ny4xMjguMjE2LjEyNSIsImFkZCI6IjU3LjEyOC4yMTYuMTI1IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIn0
-vless://be2e1543-d450-481b-a955-c691086e41b1@pl-modx.nodexphere.net:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - LLC hostoff Csl ┇ 2.27.57.11
-vless://45b9ce66-4881-4099-bb7e-21bf71942444@82.40.62.3:80?type=xhttp&security=reality&path=/mohraz&sni=www.samsung.com&host=82.40.62.3&mode=auto&fp=chrome&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&sid=d5df9687ac6f#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Newserverlife LLC ┇ 82.40.62.3
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Atman Sp. z o.o. ┇ 128.204.223.94
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@217.30.10.70:9000#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 217.30.10.70
-vless://c470171c-2951-4806-988d-61d4d811486d@pl.riotvpn.eu:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Korbank S. A. ┇ 83.168.91.246
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@pl-cdn.ru:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 150.241.93.218
+vless://347a56c2-a453-4b32-86cd-7522943df88c@104.165.244.183:50095?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Baykov Ilya Sergeevich ┇ 104.165.244.183
+vless://0e074e87-fc9c-4431-8b36-0d3151d34937@130.49.155.205:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - BlueVPS OU ┇ 130.49.155.205
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.70:9097#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 217.30.10.70
+vless://45b9ce66-4881-4099-bb7e-21bf71942444@82.40.62.3:80?type=xhttp&security=reality&path=/mohraz&sni=www.samsung.com&host=82.40.62.3&mode=auto&fp=chrome&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&sid=d5df9687ac6f#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Newserverlife LLC ┇ 82.40.62.3

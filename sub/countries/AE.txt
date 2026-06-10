@@ -1,9 +1,5 @@
-vless://3e8751df-e180-43e6-83eb-c00a34e17855@ips.gcore.mobileemdad.top:42538?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.109
-vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@193.123.74.174:8443?type=tcp&security=none&host=linek.perry.us.kg#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 193.123.74.174
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru1.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@31.57.190.22:443?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mifinorx Ltd ┇ 31.57.190.22
-vless://3e8751df-e180-43e6-83eb-c00a34e17855@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.126
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru2.cdn-global.pro:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kontel LLC ┇ 185.244.41.97
-vless://5c935fb4-567f-4a14-a8c7-781b8c6bb913@38.180.26.49:1008?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 38.180.26.49
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@31.207.5.43:47200?type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Snowd Security OU ┇ 31.207.5.43
+vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.169.203
+vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.169.201
+vless://98f3eefe-3d49-4838-ae14-965bc93b1d74@du1.gamelistak.com:443?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 144.172.88.90
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru2.cdn-global.pro:443?type=tcp&security=reality&sni=ru2.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&sid=c8b5e9595f818d04#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
+ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
