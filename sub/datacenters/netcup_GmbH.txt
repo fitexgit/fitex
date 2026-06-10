@@ -1,2 +1,2 @@
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=xhttp&security=reality&path=/ping&sni=search.yahoo.com&host=search.yahoo.com&mode=packet-up&fp=chrome&pbk=ugUk7zRVpcxM3XwWMXQI8X9UFuKPqQvuN2hGY3tFM3Q&sid=b1eb854b#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - netcup GmbH ┇ 185.244.192.101
-vless://c7166f8f-236b-4fa4-b99c-172813b24f73@159.195.149.157:50051?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.149.157
+hysteria2://miaoge110@5.45.100.100:51511?insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - netcup GmbH ┇ 5.45.100.100
+vless://c7166f8f-236b-4fa4-b99c-172813b24f73@de-fra-ncp-109.sssrvpn.pro:50051?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - netcup GmbH ┇ 159.195.149.157

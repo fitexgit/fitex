@@ -1,5 +1,3 @@
-vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.169.201
-vless://98f3eefe-3d49-4838-ae14-965bc93b1d74@du1.gamelistak.com:443?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 144.172.88.90
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site&host=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
+vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
 vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru2.cdn-global.pro:443?type=tcp&security=reality&sni=ru2.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&sid=c8b5e9595f818d04#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
-ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
