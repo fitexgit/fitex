@@ -1,6 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfVHVzdUU1aTBFenl2V3NRdVRpS01Ncl9qX3NkdXUyRQ@130.49.161.18:28474#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Digital City FZE ┇ 130.49.161.18
-vless://b129eb83-f083-4660-a81a-e5991519a281@78.40.194.13:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 78.40.194.13
-vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
-vless://05c78030-da42-4549-a13c-3a9c0dff539e@172.86.77.189:8443?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=nB2jrYQa1SQ30ucMqEUWIU9Z_oBltWwgm6HmjjwVnVU&sid=b5b3f70e16db46#AE 🇦🇪 ┇ VLESS-TCP-REALITY - RouterHosting LLC ┇ 172.86.77.189
 vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@31.207.5.43:47200?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Snowd Security OU ┇ 31.207.5.43
+vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203

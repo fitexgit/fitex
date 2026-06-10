@@ -1,6 +1,6 @@
-vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@217.149.25.106:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 217.149.25.106
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 188.225.58.59
-vless://ea060814-0495-4025-8996-2e9b2145fd9b@80.90.188.56:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 80.90.188.56
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-msk-tw.hpdata.click:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 147.45.249.230
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 46.229.215.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 72.56.37.24
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@2.59.43.249:5443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 2.59.43.249
+vless://e438ed18-0208-4620-b7f4-56ba7045f397@5.42.115.36:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.115.36
+vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@217.149.25.106:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 217.149.25.106
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-msk-tw.hpdata.click:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 72.56.238.65
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 188.225.58.59

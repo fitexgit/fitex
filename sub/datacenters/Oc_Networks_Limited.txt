@@ -1,7 +1,2 @@
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.107:4443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 144.31.171.107
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.105:4443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 144.31.171.105
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Oc Networks Limited ┇ 144.31.171.98
 vless://9bc4a008-bc91-4ec2-aa3d-589584511965@64.188.77.219:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Oc Networks Limited ┇ 64.188.77.219
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 144.31.171.98
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.106:4443?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Oc Networks Limited ┇ 144.31.171.106
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.103:4443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 144.31.171.103
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.101:4443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 144.31.171.101
