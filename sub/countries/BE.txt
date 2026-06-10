@@ -1,3 +1,3 @@
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
-vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality#BE 🇧🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:801#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
 vless://65c705a4-0b2e-468d-bbfe-9428ccb4aa7b@188.95.12.110:8080?type=ws&security=none&path=/?ed=2048&host=wazd.bot2.ir#BE 🇧🇪 ┇ VLESS-WS-NTLS - Cloudflare, Inc. ┇ 188.95.12.110
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110

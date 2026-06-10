@@ -1,7 +1,3 @@
-vless://5694013d-027f-44c0-b15b-8ef0457fa940@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.126
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?type=tcp&security=tls&sni=45.80.215.68&host=45.80.215.68#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 45.80.215.68
-ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
-vless://4352f2a7-d620-474e-9249-e866774a2c85@92.223.84.84:443?type=tcp&security=tls#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 92.223.84.84
-vless://5218f72c-ccc6-40a9-ad55-a596a629f78d@213.156.152.190:50473?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.190
-vless://5218f72c-ccc6-40a9-ad55-a596a629f78d@213.156.152.190:39368?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.190
-vless://5694013d-027f-44c0-b15b-8ef0457fa940@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.24
+vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.45.184.133
+vless://592642e1-4d9c-4d92-a6ff-94572e9d8ff9@31.184.244.237:43660?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 31.184.244.237

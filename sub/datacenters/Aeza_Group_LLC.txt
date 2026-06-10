@@ -1,8 +1,6 @@
-vless://c6a8a145-216e-481f-9db6-07a199605c76@138.124.61.111:42591?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.61.111
-vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.108.20.152
-vless://77bbe372-16f2-4a4c-a6aa-5b41e0769362@46.226.162.134:18235?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 46.226.162.134
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSWY3MDRBQmNOVndUalRkempENktM@212.113.106.76:61992#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 212.113.106.76
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 147.45.41.86
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 185.221.199.37
 vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@62.60.238.208:443?type=tcp&security=reality&sni=ads.x5.ru&fp=randomized&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 62.60.238.208
-vless://b7e79518-fb32-446b-a74a-755cfbe77da0@91.103.140.69:443?type=tcp&security=reality&sni=azure.microsoft.com&pbk=5IT58-ACuEH1tApWMC0uHfNVG9eu64vKgDIM5IKLyjc&sid=35697a#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 91.103.140.69
-vless://10782287-e9e2-4378-9e1e-ddf8660ad610@62.60.158.43:42414?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.158.43
+vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@194.26.229.161:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 194.26.229.161
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd05odWtRbVJSQWVjVXlabUlDS3Bt@212.113.106.76:61992#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 212.113.106.76
+vless://de3104b0-0c51-49df-8350-da4bbe654820@89.22.230.82:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.230.82
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
