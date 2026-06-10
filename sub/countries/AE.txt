@@ -1,4 +1,2 @@
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru1.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru2.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
+vless://5694013d-027f-44c0-b15b-8ef0457fa940@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.126
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kontel LLC ┇ 185.244.41.59

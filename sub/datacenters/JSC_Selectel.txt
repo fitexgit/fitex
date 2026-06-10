@@ -1,2 +1,3 @@
-vless://90885c1b-ae61-43bf-b356-1c8f2fcfa917@185.91.52.217:1446?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 185.91.52.217
-vless://90885c1b-ae61-43bf-b356-1c8f2fcfa917@185.91.52.217:1443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 185.91.52.217
+vless://0ea101a3-9754-4d11-bb64-a8942b6234fe@185.151.241.186:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.151.241.186
+vless://ac3225a8-5e7f-11f1-bd95-ee5f4ed81fa1@155.212.215.179:2053?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 155.212.215.179
+vless://129400e5-7d1b-4720-bf3e-f877c3e5021e@185.151.241.186:2443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.151.241.186

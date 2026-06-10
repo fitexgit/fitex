@@ -1,3 +1,2 @@
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Beget LLC ┇ 45.12.75.242
-vless://e70ad57f-5b39-46f5-ba70-44953ad23164@45.153.190.26:443?type=grpc&security=reality&sni=mageia.ubuntuhosting.host&mode=gun&fp=chrome&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Beget LLC ┇ 45.153.190.26
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 89.169.39.55
+ss://YWVzLTI1Ni1jZmI6cWF6cGxtbjEyMzY1NDdkcjQycQ@45.144.176.135:3001#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Beget LLC ┇ 45.144.176.135
+vless://e70ad57f-5b39-46f5-ba70-44953ad23164@45.153.190.26:443?type=grpc&security=reality&sni=endeavouros.ubuntuhosting.host&mode=gun&fp=chrome&pbk=nbrx6gGjaQ27MLBl-0Tp23ALk9sm95NeOFxhP2ufO1E&sid=b6549e#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Beget LLC ┇ 45.153.190.26

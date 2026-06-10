@@ -1,3 +1,2 @@
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
-vless://vpn_connects@clfconnect.pishipishi.pro:8880?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.20
-vless://68eb632a-509b-415b-8dc7-12818359eb23@63.141.128.29:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.29
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.103:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Bigcommerce Inc. ┇ 63.141.128.103
