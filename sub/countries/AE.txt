@@ -1,3 +1,4 @@
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site&host=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
+vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru1.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
+vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru2.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru2.cdn-global.pro:443?type=tcp&security=reality&sni=ru2.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&sid=c8b5e9595f818d04#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
+vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kontel LLC ┇ 185.244.41.59

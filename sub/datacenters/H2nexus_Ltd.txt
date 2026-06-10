@@ -1,2 +1,5 @@
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?type=tcp&security=none#AL 🇦🇱 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.33
+vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.125.86:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832#DE 🇩🇪 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.125.86
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?type=tcp&security=reality&sni=aq.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335#AQ 🇦🇶 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 2.27.26.140
 vless://85b6a235-9444-4ba4-8f0c-187b8c70874a@87.120.93.181:443?type=xhttp&security=reality&path=/&sni=www.google.com&mode=auto&fp=random&pbk=uETlsZl76uCFvu_qpmSMsd60_bqplotK4m_In8d0-0k&sid=43#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - H2nexus Ltd ┇ 87.120.93.181
+vless://bd78d4ee-c068-4125-94ba-50814578dc41@144.31.128.44:8443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.128.44
