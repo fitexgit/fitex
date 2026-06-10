@@ -1,8 +1,4 @@
-vless://2a762f0f-53e8-4aaf-ac60-b7887e4750f7@37.9.4.224:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 37.9.4.224
-vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 188.68.218.190
+vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?type=tcp&security=reality&sni=timeweb.cloud&host=@ProxyVPN11&fp=chrome&flow=xtls-rprx-vision&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 87.228.52.147
+vless://f6e68d08-5d49-4069-a85e-510070585bd5@185.91.54.151:443?type=grpc&security=reality&sni=api-maps.yandex.ru&mode=gun&fp=chrome&pbk=dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw&sid=11a33a97aa#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 185.91.54.151
+vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?type=tcp&security=reality&sni=vkvideo.ru&fp=chrome&flow=xtls-rprx-vision&pbk=U-XSSJrvKlc1ivt8T_TESHQ7IzjPoKnGg7dGS1N9QEY&sid=b980bb2ea0e081ac#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 188.68.218.190
 vless://ec06516e-7517-434e-a77f-31ee65ac70e7@ru57.whost-solutions.ru:443?type=tcp&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 139.100.196.130
-vless://e3479472-3d5d-4142-842a-44a32b501bd7@ru1.cvs-a.com:443?type=tcp&security=reality&sni=ru1.cvs-a.com&fp=chrome&flow=xtls-rprx-vision&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 45.8.251.77
-vless://7d9018cf-16bd-47e0-8590-5c8b280295cc@188.68.218.161:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 188.68.218.161
-vless://7d9018cf-16bd-47e0-8590-5c8b280295cc@31.129.42.131:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 31.129.42.131
-vless://28e16798-7233-4537-a8f4-ef3cffefa9bc@5.188.115.29:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.115.29
-vless://7d9018cf-16bd-47e0-8590-5c8b280295cc@5.178.85.202:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.178.85.202

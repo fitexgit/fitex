@@ -1,2 +1,1 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.221:8443?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 132.243.203.221
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.223:8443?type=ws&security=none&path=/tools/channelssecurity=tls&sni=linek.perry.us.kg&host=linek.perry.us.kg#CY 🇨🇾 ┇ VLESS-WS-NTLS - Hohl IT e.U. ┇ 132.243.203.223
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.221:8443?type=ws&security=tls&path=/uploads/events&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#CY 🇨🇾 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 132.243.203.221
