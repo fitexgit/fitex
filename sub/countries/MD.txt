@@ -1,2 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS ┇ 185.236.232.123
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@217.156.67.40:443?type=tcp&security=none&fp=chrome#MD 🇲🇩 ┇ VLESS-TCP-NTLS - Ava Host Srl ┇ 217.156.67.40
+vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.67.95
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - WorkTitans B.V. ┇ 194.62.42.21
