@@ -1,5 +1,6 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS ┇ 185.236.232.123
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - ''it Fruit'' S.r.l. ┇ 185.153.197.5
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.72.63
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS ┇ 213.159.67.124
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS ┇ 185.236.232.189
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 91.225.217.94
+vless://f3d08978-e457-43a3-b062-d74e4328833d@karabas.cxhub.su:8443?type=grpc&security=reality&sni=cloud.mail.ru&mode=multi&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&sid=1413cc6a376b5257#MD 🇲🇩 ┇ VLESS-GRPC-REALITY - WorkTitans B.V. ┇ 194.62.42.126
+vless://f2823d10-2fa8-4064-ab49-bf69250ee309@176.120.64.12:80?type=ws&security=none&path=/#MD 🇲🇩 ┇ VLESS-WS-NTLS ┇ 176.120.64.12
+vless://id6856346113@s1.nodu8.ru:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=hFiILJFQr9ueYMEbC98zjsbw6pq9ebJ2U7j_yIDngko&sid=cb8921c164#MD 🇲🇩 ┇ VLESS-TCP-REALITY ┇ 103.35.191.34
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@94.131.15.149:2053?type=ws&security=tls&path=/?ed=2048&sni=free.uk.moh539.link&host=free.uk.moh539.link#MD 🇲🇩 ┇ VLESS-WS-TLS - WorkTitans B.V. ┇ 94.131.15.149
+vless://f3d08978-e457-43a3-b062-d74e4328833d@karabas.cxhub.su:1443?type=tcp&security=reality&sni=botapi.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&sid=099755ac7b731e9e#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 194.62.42.126

@@ -1,2 +1,2 @@
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
-vless://9ec5bada-156f-4721-b2ca-6c0a897075f2@62.60.248.14:28485?type=grpc&security=reality&sni=tgju.org&mode=gun&fp=chrome&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - NetCrafters OU ┇ 62.60.248.14
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 193.233.202.1
+vless://id7890941744@s4.nodu8.ru:443?type=tcp&security=reality&sni=www.findlaw.com&fp=chrome&flow=xtls-rprx-vision&pbk=NOxCvi9RXAiS1pC8Q3LxGMvvG_X4AvL-9CUr2IioPj4&sid=67ee6a4093755d1e#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 95.181.173.153

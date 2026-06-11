@@ -1,2 +1,1 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.193:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 85.208.85.193
-vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 87.242.102.193
+vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?type=grpc&security=reality&sni=ya.ru&fp=chrome&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&sid=7dcd0c337708#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Cloud.ru ┇ 87.242.103.184

@@ -1,2 +1,3 @@
-vless://c72f03de-fb13-4d81-ba32-461bb1921879@gertestx.nekosocks.com:8443?type=tcp&security=none&mode=packet-up#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aleksejs Trufans ┇ 77.90.21.11
-vless://c72f03de-fb13-4d81-ba32-461bb1921879@gertest.nekosocks.com:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aleksejs Trufans ┇ 77.90.21.11
+vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2g.nekosocks.com:4443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aleksejs Trufans ┇ 77.90.21.22
+vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2x.nekosocks.com:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aleksejs Trufans ┇ 77.90.21.22
+vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2.nekosocks.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aleksejs Trufans ┇ 77.90.21.22
