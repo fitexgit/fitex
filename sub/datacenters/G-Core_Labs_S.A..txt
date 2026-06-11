@@ -1,3 +1,5 @@
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?type=tcp&security=tls&sni=45.80.215.68&host=45.80.215.68#FR 🇫🇷 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 45.80.215.68
-vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.45.184.133
-vless://592642e1-4d9c-4d92-a6ff-94572e9d8ff9@31.184.244.237:43660?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 31.184.244.237
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
+vless://9f1fcaa7-1dda-49f1-abd9-5dcdd0c820a1@tr.parsashoporg.ir:8080?type=tcp&security=none&path=/video#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.96
+vless://25528d57-0319-4811-9f00-95e5cdee839a@blit1.hamrahcore.ir:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 82.158.120.56

@@ -1,1 +1,2 @@
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none#DK 🇩🇰 ┇ VLESS-WS-NTLS - Webdock.io ApS ┇ 45.148.31.0
+vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@dk.maximum-vpn.com:443?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - M247 Europe SRL ┇ 38.180.72.2
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=tcp&security=none&path=/#DK 🇩🇰 ┇ VLESS-TCP-NTLS - Webdock.io ApS ┇ 45.148.31.0
