@@ -1,2 +1,1 @@
-vless://06b81e47-5955-4020-89cb-33f3dd74d5e9@uk.americanprime.vip:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DA International Group Ltd. ┇ 194.60.86.168
-vless://57c2aa73-a255-4497-a9f6-aff7cf50f729@us.americanprime.vip:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - DA International Group Ltd. ┇ 165.140.243.10
+vless://06b81e47-5955-4020-89cb-33f3dd74d5e9@uk.americanprime.vip:443?type=tcp&security=reality&sni=uk.americanprime.vip&fp=chrome&flow=xtls-rprx-vision&pbk=Ph2MtQx9i2dTjps_WUGeYBbN81XhUWUjgGwMuOTuhA8&sid=29cf88cf#DE 🇩🇪 ┇ VLESS-TCP-REALITY - DA International Group Ltd. ┇ 194.60.86.168
