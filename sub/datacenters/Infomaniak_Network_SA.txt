@@ -1,5 +1,4 @@
-vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.235.106
-hysteria2://Masir_Sefid@37.156.46.29:443?insecure=0#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - Infomaniak Network SA ┇ 37.156.46.29
+vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?type=tcp&security=reality&sni=varzesh3.com&fp=chrome&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&sid=accd8c#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.235.106
 vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?type=xhttp&security=reality&path=/&sni=cdn.nobitex.ir&host=cdn.nobitex.ir&mode=auto&fp=chrome&pbk=KuyvsRNilBVQddf249fQhud8aPESqNMZLRb7UXwVgWI&sid=d6d0#CH 🇨🇭 ┇ VLESS-XHTTP-REALITY - Infomaniak Network SA ┇ 83.228.235.106
 vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.44
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&mode=auto&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#CH 🇨🇭 ┇ VLESS-XHTTP-REALITY - Infomaniak Network SA ┇ 84.234.29.132

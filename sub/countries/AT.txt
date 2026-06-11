@@ -1,2 +1,4 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?type=tcp&security=reality&pbk=WeSh#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.41
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - PipeHost e.U. ┇ 185.224.3.42
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.41
+vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@152.53.107.196:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.107.196
