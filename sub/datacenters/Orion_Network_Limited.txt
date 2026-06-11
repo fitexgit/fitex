@@ -1,2 +1,5 @@
-vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=edge&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 165.231.33.236
-vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?type=tcp&security=tls#FR 🇫🇷 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 5.157.51.173
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&security=tls&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 5.157.51.173
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.35:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Orion Network Limited ┇ 196.196.35.35
+vless://7b241232-208d-4d36-857e-913f91b044f4@165.231.33.236:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Orion Network Limited ┇ 165.231.33.236
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.199.104.131:443?type=tcp&security=none#IQ 🇮🇶 ┇ VLESS-TCP-NTLS - Orion Network Limited ┇ 196.199.104.131
+vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=edge&flow=xtls-rprx-vision#IQ 🇮🇶 ┇ VLESS-TCP-TLS - Orion Network Limited ┇ 196.199.104.132
