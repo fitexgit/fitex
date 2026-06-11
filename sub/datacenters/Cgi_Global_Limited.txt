@@ -1,4 +1,3 @@
-vless://e13de37c-58be-4258-af2e-46423e8b5c94@203.18.98.248:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 203.18.98.248
 vless://4e1bef9f-d655-4722-a7c3-41e7ca40df75@95.182.114.33:33636?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.33
-vless://bd586513-53f0-40ec-8328-2d1d08f4db2b@panel3.erisrtg.ir:80?type=ws&security=none&path=/&host=play.google.com#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.57.28.119
+vless://e13de37c-58be-4258-af2e-46423e8b5c94@203.18.98.248:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=2TrPdiGqUxSvsACQN1GDLTS2lAiuUGicwNqH9Byqx1o&sid=47174804ee8a1dae#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 203.18.98.248
 vless://ff5e2768-bdeb-4c21-a7e3-53ae8edd923e@217.19.4.12:8445?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.19.4.12

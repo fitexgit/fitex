@@ -1,5 +1,4 @@
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru1.cdn-global.pro:443?type=tcp&security=reality&sni=ru1.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=UetBYGh2t6FbQNZ53W3Eb3bpH5-p-WJ1wklLbOs5RH0&sid=af6055545fb955b0#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.5
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru1.cdn-global.pro:443?type=tcp&security=reality&sni=ru1.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&pbk=UetBYGh2t6FbQNZ53W3Eb3bpH5-p-WJ1wklLbOs5RH0&sid=af6055545fb955b0#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
+vless://b0067fed-b123-4837-2574-e806b5683082@me2.atrisacoffe.ir:80?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS ┇ 94.183.210.6
 vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=ws&security=tls&path=/&sni=protectnet.cloudinohost.com&host=protectnet.cloudinohost.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Giti Secure Cloud LLC ┇ 94.183.169.203
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&obfs=salamander#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@ips.gcore.mobileemdad.top:42538?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.109

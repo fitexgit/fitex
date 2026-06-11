@@ -1,3 +1,4 @@
-vless://8d853f3c-51c4-4e19-ba0f-53a70fd172a7@82.115.16.58:24455?type=tcp&security=reality&sni=www.amd.com&fp=chrome&pbk=FzGqEXIF6fqNnCK9JZpPlKtkBlLvzd-SaroqAM91WlU&sid=5def97#AU 🇦🇺 ┇ VLESS-TCP-REALITY - BitCommand LLC ┇ 82.115.16.58
+vless://f5af2935-dea2-493b-bcff-fac415b101d0@89.251.8.203:53656?type=tcp&security=none&mode=packet-up#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 89.251.8.203
 vless://62127868-c841-4f1b-9db7-35b220b0341d@156.241.0.50:52507?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 156.241.0.50
-vless://3a72db3d-b9c0-4ed8-b21e-4336853d4f26@82.115.16.58:24455?type=tcp&security=reality&sni=www.amd.com&fp=chrome&pbk=FzGqEXIF6fqNnCK9JZpPlKtkBlLvzd-SaroqAM91WlU&sid=1d85#AU 🇦🇺 ┇ VLESS-TCP-REALITY - BitCommand LLC ┇ 82.115.16.58
+vless://3a72db3d-b9c0-4ed8-b21e-4336853d4f26@82.115.16.58:24455?type=tcp&security=reality#AU 🇦🇺 ┇ VLESS-TCP-REALITY - BitCommand LLC ┇ 82.115.16.58
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:59919?type=xhttp&security=reality&path=/&sni=www.amazon.com&host=telewebion.com&mode=auto&fp=chrome&pbk=wQrseGiUN-ONdLVBWbOu3-p8uD1qFlz5CZxYS5a_cxo&sid=e3f72e053f75804c#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - BitCommand LLC ┇ 202.133.91.5
