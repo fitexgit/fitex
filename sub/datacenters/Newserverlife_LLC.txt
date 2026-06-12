@@ -1,3 +1,5 @@
-vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?type=tcp&security=none&mode=auto#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.3
-vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
 vless://45b9ce66-4881-4099-bb7e-21bf71942444@82.40.62.3:80?type=xhttp&security=reality&path=/mohraz&sni=www.samsung.com&host=82.40.62.3&mode=auto&fp=chrome&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&sid=d5df9687ac6f#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Newserverlife LLC ┇ 82.40.62.3
+vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
+vless://1a135182-37b9-4b40-bb1b-34379d697ccb@panel.dibaux.ir:80?type=ws&security=none&path=/stream&host=panel.dibaux.ir#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134
+vless://4a244438-8775-43b8-8b5c-4d3bb89d342c@test.soft-blade.test-cdn-kkk.com:443?type=tcp&security=none&flow=xtls-rprx-vision#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 91.224.74.217
+vless://a3ef337f-edf9-47a1-aeba-ca55f6bc9f50@82.40.62.5:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.5

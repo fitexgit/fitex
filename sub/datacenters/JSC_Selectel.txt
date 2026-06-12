@@ -1,4 +1,2 @@
-vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@185.91.52.65:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.91.52.65
-vless://1735ca1c-fbab-4fae-95a4-6a2e09bb60b4@37.9.4.224:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 37.9.4.224
-vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@188.68.218.161:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 188.68.218.161
-vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?type=tcp&security=reality&sni=timeweb.cloud&host=@ProxyVPN11&fp=chrome&flow=xtls-rprx-vision&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 87.228.52.147
+vless://aae49537-115f-4c27-ae5d-7008902c5ad3@5.188.77.163:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.77.163
+vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 87.228.52.147
