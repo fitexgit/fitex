@@ -1,4 +1,2 @@
-vless://da83025c-6edd-4f3b-979d-1cb0cf59f4d0@130.12.242.182:443?type=tcp&security=none&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-NTLS - WEYRO LTD ┇ 130.12.242.182
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.138:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 195.184.247.138
-vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#US 🇺🇸 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 167.104.223.68
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.137:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 195.184.247.137
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#NL 🇳🇱 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 195.184.247.252
+vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@167.104.223.57:7443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 167.104.223.57

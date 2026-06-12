@@ -1,2 +1,1 @@
-vless://7b241232-208d-4d36-857e-913f91b044f4@193.111.248.101:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Tube-Hosting ┇ 193.111.248.101
-vless://7669c259-623c-42f7-82cf-045f58e4b7a0@176.97.210.199:443?type=grpc&security=reality&sni=germany.milas.click&pbk=pJpaRasoceUeRDJTXEZNnKT3yW5IocPXudB_B7_rBR0&sid=4fa44664f6a566d3#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Tube-Hosting ┇ 176.97.210.199
+vless://7b241232-208d-4d36-857e-913f91b044f4@193.111.248.101:443?type=tcp&security=tls&sni=api-6a20f558.noooo.win&fp=edge&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Tube-Hosting ┇ 193.111.248.101

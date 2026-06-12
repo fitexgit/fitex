@@ -1,1 +1,2 @@
-vless://8840a7b2-302d-4f71-9414-fc0bc4d4a907@ecare.ciscoserver.com:443?type=tcp&security=none&path=/dash#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 185.226.140.140
+vless://a93fea71-bde4-41de-bc5b-826723de494d@ecare.ciscoserver.com:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Saba Abr Mizban LLC ┇ 185.226.140.140
+vless://4393fc9b-e7e3-4adc-b8fd-865d0b2cc2f1@ecare.ciscoserver.com:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Saba Abr Mizban LLC ┇ 185.226.140.140

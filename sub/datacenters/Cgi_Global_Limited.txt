@@ -1,4 +1,5 @@
-vless://199537c1-e19a-48a1-a5fd-604ce2062729@188.130.206.133:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.206.133
-vless://ff5e2768-bdeb-4c21-a7e3-53ae8edd923e@217.19.4.12:8445?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.19.4.12
-vless://0ad86b56-4b9f-4bf5-898f-c592b25a55d9@5.144.179.33:37928?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.144.179.33
-vless://ed6a0159-c142-4aa0-bad4-93a072f93e66@for.mrbot.fun:2053?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 91.108.189.156
+vless://4e1bef9f-d655-4722-a7c3-41e7ca40df75@95.182.114.33:33636?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.33
+vless://5b24eb9c-7681-4865-868f-ab3f326ef0ec@test.kidvpnlocal.dpdns.org:110?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
+vless://c93ca87a-e947-446f-9dcc-cc3281a41b11@test.kidvpnlocal.dpdns.org:110?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
+vless://0473fc53-8b55-4182-8db0-3dfee0955c01@test.kidvpnlocal.dpdns.org:110?type=grpc&security=none#FI 🇫🇮 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 31.57.92.18
+vless://e3f951ad-aab0-49e7-9ad2-be12d79a97f3@prsm.bearnetwork.ir:2044?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.228.236
