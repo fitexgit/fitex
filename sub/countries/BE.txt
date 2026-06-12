@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 194.71.227.178
+vless://65c705a4-0b2e-468d-bbfe-9428ccb4aa7b@188.95.12.110:8080?type=tcp&security=none&path=/?ed=2048#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.110
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110

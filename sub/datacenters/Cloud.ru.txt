@@ -1,2 +1,1 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.232.177.114:8443?type=tcp&security=none&sni=cdn3-87.vk-cdnvideo.com#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 89.232.177.114
-vless://a6e26ac0-644f-0019-8035-e2be0c93ffbb@brp.perecmus.ru:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 62.233.43.34
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.86.75:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 85.208.86.75
