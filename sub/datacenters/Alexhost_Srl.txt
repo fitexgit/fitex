@@ -1,2 +1,1 @@
-vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 81.177.212.44
-vless://9270ef77-592f-11f1-98cc-54db13ea7d40@185.139.214.151:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 185.139.214.151
+vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?type=tcp&security=reality&sni=sw1.panel11.ru&fp=firefox&flow=xtls-rprx-vision&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&sid=8b263e22ba03b4c1#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 81.177.212.44

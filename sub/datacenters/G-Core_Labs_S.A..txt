@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
-vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.45.184.133
 vless://46834b61-a623-42cd-9171-a94572ffe56c@79.133.126.199:31009?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 79.133.126.199
-vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 213.156.152.234
-vless://f05d2447-977d-4e83-96ce-2cef7dc0ca29@test.wxts.ir:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.42.247
+ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
+vless://f05d2447-977d-4e83-96ce-2cef7dc0ca29@test.wxts.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=67X9VprDUf3XS5cqX_AxotwpBPFPHtsJV8m1FBaacXI&sid=8372d136be5ecdb9#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.42.247
