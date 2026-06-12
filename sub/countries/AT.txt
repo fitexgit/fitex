@@ -1,4 +1,2 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.42
-vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@152.53.107.196:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.107.196
-vless://de818941-4b66-4053-a017-ec1dfdec0416@fastaus.phantom.direct:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Hohl IT e.U. ┇ 104.143.0.46
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
+vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@152.53.107.196:443?type=tcp&security=reality&sni=yahoo.com&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&flow=xtls-rprx-vision&pbk=x19FcTHLgg_eTYNTpwWKac46ilu-ZqarqkAxK3ahRxg&sid=d4b58110ca302ec5#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.107.196
