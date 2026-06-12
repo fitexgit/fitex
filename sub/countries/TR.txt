@@ -1,8 +1,14 @@
-vless://589a0172-46c2-4268-a786-839fd6ff2631@noyn.battlenetcp.com:2087?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 87.120.106.100
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Iksir Internet Hizmetleri A.S. ┇ 185.123.101.64
+vless://04032c7a-f743-4002-a79d-0090c35a8d5d@87.120.106.53:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.53
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?type=tcp&security=reality&sni=tgru.in&fp=chrome&flow=xtls-rprx-vision&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&sid=cd85b2abe0feed49#TR 🇹🇷 ┇ VLESS-TCP-REALITY - TradeZone LLC ┇ 188.132.192.30
 vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hostigger INC. ┇ 141.98.118.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
-vless://c19cc0a7-a5e6-4b40-b9c8-52b58682be10@107.161.174.24:8880?type=tcp&security=reality&sni=learn.microsoft.com&fp=chrome&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&sid=82cada35130f1ef2#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.161.174.24
+vless://4e71d588-61af-4b58-b467-3eba16b5041b@185.39.204.106:443?type=tcp&security=none&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.106
+vless://b84fbc28-341f-4176-93c0-564e04ab9733@net3.irajapan.store:21183?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.89
+vless://589a0172-46c2-4268-a786-839fd6ff2631@noyn.battlenetcp.com:2087?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 87.120.106.100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.17
+vless://7e458cd5-bbde-4d36-bef2-d651fb175fa6@87.120.106.53:440?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.53
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
+vless://3af67f03-75cb-43d9-a148-6e5e8df15170@helixgaming.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
+vless://587008ca-6a10-46da-9837-04071fc23a9c@87.120.106.53:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.53
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.113.194
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
+vless://5ab13a9b-d4cd-4f3f-a966-b89d8383b6e9@srvtr.theretrovip.com:11000?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.185

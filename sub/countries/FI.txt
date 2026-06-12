@@ -1,19 +1,15 @@
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 193.233.23.196
-hysteria2://91lsqgw8jx8o442n@83.143.112.143:8443?insecure=0#FI 🇫🇮 ┇ HYSTERIA2-TCP-NTLS - Play2go International Limited ┇ 83.143.112.143
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?type=tcp&security=tls#FI 🇫🇮 ┇ VLESS-TCP-TLS - H2nexus Ltd ┇ 85.192.48.50
-vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.241.111
-vless://8882d507-a051-4c81-a158-996f5270921e@45.144.52.70:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 45.144.52.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.47.60.186
-vless://5b24eb9c-7681-4865-868f-ab3f326ef0ec@test.kidvpnlocal.dpdns.org:110?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
-vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.181.18
-vless://a957d0fb-4641-4307-aa38-1f893b1ae987@94.237.115.30:443?type=tcp&security=reality&sni=cloudcdn-m9-9.cdn.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY#FI 🇫🇮 ┇ VLESS-TCP-REALITY - UpCloud Ltd ┇ 94.237.115.30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 109.107.182.229
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBIZXR6bmVyIE9ubGluZSBHbWJIIFx1MjUwNyA2NS4yMS4yNDAuMTA4IiwiYWRkIjoiNjUuMjEuMjQwLjEwOCIsInBvcnQiOjQ0MywiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
-vless://d2f83793-9420-4322-a036-988a02c3ab39@c1.zeus32.sbs:3453?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.185.249
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDY1LjEwOS4yMTMuMTM3IiwiYWRkIjoiNjUuMTA5LjIxMy4xMzciLCJwb3J0IjoxNjgzNCwiaWQiOiIxZTRmY2VlYi1jMzNlLTRhM2UtZjY0My1jOTQ1NzNiNjM4MDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://3ae4e550-0938-44b8-a12a-3fb736e3e6fb@journalist_info.allcaline.ir:6690?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Hetzner Online GmbH ┇ 37.27.253.86
 vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?type=grpc&security=reality&sni=play.google.com&mode=multi&fp=firefox&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&sid=1d9b1242d5#FI 🇫🇮 ┇ VLESS-GRPC-REALITY - Hetzner Online GmbH ┇ 65.109.248.144
-vless://c93ca87a-e947-446f-9dcc-cc3281a41b11@test.kidvpnlocal.dpdns.org:110?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGV0em5lciBPbmxpbmUgR21iSCBcdTI1MDcgNjUuMTA5LjEzNC4xOTEiLCJhZGQiOiI2NS4xMDkuMTM0LjE5MSIsInBvcnQiOjgwLCJpZCI6IjkxNjk4NzQ3LTkyYjMtNGEwNy1iNWRhLTIyNjk0ZWRiZWE4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2dyYXBocWwifQ
-vless://0473fc53-8b55-4182-8db0-3dfee0955c01@test.kidvpnlocal.dpdns.org:110?type=grpc&security=none#FI 🇫🇮 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 31.57.92.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg@85.192.49.179:51523#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 85.192.49.179
-vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?type=tcp&security=none&mode=multi#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.199.141
+vless://94e0e858-1348-46a8-acc7-35c6338c90e3@us.ipsenter.org:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 46.62.140.224
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBIZXR6bmVyIE9ubGluZSBHbWJIIFx1MjUwNyA2NS4yMS4yNDAuMTA4IiwiYWRkIjoiNjUuMjEuMjQwLjEwOCIsInBvcnQiOjQ0MywiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGV0em5lciBPbmxpbmUgR21iSCBcdTI1MDcgNjUuMTA5LjEzNC4xOTEiLCJhZGQiOiI2NS4xMDkuMTM0LjE5MSIsInBvcnQiOjgwLCJpZCI6IjkxNjk4NzQ3LTkyYjMtNGEwNy1iNWRhLTIyNjk0ZWRiZWE4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2dyYXBocWwifQ
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYTRjeE10dEV6elJGU0xwejNJY0JG@109.107.182.229:51544#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 109.107.182.229
+vless://ebb2b9cc-3132-4832-a6eb-f10885126245@ss.iranmta.dpdns.org:666?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
+vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 65.109.181.18
+vless://b84fbc28-341f-4176-93c0-564e04ab9733@net2.irajapan.store:21183?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS ┇ 45.137.60.82
+vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80?type=ws&security=none&path=/&host=95.182.99.236#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 95.182.99.236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.47.60.186
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Aleksei Fedorov Pr Krusevac ┇ 109.107.182.229

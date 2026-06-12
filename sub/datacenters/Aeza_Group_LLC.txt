@@ -1,3 +1,4 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 213.108.20.152
+vless://045acec8-7d9e-4793-9917-c909a4a70887@poiala.portalcode.ir:11332?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?type=tcp&security=tls&sni=decdn7.suio.me#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 109.120.177.84
+vless://89396baa-96d1-42c7-82d1-f6473bd028b8@138.124.78.146:7070?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.78.146
