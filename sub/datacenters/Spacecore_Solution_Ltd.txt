@@ -1,3 +1,1 @@
-vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&security=reality&sni=www.microsoft.com&mode=gun&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Spacecore Solution Ltd ┇ 194.58.41.65
-vless://10484bee-8516-400a-9b1e-efb5144ad324@194.58.41.156:44444?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Spacecore Solution Ltd ┇ 194.58.41.156
-vless://76b220dc-df21-4299-aa41-f0c056912e68@ne999.sonicservice.digital:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Spacecore Solution Ltd ┇ 94.156.131.149
+vless://3dc68a32-43aa-4b5e-a60f-e11b27d03edc@94.156.117.79:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Spacecore Solution Ltd ┇ 94.156.117.79

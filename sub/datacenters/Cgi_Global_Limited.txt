@@ -1,3 +1,4 @@
-vless://e3f951ad-aab0-49e7-9ad2-be12d79a97f3@prsm.bearnetwork.ir:2044?type=ws&security=tls&path=/10040&sni=prsm.bearnetwork.ir&host=prsm.bearnetwork.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.96.183
-vless://ebb2b9cc-3132-4832-a6eb-f10885126245@ss.iranmta.dpdns.org:666?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
-vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80?type=ws&security=none&path=/&host=95.182.99.236#FI 🇫🇮 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 95.182.99.236
+vless://06c0eb92-d152-40a8-be3e-ebf1735cda46@america.yoiktenkaisub.ir:2053?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.101.203
+ss://YWVzLTI1Ni1nY206MVJSSVk2@31.56.113.147:1015#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.56.113.147
+ss://YWVzLTI1Ni1nY206VHUzUHhM@188.130.207.77:1018#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.77
+vless://9046b7d8-67fe-44f6-8c45-45f45be02868@ss.iranmta.dpdns.org:666?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.92.18
