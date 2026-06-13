@@ -1,4 +1,4 @@
-vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@germany1.banovano.space:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 191.44.109.109
-vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@nl.riotvpn.eu:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.103.217
-vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@nl.riotvpn.eu:6443?type=xhttp&security=none#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - Node Host Limited ┇ 94.125.103.217
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@nl.riotvpn.eu:8443?type=tcp&security=none&mode=multi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.103.217
+vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@nl.riotvpn.eu:6443?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.103.216
+vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@nl.riotvpn.eu:8443?type=tcp&security=none&mode=multi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.103.216
+vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@auto.riotvpn.eu:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.103.211
+vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@nl.riotvpn.eu:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.103.216
