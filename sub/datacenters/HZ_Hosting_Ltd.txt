@@ -1,3 +1,1 @@
-vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@185.117.90.142:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.117.90.142
-vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@98.142.253.51:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 98.142.253.51
-vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@185.123.102.80:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.123.102.80
+vless://93796b65-0d32-4fcc-987c-16c97ecf44c2@185.123.102.80:443?type=tcp&security=reality&sni=germanfastspeed.live&flow=xtls-rprx-vision&pbk=SynQR-D-8ayFfLvFaU23WZT-mS0pPEZvxIFllklwPks#DE 🇩🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.123.102.80

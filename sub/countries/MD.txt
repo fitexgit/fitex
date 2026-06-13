@@ -1,4 +1,2 @@
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@md.riotvpn.eu:6443?type=tcp&security=none&mode=auto#MD 🇲🇩 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.240
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - WorkTitans B.V. ┇ 194.62.42.21
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@md.riotvpn.eu:8443?type=tcp&security=none&mode=multi#MD 🇲🇩 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.240
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@md.riotvpn.eu:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.240
+vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY ┇ 176.120.67.77
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.72.63

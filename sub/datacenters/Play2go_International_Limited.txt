@@ -1,1 +1,2 @@
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 150.241.71.35
+vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@2.27.40.241:8443?type=grpc&security=reality&sni=2.27.40.241&mode=gun&fp=chrome&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&sid=ea1058117be12087#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Play2go International Limited ┇ 2.27.40.241
+vless://3ba6d12a-4abe-48f2-9a07-aa4fc0f39f58@server1.tehranssh.net:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 185.246.223.78
