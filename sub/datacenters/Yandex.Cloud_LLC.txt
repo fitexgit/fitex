@@ -1,3 +1,6 @@
-vless://4d69d3ad-4035-4516-9aae-c5cabd5cb806@84.201.177.246:3001?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 84.201.177.246
+vless://9540edcb-7589-4315-9b90-0edc397b8a1d@158.160.62.53:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 158.160.62.53
+vless://75d0614c-27bb-4b77-a1d4-582387cff614@51.250.24.222:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.24.222
+vless://e34a84c4-8a52-4b4e-9a7d-cfa1a4d77e95@130.193.56.74:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 130.193.56.74
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
-vless://59341a57-7f08-4776-9f94-e4aab1461432@84.201.167.190:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 84.201.167.190
+vless://716956b3-3a57-43d4-bf56-a624b0d3440e@51.250.34.229:443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Yandex.Cloud LLC ┇ 51.250.34.229
+vless://914935cc-1af5-4937-b532-2af471f1343d@51.250.97.141:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Yandex.Cloud LLC ┇ 51.250.97.141

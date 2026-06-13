@@ -1,1 +1,3 @@
-vless://329f5c49-c8a1-46e0-8e4d-79b0bebdc59e@95.85.246.58:8448?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 95.85.246.58
+vless://9bc4a008-bc91-4ec2-aa3d-589584511965@64.188.77.219:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 64.188.77.219
+vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.80:443?type=tcp&security=reality&sni=nid1.hatvpn.org&fp=firefox&flow=xtls-rprx-vision&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Oc Networks Limited ┇ 95.85.228.80
+vless://072baf2f-574e-4939-8b20-ccd89c17fefb@64.188.77.140:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 64.188.77.140

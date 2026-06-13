@@ -1,3 +1,4 @@
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@bel1.pandaonline.org:443?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.94.173
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@belgium-1.pandaonline.org:443?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.94.168
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:809#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@bel1.pandaonline.org:443?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.94.173

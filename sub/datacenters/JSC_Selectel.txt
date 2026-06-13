@@ -1,2 +1,4 @@
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 80.249.131.7
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@5.178.85.77:19443?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.178.85.77
+vless://ec06516e-7517-434e-a77f-31ee65ac70e7@ru63.whost-solutions.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.228.50.194
+vless://ec06516e-7517-434e-a77f-31ee65ac70e7@ru62.whost-solutions.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 135.106.140.83
+vless://49769318-1e1d-4ba9-b217-d8c5d6106e02@95.143.191.117:443?type=grpc&security=reality&sni=gos.skystreamgame.com&mode=gun&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 95.143.191.117
+vless://ec06516e-7517-434e-a77f-31ee65ac70e7@ru61.whost-solutions.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 135.106.140.178

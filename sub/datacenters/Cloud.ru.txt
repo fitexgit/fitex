@@ -1,1 +1,3 @@
-vless://16bb0986-9660-470a-a8a7-ae428dea8580@cdn12.cloud-vk.com:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 85.208.87.52
+vless://db62e9f2-49a3-4e9d-a59b-0bf77f102420@ru1.sipipro.su:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 85.208.87.215
+vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 87.242.102.193
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.157.230:8443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Cloud.ru ┇ 82.202.157.230
