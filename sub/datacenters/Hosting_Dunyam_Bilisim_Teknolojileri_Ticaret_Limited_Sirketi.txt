@@ -1,1 +1,4 @@
-vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:67?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&sid=e84c875d7a6dff13#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
+vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
+vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
+vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:85?type=xhttp&security=none&path=/hh&mode=auto#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
+vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&sid=6c8c7b#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53

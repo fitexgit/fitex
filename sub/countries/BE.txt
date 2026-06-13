@@ -1,5 +1,2 @@
-vless://32f1b878-3b34-4070-863e-055a3cc714bc@cdn1.portalcode.ir:2095?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
-vless://84539eef-b551-4d41-b85f-4b07c83db922@bel1.pandaonline.org:443?type=tcp&security=reality&sni=bel1.pandaonline.org&fp=chrome&flow=xtls-rprx-vision&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM#BE 🇧🇪 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.94.173
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.115:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.115
 vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
-vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@cdn1.portalcode.ir:2095?type=httpupgrade&security=none&path=/&host=kalamfr.monopolitass.ir#BE 🇧🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:801#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.9.114.34
