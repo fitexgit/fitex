@@ -1,7 +1,3 @@
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.102.248:443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 84.32.102.248
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.18:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.18
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.100.252:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 84.32.100.252
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?type=tcp&security=none&mode=gun#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.25.200
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.228
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.209.102:443?type=tcp&security=tls#LT 🇱🇹 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 84.32.209.102
-vless://be2e1543-d450-481b-a955-c691086e41b1@lt-modx.nodexphere.net:443?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 5.199.174.140
+vless://be2e1543-d450-481b-a955-c691086e41b1@lt-modx.nodexphere.net:443?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 5.199.168.54
+vless://be2e1543-d450-481b-a955-c691086e41b1@pl-modx.nodexphere.net:443?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 5.199.174.166
+vless://af98f1f5-965d-4b06-8687-a61fc2df03bb@84.32.96.100:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.96.100
