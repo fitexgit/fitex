@@ -1,2 +1,1 @@
-vless://2e09ec6c-fca4-42d6-8b2a-1e813bd45a3b@5.188.114.66:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 5.188.114.66
-vless://49769318-1e1d-4ba9-b217-d8c5d6106e02@95.143.191.117:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 95.143.191.117
+vless://49769318-1e1d-4ba9-b217-d8c5d6106e02@95.143.191.117:443?type=grpc&security=reality&sni=gos.skystreamgame.com&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 95.143.191.117

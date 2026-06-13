@@ -1,4 +1,1 @@
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@ee.riotvpn.eu:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-REALITY - RJ Network OU ┇ 185.155.222.10
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@ee.riotvpn.eu:6443?type=tcp&security=none&mode=auto#EE 🇪🇪 ┇ VLESS-TCP-NTLS - RJ Network OU ┇ 185.155.222.10
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@ee.riotvpn.eu:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-REALITY - RJ Network OU ┇ 185.155.222.10
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@ee.riotvpn.eu:8443?type=tcp&security=none&mode=multi#EE 🇪🇪 ┇ VLESS-TCP-NTLS - RJ Network OU ┇ 185.155.222.10
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.216.114
