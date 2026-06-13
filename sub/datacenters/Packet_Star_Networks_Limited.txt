@@ -1,3 +1,1 @@
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@uk.riotvpn.eu:6443?type=tcp&security=none&mode=auto#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Packet Star Networks Limited ┇ 217.179.220.66
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@uk.riotvpn.eu:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Packet Star Networks Limited ┇ 217.179.220.66
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@uk.riotvpn.eu:8443?type=tcp&security=none&mode=multi#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Packet Star Networks Limited ┇ 217.179.220.66
+vless://3314aee8-9420-440c-bc3c-a0daa545517b@uk.riotvpn.eu:443?type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Packet Star Networks Limited ┇ 130.78.217.69
