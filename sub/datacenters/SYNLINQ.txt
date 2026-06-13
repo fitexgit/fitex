@@ -1,1 +1,2 @@
-vless://e30c66d8-725a-4bb6-9173-58b1769d9c6f@109.71.253.204:24758?type=xhttp&security=none&path=/&host=www.speedtest.net&mode=stream-one#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - SYNLINQ ┇ 109.71.253.204
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 37.114.48.146
+vless://b3595294-85ed-41a0-bf24-2906c7dc9197@5.175.220.244:8800?type=tcp&security=tls&sni=sourceforge.net&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - SYNLINQ ┇ 5.175.220.244

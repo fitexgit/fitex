@@ -1,2 +1,4 @@
-vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@uk.ipsenter.org:443?type=tcp&security=reality&sni=hubspot.com&fp=chrome&flow=xtls-rprx-vision&pbk=x19FcTHLgg_eTYNTpwWKac46ilu-ZqarqkAxK3ahRxg&sid=d4b58110ca302ec5#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.107.196
+vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?type=tcp&security=tls&sni=amazon.de&fp=chrome&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 62.60.239.210
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.42
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.41
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
