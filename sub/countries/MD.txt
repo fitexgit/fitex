@@ -1,4 +1,1 @@
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@md.riotvpn.eu:6443?type=tcp&security=none&mode=auto#MD 🇲🇩 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.235
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@md.riotvpn.eu:8443?type=tcp&security=none&mode=multi#MD 🇲🇩 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.235
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.72.63
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@md.riotvpn.eu:443?type=tcp&security=reality#MD 🇲🇩 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 144.31.131.235
+vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@md.riotvpn.eu:8443?type=grpc&security=none#MD 🇲🇩 ┇ VLESS-GRPC-NTLS - H2nexus Ltd ┇ 144.31.131.236

@@ -1,3 +1,3 @@
-vless://3dec062d-8da3-49f3-bc46-4e4edfd08505@154.83.159.20:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 154.83.159.20
 vless://e97a7931-500b-4777-82a2-4237f15bcedd@45.194.10.82:8443?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 45.194.10.82
-vless://17172b99-16ae-4453-99f9-bd15191228a9@z5xa-b1a-azar11.se.deepl-cdn.com:40443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 88.216.223.56
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.228
+vless://3dec062d-8da3-49f3-bc46-4e4edfd08505@154.83.159.20:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 154.83.159.20

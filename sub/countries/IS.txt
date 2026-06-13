@@ -1,5 +1,1 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.147.109.212:443?type=tcp&security=none&fp=chrome#IS 🇮🇸 ┇ VLESS-TCP-NTLS - 1984 ehf ┇ 89.147.109.212
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.247.226.138:443?type=tcp&security=none&fp=chrome#IS 🇮🇸 ┇ VLESS-TCP-NTLS - FlokiNET ehf ┇ 185.247.226.138
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@151.236.24.54:443?type=tcp&security=none&fp=chrome#IS 🇮🇸 ┇ VLESS-TCP-NTLS - Advania Island ehf ┇ 151.236.24.54
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@195.246.230.125:443?type=tcp&security=none&host=linek.perry.us.kg#IS 🇮🇸 ┇ VLESS-TCP-NTLS - 1984 ehf ┇ 195.246.230.125
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.147.111.223:2053?type=tcp&security=none&host=linek.perry.us.kg#IS 🇮🇸 ┇ VLESS-TCP-NTLS - 1984 ehf ┇ 89.147.111.223
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@151.236.24.54:443?type=ws&security=tls&path=/files/ad/collect&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Advania Island ehf ┇ 151.236.24.54
