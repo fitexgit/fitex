@@ -1,4 +1,8 @@
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.11.151
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.82.47
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
-vless://8ea0665e-dee3-418c-8822-1f70f350f2db@as.pink-perfect.ru:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.72.57
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.103.208
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.222
+vless://2f7edbbf-b9f1-467b-a0bb-293f63b3820b@144.31.219.104:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.219.104
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?type=tcp&security=reality&sni=google.com&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.217.99
+vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 193.163.203.76
+vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@185.170.154.202:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 185.170.154.202
