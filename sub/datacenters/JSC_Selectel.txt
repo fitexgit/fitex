@@ -1,4 +1,5 @@
+vless://129400e5-7d1b-4720-bf3e-f877c3e5021e@185.151.241.186:2443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 185.151.241.186
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@109.236.57.67:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 109.236.57.67
-vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 188.68.218.190
+vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 87.228.52.147
+vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 188.68.218.190
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@109.236.57.139:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 109.236.57.139
-vless://90885c1b-ae61-43bf-b356-1c8f2fcfa917@185.91.52.217:1443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - JSC Selectel ┇ 185.91.52.217

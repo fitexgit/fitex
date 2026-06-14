@@ -1,4 +1,2 @@
 vless://f8369fc1-a03c-48af-beda-91732568a097@143.246.136.12:31151?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.136.12
-vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:3083?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
-vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:443?type=tcp&security=none&path=/getBookdata#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
-vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=ws&security=tls&path=/assets&sni=nl1-global.mikro-host.com&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - YottaSrc ┇ 45.67.136.119
+vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:2128?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 167.104.219.64

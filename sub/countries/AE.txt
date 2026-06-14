@@ -1,8 +1,4 @@
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru1.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
-vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
-vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
-vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 94.183.169.203
-vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.3
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru2.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kontel LLC ┇ 185.244.41.59
+vless://5c935fb4-567f-4a14-a8c7-781b8c6bb913@38.180.26.49:1008?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 38.180.26.49
+vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
+vless://f5f32cb1-a2bc-439d-a147-37e53f60c45b@panel.novexone.ir:85?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.199
 vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.167
