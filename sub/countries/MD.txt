@@ -1,3 +1,1 @@
-vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - WorkTitans B.V. ┇ 185.242.87.36
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 192.121.87.89
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@103.35.189.61:8442?type=tcp&security=tls#MD 🇲🇩 ┇ VLESS-TCP-TLS ┇ 103.35.189.61
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS ┇ 185.236.232.189

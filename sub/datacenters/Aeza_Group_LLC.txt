@@ -1,5 +1,4 @@
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?type=tcp&security=tls&sni=amazon.de&fp=chrome&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 62.60.239.210
-vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
+vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=tcp&security=none&path=/@Marisa_kristi#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.238.213
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
 vless://56ff10f9-1c66-4a13-addd-341c912d25a6@85.192.37.175:80?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 85.192.37.175
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+vless://e8c2596e-85ec-4fc4-8e8c-57aa7b307ebe@94.228.170.58:21194?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 94.228.170.58

@@ -1,4 +1,2 @@
 vless://b8c51058-4378-46d3-b2c9-50b43b5715a0@main.saforia.ru:2086?type=ws&security=none&path=/&host=main.saforia.ru#CZ 🇨🇿 ┇ VLESS-WS-NTLS - WAIcore Ltd ┇ 194.87.77.134
-vless://cb34b554-25b2-4948-98f4-dc89f0fd9d05@87.120.92.158:8443?type=tcp&security=reality#BG 🇧🇬 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 87.120.92.158
-vless://0a12381a-e241-4b63-a03c-1a5a45a95977@213.165.56.102:443?type=tcp&security=tls&sni=freede.aiage.work&fp=chrome&flow=xtls-rprx-vision-udp443#SA 🇸🇦 ┇ VLESS-TCP-TLS - WAIcore Ltd ┇ 213.165.56.102
-vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 95.85.235.143
+vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 95.85.235.132

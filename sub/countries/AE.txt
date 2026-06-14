@@ -1,3 +1,2 @@
-vless://738dcc38-94dc-4ae5-9a37-0fc6931feab3@94.140.0.255:443?type=tcp&security=none&path=/?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
-vless://c56b670a-7ba8-4e4e-be86-911e6fa3ee3c@38.180.27.91:1008?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - M247 Europe SRL ┇ 38.180.27.91
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://3e1d5d66-1b4a-4d57-af71-7e87a3b3275e@94.140.0.255:8443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
+vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.3

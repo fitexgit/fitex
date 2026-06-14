@@ -1,2 +1,4 @@
 vless://7c352f3b-6535-788f-fb0c-f28a76d6deb6@rvg2-production.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.10
-vless://9ede7f65-aa2c-09b1-3312-25625215edad@rvg-production-7c12.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.113
+vless://f71ecbed-d37a-78d6-3875-5f505c958d0c@66.33.23.75:443?type=tcp&security=none&path=/ws/f71ecbed-d37a-78d6-3875-5f505c958d0c#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.75
+vless://f71ecbed-d37a-78d6-3875-5f505c958d0c@66.33.23.63:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.63
+vless://9ede7f65-aa2c-09b1-3312-25625215edad@rvg-production-7c12.up.railway.app:443?type=ws&security=tls&path=/ws/9ede7f65-aa2c-09b1-3312-25625215edad&sni=rvg-production-7c12.up.railway.app&host=rvg-production-7c12.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.113
