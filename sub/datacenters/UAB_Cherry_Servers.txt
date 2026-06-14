@@ -1,2 +1,2 @@
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.209.102:443?type=tcp&security=tls#LT 🇱🇹 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 84.32.209.102
-vless://535e8919-c649-405a-b40f-dae7cb48552a@154.83.159.233:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 154.83.159.233
+vless://efe3901e-b309-43f3-843a-f4f871670cf3@bypass.nl01-cherry.online:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 154.83.159.233
+vless://535e8919-c649-405a-b40f-dae7cb48552a@154.83.159.233:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 154.83.159.233
