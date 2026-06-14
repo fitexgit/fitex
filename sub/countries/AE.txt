@@ -1,6 +1,12 @@
-vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@31.57.190.22:443?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Mifinorx Ltd ┇ 31.57.190.22
-vless://0b6c633f-27c9-4ab2-af97-01dc72d2998a@181.214.140.128:17835?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 181.214.140.128
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru1.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
-vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 94.183.169.203
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.186
+vless://e8dcebf8-db7f-4ffb-ac91-27f2fcd21c2f@x3.irancdngame.com:2096?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.1
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.227
+vless://e8dcebf8-db7f-4ffb-ac91-27f2fcd21c2f@x1.honeybestshop.net:2053?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.1
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?type=ws&security=tls&path=/&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.157
+vless://d4f2827b-a566-48d1-b207-0b06fbc2dc4b@sa.torentomovie.ir:27437?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Itglobal Com Dmcc ┇ 81.85.92.177
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.40:8880?type=ws&security=none&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳&host=vms.lifetime26.workers.dev#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 94.140.0.40
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.138
+vless://e8dcebf8-db7f-4ffb-ac91-27f2fcd21c2f@x1.honeybestshop.net:2087?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.1
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.190:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 181.214.1.190
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?type=ws&security=tls&path=/tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.185
+vless://e8dcebf8-db7f-4ffb-ac91-27f2fcd21c2f@x3.irancdngame.com:8443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.1

@@ -1,1 +1,2 @@
-vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?type=tcp&security=none&mode=auto#TH 🇹🇭 ┇ VLESS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.144.165.11
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@s480.ccgfw.top:443?type=xhttp&security=tls&path=ssp-xhttp&sni=u723828us480.ccgfw.top&host=s480.ccgfw.top&fp=random#TH 🇹🇭 ┇ VLESS-XHTTP-TLS - Alibaba (US) Technology Co., Ltd. ┇ 8.213.206.47
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?type=tcp&security=none&path=/ws#TH 🇹🇭 ┇ VLESS-TCP-NTLS - Bangmod Enterprise Co., Ltd. ┇ 116.206.124.228

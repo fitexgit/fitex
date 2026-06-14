@@ -1,3 +1,6 @@
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
 vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@germany70.clearorbitllc.com:443?type=tcp&security=reality#BG 🇧🇬 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 94.156.155.234
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 2.26.11.151
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.101.222
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn17.suio.me:443?type=tcp&security=tls&sni=secdn17.suio.me#SE 🇸🇪 ┇ VLESS-TCP-TLS - Serv.host Group Ltd ┇ 193.23.200.153
+vless://2f7edbbf-b9f1-467b-a0bb-293f63b3820b@144.31.219.104:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.104
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.11.151
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?type=tcp&security=reality&sni=yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.217.17
