@@ -1,13 +1,10 @@
-vless://5f34acef-54ad-494f-b389-f02c1b781b5a@213.156.152.131:2042?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.131
-vless://50560c3d-1a2b-47e3-8843-91282b800447@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.75
-vless://edabe1ef-f78c-4230-a67a-a164de24d15a@87.120.106.73:8080?type=httpupgrade&security=none&path=/V2RayyNGvpn&host=trx.ggxpboost.top#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 87.120.106.73
-vless://c4e2ea1b-c92c-43db-9d05-295e160ec1b2@82.158.120.56:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.56
-vless://46834b61-a623-42cd-9171-a94572ffe56c@79.133.126.199:31009?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 79.133.126.199
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA@185.202.93.194:41348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 185.202.93.194
-vless://f29cf916-4b65-45ed-858b-4a0b309b28f2@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.103
-vless://f05d2447-977d-4e83-96ce-2cef7dc0ca29@test.wxts.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=67X9VprDUf3XS5cqX_AxotwpBPFPHtsJV8m1FBaacXI&sid=8372d136be5ecdb9#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.42.247
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
-ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.239
 vless://e81b3a2a-3c10-447a-bffc-a0645f253032@85.234.69.164:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.234.69.164
+vless://5540d4e3-297a-4149-bde9-98ce6df1fde4@85.234.69.164:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.164
+vless://c4e2ea1b-c92c-43db-9d05-295e160ec1b2@82.158.120.56:719?type=tcp&security=none&path=/api/v2/xtrnwqjbkr?ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.56
+vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
+vless://edabe1ef-f78c-4230-a67a-a164de24d15a@87.120.106.73:8080?type=httpupgrade&security=none&path=/V2RayyNGvpn&host=trx.ggxpboost.top#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 87.120.106.73
+ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA@185.202.93.194:41348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 185.202.93.194
+vless://81bdb421-2867-50c2-ee77-8639fada131e@vulmart.ir:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=ExwGZ1slIDUL61uKEeIz3rboKjXwsHJpPTuY3a8F73s&sid=51f53398#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 87.120.106.240
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.227
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.167

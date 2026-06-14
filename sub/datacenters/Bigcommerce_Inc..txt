@@ -1,3 +1,5 @@
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@hwefesw.aloiacs.shop:2087?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Bigcommerce Inc. ┇ 63.141.128.250
+vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?type=xhttp&security=tls&path=/v2raylink&sni=shop.yallda.com&host=www.yallda.com&mode=auto&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Bigcommerce Inc. ┇ 192.200.160.68
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@hwefesw.aloiacs.shop:443?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Bigcommerce Inc. ┇ 63.141.128.250
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.45
-vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.68
+vless://3c5a9fc5-3415-4629-bf8e-af016cb2fd5c@shir.shirvani24.org:2096?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Bigcommerce Inc. ┇ 63.141.128.88

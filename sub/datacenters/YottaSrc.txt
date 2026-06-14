@@ -1,3 +1,4 @@
-vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.136.119
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSVljeVpzNkl5SEFHaEgwOUt3XzRn@64.49.15.161:1080#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - YottaSrc ┇ 64.49.15.161
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
+vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.136.119
+vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:3083?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
+vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@fr1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.6.97
+vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:443?type=tcp&security=none&path=/getBookdata#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
