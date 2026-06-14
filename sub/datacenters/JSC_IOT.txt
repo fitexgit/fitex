@@ -1,1 +1,2 @@
-vless://ba2630d8-d6c4-49ff-b5d5-2c24330dd245@155.212.162.121:2096?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC IOT ┇ 155.212.162.121
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=ca-xh-01.hpdata.click&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - JSC IOT ┇ 178.250.159.202
+vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@212.109.219.25:443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=uqH7BYa_6oMyt0G9FkWhLCm9ASxrE3vSyECnjlszyCQ&sid=503e96e0#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC IOT ┇ 212.109.219.25

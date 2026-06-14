@@ -1,3 +1,2 @@
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@ee.riotvpn.eu:6443?type=tcp&security=none&mode=auto#EE 🇪🇪 ┇ VLESS-TCP-NTLS - RJ Network OU ┇ 185.155.222.11
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@ee.riotvpn.eu:8443?type=tcp&security=none&mode=multi#EE 🇪🇪 ┇ VLESS-TCP-NTLS - RJ Network OU ┇ 185.155.222.11
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@ee.riotvpn.eu:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-REALITY - RJ Network OU ┇ 185.155.222.11
+vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@185.215.184.109.blanesik.space:443?type=grpc&security=tls&sni=185.215.184.109.blanesik.space&fp=edge#EE 🇪🇪 ┇ VLESS-GRPC-TLS - RJ Network OU ┇ 185.215.184.109
+vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@ee.riotvpn.eu:6443?type=xhttp&security=reality&path=/&sni=avatars.mds.yandex.net&mode=auto&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#EE 🇪🇪 ┇ VLESS-XHTTP-REALITY - RJ Network OU ┇ 185.155.222.10

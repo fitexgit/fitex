@@ -1,4 +1,9 @@
-vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.136.119
-vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:3083?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
+vless://1c291039-0845-428c-94fc-8c4623bf4ffd@tr.edge-cache.oneset.ir:8164?type=tcp&security=reality&sni=www.varzesh3.com&fp=safari&pbk=v3qSUlegZwTvEziNnU2_g7-crFM4UjARJ0chqTRJ-UY&sid=992b2ba067fe6a4b#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.136
+vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:443?type=httpupgrade&security=none&path=/getBookdata#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - YottaSrc ┇ 167.104.219.64
+vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 162.217.249.74
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?type=tcp&security=reality&sni=France1cxc.chickenkiller.com&flow=xtls-rprx-vision&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&sid=6089640857a72237#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.6.84
+vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:2128?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 167.104.219.64
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.199
 vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@fr1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.6.97
-vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:443?type=tcp&security=none&path=/getBookdata#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
+vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.136.119
+vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@198.105.115.202:7443?type=raw&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#DE 🇩🇪 ┇ VLESS-RAW-REALITY - YottaSrc ┇ 198.105.115.202

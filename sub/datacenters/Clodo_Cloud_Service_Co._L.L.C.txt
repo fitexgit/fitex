@@ -1,1 +1,2 @@
-vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Clodo Cloud Service Co. L.L.C ┇ 88.218.120.60
+vless://9c63bf8b-1c25-4b7e-9393-71aa99cad29d@88.218.120.60:8443?type=tcp&security=reality&sni=login.mts.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1A4AgKQiz38mT1r1H0su7aAXBB7KnKOFzsQ3AdACVDs&sid=612d8fa72c#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Clodo Cloud Service Co. L.L.C ┇ 88.218.120.60
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.114.61.224:443?type=ws&security=tls&path=/TG@wxgqlfx&sni=us2.wxgqlfx.xyz&host=us2.wxgqlfx.xyz&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Clodo Cloud Service Co. L.L.C ┇ 45.114.61.224

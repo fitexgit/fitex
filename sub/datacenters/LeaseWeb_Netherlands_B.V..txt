@@ -1,2 +1,3 @@
-vless://0251d827-a6c8-41cf-ae3d-4a3540d96ad5@sedfxyz.s16.viptelbot.top:80?type=tcp&security=none&path=/watson.php#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.89.220.4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHSnRKS1lsQUF1dmE@178.162.164.142:31558#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 178.162.164.142
+vless://0251d827-a6c8-41cf-ae3d-4a3540d96ad5@sedfxyz.s16.viptelbot.top:80?type=ws&security=none&path=/watson.php#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.89.220.4
+vless://a40d3a03-a6b7-4e70-afdb-f23f1699a8d2@sedfxyz.s16.viptelbot.top:80?type=ws&security=none&path=/watson.php#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 45.89.220.4
+vless://afc70422-f320-4523-bd14-4ee01f53ba3e@62.212.70.94:2026?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=eGk1Ry8mkkWQZc2QuGV_n123JIBFKsPtFcBSXDg33mk&sid=e9#NL 🇳🇱 ┇ VLESS-TCP-REALITY - LeaseWeb Netherlands B.V. ┇ 62.212.70.94

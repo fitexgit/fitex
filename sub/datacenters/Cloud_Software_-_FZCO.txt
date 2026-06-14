@@ -1,6 +1,5 @@
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:10958?type=httpupgrade&security=none&path=/&host=divar.com#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 104.252.89.70
 vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.23.38
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2088?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=03#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.252.89.70
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:42296?type=ws&security=none&path=/&host=Divar.com#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cloud Software - FZCO ┇ 104.252.89.70
-vless://355f381b-72fc-4935-bfc6-37d62644d93e@pan.hpkthegreat.ir:8443?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.84.224
-vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:41756?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.70
+vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:10958?type=httpupgrade&security=none&path=/&host=divar.com#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 104.252.89.70
+vless://a3e194dc-489c-45d3-b007-0936d37a7dff@104.253.25.208:443?type=tcp&security=reality&sni=www.hcaptcha.com&fp=chrome&flow=xtls-rprx-vision&pbk=IgE3YVskwHOBHPUSDq-3yhO99G46ayFewg7WG2XHK28&sid=a949228a#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.25.208
+ss://YWVzLTI1Ni1nY206QmQ3WGtM@45.38.60.81:1011#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.60.81
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&host=t1s1.rittbo.kdns.fr#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 104.253.175.99

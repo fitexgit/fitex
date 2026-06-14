@@ -1,1 +1,4 @@
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - 365.partners INC ┇ 77.91.68.70
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - 365.partners INC ┇ 77.91.68.70
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=c.82313369.xyz#AM 🇦🇲 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.105.163.13
+vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:55627?type=ws&security=none#AM 🇦🇲 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.90.207.59
+vless://9cb0fadf-6999-4a6e-ac90-d22ff41586a7@188.164.158.246:2053?type=grpc&security=tls&sni=flnewconect3.fragmentscan.xyz&fp=chrome#AM 🇦🇲 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 188.164.158.246

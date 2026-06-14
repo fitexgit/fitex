@@ -1,3 +1,9 @@
+vless://e535e1b3-db06-4b2b-9c9a-6824378abbc4@nl3.gamelistak.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 104.194.134.11
 vless://734d7287-27d5-4ed4-ad86-8639669e0607@172.86.109.206:17121?type=ws&security=none&path=/&host=www.google.com#US 🇺🇸 ┇ VLESS-WS-NTLS - RouterHosting LLC ┇ 172.86.109.206
-vless://db76bc14-d703-4643-8e80-e8584a326be5@de1.gamelistak.com:443?type=xhttp&security=tls&path=/@MrNexTV2RAY&host=de1.gamelistak.com&mode=auto&fp=chrome#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - RouterHosting LLC ┇ 104.194.156.161
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?type=ws&security=tls&path=تلگرام=https://t.me/V2rayGodVip_bot&sni=namasha.com&host=namasha.com#US 🇺🇸 ┇ VLESS-WS-TLS - RouterHosting LLC ┇ 144.172.101.108
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@172.86.67.73:443?type=tcp&security=reality&sni=www.akamai.com&fp=chrome&flow=xtls-rprx-vision&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ#DE 🇩🇪 ┇ VLESS-TCP-REALITY - RouterHosting LLC ┇ 172.86.67.73
+vless://77179d52-dfd9-42e6-856f-a5e445a37427@216.126.236.169:8443?type=tcp&security=reality&sni=reality.kelidari.shop&fp=randomized&pbk=12lutmChfiQCTZ3F76bNKDU4jOk-h5rczbq8AudN1Hc&sid=88c15f1151fa99#US 🇺🇸 ┇ VLESS-TCP-REALITY - RouterHosting LLC ┇ 216.126.236.169
+vless://c950a09e-e0df-4756-8dfc-a75d46518f16@du1.gamelistak.com:443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&sni=du1.gamelistak.com&host=du1.gamelistak.com&mode=auto&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - RouterHosting LLC ┇ 144.172.88.90
+vless://58f46016-baec-4562-8f80-1f3772dbd4d0@45.61.148.125:35711?type=ws&security=none&path=/&host=www.google.com#US 🇺🇸 ┇ VLESS-WS-NTLS - RouterHosting LLC ┇ 45.61.148.125
+vless://3ddd1d41-e4af-4f89-afde-0ec0bcf8ead2@45.61.148.125:38836?type=httpupgrade&security=none&path=/&host=www.google.com#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - RouterHosting LLC ┇ 45.61.148.125
+vless://dfa6f07e-84d4-4d2b-8ba1-48d47dccba60@104.194.135.175:31570?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - RouterHosting LLC ┇ 104.194.135.175
