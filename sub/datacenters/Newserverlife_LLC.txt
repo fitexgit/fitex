@@ -1,8 +1,5 @@
-vless://d2a11034-9f52-4a06-beb8-c817ae9d8113@191.101.238.134:443?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 191.101.238.134
+vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?type=ws&security=none&path=/stream&host=panel.dibaux.ir#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134
 vless://45b9ce66-4881-4099-bb7e-21bf71942444@82.40.62.3:80?type=xhttp&security=reality&path=/mohraz&sni=www.samsung.com&host=82.40.62.3&mode=auto&fp=chrome&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&sid=d5df9687ac6f#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Newserverlife LLC ┇ 82.40.62.3
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
-vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=QwZuIaHhRuaiQPSUiWuBR8q8qrUHWXuxPCjnANcdJk0&sid=989441#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
-vless://e7d8a707-307c-4e88-a288-57ba0d1be8cb@82.40.62.59:54095?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=Fn29yquJA7Yn6eyeBwlOlQYZCK5wcW4xqafxOk8yoXs&sid=321625321970#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
-vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=EA0Cc-YmlMRP8zB3KI0-s-uXoBwXYYyt-ItMxgD5o0I&sid=06a2eb0bdd#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
-vless://7cbabfe4-7d82-494e-be9f-486ba8a92b34@38.107.237.83:51576?type=ws&security=none&path=/download.ir&host=download.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 38.107.237.83
-vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 84.75.220.212
+vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
+vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59

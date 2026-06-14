@@ -1,3 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.133.247.114:443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#VG 🇻🇬 ┇ VLESS-WS-TLS - Ihor Hosting Ltd ┇ 45.133.247.114
-vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@185.17.2.109:443?type=ws&security=tls&path=/TG@wxgqlfx&sni=us2.wxgqlfx.xyz&host=us2.wxgqlfx.xyz&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Ihor Hosting Ltd ┇ 185.17.2.109
-vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?type=tcp&security=none&host=speedtest.net#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Ihor Hosting Ltd ┇ 103.71.22.160
+vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@185.17.2.109:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Ihor Hosting Ltd ┇ 185.17.2.109

@@ -1,5 +1,1 @@
-vless://a4eaa9bf-078c-4541-a7c8-238430ca7a8e@46.232.248.67:443?type=tcp&security=reality&sni=apple.com&flow=xtls-rprx-vision&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=94d59abc6f#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 46.232.248.67
-vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&sid=03e60665#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.142.189
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.60.65
-vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&sid=6d78523a82d71956#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 89.58.1.98
-vless://8f29e7a3-7eb0-49f4-8d2c-938e8acb155b@89.58.40.177:443?type=tcp&security=none&mode=stream-one#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 89.58.40.177
+vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=tcp&security=none&mode=packet-up#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 185.244.192.101

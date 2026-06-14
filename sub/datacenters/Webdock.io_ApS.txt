@@ -1,2 +1,1 @@
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none#DK 🇩🇰 ┇ VLESS-WS-NTLS - Webdock.io ApS ┇ 45.148.31.0
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@92.113.146.87:443?type=tcp&security=none&host=linek.perry.us.kg#DK 🇩🇰 ┇ VLESS-TCP-NTLS - Webdock.io ApS ┇ 92.113.146.87
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=tcp&security=none&path=/#DK 🇩🇰 ┇ VLESS-TCP-NTLS - Webdock.io ApS ┇ 45.148.31.0

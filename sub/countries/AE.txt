@@ -1,14 +1,8 @@
-vless://7e3503ef-2bd8-40bd-a4fc-f3a9f5e787b7@94.140.0.0:443?type=ws&security=tls&path=/?ed=2048&sni=nlox.nextigo.app&host=nlox.nextigo.app&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.0
-vless://db3a2d56-0829-4a14-a298-33ad8a20cb9f@181.214.208.17:80?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=ICbAJGMVY_6bhIVxsVfeYOc0oowX6QSsGmWdPc5RMwU&sid=46f5ac1e#AE 🇦🇪 ┇ VLESS-TCP-REALITY - IQWeb FZ-LLC ┇ 181.214.208.17
-vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?type=ws&security=none#AE 🇦🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.3
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=ws&security=none&path=/&host=2.naxm.ir#AE 🇦🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
-vless://231783dd-f6a7-4706-9914-c3b887847e91@45.89.221.111:443?type=ws&security=tls&path=/sub/v1&sni=vpn.alphavip.dpdns.org&host=vpn.alphavip.dpdns.org&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Seyed Ali Moosavi ┇ 45.89.221.111
-vless://738dcc38-94dc-4ae5-9a37-0fc6931feab3@94.140.0.255:443?type=ws&security=tls&path=/?ed=2048&sni=usaop.nextigo.app&host=usaop.nextigo.app&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.255
-vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?type=tcp&security=reality&sni=ae.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#AE 🇦🇪 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 38.180.26.28
-vless://53e6be94-69ed-481d-d169-533ef35482e9@31.58.144.49:2053?type=tcp&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#AE 🇦🇪 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 31.58.144.49
-vless://d4f2827b-a566-48d1-b207-0b06fbc2dc4b@sa.torentomovie.ir:27437?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&pbk=oWU8cmjNaItt1EIDf-nhJFAxKHq3X2ig_XBFAfXK9GM&sid=118c54423f5ea5#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Itglobal Com Dmcc ┇ 81.85.92.177
-vless://c950a09e-e0df-4756-8dfc-a75d46518f16@du1.gamelistak.com:443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&sni=du1.gamelistak.com&host=du1.gamelistak.com&mode=auto&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - RouterHosting LLC ┇ 144.172.88.90
-vless://eda6b321-aa59-4b1e-b823-3616af020b4a@130.185.120.222:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.222
-vless://386066cb-9257-42da-8f2e-cae2096a6097@89.125.20.89:8444?type=tcp&security=tls&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision-udp443#AE 🇦🇪 ┇ VLESS-TCP-TLS - Netly LLC ┇ 89.125.20.89
-vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@94.140.0.0:443?type=ws&security=tls&path=/?ed=2048&sni=api.gozarino.com&host=api.gozarino.com#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.0
+vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru1.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.95
+vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
+vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
+vless://ea470142-10c6-4b1f-a8e6-0ddcc78a4058@protectnet.cloudinohost.com:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 94.183.169.203
+vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.215.234.3
+vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru2.cdn-global.pro:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Kontel LLC ┇ 185.244.41.97
+vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Kontel LLC ┇ 185.244.41.59
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.167
