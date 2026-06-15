@@ -1,3 +1,2 @@
-vless://c9010244-d4eb-000a-8ae3-fb66a325f363@nl01.goodmaximum.com:443?type=tcp&security=reality&sni=files.nimhogoa.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Ksenia Becker ┇ 31.76.255.70
-vless://e5488740-54ac-000b-a24d-7df428175d4c@31.76.255.20:443?type=grpc&security=reality&path=/&sni=cloud.nimhogoa.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Ksenia Becker ┇ 31.76.255.20
-vless://c2401b12-8bb8-000a-abc0-89dbaea88116@nl01.goodmaximum.com:443?type=tcp&security=reality&sni=files.nimhogoa.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Ksenia Becker ┇ 31.76.255.70
+vless://dbb385e6-5b06-000b-b934-88249b16d411@nl02.goodmaximum.com:443?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Ksenia Becker ┇ 31.76.255.20
+vless://dbb385e6-5b06-000a-b934-88249b16d411@nl01.goodmaximum.com:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Ksenia Becker ┇ 31.76.255.10

@@ -1,6 +1,5 @@
-vless://835989bc-f82c-4ae5-93d8-77bcb63105b3@31.56.117.211:443?type=tcp&security=none&path=/ws#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.117.211
-ss://YWVzLTI1Ni1nY206VHUzUHhM@188.130.207.77:1018#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.77
-vless://639b90c3-74f3-436d-9bca-4ee188d42c37@46.8.228.188:2083?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.228.188
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTYuMTc4LjEwNyIsImFkZCI6IjMxLjU2LjE3OC4xMDciLCJwb3J0Ijo0NDMsImlkIjoiMTg1YTNiYjYtYTFhNy00YTQzLWRhMzctNjU5MDI2Yzc5YWVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-ss://YWVzLTI1Ni1nY206MVJSSVk2@31.56.113.147:1015#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.56.113.147
+vless://dac6de56-92ab-4a76-9807-3b8d6211a13b@chi.datammr.ir:80?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.113.37.110
 vless://880b0b6d-0de5-4803-bd30-c98dd1c00d14@farari.mmrknight.app:51617?type=xhttp&security=reality&path=/Telegram-Raiv2mmr&sni=aws.amazon.com&mode=auto&fp=chrome&pbk=aAfb7PIVx0wb1tFBZkh1YmorOHbRGOey2kA3UpzpeXQ&sid=06aff0790c18566b#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Cgi Global Limited ┇ 194.113.37.110
+vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.250.225
+vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.230.9
+vless://4e1bef9f-d655-4722-a7c3-41e7ca40df75@95.182.114.33:33636?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.114.33

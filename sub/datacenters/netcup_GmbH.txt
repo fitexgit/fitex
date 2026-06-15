@@ -1,3 +1,1 @@
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.45.123:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.45.123
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.44.148:443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.44.148
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.47.24
+vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=xhttp&security=reality&path=/ping&sni=search.yahoo.com&host=search.yahoo.com&mode=packet-up&fp=chrome&pbk=ugUk7zRVpcxM3XwWMXQI8X9UFuKPqQvuN2hGY3tFM3Q&sid=b1eb854b#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - netcup GmbH ┇ 185.244.192.101

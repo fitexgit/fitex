@@ -1,6 +1,2 @@
-vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@de.farafile.com:3083?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 188.137.228.58
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@77.220.212.57:9563?type=xhttp&security=reality&path=/api/v2/content&sni=yahoo.com&mode=auto&fp=chrome&pbk=HoN1o5vjUM3JVvAg1uYILdZpr4WUmCJwmm42cO3m1n4&sid=b0e27207d665ae1f#NL 🇳🇱 ┇ VLESS-XHTTP-REALITY - Podaon SIA ┇ 77.220.212.57
 vless://2ff1536d-a174-42ee-bd6a-f75b3292393f@77.220.212.244:19037?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 77.220.212.244
-vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@188.137.228.58:8875?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 188.137.228.58
-vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@188.137.228.58:8876?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Podaon SIA ┇ 188.137.228.58
-vless://679027f9-66ed-466a-b3d3-a223d24dfeda@77.220.212.244:19037?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 77.220.212.244
-vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@77.220.212.57:7185?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Podaon SIA ┇ 77.220.212.57

@@ -1,1 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.18:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.18
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.8
+vless://dbb385e6-5b06-0029-b934-88249b16d411@se01.goodmaximum.com:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 185.189.47.28
+vless://dbb385e6-5b06-0014-b934-88249b16d411@de01.goodmaximum.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 88.216.220.124
