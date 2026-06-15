@@ -1,8 +1,5 @@
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
-vless://1a135182-37b9-4b40-bb1b-34379d697ccb@panel.dibaux.ir:80?type=ws&security=none&path=/stream&host=panel.dibaux.ir#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134
-vless://5fd56a1b-17c0-4593-a8af-0858a5eb6a9d@84.75.220.44:8096?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Newserverlife LLC ┇ 84.75.220.44
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@kz.monkeyisland.xyz:443?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.41.30.112
-vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
-vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1BVVRPIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiYXV0byJ9
-vless://f46c7524-ddd2-4e55-9f2f-d54c58cfd093@91.224.74.160:33040?type=tcp&security=reality#KZ 🇰🇿 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 91.224.74.160
-vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
+vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@82.40.62.134:80?type=ws&security=none&path=/stream&host=panel.dibaux.ir#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134
+vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 84.75.220.212
+vless://f46c7524-ddd2-4e55-9f2f-d54c58cfd093@91.224.74.160:33040?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 91.224.74.160
+vless://31445bd8-5cfb-4fc4-899f-216cbc119bd4@panel.dibaux.ir:80?type=ws&security=none&path=/stream#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134

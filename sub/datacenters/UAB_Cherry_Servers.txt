@@ -1,8 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.19
-vless://58480714-5ac8-421d-9a4f-7b330e878702@us-cherry-01.com:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 154.88.3.38
-vless://e97a7931-500b-4777-82a2-4237f15bcedd@lt-cherry-01.com:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.204
-vless://97dc60fb-31cf-4156-be16-a3815ce64b60@lt.moktana.app:443?type=tcp&security=none&mode=gun#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 93.115.25.156
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.104
-vless://535e8919-c649-405a-b40f-dae7cb48552a@154.83.159.233:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=0905b6e16602f326#NL 🇳🇱 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 154.83.159.233
-vless://b5b09cf7-78cc-4db1-9d18-476e92878e08@45.194.10.93:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.93
+vless://535e8919-c649-405a-b40f-dae7cb48552a@154.83.159.233:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 154.83.159.233
