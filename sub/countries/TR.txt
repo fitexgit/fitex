@@ -1,16 +1,14 @@
-vless://c07ae293-ab09-47d2-9b34-0b24a1449ea2@turk.izumii.ir:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 77.83.203.212
-vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Datacamp Limited ┇ 31.57.225.201
-vless://962e48ff-d96a-42ac-9e79-1f64dfe22ff1@helixgaming.ir:80?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
-vless://600b29d7-873f-447c-86af-1350ede46aa0@ista.yellowsky.ir:8084?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.58
+vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.107
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
+vless://3f13e6a7-e566-40fc-bb4e-7116ec8efa85@91.228.227.121:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 91.228.227.121
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hostigger INC. ┇ 185.181.209.206
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 45.195.110.104
-vless://5bea9df4-767a-406c-aea2-7c2dd3e1875a@ista.yellowsky.ir:8084?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.58
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@185.219.134.182:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.182
-vless://e900f40a-6b89-4963-927f-a1f9a138270d@ista.yellowsky.ir:8084?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.58
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hostigger INC. ┇ 185.181.209.217
 vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVHVydW5jIFNtYXJ0IEJpbGdpc2F5YXIgVGVrbm9sb2ppIFZlIERpcyBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgMTg1LjEwNC4xODkuMzgiLCJhZGQiOiIxODUuMTA0LjE4OS4zOCIsInBvcnQiOjgwLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.76
-vless://b584cbe7-afcc-4202-9543-988509022bd6@167.104.219.64:443?type=tcp&security=none&path=/getBookdata#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.64
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.163
+vless://600b29d7-873f-447c-86af-1350ede46aa0@ista.yellowsky.ir:8084?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.58
+vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:21289?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 178.208.187.43
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.123.142
+vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:42268?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 178.208.187.43
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?type=tcp&security=reality&sni=tgru.in&fp=chrome&flow=xtls-rprx-vision&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&sid=cd85b2abe0feed49#TR 🇹🇷 ┇ VLESS-TCP-REALITY - TradeZone LLC ┇ 188.132.192.30
+vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:5039?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 178.208.187.43
 vless://3adaa55a-d79d-4e67-be4a-5baad181eeb2@176.223.66.70:2003?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169

@@ -1,5 +1,2 @@
-vless://962e48ff-d96a-42ac-9e79-1f64dfe22ff1@helixgaming.ir:80?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.204
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.103
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA@185.202.93.194:41348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 185.202.93.194
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.163
+vless://33426a94-bf47-426c-a421-6dcc2cca0fe3@92.223.12.4:80?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.12.4
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.103

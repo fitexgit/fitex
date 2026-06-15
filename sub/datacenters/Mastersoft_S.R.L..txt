@@ -1,4 +1,1 @@
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.158:443?type=tcp&security=reality&sni=www.microsoft.com&flow=xtls-rprx-vision&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&sid=fcd9787f#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - Mastersoft S.R.L. ┇ 103.119.18.158
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.200.28.25:8443?type=xhttp&security=reality&path=/&sni=www.google.com&mode=auto&fp=chrome&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&sid=0e#CZ 🇨🇿 ┇ VLESS-XHTTP-REALITY - Mastersoft S.R.L. ┇ 103.200.28.25
-vless://10484bee-8516-400a-9b1e-efb5144ad324@185.245.40.71:7443?type=tcp&security=reality&sni=stackoverflow.com&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Mastersoft S.R.L. ┇ 185.245.40.71
-vless://89304de3-af59-4313-b18d-c93dadf54537@103.200.28.142:7443?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&sid=d82fb387#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - Mastersoft S.R.L. ┇ 103.200.28.142
+vless://665c11ef-4723-4396-a8a1-45d013e68e6b@103.112.71.228:443?type=tcp&security=tls#NL 🇳🇱 ┇ VLESS-TCP-TLS - Mastersoft S.R.L. ┇ 103.112.71.228
