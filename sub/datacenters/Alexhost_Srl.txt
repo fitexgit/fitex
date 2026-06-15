@@ -1,2 +1,7 @@
-vless://37afa02e-9d9c-4679-bd21-5e6cee0cb0c1@185.212.117.96:52165?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Sa2fRdE4NgZCGMP-oWwRCYuIvOMU5DY68nfUSdcsQmQ&sid=2fa0499b#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Alexhost Srl ┇ 185.212.117.96
-vless://ea35c030-5628-11f1-9df5-54db13ea7d40@45.93.9.242:443?type=tcp&security=reality&sni=www.blocket.se&fp=randomized&flow=xtls-rprx-vision&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 45.93.9.242
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@81.177.212.231:1020?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 81.177.212.231
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@185.212.117.118:1020?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 185.212.117.118
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@193.177.0.211:1020?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 193.177.0.211
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@45.150.111.18:1020?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 45.150.111.18
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@81.177.213.232:1020?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 81.177.213.232
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@45.93.9.238:1020?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 45.93.9.238
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@93.157.106.189:1020?type=tcp&security=none#MD 🇲🇩 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 93.157.106.189

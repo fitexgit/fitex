@@ -1,2 +1,5 @@
-vless://1444b496-5c4d-4ac2-aa5c-8422d86113c7@212.183.88.136:443?type=tcp&security=none&path=/?ed=2560#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.136
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.103:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.103
+vless://08c43ea7-7f9e-4d65-9e9f-042811beb986@pl.mail-appstatus.net:23356?type=grpc&security=none#AT 🇦🇹 ┇ VLESS-GRPC-NTLS - Aeza Group LLC ┇ 193.233.161.40
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.29
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@as.pink-perfect.ru:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 147.45.41.83

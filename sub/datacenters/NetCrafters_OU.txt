@@ -1,2 +1,1 @@
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 193.233.202.1
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 193.233.202.1

@@ -1,4 +1,2 @@
-vless://5c935fb4-567f-4a14-a8c7-781b8c6bb913@38.180.26.49:1008?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 38.180.26.49
-vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&security=tls&mode=multi#AE 🇦🇪 ┇ VLESS-GRPC-TLS ┇ 94.183.241.105
-vless://f5f32cb1-a2bc-439d-a147-37e53f60c45b@panel.novexone.ir:85?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.199
+ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
 vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.167

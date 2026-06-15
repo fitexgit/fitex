@@ -1,16 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@217.30.10.70:9046#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 217.30.10.70
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?type=tcp&security=none&path=/#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Atman Sp. z o.o. ┇ 128.204.223.94
-vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.171
-vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@138.124.104.106:443?type=tcp&security=none&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Intezio Worldwide Limited ┇ 138.124.104.106
-vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Intezio Worldwide Limited ┇ 77.239.114.176
-vless://b584cbe7-afcc-4202-9543-988509022bd6@213.134.31.54:3083?type=xhttp&security=reality&path=/api/v2/content&sni=yahoo.com&mode=auto&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Podaon SIA ┇ 213.134.31.54
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@pl-cdn.ru:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 150.241.93.216
-vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@mstpars.mparssian.ir:2087?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=Mqbn454w2vrK-7-jrNtx4jvJO2Em6zmQz-hiOqbNmHM&sid=7a7c1ee5fa19#PL 🇵🇱 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 168.222.49.40
-vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
-vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyA1Ny4xMjguMjE2LjEyNSIsImFkZCI6IjU3LjEyOC4yMTYuMTI1IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIn0
-vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@mstpars.mparssian.ir:80?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=sUWfSHsUMgBzHk1Y07SfyopsKrloyNlFdtj98geLEVg&sid=37a9ea#PL 🇵🇱 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 168.222.49.40
-vless://45b9ce66-4881-4099-bb7e-21bf71942444@82.40.62.3:80?type=xhttp&security=reality&path=/mohraz&sni=www.samsung.com&host=82.40.62.3&mode=auto&fp=chrome&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&sid=d5df9687ac6f#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Newserverlife LLC ┇ 82.40.62.3
+vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?type=ws&security=none&path=/vless#PL 🇵🇱 ┇ VLESS-WS-NTLS - BlueVPS OU ┇ 193.200.16.127
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Korbank S. A. ┇ 83.168.71.216
-vless://cfe007e3-f264-4403-b834-70d82e26cade@94.125.102.111:7443?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=8scIVVv78H2lFNiBh4wbB0bnHJ2PVd91DO1WQYIsl1A&sid=0e8c77184f7fb76c#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.102.111
+vless://0ceffd8e-f934-44e1-9da9-4de93802dba24@2.59.163.171:2053?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.171
