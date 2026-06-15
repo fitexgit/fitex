@@ -1,4 +1,2 @@
-vless://b584cbe7-afcc-4202-9543-988509022bd6@81.91.179.125:8876?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=frSehQkhEXsc0CS52jd1EOXDGytGjP8YYGxAWRGltz4&sid=efb839e3b1397162#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Podaon SIA ┇ 81.91.179.125
-vless://b584cbe7-afcc-4202-9543-988509022bd6@213.134.31.54:3083?type=xhttp&security=reality&path=/api/v2/content&sni=yahoo.com&mode=auto&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#PL 🇵🇱 ┇ VLESS-XHTTP-REALITY - Podaon SIA ┇ 213.134.31.54
-vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 188.137.230.245
-vless://b584cbe7-afcc-4202-9543-988509022bd6@81.91.179.125:3083?type=xhttp&security=reality&path=/api/v2/content&sni=yahoo.com&mode=auto&fp=chrome&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#NL 🇳🇱 ┇ VLESS-XHTTP-REALITY - Podaon SIA ┇ 81.91.179.125
+vless://b584cbe7-afcc-4202-9543-988509022bd6@81.91.179.125:8876?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Podaon SIA ┇ 81.91.179.125
+vless://b584cbe7-afcc-4202-9543-988509022bd6@81.91.179.125:3083?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 81.91.179.125

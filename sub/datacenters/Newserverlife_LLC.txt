@@ -1,3 +1,5 @@
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
 vless://4fd13cad-7e32-4941-a599-bb5735693107@38.107.237.89:10843?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 38.107.237.89
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@38.107.233.130:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 38.107.233.130
+vless://5fd56a1b-17c0-4593-a8af-0858a5eb6a9d@84.75.220.44:8096?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - Newserverlife LLC ┇ 84.75.220.44
+vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=QwZuIaHhRuaiQPSUiWuBR8q8qrUHWXuxPCjnANcdJk0&sid=989441#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.59
+vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 84.75.220.212
