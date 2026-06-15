@@ -1,5 +1,2 @@
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?type=tcp&security=tls&sni=amazon.de&fp=chrome&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 62.60.239.210
-vless://08c43ea7-7f9e-4d65-9e9f-042811beb986@pl.mail-appstatus.net:23356?type=grpc&security=none#AT 🇦🇹 ┇ VLESS-GRPC-NTLS - Aeza Group LLC ┇ 193.233.161.40
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://8ea0665e-dee3-418c-8822-1f70f350f2db@as.pink-perfect.ru:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 147.45.41.83
-vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2cllPb1BqeTJyc1daNmNqaEhOUFp4@212.113.106.76:61992#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 212.113.106.76
+vless://f0e146de-7788-4256-883b-4332b66f9421@net1.irajapan.store:8080?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=hGBFJsHcY1aYZ5gGtesY__jxM3JTJznNJanwpLsqMnY&sid=0fe1d9beae7453#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.155.71.88

@@ -1,1 +1,2 @@
-vless://b7200562-bdb1-4774-91b4-f0f2b9f3d3c0@185.252.177.125:8443?type=tcp&security=tls&sni=vk.ru&fp=firefox&flow=xtls-rprx-vision-udp443#EE 🇪🇪 ┇ VLESS-TCP-TLS - Oc Networks Limited ┇ 185.252.177.125
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.101:4443?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Oc Networks Limited ┇ 144.31.171.101
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@64.188.83.220:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 64.188.83.220
