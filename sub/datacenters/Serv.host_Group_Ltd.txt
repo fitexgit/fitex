@@ -1,3 +1,7 @@
-vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.115.10
-vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?type=tcp&security=reality&sni=yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.93.251
-vless://8ea0665e-dee3-418c-8822-1f70f350f2db@2.26.93.250:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 2.26.93.250
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.53.0
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@de.pink-perfect.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 64.188.98.35
+vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?type=tcp&security=reality&sni=help.me3op.site&flow=xtls-rprx-vision&pbk=AT8TNQB1qRljPMmLuTa2Rj765qAr8XbC3D9YpEpxkw0&sid=abcdef12#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.115.10
+vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@185.170.154.202:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 185.170.154.202
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.217.99
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.82.47
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
