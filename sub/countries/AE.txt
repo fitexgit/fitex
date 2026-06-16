@@ -1,3 +1,4 @@
-vless://9f40f5f5-67da-4d1d-bd30-d364f41661dd@de.mizanserver.ir:8008?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Hostman LTD ┇ 212.192.2.215
-vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@89.125.151.133:20630?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 89.125.151.133
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.103
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.194
+vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.188
+vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.103
+vless://c2244fc7-5fcd-4675-9bd6-5c0526008cdc@ipp.immahan.ir:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Pars Abr Toseeh Ertebatat LTD ┇ 94.183.167.55
