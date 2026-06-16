@@ -1,4 +1,4 @@
+vless://39591c50-793a-4e2e-a154-e5382f7058b3@5.129.234.66:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 5.129.234.66
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.92.177
-vless://0d27f12d-1632-5662-bdbf-5ac93eed5171@147.45.169.110:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 147.45.169.110
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.81.165
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@72.56.105.228:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.105.228
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.81.165
+vless://e8ca8d63-75f9-4714-9376-a09550168850@147.45.228.181:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 147.45.228.181

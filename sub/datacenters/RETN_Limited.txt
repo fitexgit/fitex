@@ -1,5 +1,4 @@
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 45.130.214.192
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194
+vless://7ddb01ec-279c-49e3-bda1-86155ff14046@77.73.233.129:13237?type=tcp&security=none&path=/test#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 77.73.233.129
 vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?type=xhttp&security=reality&sni=online.1c.ru&mode=auto&fp=firefox&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&sid=cbe4d3770c#LV 🇱🇻 ┇ VLESS-XHTTP-REALITY - RETN Limited ┇ 90.156.254.168
-vless://7ddb01ec-279c-49e3-bda1-86155ff14046@77.73.233.129:13237?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 77.73.233.129
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 83.222.20.64
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 37.233.82.140
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194

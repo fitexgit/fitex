@@ -1,4 +1,12 @@
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.194
-vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.188
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.103
-vless://c2244fc7-5fcd-4675-9bd6-5c0526008cdc@ipp.immahan.ir:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Pars Abr Toseeh Ertebatat LTD ┇ 94.183.167.55
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.143.151:80?type=tcp&security=none&host=max-gb1.global.ssl.fastly.net#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Fastly, Inc. ┇ 151.101.143.151
+vless://024c5ef7-e927-41a9-abdf-e628a3359411@130.185.121.229:2083?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.121.229
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:809#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://479cc340-de02-4ec6-af98-844306dd697e@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.42.167
+vless://d4f2827b-a566-48d1-b207-0b06fbc2dc4b@sa.torentomovie.ir:27437?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Itglobal Com Dmcc ┇ 81.85.92.177
+vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@89.125.20.100:443?type=tcp&security=none&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Netly LLC ┇ 89.125.20.100
+vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - LIGHT NODE LIMITED ┇ 130.94.45.81
+vless://ae4f837f-1470-4c8d-9ee6-880799ee6ffe@dns.novincalaxy.lol:9453?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.121
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.140.151:80?type=tcp&security=none&host=max-gb1.global.ssl.fastly.net#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Fastly, Inc. ┇ 151.101.140.151
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.142.151:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Fastly, Inc. ┇ 151.101.142.151
+vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@89.125.151.133:20630?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 89.125.151.133
