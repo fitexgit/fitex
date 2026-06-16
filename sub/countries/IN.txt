@@ -1,3 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPcmFjbGUgQ29ycG9yYXRpb24gXHUyNTA3IDE1Mi42Ny4xOTAuMTA1IiwiYWRkIjoiMTUyLjY3LjE5MC4xMDUiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT3JhY2xlIENvcnBvcmF0aW9uIFx1MjUwNyAxNTIuNjcuOC4yMDUiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0Ijo4MCwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjE1Mi42Ny44LjIwNSIsInBhdGgiOiIvIiwic25pIjoiMTUyLjY3LjguMjA1In0
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 82.180.146.173
+vless://d8dabd75-ae26-4c27-993e-75a00ff72185@dual.abhizzz.net:80?type=tcp&security=none&path=/vless#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 152.70.72.249
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:5710?type=tcp&security=none&mode=auto#IN 🇮🇳 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.139.169
+vless://b56a960b-b053-4935-8e34-b14b93696067@107.181.139.169:7185?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.139.169
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:5600#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.39.228
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:7185?type=tcp&security=reality#IN 🇮🇳 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.181.139.169
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:3083?type=tcp&security=none&mode=auto#IN 🇮🇳 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.139.169
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPcmFjbGUgQ29ycG9yYXRpb24gXHUyNTA3IDE1Mi42Ny4xOTAuMTA1IiwiYWRkIjoiMTUyLjY3LjE5MC4xMDUiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0

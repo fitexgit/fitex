@@ -1,5 +1,4 @@
-vless://8ea0665e-dee3-418c-8822-1f70f350f2db@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.110.110.206
-vless://621c8430-afe6-4a24-83b1-32f2ff9c3f10@109.120.178.144:11224?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.178.144
-vless://621c8430-afe6-4a24-83b1-32f2ff9c3f10@213.165.38.233:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.38.233
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.52.85
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
+hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?insecure=0#FI 🇫🇮 ┇ HYSTERIA2-TCP-NTLS - Aeza Group LLC ┇ 95.181.167.191
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.176.65.192
