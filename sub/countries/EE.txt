@@ -1,7 +1,4 @@
-vless://164592e8-5168-4319-8377-6b832f3125d1@94.183.170.16:62800?type=tcp&security=none&fp=firefox#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Eternity International Limited ┇ 94.183.170.16
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.30
+vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&sid=5fc027d907f46ee9#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Takehost Ou ┇ 5.175.178.161
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - GmhostGrupp OU ┇ 45.129.96.62
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?type=tcp&security=none&path=twitterfreecodessecurity#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 45.80.110.245
-vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?type=tcp&security=none&flow=xtls-rprx-vision#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Takehost Ou ┇ 5.175.178.161
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:2087?type=tcp&security=tls#EE 🇪🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 45.80.110.130
-vless://08eb7a90-9e8c-4a25-8b8a-e3e5bdbea974@69.12.83.205:8443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Hostslim Ou ┇ 69.12.83.205
-vless://8871d6a1-85cf-4588-b6f5-830043781ee9@38.180.230.147:443?type=tcp&security=none&fp=firefox#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.230.147
-vless://b7200562-bdb1-4774-91b4-f0f2b9f3d3c0@185.252.177.125:8443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 185.252.177.125

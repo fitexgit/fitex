@@ -1,3 +1,1 @@
-vless://024c5ef7-e927-41a9-abdf-e628a3359411@185.204.168.149:2083?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 185.204.168.149
-vless://024c5ef7-e927-41a9-abdf-e628a3359411@130.185.121.229:2083?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.121.229
-vless://ae4f837f-1470-4c8d-9ee6-880799ee6ffe@dns.novincalaxy.lol:9453?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.121
+vless://024c5ef7-e927-41a9-abdf-e628a3359411@185.204.168.149:2083?type=tcp&security=reality&sni=www.yahoo.com&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&flow=xtls-rprx-vision&pbk=Ed5yexAbpTFkIr5a1OhlGUOj_JZGz3RZ4S3CdTYYoDs&sid=9cb5#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 185.204.168.149

@@ -1,1 +1,6 @@
-vless://13429c1e-e2d8-4ed7-96cc-44a89f375152@107.181.155.88:22330?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.155.88
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:3083?type=tcp&security=none&mode=auto#IN 🇮🇳 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.139.169
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:5710?type=tcp&security=none&mode=auto#IN 🇮🇳 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.139.169
+vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.136.119
+vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@fr1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.6.97
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:7185?type=tcp&security=reality#IN 🇮🇳 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.181.139.169

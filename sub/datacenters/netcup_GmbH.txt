@@ -1,7 +1,2 @@
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=tcp&security=none&mode=packet-up#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 185.244.192.101
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.60.65
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.186:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.149.186
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.78:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.149.78
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.45.123:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.45.123
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.44.159
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@152.53.111.14:444?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.111.14
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@germ3.ardor-cloud.ru:444?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.68.220
