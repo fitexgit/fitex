@@ -1,3 +1,1 @@
-vless://55eb4790-832a-4ded-aa7b-eb561f2ed82c@recap.rezznet.org:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - 24fire GmbH ┇ 2.56.244.245
-vless://d8ca5745-13d3-49f5-890f-fe2165c70e9d@recap.rezznet.org:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - 24fire GmbH ┇ 2.56.244.245
-vless://ae36cab6-2201-4ad3-ad99-ebf293f27cfb@recap.rezznet.org:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - 24fire GmbH ┇ 2.56.244.245
+vless://ae36cab6-2201-4ad3-ad99-ebf293f27cfb@recap.rezznet.org:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=JnCT2Y1CHVvFKxKSS1Laico6BkYQRqLKOinpKqB8Bz4&sid=ac#DE 🇩🇪 ┇ VLESS-TCP-REALITY - 24fire GmbH ┇ 2.56.244.245
