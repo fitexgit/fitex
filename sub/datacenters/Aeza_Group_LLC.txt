@@ -1,6 +1,8 @@
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.239.210
-vless://21b36227-9b6c-452b-a2cc-8129e78d5faf@193.233.90.70:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.90.70
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://0762de97-50e6-4a2b-af28-4b5f62005b16@62.60.148.47:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.148.47
-vless://db612964-9a7a-441f-b6d7-bd57b6e7a1f9@62.60.148.47:8443?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=Bu5meN7LyRrB2ku0RF1Q9QHkdabrorXZsxXwHMeblCU&sid=c85397c820a2#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 62.60.148.47
 vless://e6ff4daa-f49d-45a6-82a5-4284b17a34af@fl.hamrah-tel.shop:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.92.189
+vless://db612964-9a7a-441f-b6d7-bd57b6e7a1f9@62.60.148.47:8443?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=Bu5meN7LyRrB2ku0RF1Q9QHkdabrorXZsxXwHMeblCU&sid=c85397c820a2#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 62.60.148.47
+vless://621c8430-afe6-4a24-83b1-32f2ff9c3f10@213.165.38.233:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.38.233
+vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=ws&security=tls&path=/@Marisa_kristi&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&host=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza Group LLC ┇ 89.22.238.213
+vless://621c8430-afe6-4a24-83b1-32f2ff9c3f10@109.120.178.144:11224?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.178.144
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
+vless://21b36227-9b6c-452b-a2cc-8129e78d5faf@193.233.90.70:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.90.70
+vless://0762de97-50e6-4a2b-af28-4b5f62005b16@62.60.148.47:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.148.47
