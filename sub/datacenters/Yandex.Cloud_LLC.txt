@@ -1,2 +1,3 @@
-vless://223e43ae-8a72-4d55-9618-f0272d898901@158.160.200.24:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.200.24
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
+vless://223e43ae-8a72-4d55-9618-f0272d898901@158.160.200.24:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.200.24
+vless://223e6af9-95bb-4268-92ac-a552c54b47f1@84.201.179.200:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 84.201.179.200

@@ -1,5 +1,8 @@
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:443?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:803#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:805#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
+vless://fd10b5bd-cc2d-4de6-b4c4-03abcd79bd7e@31.56.89.53:9092?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.53
+vless://30316ea1-f79e-4cd6-a8b9-278141dbed1e@31.56.89.55:9093?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:810#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Managed Services Limited ┇ 109.169.72.249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
 vless://b0a0fc56-e6dc-4fd6-b686-9e776950843b@94.140.0.255:8443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.255
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:80?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
