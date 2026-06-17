@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.102
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@avstr.ardor-cloud.ru:444?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Evolus IT Solutions GmbH ┇ 157.173.25.114
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.198
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@avstr.ardor-cloud.ru:444?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Evolus IT Solutions GmbH ┇ 157.173.25.114
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.41
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
