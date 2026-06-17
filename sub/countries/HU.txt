@@ -1,2 +1,1 @@
-vless://be5abe11-1c65-4289-b581-a5121a8719a1@91.219.239.133:1443?type=tcp&security=none#HU 🇭🇺 ┇ VLESS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.239.133
-vless://017510da-8b42-49de-8ea9-ab60e3e9072e@hu01.bearbeer.digital:443?type=tcp&security=reality#HU 🇭🇺 ┇ VLESS-TCP-REALITY - ATW Internet Kft. ┇ 37.221.208.252
+vless://be5abe11-1c65-4289-b581-a5121a8719a1@91.219.239.133:1443?type=tcp&security=reality&sni=hu.buildsnow.top&flow=xtls-rprx-vision&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=0441f3e34348cb45#HU 🇭🇺 ┇ VLESS-TCP-REALITY - ServerAstra Kft. ┇ 91.219.239.133

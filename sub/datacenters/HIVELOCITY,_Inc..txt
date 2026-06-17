@@ -1,9 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us32.giamping.com:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HIVELOCITY, Inc. ┇ 74.50.98.185
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&sid=6553e6d9#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 38.180.204.189
-vless://b5692799-0576-4c94-b67b-506994428dee@38.180.81.209:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=YG4byJp2QQKqQmcWVqxQVk99odu8l1wFNHxcTTNThAs&sid=6f0693bf8b91cb64#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 38.180.81.209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HIVELOCITY, Inc. ┇ 74.50.98.185
-vless://9c42819a-67a6-4742-9c6d-64900ba62160@38.180.82.119:8443?type=tcp&security=reality&sni=samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 38.180.82.119
-vless://2f8a9b9c-4976-4b66-be1f-2bcac17a3fef@37.1.214.101:24569?type=tcp&security=reality&sni=ign.com&fp=chrome&pbk=f9Da-SR8Y8cAbTicKYnaz4GSz6ohT0m_ZM-3klm9LFg&sid=6798721f6d#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 37.1.214.101
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhJVkVMT0NJVFksIEluYy4gXHUyNTA3IDM3LjEuMjExLjUyIiwiYWRkIjoiMzcuMS4yMTEuNTIiLCJwb3J0IjozMDAwLCJpZCI6ImI5N2FkMjgzLTI4N2UtNGUyMC1hNzQxLWYxNmY3ZDA3NDU5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1gyWWZFTmJqQ3RWelZKcGhGUA@23.226.131.146:8389#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HIVELOCITY, Inc. ┇ 23.226.131.146
-vless://8440c9e5-3a24-49cd-8fdd-f140dcb1b8c7@37.1.212.241:5262?type=tcp&security=none&fp=edge#US 🇺🇸 ┇ VLESS-TCP-NTLS - HIVELOCITY, Inc. ┇ 37.1.212.241
+vless://8440c9e5-3a24-49cd-8fdd-f140dcb1b8c7@37.1.212.241:5262?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HIVELOCITY, Inc. ┇ 37.1.212.241

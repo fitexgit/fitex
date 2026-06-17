@@ -1,6 +1,4 @@
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.22.155
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.46.178
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.27.99
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@152.53.111.14:444?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.111.14
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou&insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - netcup GmbH ┇ 202.61.205.86
+vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?type=tcp&security=reality&sni=free1.anotherboring.top&fp=chrome&flow=xtls-rprx-vision&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&sid=53cd45d26d7b53fe#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.60.65
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.45.129
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.44.159
