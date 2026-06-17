@@ -1,1 +1,3 @@
-vless://8871d6a1-85cf-4588-b6f5-830043781ee9@185.246.191.235:443?type=tcp&security=none&fp=firefox#IS 🇮🇸 ┇ VLESS-TCP-NTLS - FlokiNET ehf ┇ 185.246.191.235
+vless://e70ad57f-5b39-46f5-ba70-44953ad23164@qubes.ubuntuhosting.host:443?type=grpc&security=reality&sni=qubes.ubuntuhosting.host&mode=gun&fp=firefox&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#IS 🇮🇸 ┇ VLESS-GRPC-REALITY - FlokiNET ehf ┇ 185.246.191.235
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.247.226.138:443?type=ws&security=tls&path=/jp&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - FlokiNET ehf ┇ 185.247.226.138
+vless://8871d6a1-85cf-4588-b6f5-830043781ee9@185.246.191.235:443?type=grpc&security=reality&sni=qubes.ubuntuhosting.host&mode=gun&fp=firefox&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#IS 🇮🇸 ┇ VLESS-GRPC-REALITY - FlokiNET ehf ┇ 185.246.191.235

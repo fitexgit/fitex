@@ -1,1 +1,4 @@
-vless://1902fd7c-7e82-42e1-9ed6-fc37bd40551f@37.49.230.106:443?type=tcp&security=none&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-NTLS - ESTOXY OU ┇ 37.49.230.106
+vless://cb4ef160-3e4e-4835-9799-121b474bae06@37.49.230.5:8443?type=tcp&security=reality&sni=westondigita.cloud&fp=chrome&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#FR 🇫🇷 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.230.5
+vless://7dd36ce4-97ad-41cf-a349-53bcccd8f17d@37.49.230.97:443?type=tcp&security=reality&sni=s3.tehno.store&fp=chrome&flow=xtls-rprx-vision&pbk=Cbu6fkQiURQES7hfw916CFcfZYvRXMMgVmxnpK6CgSQ#FR 🇫🇷 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.230.97
+vless://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - ESTOXY OU ┇ 91.217.166.70
+vless://bda6af97-8d40-4ca4-a62d-69c05a844caa@37.49.230.106:8443?type=tcp&security=reality&sni=hello.opengate.tech&fp=chrome&flow=xtls-rprx-vision&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ#FR 🇫🇷 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.230.106

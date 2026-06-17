@@ -1,2 +1,3 @@
-vless://2f7edbbf-b9f1-467b-a0bb-293f63b3820b@2.27.63.177:443?type=tcp&security=none&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-NTLS - Kyonix Networks Limited ┇ 2.27.63.177
-vless://2f7edbbf-b9f1-467b-a0bb-293f63b3820b@2.27.63.178:443?type=tcp&security=none&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-NTLS - Kyonix Networks Limited ┇ 2.27.63.178
+vless://2f7edbbf-b9f1-467b-a0bb-293f63b3820b@2.27.63.178:443?type=tcp&security=reality&sni=de.qroox.ru&fp=firefox&flow=xtls-rprx-vision&pbk=IjLGriffBM-a2yVGpINlk0zeHT65SzgEBYGAluxtSE0&sid=2048746e559eabf8#US 🇺🇸 ┇ VLESS-TCP-REALITY - Kyonix Networks Limited ┇ 2.27.63.178
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@144.31.221.8:443?type=tcp&security=reality&sni=test.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Kyonix Networks Limited ┇ 144.31.221.8
+vless://5ab4237d-df12-4f12-aec0-7c10f0c9a76d@strife.friedshrimp.xyz:8443?type=tcp&security=reality&sni=github.com&fp=edge&flow=xtls-rprx-vision&pbk=GNU9DPeL0qXZWWVOmS1jxGAi8PDay2NIIizx5lOBpQ8&sid=8e3c9baf#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Kyonix Networks Limited ┇ 108.165.164.80

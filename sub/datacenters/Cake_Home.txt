@@ -1,1 +1,2 @@
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?type=tcp&security=none&path=/222.167.202.33:7443#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cake Home ┇ 222.167.202.33
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?type=ws&security=tls&path=/222.167.202.33:7443&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org#HK 🇭🇰 ┇ VLESS-WS-TLS - Cake Home ┇ 222.167.202.33
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?type=ws&security=tls&path=/222.167.202.23:7443&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org#HK 🇭🇰 ┇ VLESS-WS-TLS - Cake Home ┇ 222.167.202.23

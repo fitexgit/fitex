@@ -1,1 +1,6 @@
-vless://fa84d4f9-1a0a-46b9-bf76-25c2d6c122dd@146.19.215.112:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 146.19.215.112
+vless://7e3503ef-2bd8-40bd-a4fc-f3a9f5e787b7@deadvix.aswall.ir:49755?type=xhttp&security=reality&path=/Stream&host=play.google.com&mode=auto#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - Advin Services LLC ┇ 146.19.215.151
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#US 🇺🇸 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 142.248.80.157
+vless://fa84d4f9-1a0a-46b9-bf76-25c2d6c122dd@146.19.215.112:443?type=xhttp&security=reality&path=/ping&sni=search.yahoo.com&host=search.yahoo.com&mode=packet-up&fp=edge&pbk=QjwsFfpjbf4iL0L_-JoMzU6N0TweiHFMeF8wDbOTHjE&sid=bfaa65f054fe#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - Advin Services LLC ┇ 146.19.215.112
+vless://503bf95a-e3ca-523d-81d9-8d55efd989a5@207.241.172.215:5222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 207.241.172.215
+vless://poimnap@207.241.172.215:5222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 207.241.172.215
+vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78

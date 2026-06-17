@@ -1,1 +1,6 @@
-vless://8871d6a1-85cf-4588-b6f5-830043781ee9@38.180.230.147:443?type=tcp&security=none&fp=firefox#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.230.147
+vless://8871d6a1-85cf-4588-b6f5-830043781ee9@38.180.230.147:443?type=grpc&security=reality&sni=centos.ubuntuhosting.host&fp=firefox&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#EE 🇪🇪 ┇ VLESS-GRPC-REALITY - Aktsiaselts WaveCom ┇ 38.180.230.147
+vless://26524cce-d514-4014-a426-365fb266a14d@38.180.163.250:443?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=urg0.edge-node-us.danfeng.bond&host=urg0.edge-node-us.danfeng.bond#EE 🇪🇪 ┇ VLESS-WS-TLS - Aktsiaselts WaveCom ┇ 38.180.163.250
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.216.114
+vless://9cab10a8-7936-457f-bf1f-b9842439f494@centos.ubuntuhosting.host:443?type=grpc&security=reality&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#EE 🇪🇪 ┇ VLESS-GRPC-REALITY - Aktsiaselts WaveCom ┇ 38.180.230.147
+vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&pbk=xAACwVeGPMm3pUceuZR5r7KIx1tSHzoFrXS08DhfKAw&sid=d325de61#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Aktsiaselts WaveCom ┇ 37.252.4.81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.44.28

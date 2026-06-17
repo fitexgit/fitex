@@ -1,3 +1,6 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?type=tcp&security=none#DO 🇩🇴 ┇ VLESS-TCP-NTLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?type=tcp&security=none#DO 🇩🇴 ┇ VLESS-TCP-NTLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2053?type=tcp&security=none#DO 🇩🇴 ┇ VLESS-TCP-NTLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?type=ws&security=tls&path=/playlist/about/jump.php&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:8443?type=ws&security=tls&path=/games/m/mag&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?type=ws&security=tls&path=/go.php&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2096?type=ws&security=tls&path=/m/articles&sni=linek.perry.us.kg&host=linek.perry.us.kg#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:443?type=ws&security=tls&path=/urls&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2053?type=ws&security=tls&path=/uploads/item&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212

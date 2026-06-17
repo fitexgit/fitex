@@ -1,2 +1,14 @@
-vless://1fd2c353-68ff-4098-b497-b5cc5f6510c4@91.192.160.5:38916?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Maya Pardazesh Iranian LLC ┇ 91.192.160.5
+vless://33bed48e-78ad-4bba-9dcb-77587d7a184a@ir26.drinfoo.com:905?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Maya Pardazesh Iranian LLC ┇ 195.238.240.69
+vless://03e896c9-2120-48c8-ace3-3c8a8ef534d0@mona.arrvancaas.ir:2042?type=ws&security=tls&path=/&sni=mona.arrvancaas.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Maya Pardazesh Iranian LLC ┇ 91.231.144.6
+vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Maya Pardazesh Iranian LLC ┇ 91.192.160.7
+vless://29a10f5f-a9ef-4d15-8ac2-041bc466c2db@cdn.fillpower.ir:2042?type=ws&security=tls&path=/&sni=mona.arrvancaas.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Maya Pardazesh Iranian LLC ┇ 195.238.240.196
+vless://4567a014-1482-4c2e-85c1-6acfb4633e4d@help.arrvancaas.ir:8443?type=ws&security=tls&path=/?ed=2095&sni=cdn.arrvancaas.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Maya Pardazesh Iranian LLC ┇ 195.238.240.196
+vless://5ab13a9b-d4cd-4f3f-a966-b89d8383b6e9@213.177.178.107:8008?type=tcp&security=none&path=/&host=neshan.org#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Maya Pardazesh Iranian LLC ┇ 213.177.178.107
 vless://444d8b7b-9327-42b9-851d-015b649c8790@91.192.160.5:38916?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Maya Pardazesh Iranian LLC ┇ 91.192.160.5
+vless://4567a014-1482-4c2e-85c1-6acfb4633e4d@faq.arrvancaas.ir:8543?type=ws&security=tls&path=/?ed=2095&sni=cdn.arrvancaas.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Maya Pardazesh Iranian LLC ┇ 195.238.240.196
+vless://e03314c1-5841-4471-9cbf-65074a7b919b@195.238.240.20:28091?type=grpc&security=none&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Maya Pardazesh Iranian LLC ┇ 195.238.240.20
+vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Maya Pardazesh Iranian LLC ┇ 91.192.160.7
+vless://2927d47c-5d6a-48f9-9058-dabfdc85f8a6@faq.arrvancaas.ir:8543?type=ws&security=tls&path=/?ed=2095&sni=cdn.arrvancaas.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Maya Pardazesh Iranian LLC ┇ 195.238.240.196
+vless://53cd8974-b87e-4cb0-bc27-cea17fa1b8fb@min1.rezgod.shop:17263?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Maya Pardazesh Iranian LLC ┇ 213.177.178.23
+vless://1fd2c353-68ff-4098-b497-b5cc5f6510c4@91.192.160.5:38916?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Maya Pardazesh Iranian LLC ┇ 91.192.160.5
+vless://269e3247-d58e-4648-a13b-1f3126c4b87f@91.192.160.150:59943?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Maya Pardazesh Iranian LLC ┇ 91.192.160.150

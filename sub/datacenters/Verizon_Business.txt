@@ -1,3 +1,3 @@
-vless://790df6a3-c3b3-4642-8505-925c8871f612@mci.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Verizon Business ┇ 140.108.21.184
-vless://baacd960-2601-4b33-aaf8-2395e5fc5af4@mci.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Verizon Business ┇ 140.108.21.184
-vless://dc5e82fd-9f20-4be4-abc0-0cafc4c1eaf7@mci.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Verizon Business ┇ 140.108.21.184
+vless://dc5e82fd-9f20-4be4-abc0-0cafc4c1eaf7@mci.com:443?type=ws&security=tls&path=/ae-bo&sni=support.zoom.us.cyylr.eu.cc&host=support.zoom.us.cyylr.eu.cc#US 🇺🇸 ┇ VLESS-WS-TLS - Verizon Business ┇ 140.108.21.184
+vless://790df6a3-c3b3-4642-8505-925c8871f612@mci.com:443?type=ws&security=tls&path=/ae-bo&sni=somersby.pt.cyylr.eu.cc&host=somersby.pt.cyylr.eu.cc#US 🇺🇸 ┇ VLESS-WS-TLS - Verizon Business ┇ 140.108.21.184
+vless://baacd960-2601-4b33-aaf8-2395e5fc5af4@mci.com:443?type=ws&security=tls&path=/id-tksi&sni=grabacademyportal.grab.com.cyylr.eu.cc&host=grabacademyportal.grab.com.cyylr.eu.cc#US 🇺🇸 ┇ VLESS-WS-TLS - Verizon Business ┇ 140.108.21.184
