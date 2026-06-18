@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.7.28:8388#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.7.28
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
-vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&security=reality&sni=www.microsoft.com&host=@ProxyVPN11&fp=chrome&flow=xtls-rprx-vision&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.82.47
-vless://509dec94-cc08-4351-9ce8-811e76e092c3@31.76.55.161:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.55.161
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@de.pink-perfect.ru:443?type=tcp&security=reality&sni=yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.11.67
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.82.47
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?type=tcp&security=reality&sni=yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.3.5
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
