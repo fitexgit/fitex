@@ -1,14 +1,16 @@
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@64.49.15.194:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 64.49.15.194
+vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?type=tcp&security=none&host=cdn-apple.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.107
+vless://55c1003b-3d4a-4c37-9e66-355dc891d085@hm.khoycityman.ir:41319?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.53
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAyMDIuNzguMTYyLjUiLCJhZGQiOiIyMDIuNzguMTYyLjUiLCJwb3J0Ijo0NDMsImlkIjoiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://305efa16-8240-4727-bafd-bfb361a9023b@185.226.93.243:8444?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.243
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.217:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hostigger INC. ┇ 185.181.209.217
 vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.248
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.211:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hostigger INC. ┇ 185.181.209.211
-vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?type=tcp&security=reality&sni=play.google.com&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.70
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.226
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.78:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.215.78
-vless://9f1442e5-04c7-4b62-9aab-0f99f57dc65b@t2direct.puffy-shop.ir:19982?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.228.186.146
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.206:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hostigger INC. ┇ 185.181.209.206
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.123.142
+vless://8b881403-4a14-4ade-ac29-35d7e6312d98@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.75
 vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Datacamp Limited ┇ 31.57.225.201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.17.113.234:804#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Tigova Network Limited ┇ 185.17.113.234
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.169
+vless://9f1442e5-04c7-4b62-9aab-0f99f57dc65b@t2direct.puffy-shop.ir:19982?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.228.186.146
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.211:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Hostigger INC. ┇ 185.181.209.211
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@64.49.15.194:8080?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 64.49.15.194
+vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?type=tcp&security=reality&sni=play.google.com&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.70
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.236:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.236
+vless://305efa16-8240-4727-bafd-bfb361a9023b@185.226.93.243:8444?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.243

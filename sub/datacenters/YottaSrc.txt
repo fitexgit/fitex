@@ -1,4 +1,4 @@
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@64.49.15.194:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 64.49.15.194
 vless://8ea30880-141b-4818-ba05-61921b123441@143.246.136.166:8085?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.136.166
 vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@nl1-global.mikro-host.com:443?type=ws&security=tls&path=/assets&sni=nl1-global.mikro-host.com&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - YottaSrc ┇ 45.67.136.119
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@45.67.136.184:7443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.67.136.184
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.123.142
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@64.49.15.194:8080?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 64.49.15.194
