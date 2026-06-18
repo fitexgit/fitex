@@ -1,2 +1,4 @@
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?type=tcp&security=tls&sni=proxy.wastech.org#US 🇺🇸 ┇ VLESS-TCP-TLS - HostPapa ┇ 104.168.30.161
+vless://27104fae-f047-4993-902a-9368d8a3e9bc@96.47.230.5:65182?type=tcp&security=reality&sni=m.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#US 🇺🇸 ┇ VLESS-TCP-REALITY - HostPapa ┇ 96.47.230.5
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - HostPapa ┇ 107.174.41.49
+vless://4f3cfda3-a255-40eb-8801-71f9fffb19d6@96.47.230.5:43241?type=tcp&security=reality&sni=video.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#US 🇺🇸 ┇ VLESS-TCP-REALITY - HostPapa ┇ 96.47.230.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HostPapa ┇ 107.172.250.161
