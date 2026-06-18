@@ -1,2 +1,4 @@
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@84.32.59.15:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.59.15
+vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@5.199.174.50:443?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 5.199.174.50
+vless://97dc60fb-31cf-4156-be16-a3815ce64b60@84.32.100.185:443?type=tcp&security=reality&sni=de.moktana.app&fp=chrome&flow=xtls-rprx-vision&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=a1b2c3d4e5f6a7b8#DE 🇩🇪 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 84.32.100.185
+vless://717ba4de-9b9b-4a94-b89a-160de75bcb4e@px1t-tab-57fzza.de.deepl-cdn.com:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 84.32.100.162
 vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@84.32.100.252:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - UAB Cherry Servers ┇ 84.32.100.252

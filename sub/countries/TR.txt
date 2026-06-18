@@ -1,21 +1,13 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.80:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.215.80
-vless://57c7030e-d72b-4e8d-bc5b-8bc534763128@netnab2.dgrozz.ir:48405?type=tcp&security=none&mode=gun#TR 🇹🇷 ┇ VLESS-TCP-NTLS - HDM Dijital Hizmetleri Ticaret Limited Sirketi ┇ 45.95.65.20
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.74:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.215.74
-vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.123.142
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.78:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.215.78
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabmlHb0VJUDg5ZHdGVUdKM2Rra3NnSl8tcktfSnBxNg@212.108.107.238:54635#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 212.108.107.238
 vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?type=xhttp&security=reality&path=/pwpw&sni=journalofbigdata.springeropen.com&host=bleep.global.ssl.fastly.net&mode=auto&fp=chrome&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&sid=5942e2#TR 🇹🇷 ┇ VLESS-XHTTP-REALITY - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 46.31.76.3
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.70:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.215.70
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.232:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.232
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.248
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.226
-vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@dubai.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.163
-vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.119:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 156.146.52.119
-vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.69:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 156.146.52.69
-vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?type=tcp&security=reality&sni=yahoo.com&pbk=Oh_hH0LUAL7SHppzMjQ96NSW-qMBDvvogqU1eVxEr2Q&sid=390c3c575aa3ec48#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Datacamp Limited ┇ 31.57.225.201
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.246:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.246
-vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.65:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 156.146.52.65
+vless://504346be-8893-4e69-9d31-fe81b49ad630@185.220.226.18:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.220.226.18
+vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?type=tcp&security=reality&sni=play.google.com&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 176.223.66.70
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.236:8443?type=tcp&security=tls#TR 🇹🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 87.249.139.236
+vless://57c7030e-d72b-4e8d-bc5b-8bc534763128@netnab2.dgrozz.ir:48405?type=tcp&security=none&mode=gun#TR 🇹🇷 ┇ VLESS-TCP-NTLS - HDM Dijital Hizmetleri Ticaret Limited Sirketi ┇ 45.95.65.20
+vless://41dcf135-49a8-45ee-85ac-581731e0fa2c@185.226.93.160:1102?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=pn91tsuZ1PlyIi2l80Ei28jXgvPrnuVsBseihnlpVxg&sid=584a18e749209589#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Big Core LLC ┇ 185.226.93.160
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@tr.minoosell.ir:4111?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 194.116.236.222
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
+vless://fa957c2e-2eef-42e6-804b-a2a16fab0781@77.83.245.38:443?type=tcp&security=none&mode=packet-up#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 77.83.245.38
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVHVydW5jIFNtYXJ0IEJpbGdpc2F5YXIgVGVrbm9sb2ppIFZlIERpcyBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgMTg1LjEwNC4xODkuMzgiLCJhZGQiOiIxODUuMTA0LjE4OS4zOCIsInBvcnQiOjgwLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.113.194
+vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.101
+vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Datacamp Limited ┇ 31.57.225.201

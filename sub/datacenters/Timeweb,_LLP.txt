@@ -1,4 +1,4 @@
-vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2083?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 201.51.20.76
-vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2053?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 201.51.20.76
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 72.56.92.177
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?type=tcp&security=reality&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.81.165
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.81.165
+vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2053?type=tcp&security=reality&sni=dl.google.com&flow=xtls-rprx-vision&pbk=HQKHvE_jMTB_Lt5fAAWP_bWS0iwKVnTg0qak_67N_DA&sid=0e7e4a08#BR 🇧🇷 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 201.51.20.76
+vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@72.56.105.228:443?type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=iSo20v7O_zNHG6EmG4jGxfUkdqARzC8nFlB-JR4q4BA&sid=1a0ec8752eeaf912#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.105.228
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.92.177
