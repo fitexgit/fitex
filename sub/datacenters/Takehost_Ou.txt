@@ -1,3 +1,2 @@
-vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@83.243.86.237:443?type=tcp&security=tls&sni=www.microsoft.com&fp=firefox#DE 🇩🇪 ┇ VLESS-TCP-TLS - Takehost Ou ┇ 83.243.86.237
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Takehost Ou ┇ 89.106.86.101
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@5.175.178.81:443?type=tcp&security=tls&sni=esttk31.potatosubge20.org&fp=chrome&flow=xtls-rprx-vision-udp443#EE 🇪🇪 ┇ VLESS-TCP-TLS - Takehost Ou ┇ 5.175.178.81
+vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@5.83.129.22:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Takehost Ou ┇ 5.83.129.22
+vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?type=tcp&security=tls&sni=nlxeon41x611.potatosubge20.org&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Takehost Ou ┇ 89.106.86.101
