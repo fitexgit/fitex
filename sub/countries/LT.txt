@@ -1,6 +1,7 @@
-vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@5.199.174.50:443?type=tcp&security=reality&sni=statusdetector404.ru&fp=firefox&flow=xtls-rprx-vision&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 5.199.174.50
-vless://29a37011-532c-48ec-ba2b-d573948b6c7f@185.80.130.25:23190?type=ws&security=none#LT 🇱🇹 ┇ VLESS-WS-NTLS - UAB ESNET ┇ 185.80.130.25
-vless://b5b09cf7-78cc-4db1-9d18-476e92878e08@45.194.10.93:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.93
-vless://afb92a33-aa0e-4066-a10f-edbbfdc57d9e@88.216.67.230:2096?type=ws&security=tls&path=/&sni=GGCZ.iraniranshopdashnoard.ir&host=GGCZ.iraniranshopdashnoard.ir&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 88.216.67.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - CNServer LLC ┇ 45.87.175.193
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 5.199.170.105
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@www.ar1.plusmusical8.ir:443?type=ws&security=tls&path=/ws?ed=2560&sni=ygefuoegfuioy.whiteshopp.com.&host=ygefuoegfuioy.whiteshopp.com.&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 88.216.67.230
+vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@5.199.174.50:443?type=tcp&security=reality&sni=statusdetector404.ru&fp=firefox&flow=xtls-rprx-vision&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 5.199.174.50
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@www.ar3.plusmusical8.ir:443?type=tcp&security=none&path=/ws?ed=2560#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 89.116.250.135
+vless://b0330523-8796-4167-8848-8d409f1ae7f1@84.32.209.130:443?type=tcp&security=none&flow=xtls-rprx-vision#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.209.130
