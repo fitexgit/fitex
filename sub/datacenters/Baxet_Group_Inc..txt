@@ -1,11 +1,5 @@
-vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@132.243.236.133:22329?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 132.243.236.133
 vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@89.125.151.152:20630?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 89.125.151.152
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCYXhldCBHcm91cCBJbmMuIFx1MjUwNyA5MS4xNDkuMjM5LjE2NSIsImFkZCI6ImNnMWMxNC53YWltYW9qZC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJ0bHMiOiJ0bHMifQ
-vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@89.125.151.152:20630?type=tcp&security=none&host=google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 89.125.151.152
-vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@132.243.209.198:37870?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 132.243.209.198
 vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@185.198.235.249:30542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 185.198.235.249
-vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@185.198.235.249:30542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 185.198.235.249
-vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@194.87.245.149:43357?type=tcp&security=none&host=google.com#IE 🇮🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 194.87.245.149
-vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@132.243.236.133:22329?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 132.243.236.133
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@132.243.236.133:22329?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 132.243.236.133
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCYXhldCBHcm91cCBJbmMuIFx1MjUwNyA5MS4xNDkuMjM5LjE2NSIsImFkZCI6ImNnMWMxNC53YWltYW9qZC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJ0bHMiOiJ0bHMifQ
 vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@194.87.245.149:43357?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 194.87.245.149
-vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@132.243.209.198:37870?type=tcp&security=none#CY 🇨🇾 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 132.243.209.198

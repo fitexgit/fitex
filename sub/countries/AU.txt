@@ -1,5 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.79.238.129
-vless://850cfa47-9e28-4a81-af93-32ef77b07ae6@23.230.14.168:37750?type=ws&security=none#AU 🇦🇺 ┇ VLESS-WS-NTLS - OVH SAS ┇ 23.230.14.168
+ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.211.112.115
+vless://e35adc70-2a7c-4fa1-a1d7-0985e4a61ec4@54.206.20.169:53243?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 54.206.20.169
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmVsbGlhbiBQdHkuIExpbWl0ZWQgXHUyNTA3IDEwMy4yMjQuMjEyLjIxMSIsImFkZCI6ImNsYXNoNi5zc3ItZnJlZS54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJjbGFzaDYuc3NyLWZyZWUueHl6IiwicGF0aCI6Ii9kb25ndGFpd2FuZy5jb20iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjbGFzaDYuc3NyLWZyZWUueHl6In0
-vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?type=tcp&security=reality#AU 🇦🇺 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 3.106.214.88
+vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 54.253.37.164
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmVsbGlhbiBQdHkuIExpbWl0ZWQgXHUyNTA3IDEwMy4yMjQuMjEyLjIxMCIsImFkZCI6Im9wbGcxLmNmY2RuMi54eXoiLCJwb3J0Ijo0NDMsImlkIjoiYzVhMmQ3YjgtYmY4NC00Zjk3LTg1NzctYjliODdmMmJhYWY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvQVVJS044QVUiLCJ0bHMiOiJ0bHMifQ
+vless://850cfa47-9e28-4a81-af93-32ef77b07ae6@23.230.14.168:37750?type=ws&security=none#AU 🇦🇺 ┇ VLESS-WS-NTLS - OVH SAS ┇ 23.230.14.168
+vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.106.214.88
+vless://78d9f9d6-f85a-4d39-9a1e-897b8e2cdf7a@13.54.156.73:45565?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 13.54.156.73
+vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 82.115.21.13
+vless://b64ced11-143e-4ded-a985-a8de25461061@3.27.234.120:51808?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.27.234.120
