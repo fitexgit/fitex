@@ -1,3 +1,3 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@bolgarianflyemir.com:446?type=tcp&security=none&mode=gun#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 45.150.111.162
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@132.243.160.70:444?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 132.243.160.70
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@swflyingsupp.com:446?type=tcp&security=none&mode=gun#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 176.125.240.60
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@bolgarianflyemir.com:446?type=grpc&security=reality&sni=deepl.com&mode=gun&fp=chrome&pbk=GJnLm6LCekZoX81OvXV2CpVO-6NKCP2riGaAiZUml0w&sid=d7abeb515312dc2f#BG 🇧🇬 ┇ VLESS-GRPC-REALITY - Alexhost Srl ┇ 45.150.111.162
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@swflyingsupp.com:446?type=grpc&security=reality&sni=deepl.com&mode=gun&fp=chrome&pbk=uD-Adu6t_iFo4-FoaXOjNfSG0fHPcvPaQmO6v3qL3XY&sid=d7abeb515312dc2f#SE 🇸🇪 ┇ VLESS-GRPC-REALITY - Alexhost Srl ┇ 78.40.117.186
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@81.177.213.232:1020?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 81.177.213.232
