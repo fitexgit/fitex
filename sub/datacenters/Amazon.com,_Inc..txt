@@ -1,41 +1,72 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.1.14:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.207.1.14
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.26.234:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 63.183.26.234
-vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.63.126.48
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.232.152:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 13.39.232.152
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.46.196:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.213.46.196
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDIyd2tsLmZhbnM4Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiI3ZjRmZjJlMS1jMDhmLTM1YmQtYWZlNy00YTZhMzg2OTA3YWEiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 13.51.238.84
-vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.124.172.115:440?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.124.172.115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.250.165.160:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 54.250.165.160
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoibmV3My5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMjkyNmJiY2YtZWVmMC00ZDBkLWQ4YTctNDAwZTQxNzYwOGFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA1NC4xNjUuNTguMjA5IiwiYWRkIjoibXljZndvcmsuaGVyb2t1YXBwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIwN2EzYTFlMy1kNTJlLTRhY2MtOTU4ZS1jMzAxNjgxYjVmMDkiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8wN2EzYTFlMy1kNTJlLTRhY2MtOTU4ZS1jMzAxNjgxYjVmMDktdm1lc3MiLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDI2aGsuZmFuczgueHl6IiwicG9ydCI6NDQzLCJpZCI6IjkzYmRhZWQ1LTEzYzUtMzkyNy05M2Q3LWE2ODc3YzVhYzhkMiIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3JheSIsInRscyI6InRscyJ9
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.76.176:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 3.66.76.176
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA0Ni4xMzcuMTUuODYiLCJhZGQiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJwYXRoIjoiLzE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMS12bWVzcyIsInRscyI6InRscyIsInNuaSI6InhyLTEuaGVyb2t1YXBwLmNvbSJ9
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.157.51:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 18.195.157.51
-vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 3.112.19.64
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.14.109:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 15.236.14.109
-vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.185.25.147
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.229.95:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 3.77.229.95
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA5OS44My4xMjkuNjgiLCJhZGQiOiJuZXN0bGUuaXIiLCJwb3J0Ijo0NDMsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3NzNTEwNjgiLCJ0bHMiOiJ0bHMifQ
-vless://15637aaa-26d0-42e0-870f-5c12fabdc71c@3.81.73.166:33460?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.81.73.166
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.57.215:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 63.178.57.215
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtYXpvbi5jb20sIEluYy4gXHUyNTA3IDMuOS4xMTUuMjQ5IiwiYWRkIjoiMy45LjExNS4yNDkiLCJwb3J0IjoxMDAyLCJpZCI6IjdmYTA1NzczLWM2MGMtNGE1MS04ODQyLTExZDY2MDY3NTg3ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.56.34:22224?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 3.70.56.34
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.182.93:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 15.188.182.93
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.152.139:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 52.47.152.139
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.48.212:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.201.48.212
-vless://b756db61-5926-490a-b732-3d5b17ae1d57@18.192.139.135:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.192.139.135
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.49.219:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 13.36.49.219
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.047.node-for-bigairport.win:19001#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 54.46.118.219
-vless://1a5fa113-62b1-4397-a0c8-0dbac5a51751@18.193.67.180:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.193.67.180
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgNzYuMjIzLjU0LjE0NiIsImFkZCI6ImZyZWUtcnVzc2lhbjAxLWNkbi54aWFvaG91emkuY2x1YiIsInBvcnQiOjgwLCJpZCI6IjNkMzE3MjhlLTA2NGQtNDJiOC1iOTQ1LWY3OWMwMDhmNzNmYyIsImFpZCI6MjMzLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA1Mi41LjgyLjE3NCIsImFkZCI6ImFjMjA4OC5oZXJva3VhcHAuY29tIiwicG9ydCI6NDQzLCJpZCI6ImQxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2QxYmFiZTA4LWY4YWMtNDkwYi1iNjZmLTliZTI3NDY3ZjNjYy12bWVzcyIsInRscyI6InRscyJ9
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.141.182.180:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&sid=ed41#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.141.182.180
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgMTMuMjQ4LjE2OS40OCIsImFkZCI6IjAyMTh0dzAyLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjVjNzBkYTVkLWU2NDEtM2JmOC1iN2RjLTViYWJkODQzZmYzYyIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3YycmF5In0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiemh1eW9uZy5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNGNlMjFhMTEtNDRmZS00ODE0LWE2MzktNGI3Y2FmNTAxMDMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNTI3aGsxLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@47.129.88.226:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 47.129.88.226
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.48.212:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.201.48.212
+vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.185.25.147
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyA5OS44My4xMjkuNjgiLCJhZGQiOiJuZXN0bGUuaXIiLCJwb3J0Ijo0NDMsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3NzNTEwNjgiLCJ0bHMiOiJ0bHMifQ
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.46.196:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.213.46.196
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.250.102.208:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.250.102.208
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.169.110:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.212.169.110
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.49.89:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 13.215.49.89
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@3.1.209.45:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 3.1.209.45
+vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.72.6.34
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.192.50.101
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@47.128.218.210:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 47.128.218.210
+vless://b756db61-5926-490a-b732-3d5b17ae1d57@18.192.139.135:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.192.139.135
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.1.14:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 43.207.1.14
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.255.236.17:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.255.236.17
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.139.228.252:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.139.228.252
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@52.77.213.104:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 52.77.213.104
+vless://16181e10-e661-4673-9ba7-f0c8d5411e8e@3.66.171.110:8443?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.66.171.110
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.215.201.6:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.215.201.6
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@47.129.216.58:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 47.129.216.58
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@3.0.54.249:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&sid=ed41#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 3.0.54.249
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.215.254.63:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.215.254.63
+vless://15637aaa-26d0-42e0-870f-5c12fabdc71c@3.81.73.166:33460?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.81.73.166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.047.node-for-bigairport.win:19001#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 54.46.118.219
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.250.12.240:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.250.12.240
+vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&sid=2895e9532d0c#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 57.180.22.236
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.255.197.6:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.255.197.6
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.71.187.131
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.204.27:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.212.204.27
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoibmV3My5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMjkyNmJiY2YtZWVmMC00ZDBkLWQ4YTctNDAwZTQxNzYwOGFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.142.230.248:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&sid=ed41#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.142.230.248
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.176.145:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.212.176.145
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@56.10.7.195:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 56.10.7.195
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.179.134.67:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.179.134.67
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiemh1eW9uZy5odWNsb3VkLWRucy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNGNlMjFhMTEtNDRmZS00ODE0LWE2MzktNGI3Y2FmNTAxMDMxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.179.248.164:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.179.248.164
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.138.238.121:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.138.238.121
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.140.60.42:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.140.60.42
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.182.93:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 15.188.182.93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.250.165.160:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Amazon.com, Inc. ┇ 54.250.165.160
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxNS4xOTcuMjI1LjEyOCIsImFkZCI6ImthbXBvbmcub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIn0
-vless://08db58a8-4e23-4b2a-bee5-69c68b7c88e5@3.161.81.53:443?type=tcp&security=none&path=/uk#US 🇺🇸 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.161.81.53
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.169.199:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Amazon.com, Inc. ┇ 15.188.169.199
-vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.78.39.35:440?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.78.39.35
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.251.103.168:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.251.103.168
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1hem9uLmNvbSwgSW5jLiBcdTI1MDcgNzYuMjIzLjU0LjE0NiIsImFkZCI6ImZyZWUtcnVzc2lhbjAxLWNkbi54aWFvaG91emkuY2x1YiIsInBvcnQiOjgwLCJpZCI6IjNkMzE3MjhlLTA2NGQtNDJiOC1iOTQ1LWY3OWMwMDhmNzNmYyIsImFpZCI6MjMzLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDI2aGsuZmFuczgueHl6IiwicG9ydCI6NDQzLCJpZCI6IjkzYmRhZWQ1LTEzYzUtMzkyNy05M2Q3LWE2ODc3YzVhYzhkMiIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3JheSIsInRscyI6InRscyJ9
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@52.221.196.31:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 52.221.196.31
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAzLjIwOS4xNzIuNzIiLCJhZGQiOiJhYzIwODguaGVyb2t1YXBwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiJkMWJhYmUwOC1mOGFjLTQ5MGItYjY2Zi05YmUyNzQ2N2YzY2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kMWJhYmUwOC1mOGFjLTQ5MGItYjY2Zi05YmUyNzQ2N2YzY2Mtdm1lc3MiLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNDIyd2tsLmZhbnM4Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiI3ZjRmZjJlMS1jMDhmLTM1YmQtYWZlNy00YTZhMzg2OTA3YWEiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.169.211.1:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.169.211.1
+vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?type=tcp&security=none&mode=stream-one#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.194.4.109
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.250.27.120:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.250.27.120
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.142.115.129:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.142.115.129
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.169.50.3:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.169.50.3
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.169.76.63:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.169.76.63
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@18.139.219.160:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 18.139.219.160
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.213.54.154:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.213.54.154
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.153.94.54
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.177.28:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.212.177.28
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.213.36.158:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.213.36.158
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.179.72.159:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.179.72.159
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.176.20:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.212.176.20
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@52.77.213.70:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 52.77.213.70
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.145.115:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 13.212.145.115
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.169.199:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - Amazon.com, Inc. ┇ 15.188.169.199
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.255.181.198:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 54.255.181.198
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@52.74.225.134:443?type=tcp&security=reality#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Amazon.com, Inc. ┇ 52.74.225.134
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAzLjIxNi44OC4yNCIsImFkZCI6InhyLTEuaGVyb2t1YXBwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxN2FmNzZlMS1hNWQ3LTQxYWItYWU4Ny1iNDhmMTg1MDc1ZDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InhyLTEuaGVyb2t1YXBwLmNvbSIsInBhdGgiOiIvMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoieHItMS5oZXJva3VhcHAuY29tIn0
+vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.124.172.115:440?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 3.124.172.115
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxNzQuMTI5LjEyOC40OCIsImFkZCI6Im15Y2Z3b3JrLmhlcm9rdWFwcC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMDdhM2ExZTMtZDUyZS00YWNjLTk1OGUtYzMwMTY4MWI1ZjA5IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvMDdhM2ExZTMtZDUyZS00YWNjLTk1OGUtYzMwMTY4MWI1ZjA5LXZtZXNzIiwidGxzIjoidGxzIn0
+vless://b756db61-5926-490a-b732-3d5b17ae1d57@18.184.199.90:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Amazon.com, Inc. ┇ 18.184.199.90
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbWF6b24uY29tLCBJbmMuIFx1MjUwNyAxMy4yNDguMTY5LjQ4IiwiYWRkIjoiNTI3aGsxLmZhbnM4Lnh5eiIsInBvcnQiOjgwLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9

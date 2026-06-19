@@ -1,3 +1,1 @@
-vless://90299b7d-b17a-44ec-892f-7b64875202e5@217.114.14.63:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 217.114.14.63
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 89.169.39.55
-vless://9677c03e-c27a-4c3f-8b52-d03241f1a62d@193.168.46.180:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Beget LLC ┇ 193.168.46.180
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=28a059440d3d5ba1#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Beget LLC ┇ 89.169.39.55
