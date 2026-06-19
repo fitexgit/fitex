@@ -1,4 +1,4 @@
-vless://8072396c-6a74-46b3-8a43-91b5e86ed160@94.228.125.193:52649?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 94.228.125.193
-vless://e81b4681-f58c-4e38-9659-00c2de197f83@186.246.6.20:443?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 186.246.6.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 94.198.220.183
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect&sni=wstg.datasynctrue.online&host=wstg.datasynctrue.online&fp=qq&pbk=LEUuplvXcqqtM3Ni76v7_rTQzzmZWVk3hF0SjdPAKz8&sid=dd3b257eabe14d18#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 193.168.3.26
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=/api/connect&host=wstg.datasynctrue.online#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 193.168.3.26
+vless://e81b4681-f58c-4e38-9659-00c2de197f83@186.246.6.20:443?type=tcp&security=tls&sni=ru-svo-8.blook.network&fp=chrome&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 186.246.6.20
+hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?sni=tw-vds.t1n2.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Jsc timeweb ┇ 188.225.80.130

@@ -1,5 +1,3 @@
-vless://a3ea555b-4232-4d30-8e05-06b66d5b149f@thomas.proxy.rlwy.net:56975?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Railway ┇ 66.33.22.225
-vless://3becb56a-1d9f-77e7-c898-4c1c3b53f360@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/3becb56a-1d9f-77e7-c898-4c1c3b53f360&sni=tmesubgift.up.railway.app&host=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.78
-vless://389f9cea-9090-72e0-7b40-39ed3b11574f@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/389f9cea-9090-72e0-7b40-39ed3b11574f&sni=tmesubgift.up.railway.app&host=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.78
-vless://123a18a6-905c-8e7e-cb9c-6673675f827c@rvg-production-e930.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.81
-vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
+vless://dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79@66.33.23.63:443?type=tcp&security=none&path=/ws/dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.63
+vless://dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79@tmesubgift.up.railway.app:443?type=tcp&security=none&path=/ws/dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
+vless://dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79@66.33.23.75:443?type=tcp&security=none&path=/ws/dcfc4c1b-55b1-d704-6c33-bcdf7d6dac79#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.75

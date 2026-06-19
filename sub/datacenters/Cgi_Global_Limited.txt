@@ -1,7 +1,5 @@
-vless://51142006-eded-43a8-be23-61593822cad9@185.92.182.199:42542?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.182.199
-vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@aziz.carderrr.com:10020?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 94.183.234.41
 vless://b36f0d66-50e1-41fc-b921-71c009a2a453@zx.hostxyz.ir:2053?type=tcp&security=none&path=/fragconfig#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.157.168
 vless://38b4b113-ae06-46ea-bad3-78f76e90998e@zx.hostxyz.ir:53925?type=ws&security=none&path=/&host=play.google.com#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.57.157.168
-vless://a78c6631-94fc-4edf-884a-0b0c0e2b1623@31.57.46.215:16300?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=qW_L7rLG6PTLs9KaoSf-HSSWAUPLUyh1p8KLcCHrxAk&sid=934b64dd5a99c1#US 🇺🇸 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.46.215
-vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.230.9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTYuMTc4LjEwNyIsImFkZCI6IjMxLjU2LjE3OC4xMDciLCJwb3J0Ijo0NDMsImlkIjoiMTg1YTNiYjYtYTFhNy00YTQzLWRhMzctNjU5MDI2Yzc5YWVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://51142006-eded-43a8-be23-61593822cad9@185.92.182.199:42542?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.182.199
 vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&sid=fa893256a458b8a0#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129

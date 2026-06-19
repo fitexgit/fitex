@@ -1,3 +1,5 @@
-vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - LIGHT NODE LIMITED ┇ 130.94.45.81
+vless://e2abce26-03d8-4224-618e-20fb7b57a53b@185.173.144.209:2086?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.209
 vless://c413ff8b-6e24-4542-b4c3-b3dd380c3674@212.100.171.202:80?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.202
-vless://c564b39d-4775-4fbd-9d00-1f09032ad6fd@tun3.lesss.ir:19911?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 94.183.210.20
+vless://e2abce26-03d8-4224-618e-20fb7b57a53b@185.173.144.212:2086?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.212
+vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:443?type=ws&security=tls&path=/&sni=DEY.iraniranshopdashnoard.ir&host=DEY.iraniranshopdashnoard.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=1&obfs=salamander#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
