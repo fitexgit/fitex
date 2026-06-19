@@ -1,1 +1,3 @@
-vless://1lpxy6haqm@45.15.167.13:443?type=tcp&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&fp=chrome&flow=xtls-rprx-vision#CY 🇨🇾 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 45.15.167.13
+vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIFdvcmtUaXRhbnMgQi5WLiBcdTI1MDcgMTg1LjI0Mi44Ny4xNjEiLCJhZGQiOiIxODUuMjQyLjg3LjE2MSIsInBvcnQiOjU1MjU0LCJpZCI6IjAwYWY2ZmQ3LTc5OWMtNDNlZi1lODUyLWZjMDY3NWZiM2M5YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6IkNnNTNxR3JYZzQifQ
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 171.22.114.248
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?type=grpc&security=none&mode=gun#MD 🇲🇩 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 195.42.233.125

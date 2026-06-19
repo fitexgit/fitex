@@ -1,4 +1,1 @@
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
-vless://abf4819c-889c-459d-b97a-bc16aa76d71b@cdn1.portalcode.ir:2095?type=tcp&security=none&path=/#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
-vless://2562bd96-560a-4999-84fe-6f1a2a8e0ecf@cdn1.portalcode.ir:2095?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
-vless://0dc7f4b5-5ad1-41f4-857a-9d9ddda6f89a@cd1.consolgame.ir:2095?type=tcp&security=none&path=/#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
+vless://df6b5de5-5ff0-48e0-aa82-570b94d863ad@cd1.consolgame.ir:2087?type=tcp&security=none&path=/path#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
