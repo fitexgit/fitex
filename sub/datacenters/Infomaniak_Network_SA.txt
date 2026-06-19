@@ -1,4 +1,4 @@
-vless://77f1f68f-3629-4d93-9014-f18baf20b943@seti.wizardp.org:2045?type=grpc&security=reality&sni=play.google.com&mode=gun&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#CH 🇨🇭 ┇ VLESS-GRPC-REALITY - Infomaniak Network SA ┇ 83.228.224.100
-vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:24250?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.43.207
+vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@83.228.224.100:2045?type=grpc&security=reality&sni=play.google.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#CH 🇨🇭 ┇ VLESS-GRPC-REALITY - Infomaniak Network SA ┇ 83.228.224.100
+vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:443?type=tcp&security=reality&sni=yahoo.com&host=www.yahoo.com&fp=chrome&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=2ef0f0b1#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.43.207
+vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:24250?type=tcp&security=reality&sni=www.yahoo.com&host=www.yahoo.com&fp=chrome&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=13#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.43.207
 vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:15281?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=cc9e62e80aedfb#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.43.207
-vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.43.207

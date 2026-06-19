@@ -1,4 +1,5 @@
-vless://96a59dc3-226d-475c-89c5-3ef74d7f84a7@2.59.219.141:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 2.59.219.141
 vless://96a59dc3-226d-475c-89c5-3ef74d7f84a7@185.212.117.62:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 185.212.117.62
+vless://15d0a396-e4bb-475a-a345-da0c5767b306@132.243.160.138:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 132.243.160.138
+vless://a0794d3c-0445-44e4-bd8b-039482b39e2c@171.22.181.248:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 171.22.181.248
+vless://96a59dc3-226d-475c-89c5-3ef74d7f84a7@2.59.219.141:443?type=tcp&security=reality&sni=mirror.init7.net&fp=chrome&flow=xtls-rprx-vision&pbk=6tucjTON2xAIZXUXUdjgHQQ9q154n49B-jTB8M9Wd2s#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 2.59.219.141
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 78.40.117.131
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@bolgarianflyemir.com:446?type=grpc&security=reality&sni=deepl.com&mode=gun&fp=chrome&pbk=GJnLm6LCekZoX81OvXV2CpVO-6NKCP2riGaAiZUml0w&sid=d7abeb515312dc2f#BG 🇧🇬 ┇ VLESS-GRPC-REALITY - Alexhost Srl ┇ 45.150.111.162
