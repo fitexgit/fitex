@@ -1,9 +1,1 @@
-vless://53860602-f0ea-4bb0-bc10-852a27606b87@45.39.241.51:20607?type=tcp&security=tls#BG 🇧🇬 ┇ VLESS-TCP-TLS - 2e Telekomunikasyon Ltd Sti ┇ 45.39.241.51
-vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?type=tcp&security=none&path=/ws#BG 🇧🇬 ┇ VLESS-TCP-NTLS - 2e Telekomunikasyon Ltd Sti ┇ 45.39.241.51
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443?type=tcp&security=reality&sni=arxiv.org&fp=edge&flow=xtls-rprx-vision&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33#US 🇺🇸 ┇ VLESS-TCP-REALITY - 2e Telekomunikasyon Ltd Sti ┇ 172.252.125.77
-vless://2748ea5a-24af-4cd8-8a2c-c25ac4ae2bf3@185.255.95.247:21520?type=ws&security=tls&path=/ws&sni=185.255.95.247&host=185.255.95.247&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - 2e Telekomunikasyon Ltd Sti ┇ 185.255.95.247
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@tur.fastsoonlink.com:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - 2e Telekomunikasyon Ltd Sti ┇ 185.255.94.128
-vless://da9fccd6-2850-45ae-9f65-a9c4dec045a8@185.255.95.247:27265?type=ws&security=none&path=/ws&host=185.255.95.247#TR 🇹🇷 ┇ VLESS-WS-NTLS - 2e Telekomunikasyon Ltd Sti ┇ 185.255.95.247
-vless://edc33a23-0574-480a-9b72-ab5b97497200@93.115.10.160:443?type=tcp&security=reality&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&pbk=UNmXDP41M-gwlnBgRgtt6Pw3LwI1-wFmbIDa-CNRejA&sid=8755d3406d69#TR 🇹🇷 ┇ VLESS-TCP-REALITY - 2e Telekomunikasyon Ltd Sti ┇ 93.115.10.160
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?type=ws&security=none&path=/ws#TR 🇹🇷 ┇ VLESS-WS-NTLS - 2e Telekomunikasyon Ltd Sti ┇ 185.255.95.247
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM@tur.fastsoonlink.com:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - 2e Telekomunikasyon Ltd Sti ┇ 185.255.94.128
+vless://7b764c0c-9b9d-4abc-98f9-3a2067487116@smart.ccnnx.ru:34123?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - 2e Telekomunikasyon Ltd Sti ┇ 45.155.125.139
