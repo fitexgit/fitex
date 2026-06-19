@@ -1,8 +1,2 @@
-vless://28576f09-d044-48e2-8a22-5da05c46a6c3@9sbisocj5c11.dxdx5.com:12404?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.182
-vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@89.125.20.100:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Netly LLC ┇ 89.125.20.100
-vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Giti Secure Cloud LLC ┇ 94.183.162.131
-vless://28576f09-d044-48e2-8a22-5da05c46a6c3@9sbisocj5c11.dxdx5.com:50609?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.182
-vless://28576f09-d044-48e2-8a22-5da05c46a6c3@9sbisocj5c11.dxdx5.com:52297?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.182
-vless://024c5ef7-e927-41a9-abdf-e628a3359411@130.185.121.229:2083?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.229
-vless://28576f09-d044-48e2-8a22-5da05c46a6c3@9sbisocj5c11.dxdx5.com:55800?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.182
-vless://28576f09-d044-48e2-8a22-5da05c46a6c3@9sbisocj5c11.dxdx5.com:33982?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.182
+vless://dc475cd4-81bc-46ff-92f8-5ed003ca590e@devilfullspeed.com:2053?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.24
+vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:80?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
