@@ -1,3 +1,2 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?type=tcp&security=none&path=/fp#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 156.231.113.141
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.93.121:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 156.246.93.121
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?type=ws&security=tls&path=/fp=chrome&sni=t1s1.rittbo.kdns.fr&host=t1s1.rittbo.kdns.fr#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 156.231.113.141
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 156.224.78.8
