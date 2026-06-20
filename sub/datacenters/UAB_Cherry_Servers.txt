@@ -1,8 +1,3 @@
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?type=tcp&security=none&mode=gun#NL 🇳🇱 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 84.32.108.223
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.204
-vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@5.199.174.50:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 5.199.174.50
-vless://b5b09cf7-78cc-4db1-9d18-476e92878e08@45.194.10.93:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.93
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.104
 vless://51171159-d453-4d05-bbae-287207db33dd@88.216.193.154:443?type=tcp&security=none&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-NTLS - UAB Cherry Servers ┇ 88.216.193.154
 vless://7878a1a0-583c-4fba-841d-44ca4b1bcd47@fastsw.phantom.direct:443?type=tcp&security=reality&sni=fastsw.phantom.direct&fp=firefox&flow=xtls-rprx-vision&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=773353fbea287c00#SE 🇸🇪 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 88.216.214.160
-vless://d57207d5-bed5-4721-bea8-2741584e2d38@88.216.132.29:443?type=tcp&security=reality&sni=de-fra-14.blook.network&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&flow=xtls-rprx-vision&pbk=4l6Ix3bneXShDpYSHoRq_avnztGFMPI-hcGlVbKF0UE&sid=a6f01456#DE 🇩🇪 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 88.216.132.29
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.230
