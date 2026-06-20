@@ -1,3 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluaW9zIE95IFx1MjUwNyAxNjMuNS4xNTMuNDMiLCJhZGQiOiIxNjMuNS4xNTMuNDMiLCJwb3J0IjoxMTA4OSwiaWQiOiJkMmI0Y2MzYS1kMGM1LTRmYTItODEzOS1kMGY5YTRmODdiZTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://164592e8-5168-4319-8377-6b832f3125d1@192.124.181.44:44333?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 192.124.181.44
-vless://164592e8-5168-4319-8377-6b832f3125d1@192.124.181.44:62800?type=grpc&security=reality&sni=yandex.ru&mode=gun&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906#FI 🇫🇮 ┇ VLESS-GRPC-REALITY - Inios Oy ┇ 192.124.181.44
+vless://164592e8-5168-4319-8377-6b832f3125d1@192.124.181.44:44333?type=tcp&security=none&flow=xtls-rprx-vision#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Inios Oy ┇ 192.124.181.44
