@@ -1,2 +1,1 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - MHost LLC ┇ 103.227.84.1
-vless://36562b99-aadd-4e38-b566-24e0d219b1d6@93.190.247.106:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - MHost LLC ┇ 93.190.247.106
+vless://36562b99-aadd-4e38-b566-24e0d219b1d6@93.190.247.106:443?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS - MHost LLC ┇ 93.190.247.106

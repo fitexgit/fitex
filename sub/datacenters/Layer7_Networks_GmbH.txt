@@ -1,3 +1,5 @@
-vless://18b64c77-2906-42ee-aab4-08ee6aa40c25@karandish.mahkocholo.com:58055?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Layer7 Networks GmbH ┇ 194.24.161.228
-vless://fc50ce8b-6e25-4f20-82d1-8cf29f06ad8b@109.202.246.144:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=DmwKNYnqku627Q_FP8ByVmGmRYz_3Gj0T9-g6xK_nRM&sid=2116b1708308bd3e#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Layer7 Networks GmbH ┇ 109.202.246.144
+vless://fc50ce8b-6e25-4f20-82d1-8cf29f06ad8b@109.202.246.144:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Layer7 Networks GmbH ┇ 109.202.246.144
+vless://302a4c57-b5c7-4b7a-8ea5-d68e528276eb@karandish.mahkocholo.com:58055?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Layer7 Networks GmbH ┇ 194.24.161.228
+vless://abf52aa8-efd8-4849-8ded-fda151d4308b@karandish.mahkocholo.com:58055?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Layer7 Networks GmbH ┇ 194.24.161.228
 vless://eccc1f9d-985f-4ab0-a15c-9f4df0ef4b6e@karandish.mahkocholo.com:58055?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Layer7 Networks GmbH ┇ 194.24.161.228
+vless://18b64c77-2906-42ee-aab4-08ee6aa40c25@karandish.mahkocholo.com:58055?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Layer7 Networks GmbH ┇ 194.24.161.228

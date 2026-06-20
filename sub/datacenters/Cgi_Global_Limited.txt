@@ -1,6 +1,4 @@
-vless://OwLimbow@31.56.117.234:80?type=tcp&security=none&path=/ws#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.117.234
-vless://1cbcff42-845a-4ee9-aefa-4c771cbbee77@31.56.177.212:2083?type=ws&security=tls&path=/&sni=clapi.onewinvip.ir&host=clapi.onewinvip.ir&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.56.177.212
-vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&sid=fa893256a458b8a0#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129
-vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 188.130.206.60
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
-vless://0a261e86-01cc-4416-bd18-d7bee811c9e8@kilime.xubi.org:443?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.161.187
+vless://98a0fab4-3be2-48ae-a99e-3d812315e11b@ch.zoroem.opik.net:80?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.157.30
+vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=reality&sni=images.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 188.130.206.60
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMzEuNTYuMTc4LjEwNyIsImFkZCI6IjMxLjU2LjE3OC4xMDciLCJwb3J0Ijo0NDMsImlkIjoiMTg1YTNiYjYtYTFhNy00YTQzLWRhMzctNjU5MDI2Yzc5YWVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://9db8af54-1278-4beb-9989-78f1d3062891@kilime.xubi.org:46439?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.161.187

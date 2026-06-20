@@ -1,2 +1,4 @@
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@152.89.104.244:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - netcup GmbH ┇ 152.89.104.244
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.60.65
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.44.159
+vless://a5764276-dcdb-4f57-973e-d6969bc44d3a@au.save-node.com:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.48.91
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.22.155
+vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?type=tcp&security=reality&sni=free1.anotherboring.top&flow=xtls-rprx-vision&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&sid=53cd45d26d7b53fe#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.60.65

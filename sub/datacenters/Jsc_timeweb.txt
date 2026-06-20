@@ -1,4 +1,4 @@
-vless://3aae85e1-b87d-48b3-a081-e84f537d6eab@5.42.101.151:40443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 5.42.101.151
-vless://bf9931be-a7fd-46b3-9919-b858299e9f65@meow-msc.nethcloud.top:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 217.198.12.117
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 94.198.220.183
-hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Jsc timeweb ┇ 188.225.80.130
+vless://609b91e0-62a3-4338-82a8-16d75e1cea79@ru1.coconutstrip.co:443?type=tcp&security=reality&sni=ru1.coconutstrip.co&flow=xtls-rprx-vision&pbk=7WhA-qKOcqhP_WIJQSwTKoO7PiaeAHvxEwpMmnXnCSk#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 82.97.248.173
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@176.124.209.103:23346?type=tcp&security=reality&sni=zvuk.com&fp=chrome&flow=xtls-rprx-vision&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&sid=4294bfc2#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 176.124.209.103
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=tcp&security=none&path=/api/connect#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 91.210.169.181
