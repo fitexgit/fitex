@@ -1,6 +1,5 @@
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?type=tcp&security=reality&sni=www.wechat.com&fp=chrome&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.18.135
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=ws&security=tls&path=/ws&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 85.234.69.227
-vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:803#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 95.85.90.181
+vless://e4035d90-d0a8-4133-b679-d57766106b31@turk.nomac.ir:8080?type=tcp&security=none&path=/&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.197
 vless://336ab676-47c5-4d11-99a2-29441457e94e@turkey.shabtaban.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.164
-vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-8.speedmizban.net:2044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.43
+vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?type=tcp&security=reality&sni=www.wechat.com&fp=chrome&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.18.135
+vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:8080?type=httpupgrade&security=none#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=ws&security=tls&path=/ws&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 85.234.69.227
