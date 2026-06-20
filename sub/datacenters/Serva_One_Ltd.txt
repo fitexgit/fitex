@@ -1,2 +1,1 @@
-vless://072b32f9-c34e-43b8-aaf8-f2aae379b155@87.229.34.23:443?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Serva One Ltd ┇ 87.229.34.23
-vless://035c4e6a-88cb-4c06-9db5-b5474bded239@87.229.34.23:443?type=tcp&security=reality#BG 🇧🇬 ┇ VLESS-TCP-REALITY - Serva One Ltd ┇ 87.229.34.23
+vless://072b32f9-c34e-43b8-aaf8-f2aae379b155@87.229.34.23:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#BG 🇧🇬 ┇ VLESS-TCP-REALITY - Serva One Ltd ┇ 87.229.34.23

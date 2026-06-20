@@ -1,4 +1,8 @@
-vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.74.39
-vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.80.48
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.54
+vless://6997c04b-61db-46e9-a7af-83f1ce4f29ae@subscription.lormarb.ir:2087?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=5bfBHZRq12CBEfVtw01S8nAfsfMK_wLb4nXz36Dk8EU&sid=e2c7b3f517336f#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.252.89.70
 vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.23.38
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQ2xvdWQgU29mdHdhcmUgLSBGWkNPIFx1MjUwNyAxMDQuMjUyLjMwLjM1IiwiYWRkIjoiYXRpaW5zLmNvbS50ciIsInBvcnQiOjQ0MywiaWQiOiI5Nzc3NTkzNi0wNWVhLTRmZWEtODU2Mi1lOWViOTg1NTk3OTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhdGlpbnMuY29tLnRyIiwidGxzIjoidGxzIiwic25pIjoiYXRpaW5zLmNvbS50ciJ9
+vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.74.39
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.54
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.80.48
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.39.190.143:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&host=t1s1.rittbo.kdns.fr#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 45.39.190.143
+vless://b24dbfda-f9cd-4a01-8184-9e57d041446d@shopping.farm.egekaradecojistik.net.tr:13528?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=_OPRwEyC5xf_h5Bjlq1W6NeuqeSHuM4uOCiRIO1zNRI&sid=da3cab#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.82.188
