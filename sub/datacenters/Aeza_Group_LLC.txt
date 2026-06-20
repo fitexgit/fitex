@@ -1,4 +1,7 @@
-vless://%40IR_NETLIFY@89.22.236.213:666?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
-vless://0cb903e2-66a6-4e58-9793-1049b0620962@45.152.198.221:47208?type=grpc&security=reality&sni=yahoo.com&mode=gun&fp=chrome&pbk=d8sNLxNRUvDCPQuMHs73mTLnMlLQCLhfR4ZsJA6reDI&sid=06531bb7f2#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.152.198.221
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@109.120.176.138:4111?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.176.138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 62.60.231.81
+vless://0cb903e2-66a6-4e58-9793-1049b0620962@all2.biglarcloud.top:25794?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=SHiDNTspsoIQmMj7wgm7nOB2prVjEfmKm0cozvXhQXY&sid=676932d0b1ed#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 85.192.30.92
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@109.120.176.138:4111?type=grpc&security=reality&sni=www.icloud.com&mode=gun&fp=chrome&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&sid=9e0df5878ac2f3c8#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 109.120.176.138
+vless://fb081516-90c5-4fb4-905a-a0b010a53b20@138.124.93.44:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.93.44
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&sni=vindobona.org&fp=firefox&flow=xtls-rprx-vision&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@79.137.207.130:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 79.137.207.130
+vless://0cb903e2-66a6-4e58-9793-1049b0620962@45.152.198.221:47208?type=grpc&security=reality&sni=yahoo.com&mode=gun&fp=chrome&pbk=d8sNLxNRUvDCPQuMHs73mTLnMlLQCLhfR4ZsJA6reDI&sid=06531bb7f2#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.152.198.221

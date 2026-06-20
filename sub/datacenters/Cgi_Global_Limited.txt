@@ -1,6 +1,6 @@
-vless://thug-tales@31.56.177.245:8443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=zYOFlyjT76Sl9H9nSQqKg7l12JsK0s_LARla6oQjMmk&sid=1a#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.177.245
-vless://44f2c751-8c9b-403c-9be6-0058f7ac338c@kilime.xubi.org:666?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.161.187
-vless://1cbcff42-845a-4ee9-aefa-4c771cbbee77@31.56.177.212:2083?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.177.212
-vless://0a261e86-01cc-4416-bd18-d7bee811c9e8@kilime.xubi.org:443?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.161.187
 vless://OwLimbow@31.56.117.234:80?type=tcp&security=none&path=/ws#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.117.234
-vless://371f3b23-0194-406d-a23e-917e05114b89@31.56.177.190:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.177.190
+vless://1cbcff42-845a-4ee9-aefa-4c771cbbee77@31.56.177.212:2083?type=ws&security=tls&path=/&sni=clapi.onewinvip.ir&host=clapi.onewinvip.ir&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.56.177.212
+vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&sid=fa893256a458b8a0#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129
+vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 188.130.206.60
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
+vless://0a261e86-01cc-4416-bd18-d7bee811c9e8@kilime.xubi.org:443?type=tcp&security=none&mode=auto#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.161.187
