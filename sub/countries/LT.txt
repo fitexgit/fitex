@@ -1,6 +1,4 @@
-vless://45eee3c9-ac41-43d5-a03f-b7b298a1d162@45.81.58.159:443?type=xhttp&security=tls&path=/cloudapi&sni=dl.mobileemdad.top&mode=auto&fp=chrome#LT 🇱🇹 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 45.81.58.159
-vless://00b2c573-d37e-447b-a979-5b940be44fd4@89.116.250.135:2053?type=ws&security=tls&path=/&sni=fl.matrix-shop.ir#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 89.116.250.135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - CNServer LLC ┇ 45.87.175.193
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.104
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@62.77.158.1:443?type=xhttp&security=reality&sni=online.1c.ru&mode=auto&fp=firefox&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&sid=6a@ThePackageCom#LT 🇱🇹 ┇ VLESS-XHTTP-REALITY - UAB Interneto vizija ┇ 62.77.158.1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.134
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.24

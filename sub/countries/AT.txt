@@ -1,5 +1,6 @@
-vless://7b5373f4-22f1-4448-aa89-471fe4e46dd0@fekepan.consolgame.ir:1186?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - IONOS SE ┇ 185.230.217.17
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
 vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@152.53.39.148:443?type=tcp&security=reality&sni=usatruenetcup.grani.site&fp=chrome&flow=xtls-rprx-vision&pbk=zutw7YSzrZYrurfGmnWBKUNBJf72WW892RNZKwX9ozQ&sid=8d1c7e3a5f0b9264#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.39.148
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&sni=vindobona.org&fp=chrome&flow=xtls-rprx-vision&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@146.70.28.93:43893#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.28.93
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.41
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.73.131.154
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
+vless://7b5373f4-22f1-4448-aa89-471fe4e46dd0@fekepan.consolgame.ir:1186?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - IONOS SE ┇ 185.230.217.17
