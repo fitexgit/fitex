@@ -1,6 +1,7 @@
-vless://19af3d13-4a9a-41da-8501-efffc6ec317b@turk.nomac.ir:8443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=K5-jL-m537jMtxDUTfl1FW9EnWdHjJOBECdxbOGAcQI&sid=6ba85179e30d4fc2#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.197
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=httpupgrade&security=tls&path=/api&fp=chrome#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-TLS - G-Core Labs S.A. ┇ 85.234.69.227
-vless://c77d5867-7528-4062-8370-700eaf351560@93.114.98.197:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.197
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA@185.202.93.194:41348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 185.202.93.194
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=tcp&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
 vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:2053?type=ws&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.163.53
+vless://e4035d90-d0a8-4133-b679-d57766106b31@cdn8.nomac.ir:2082?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.197
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=ws&security=tls&path=/ws&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 85.234.69.227
+vless://e4035d90-d0a8-4133-b679-d57766106b31@turk.nomac.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.197
+vless://e4035d90-d0a8-4133-b679-d57766106b31@turk.nomac.ir:2026?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.197
+vless://e4035d90-d0a8-4133-b679-d57766106b31@turk.nomac.ir:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.197

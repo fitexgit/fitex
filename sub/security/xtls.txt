@@ -1,2 +1,1 @@
-vless://29281351-acf2-4b08-9dcc-97de24aed5da@id.artunnel57.host:443?type=tcp&security=xtls&sni=id.artunnel57.host&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ N/A
-vless://eed9f958-6ffa-4e63-b22e-7d959aca07d5@xray.artunnel57.host:443?type=tcp&security=xtls#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ N/A
+vless://eed9f958-6ffa-4e63-b22e-7d959aca07d5@xray.artunnel57.host:443?type=tcp&security=xtls&sni=xray.artunnel57.host&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ N/A
