@@ -1,5 +1,6 @@
-vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.82.3
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.216.98
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
 vless://51c4d4f2-41f4-4ccc-980a-0e07cd4164dc@as.pink-perfect.ru:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.72.135
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.82.3
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.103.208
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.88.109
