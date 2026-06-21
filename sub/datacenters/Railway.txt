@@ -1,5 +1,6 @@
-vless://2e6d8e31-7261-4d5e-812d-eaffedeeec21@thomas.proxy.rlwy.net:31164?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Railway ┇ 66.33.22.225
-vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?type=xhttp&security=reality&path=/xh&sni=yahoo.com&mode=auto&fp=chrome&pbk=CrEL0U-ugDvMuUfmR5sM0GLZryu7oDMmA-3v812Vljo&sid=0123456789abcdef#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Railway ┇ 66.33.22.225
-vless://d46d55cf-91b8-5fe6-e9d4-94151e764530@rvg-production-dd33.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.30
-vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?type=xhttp&security=tls&path=/xh&sni=r-production-260d.up.railway.app&host=r-production-260d.up.railway.app&mode=auto&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Railway ┇ 66.33.23.33
 vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?type=tcp&security=none&path=/ws/91679c30-bc1f-35e4-2cb2-ff0358e3d823#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?type=xhttp&security=reality&path=/xh&sni=yahoo.com&mode=auto&fp=chrome&pbk=CrEL0U-ugDvMuUfmR5sM0GLZryu7oDMmA-3v812Vljo&sid=0123456789abcdef#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Railway ┇ 66.33.22.225
+vless://9229da01-d8d4-0d1a-0e33-eb59a8b25234@rvg-production-3182.up.railway.app:443?type=ws&security=tls&path=/ws/9229da01-d8d4-0d1a-0e33-eb59a8b25234&sni=rvg-production-3182.up.railway.app&host=rvg-production-3182.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.19
+vless://More-Config-Telegram-Zodproxy@66.33.23.33:443?type=tcp&security=none&path=/ws#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.33
+vless://d46d55cf-91b8-5fe6-e9d4-94151e764530@rvg-production-dd33.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.30
+vless://2e6d8e31-7261-4d5e-812d-eaffedeeec21@thomas.proxy.rlwy.net:31164?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Railway ┇ 66.33.22.225
