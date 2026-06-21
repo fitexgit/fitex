@@ -1,6 +1,3 @@
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.108:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.108
-vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@cd1.consolgame.ir:2087?type=ws&security=tls&path=/path&sni=cd-dc2.consolegamenet.ir&host=cd-dc2.consolegamenet.ir#BE 🇧🇪 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 188.95.12.226
 vless://7b5373f4-22f1-4448-aa89-471fe4e46dd0@cd1.consolgame.ir:2087?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
-vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@cd1.consolgame.ir:2095?type=httpupgrade&security=none&path=/&host=pardgemi.consolegamenet.ir#BE 🇧🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
 vless://7b5373f4-22f1-4448-aa89-471fe4e46dd0@cd1.consolgame.ir:2095?type=tcp&security=none&path=/#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
-ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.110.115.93
+vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@cd1.consolgame.ir:2087?type=ws&security=tls&path=/path&sni=cd-dc2.consolegamenet.ir&host=cd-dc2.consolegamenet.ir#BE 🇧🇪 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 188.95.12.226

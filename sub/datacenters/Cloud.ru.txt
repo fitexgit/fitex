@@ -1,4 +1,1 @@
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 176.108.242.76
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@176.108.243.74:220?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.243.74
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@176.108.243.74:230?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.243.74
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@176.108.243.74:770?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.243.74
+vless://39e18f1d-d3e4-4d44-b72e-9545a1d64f49@89.232.177.23:443?type=tcp&security=reality&sni=kz-most.api-yandex.net&flow=xtls-rprx-vision&pbk=oVRbpcmh0rTxbe2y_zyVQqqzCVIPOFfkk-CHv9QFLF4&sid=0fdfdcf08733a33f#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 89.232.177.23

@@ -1,4 +1,6 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
 vless://7b5373f4-22f1-4448-aa89-471fe4e46dd0@fekepan.consolgame.ir:1186?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - IONOS SE ┇ 185.230.217.17
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?type=ws&security=tls&path=/?proxyip&sni=ve.ylkszy.eu.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.102
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.197.41
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.73.131.154
 vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@152.53.39.148:443?type=tcp&security=reality&sni=usatruenetcup.grani.site&fp=chrome&flow=xtls-rprx-vision&pbk=zutw7YSzrZYrurfGmnWBKUNBJf72WW892RNZKwX9ozQ&sid=8d1c7e3a5f0b9264#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.39.148
