@@ -1,1 +1,6 @@
-vless://e2abce26-03d8-4224-618e-20fb7b57a53b@185.173.144.212:2086?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.212
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@83.147.253.245:4111?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 83.147.253.245
+vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.209:37368?type=ws&security=none&path=/meet&host=play.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 185.173.144.209
+vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?type=tcp&security=none&path=/meet#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.209
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?type=tcp&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://a11692b0-ecc1-1e83-769c-c81bed2d7459@185.173.144.212:2086?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.212
+vless://df666979-d7ce-4e34-ae23-05ac01bd2476@usa.frdmhere.com:443?type=xhttp&security=reality&sni=strm.yandex.ru&mode=auto&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&sid=b00b1e5b#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - NetCrafters OU ┇ 138.124.60.197
