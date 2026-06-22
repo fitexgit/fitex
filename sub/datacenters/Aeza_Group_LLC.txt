@@ -1,10 +1,4 @@
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@77.110.110.81:14302?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.110.110.81
-vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.92.115
+vless://3bfcfd60-11b7-4ffe-9b39-6df99981e8a3@147.45.41.227:443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 147.45.41.227
+vless://d7e12b1b-36a4-440c-8ce1-95357bb43b12@pixelshop1.xyz:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 85.192.31.106
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Aeza Group LLC ┇ 45.151.102.99
 vless://38704d8c-0eec-4faf-bc0d-6bc49330c50d@138.124.93.44:8443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.93.44
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@109.120.176.138:4111?type=grpc&security=reality&sni=www.icloud.com&mode=gun&fp=chrome&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&sid=9e0df5878ac2f3c8#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 109.120.176.138
-vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.176.65.192
-vless://bb1db352-397c-400b-937e-e12b6af43e23@45.151.102.99:9443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.102.99
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@46.226.161.161:14302?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 46.226.161.161
-vless://0cb903e2-66a6-4e58-9793-1049b0620962@all2.biglarcloud.top:13167?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=MCpd3YzTl3lJ7Mv5Jj07cLmDkgQdVCmgiD6Z4Azaxws&sid=3a71a9f1d42c#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 85.192.30.92
