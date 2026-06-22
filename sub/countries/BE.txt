@@ -1,1 +1,4 @@
-vless://8e6de0fc-3a7d-448d-a88d-af43eb53e3d7@cd1.consolgame.ir:2095?type=tcp&security=none&path=/#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?type=tcp&security=tls&sni=bru-be-01.fromblancwithlove.com#BE 🇧🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 79.127.224.12
+vless://0dc7f4b5-5ad1-41f4-857a-9d9ddda6f89a@cd1.consolgame.ir:2095?type=httpupgrade&security=none&path=/&host=sapogemi.consolegamenet.ir#BE 🇧🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare, Inc. ┇ 188.95.12.226
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&security=tls&mode=multi#BE 🇧🇪 ┇ VLESS-GRPC-TLS - Cloudflare, Inc. ┇ 188.95.12.110
+vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?type=tcp&security=tls&sni=bru-be-01.fromblancwithlove.com#BE 🇧🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 207.211.214.42

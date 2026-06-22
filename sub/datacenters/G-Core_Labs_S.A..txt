@@ -1,12 +1,9 @@
-vless://2980d264-c4f8-2f8b-20b5-9d9d68af0b73@ua.sannest.ir:8443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.234.73.204
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=tcp&security=none&path=/api#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
+vless://336ab676-47c5-4d11-99a2-29441457e94e@85.234.84.206:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#LU 🇱🇺 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.234.84.206
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
+vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?type=ws&security=none&path=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 5.45.184.133
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.163.53
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=tcp&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
-vless://2980d264-c4f8-2f8b-20b5-9d9d68af0b73@ar.sannest.ir:8443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.115.240.240
-ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.105.40
-vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@turkey.shabtaban.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.164
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
-vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?type=ws&security=none&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&host=play.google.com#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 87.120.106.101
-vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145
-vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.77
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.94
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUHhGbjNKN2t1SmpCNzJjSXdweXBB@213.156.152.135:48200#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.135
+vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
 vless://6e25f7b4-efce-425a-af98-3f310623bfa2@109.61.18.75:8044?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.75
+vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145

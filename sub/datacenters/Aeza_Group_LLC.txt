@@ -1,6 +1,8 @@
-vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.92.115
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@193.233.137.60:4111?type=tcp&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.137.60
-vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=tcp&security=none&path=/@Marisa_kristi#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.238.213
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@gr.minoosell.ir:4111?type=grpc&security=reality&sni=www.icloud.com&mode=gun&fp=qq&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&sid=9e0df5878ac2f3c8#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.144.55.242
-vless://0cb903e2-66a6-4e58-9793-1049b0620962@45.152.198.221:47208?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.152.198.221
+vless://6b853c66-a9be-48f7-9f1c-c3d951b3d3bc@files.2365855155.ir:2085?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.34.239
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.102.99
+vless://bb1db352-397c-400b-937e-e12b6af43e23@45.151.102.99:9443?type=grpc&security=reality&sni=maps.apple.com&mode=gun&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.151.102.99
+vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.236.213
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&sni=vindobona.org&flow=xtls-rprx-vision&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@fl.minoosell.ir:4111?type=grpc&security=reality&sni=www.icloud.com&mode=gun&fp=qq&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&sid=9e0df5878ac2f3c8#FI 🇫🇮 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 193.233.136.157

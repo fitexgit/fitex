@@ -1,2 +1,5 @@
-vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
-vless://2980d264-c4f8-2f8b-20b5-9d9d68af0b73@it.sannest.ir:8443?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 77.81.234.225
+vless://75741de0-5bf8-42d1-ae58-8b505c05f17f@ci.sorix-home.ir:2446?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 80.211.27.196
+vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://7796f5bf-7433-4e00-a9fd-6233ccb91df7@italy.lizard2shop.com:2053?type=grpc&security=reality&sni=play.google.com&mode=gun&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Aruba S.p.A. ┇ 95.110.158.39
+vless://545322c5-dba4-4fd4-a8c1-b29db989251e@ci.sorix-home.ir:2446?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 80.211.27.196
+vless://2980d264-c4f8-2f8b-20b5-9d9d68af0b73@it.sannest.ir:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=qq&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&sid=b73cff#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 77.81.234.225
