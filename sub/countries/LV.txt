@@ -1,18 +1,6 @@
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.29.fwqfw783rg2dad.website:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.29
-vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQ2xvdWQgU29mdHdhcmUgLSBGWkNPIFx1MjUwNyA5NS4xODIuODUuMzkiLCJhZGQiOiI5NS4xODIuODUuMzkiLCJwb3J0Ijo0NzE4NCwiaWQiOiIyZDhlODczZi01MjY5LTQxNDQtOWI2MC1iZWVhYjEzYmMwMjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dW5uZWwuYXhvbnNoaWVsZC5pciIsInRscyI6InRscyIsInNuaSI6InR1bm5lbC5heG9uc2hpZWxkLmlyIn0
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?type=tcp&security=none&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 90.156.254.168
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Interhive OU ┇ 217.217.244.131
 ss://YWVzLTI1Ni1nY206REwza3AvYzltdytWY1BCZzlwbkN1Z1FvejlrRlVabHZ0c2toaHFmU3lLST0@95.182.85.39:27934#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.85.39
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Interhive OU ┇ 217.217.244.130
-vless://c4022b99-c2bc-45e4-adea-e9e6a2c015fb@riga.zerodot1.shop:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=zVUzC4TSlAzKmtFEhHtt1fIcWNo0guJFL2kCqV0ChWo&sid=538511#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.117.205
-ss://YWVzLTI1Ni1nY206YzgrcTJXeTJrMGwrUVk2Vm5JTmZtSFdtSjZoZm1oWXJhd09mUThTd1hJTT0@95.182.85.39:27934#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.85.39
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?type=grpc&security=none&flow=xtls-rprx-vision#LV 🇱🇻 ┇ VLESS-GRPC-NTLS - Interhive OU ┇ 217.217.244.131
-vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.80.48
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 217.28.48.29
-vless://1f762bc9-f5a4-4906-9b27-a51dc5c1f870@xn-riga.easyodin.ir:80?type=tcp&security=none&host=play.google.com#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.28.119
-vless://1ee8b6e3-0a43-465a-8050-525df85d9e6c@95.182.85.39:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.85.39
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Interhive OU ┇ 217.217.244.129
-ss://YWVzLTI1Ni1nY206YzgrcTJXeTJrMGwrUVk2Vm5JTmZtSFdtSjZoZm1oWXJhd09mUThTd1hJTT0@95.182.85.39:53192#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.85.39
-vless://3b2bb586-8f7d-46c3-ba92-a355c3628083@lv-1.coinbridge.nl:443?type=tcp&security=none&mode=gun#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 213.21.237.9
-vless://OwLimbow@31.56.117.234:80?type=ws&security=none&path=/ws&host=31.56.117.234#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 31.56.117.234
-vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQ2xvdWQgU29mdHdhcmUgLSBGWkNPIFx1MjUwNyA5NS4xODIuODUuMzkiLCJhZGQiOiI5NS4xODIuODUuMzkiLCJwb3J0Ijo0NzE4NCwiaWQiOiIxZWU4YjZlMy0wYTQzLTQ2NWEtODA1MC01MjVkZjg1ZDllNmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dW5uZWwuYXhvbnNoaWVsZC5pciIsInRscyI6InRscyIsInNuaSI6InR1bm5lbC5heG9uc2hpZWxkLmlyIn0
+vless://1f762bc9-f5a4-4906-9b27-a51dc5c1f870@xn-riga.easyodin.ir:80?type=tcp&security=none&host=play.google.com#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.28.119
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 217.28.48.29

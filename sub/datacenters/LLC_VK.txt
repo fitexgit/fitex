@@ -1,1 +1,4 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 185.130.114.253
+vless://3346b3dd-fd39-4967-8c6f-a2c472bcd7c1@217.16.28.126:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.28.126
+vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@213.219.212.168:443?type=tcp&security=reality&sni=eh.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 213.219.212.168
+vless://144dd2a3-3059-4094-b7da-1901ab2e3033@vkcloud-bm1.futurefast.ru:5443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 5.188.140.142
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.228.221

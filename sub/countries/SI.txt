@@ -1,1 +1,2 @@
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@92.60.74.227:2052?type=tcp&security=none&mode=auto#SI 🇸🇮 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 92.60.74.227
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?type=tcp&security=none#SI 🇸🇮 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 92.53.191.140
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.188.140:80?type=ws&security=none#SI 🇸🇮 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.53.188.140

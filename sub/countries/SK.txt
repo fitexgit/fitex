@@ -1,1 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
+vless://690cff03-0a82-457a-8532-4a83491458fb@sk.synatra.net:29726?type=grpc&security=reality&sni=www.icloud.com&fp=chrome&pbk=7bQWUlp1AXg_iLa9z-p_7U37Ur8KRcqIXPWk927YNFc&sid=3771eb885a#SK 🇸🇰 ┇ VLESS-GRPC-REALITY - VNET a.s. ┇ 86.110.243.162
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&sid=e764f0ea#SK 🇸🇰 ┇ VLESS-TCP-REALITY - Datacamp Limited ┇ 156.146.40.201
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.129.141.188:443?type=ws&security=tls&path=/seller&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 45.129.141.188

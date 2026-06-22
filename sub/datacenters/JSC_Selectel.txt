@@ -1,1 +1,5 @@
-vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 94.26.228.10
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 212.41.10.228
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@87.249.36.136:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 87.249.36.136
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@92.53.74.158:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 92.53.74.158
+vless://0e092ef6-bf12-4271-9479-90ffb3af0f43@31.129.42.129:25447?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 31.129.42.129
+vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@135.106.140.152:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 135.106.140.152
