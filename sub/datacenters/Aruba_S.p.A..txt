@@ -1,6 +1,1 @@
-vless://45d82186-e606-4931-bc61-da7069c99305@217.61.20.83:8086?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.83
-vless://45d82186-e606-4931-bc61-da7069c99305@95.110.158.39:2053?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 95.110.158.39
-vless://45d82186-e606-4931-bc61-da7069c99305@217.61.20.184:2053?type=tcp&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.184
-vless://45d82186-e606-4931-bc61-da7069c99305@185.8.51.20:2053?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.20
-vless://45d82186-e606-4931-bc61-da7069c99305@185.8.51.156:8086?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.156
-vless://b92c607b-45e7-4796-5a78-741b6a6503ea@login.fars-erbost.ir:8084?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 80.211.27.166
+vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
