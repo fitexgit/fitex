@@ -1,2 +1,2 @@
-vless://3346b3dd-fd39-4967-8c6f-a2c472bcd7c1@217.16.28.126:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.28.126
 vless://144dd2a3-3059-4094-b7da-1901ab2e3033@5.188.140.142:5443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 5.188.140.142
+vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?type=tcp&security=reality&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 185.241.195.217
