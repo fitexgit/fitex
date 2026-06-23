@@ -1,7 +1,9 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dUV1M3hRTXhCVEwwUFNNYk9tMERSOUVsRXVSY3ZWM3JhQzlsVmpXUDVuND0@net12.shaygan.site:2095#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Arsan Technology Development Co Ltd ┇ 94.183.214.19
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?type=grpc&security=reality&sni=yandex.ru&mode=gun&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - Inios Oy ┇ 89.125.169.89
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+vless://cac57cbc-bda9-44cf-a501-0a9c0e876bec@main.devilfullspeed.com:2053?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.24
+vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@uae.appcodes.ir:2026?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.149
 vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.153
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?type=tcp&security=reality&sni=yandex.ru&fp=edge&flow=xtls-rprx-vision&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 89.125.169.89
-vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@uae.appcodes.ir:2026?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.149
-vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@212.192.2.89:8443?type=tcp&security=reality&sni=stats.vk-portal.net&fp=firefox&flow=xtls-rprx-vision&pbk=kV4cQVki4HJLwXit22forbLelwy-2VGKwbJfD3RbpCg#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Hostman LTD ┇ 212.192.2.89
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://0601d668-02f1-4b74-9a03-a5515f2c8d96@main.devilfullspeed.com:2053?type=xhttp&security=reality&path=/&sni=play.google.com&host=main.devilfullspeed.com&mode=auto&fp=chrome&pbk=EU7T0zp5gHz8Bk6g2JGCmajFdWCNtS_8_4H60OvMW20&sid=40f05eabec#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.121.24
 vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?type=tcp&security=none&path=/store#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.182
+vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?type=tcp&security=none&path=/ws?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
