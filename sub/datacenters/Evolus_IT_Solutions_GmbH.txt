@@ -1,12 +1,1 @@
-vless://e7d74436-5ea2-42ca-941b-96aa4d7234d5@1234.money-cloud.ru:444?type=grpc&security=reality&sni=web.max.ru&fp=firefox&pbk=8qwYCL6t66oC8KMMftUigCpmLq9TDuPw00G7VEJprlI&sid=8111156789abcdef#GB 🇬🇧 ┇ VLESS-GRPC-REALITY - Evolus IT Solutions GmbH ┇ 193.178.186.225
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaDBUVnc2NEI1N3dEUG9KMlZMc29n@5.230.184.171:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Evolus IT Solutions GmbH ┇ 5.230.184.171
-vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.71.169:8080?type=ws&security=none&path=/api/v3#DE 🇩🇪 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.71.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTN1NkdjZWkwNE55WGJyV0xLYTBN@5.230.184.16:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Evolus IT Solutions GmbH ┇ 5.230.184.16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxVGE2TDAzQkZoSG95QTNwc0w5eHBW@185.207.136.67:443#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Evolus IT Solutions GmbH ┇ 185.207.136.67
-vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.70.205:8080?type=ws&security=none&path=/api/v3#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.70.205
-vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.244.71.168:8080?type=ws&security=none&path=/api/v3#DE 🇩🇪 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.71.168
-vless://66d62031-38e2-43a0-8a92-23b78577df99@91.244.71.168:8080?type=ws&security=none&path=/api/v3#DE 🇩🇪 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.71.168
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@avstr.ardor-cloud.ru:444?type=grpc&security=reality&sni=web.max.ru&fp=edge&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&sid=8614956789abcdef#AT 🇦🇹 ┇ VLESS-GRPC-REALITY - Evolus IT Solutions GmbH ┇ 157.173.25.114
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.244.70.205
-vless://e7d74436-5ea2-42ca-941b-96aa4d7234d5@auuf.money-cloud.ru:444?type=grpc&security=reality&sni=web.max.ru&fp=qq&pbk=tGdyN2uS0XHqDebYka3PJbhkGyaJD7uaPl6Djm0jP30&sid=8622956789abcdef#AT 🇦🇹 ┇ VLESS-GRPC-REALITY - Evolus IT Solutions GmbH ┇ 157.173.29.46
-vless://38279ebe-f1d9-4b41-a97a-0763e42babf2@91.227.33.114:8080?type=ws&security=none&path=/api/v3#AT 🇦🇹 ┇ VLESS-WS-NTLS - Evolus IT Solutions GmbH ┇ 91.227.33.114
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@avstr.ardor-cloud.ru:444?type=grpc&security=reality&sni=web.max.ru&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&sid=8614956789abcdef#AT 🇦🇹 ┇ VLESS-GRPC-REALITY - Evolus IT Solutions GmbH ┇ 157.173.25.114

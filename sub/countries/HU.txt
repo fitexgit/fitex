@@ -1,1 +1,4 @@
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.41.10:443?type=tcp&security=none#HU 🇭🇺 ┇ VLESS-TCP-NTLS - Datacamp Limited ┇ 152.233.41.10
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Magyar Telekom Plc. ┇ 194.71.130.160
+vless://40b33e55-6049-4fac-940e-7b38a3f5f270@217.13.104.133:443?type=tcp&security=reality&sni=eh.vk.com&fp=randomized&flow=xtls-rprx-vision&pbk=ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ&sid=0669a3e6b300d069#HU 🇭🇺 ┇ VLESS-TCP-REALITY - Rackhost Zrt. ┇ 217.13.104.133
+vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?type=tcp&security=reality&sni=travel.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#HU 🇭🇺 ┇ VLESS-TCP-REALITY - Rackhost Zrt. ┇ 217.13.104.154
+vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.128:443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=-cDQPpiRCwOtfQ22cdCd3NkDlqpubdklZXaFGhwUfS8&sid=a20d3ed244c76426#HU 🇭🇺 ┇ VLESS-TCP-REALITY - Rackhost Zrt. ┇ 217.13.104.128
