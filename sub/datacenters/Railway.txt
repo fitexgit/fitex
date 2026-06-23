@@ -1,4 +1,6 @@
+vless://3becb56a-1d9f-77e7-c898-4c1c3b53f360@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/3becb56a-1d9f-77e7-c898-4c1c3b53f360&sni=tmesubgift.up.railway.app&host=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.78
+vless://a3ea555b-4232-4d30-8e05-06b66d5b149f@thomas.proxy.rlwy.net:56975?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=DCF6D84ftXxm8CSwlK1OWOJStT4uPFiHIwEZwrEyjRE&sid=0123456789abcdef#US 🇺🇸 ┇ VLESS-TCP-REALITY - Railway ┇ 66.33.22.225
+vless://3c4ebe9f-8d9c-4275-b422-0a8a1d8b660f@reseau.proxy.rlwy.net:55784?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.22.224
 vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.22.225
-vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?type=tcp&security=none&sni=r-production-260d.up.railway.app#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.33
-vless://95613b74-6387-4e73-94f3-d599feed93a3@66.33.23.33:443?type=tcp&security=none&path=/ws#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.33
-vless://80004025-cea8-d255-5527-3895e4740a95@tmesubgift.up.railway.app:443?type=tcp&security=none&path=/ws/80004025-cea8-d255-5527-3895e4740a95#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?type=httpupgrade&security=tls&path=/hu&sni=r-production-260d.up.railway.app&host=r-production-260d.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - Railway ┇ 66.33.23.33
+vless://899b1131-5827-fc71-8d31-9d78605af533@rvg-production-300c.up.railway.app:443?type=ws&security=tls&path=/ws/899b1131-5827-fc71-8d31-9d78605af533&sni=rvg-production-300c.up.railway.app&host=rvg-production-300c.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.60

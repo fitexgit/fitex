@@ -1,2 +1,5 @@
-vless://7dd1d87a-93fb-47ec-8904-3d98e4d239eb@sanei.ariyant.ir:2087?type=ws&security=tls&path=/&sni=sanei.ariyant.ir&host=sanei.ariyant.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 95.182.114.211
+vless://eeb04922-1715-4604-8d21-c0f13f13452c@109.248.161.167:44025?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 109.248.161.167
+vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?type=tcp&security=reality&sni=images.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 188.130.206.60
+vless://ff56b54d-0bf7-47cf-a9df-ab3e39d16415@185.92.183.34:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.34
+vless://d32973e4-5cf0-4c2b-ae5d-837d02a2205b@xn-riga.easyodin.ir:80?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.28.119
 vless://1f762bc9-f5a4-4906-9b27-a51dc5c1f870@xn-riga.easyodin.ir:80?type=tcp&security=none&host=play.google.com#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.28.119

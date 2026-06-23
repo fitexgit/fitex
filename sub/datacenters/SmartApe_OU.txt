@@ -1,1 +1,2 @@
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@141.133.172.126:443?type=tcp&security=tls#CZ 🇨🇿 ┇ VLESS-TCP-TLS - SmartApe OU ┇ 141.133.172.126
+vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - SmartApe OU ┇ 193.93.194.61
+vless://5aa44447-55e8-4b9c-b20b-4fe96e3398f9@193.93.194.61:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - SmartApe OU ┇ 193.93.194.61
