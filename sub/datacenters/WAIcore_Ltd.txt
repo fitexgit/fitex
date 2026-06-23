@@ -1,3 +1,2 @@
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@95.85.232.195:443?type=tcp&security=none&mode=auto#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 95.85.232.195
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=tcp&security=none&mode=gun#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 95.85.233.181
-vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 95.85.231.0
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 213.176.77.65
+vless://d56897c3-a83d-4572-9b97-25440bb189c5@213.165.56.30:9443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&sid=a1b2c3d4e5f6789a#SA 🇸🇦 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 213.165.56.30
