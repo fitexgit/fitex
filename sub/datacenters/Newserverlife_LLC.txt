@@ -1,4 +1,5 @@
-vless://022af852-49c7-4b5e-a13b-6877bcfe30a3@usa26.clearorbitllc.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.88
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.144.48.187:443?type=tcp&security=reality&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&sid=c0#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 45.144.48.187
-vless://68b2ece8-4125-4b9d-8058-52b042364e97@pl4.guardiansangel.cv:8080?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 91.224.75.253
+vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?type=ws&security=none&path=/stream&host=panel.dibaux.ir#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134
+vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?type=tcp&security=none&path=/stream#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.134
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&sid=e13b512565#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.167
+vless://68b2ece8-4125-4b9d-8058-52b042364e97@pl4.guardiansangel.cv:8080?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 91.224.75.253
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.144.48.187:443?type=tcp&security=reality&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&sid=c0#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 45.144.48.187
