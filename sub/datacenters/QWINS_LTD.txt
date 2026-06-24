@@ -1,2 +1,3 @@
-vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@141.98.6.113:603?type=grpc&security=reality&sni=www.amd.com&mode=gun&fp=chrome&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - QWINS LTD ┇ 141.98.6.113
+vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@95.164.55.194:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - QWINS LTD ┇ 95.164.55.194
+vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 217.9.12.58
 vless://caa3af29-3b04-4099-9772-c64a1b7cca34@103.27.157.161:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#DE 🇩🇪 ┇ VLESS-TCP-REALITY - QWINS LTD ┇ 103.27.157.161

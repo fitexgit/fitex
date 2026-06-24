@@ -1,8 +1,15 @@
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&sid=b5ecd44d#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Akamai Connected Cloud ┇ 172.232.33.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.79.238.129
+vless://95592477-1f70-4375-911f-ba283d4da6a1@speed.dulacloud.store:443?type=tcp&security=none&path=/dula#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 104.64.206.199
+vless://3ebc5946-ce15-4b5c-9038-f022eeafbfc3@speed.dulacloud.store:443?type=tcp&security=none&path=/dula#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 104.64.206.199
+vless://592a0240-9346-4bd9-b787-7a2f12186502@speed.dulacloud.store:443?type=tcp&security=none&path=/dula#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 104.64.206.199
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA0Ljc4Ljk4IiwiYWRkIjoiMTcyLjEwNC43OC45OCIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.162.139.42:7307#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.139.42
-vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMjMzLjE5LjE0MyIsImFkZCI6IjE3Mi4yMzMuMTkuMTQzIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vless://90a874f5-9170-4656-b583-bdcb686270a2@speed.dulacloud.store:443?type=tcp&security=none&path=/dula#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 104.64.206.199
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?type=tcp&security=reality&sni=digg.com&fp=firefox&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&sid=99d38a68#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Akamai Connected Cloud ┇ 172.104.148.48
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.244.165:8090#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.244.165
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.162.139.42:7307#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.139.42
+vless://b04a7ec4-c501-4d9b-b0ba-73354e4fc972@speed.dulacloud.store:443?type=tcp&security=none&path=/dula#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 104.64.206.199
+vless://900606a3-cf07-4680-a589-f81f039e3a85@172.235.175.57:35351?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.175.57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.234.202.34
+vless://aac0853d-f93d-402b-b1d3-159b7f603260@speed.dulacloud.store:443?type=tcp&security=none&path=/dula#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 104.64.206.199
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.244.165:8090#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.244.165
+vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMjMzLjE5LjE0MyIsImFkZCI6IjE3Mi4yMzMuMTkuMTQzIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
