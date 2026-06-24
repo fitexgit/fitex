@@ -1,3 +1,4 @@
 vless://a81aef49-ee1d-47db-a4f9-6aeb100af560@iransello.xmsd.ir:443?type=ws&security=tls&path=/a81aef49-ee1d-47db-a4f9-6aeb100af560&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Cell Service and Communication Company ┇ 2.144.20.144
-vless://e0346ac5-f345-44d9-a969-54378934e49f@z9.asamping.ir:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.28
-vless://4efd4877-20c6-4219-86b6-6e3321373e1d@2.144.7.226:40443?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.7.226
+vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.229
+vless://4efd4877-20c6-4219-86b6-6e3321373e1d@2.144.7.226:40443?type=tcp&security=tls&path=/?ed=2560/v2ray&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.7.226
+vless://e0346ac5-f345-44d9-a969-54378934e49f@z9.asamping.ir:2052?type=ws&security=none&path=/&host=z5.asamping.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.28
