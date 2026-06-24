@@ -1,2 +1,3 @@
-vless://796c7a6d-923e-4500-a65d-932d23c2ec31@s1.gmax12.ir:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52
 vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://45d82186-e606-4931-bc61-da7069c99305@185.8.51.20:2053?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.20
+vless://796c7a6d-923e-4500-a65d-932d23c2ec31@s1.gmax12.ir:42542?type=tcp&security=none&path=/&host=play.google.com#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52
