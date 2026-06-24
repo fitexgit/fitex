@@ -1,2 +1,5 @@
-vless://c2d366f2-cd7f-4a89-942a-e73a3a58e52c@31.56.179.60:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.60
-vless://4621804d-04ea-40c7-912f-c89d2d6624c8@31.56.27.168:80?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.27.168
+vless://948eb3fc-e347-4994-be02-05e55131b683@46.8.230.114:2086?type=tcp&security=none&path=/#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.230.114
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 94.183.234.41
+vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.250.225
+vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.238.55
+vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129

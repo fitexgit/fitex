@@ -1,6 +1,5 @@
-vless://80004025-cea8-d255-5527-3895e4740a95@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/80004025-cea8-d255-5527-3895e4740a95&sni=tmesubgift.up.railway.app&host=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.78
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?type=ws&security=tls&path=/ws&sni=railway-production-b185.up.railway.app&host=railway-production-b185.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.98
-vless://3c4ebe9f-8d9c-4275-b422-0a8a1d8b660f@reseau.proxy.rlwy.net:55784?type=xhttp&security=none&path=/api&mode=auto#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Railway ┇ 66.33.22.224
-vless://4bb063ef-12db-26d5-57c4-0af616c5fb87@tmesubgift.up.railway.app:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
-vless://17d21ae6-4fb9-cc7d-757a-b11fb2ecc622@66.33.23.33:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.33
-vless://06795288-3b02-0c10-9b72-f26b7bdcd82e@66.33.23.63:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.63
+vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5&sni=tmesubgift.up.railway.app&host=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.78
+vless://68457a88-7651-4890-95e8-c63cca4cf1dd@66.33.23.33:443?type=tcp&security=none&path=/ws#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.23.33
+vless://3e488cf9-a685-2997-0b39-3950bf98bcea@tmesubgift.up.railway.app:443?type=tcp&security=none&path=/ws/3e488cf9-a685-2997-0b39-3950bf98bcea#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
+vless://68457a88-7651-4890-95e8-c63cca4cf1dd@66.33.22.9:443?type=tcp&security=none&path=/ws#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.22.9
+vless://17d21ae6-4fb9-cc7d-757a-b11fb2ecc622@tmesubgift.up.railway.app:443?type=ws&security=tls&path=/ws/17d21ae6-4fb9-cc7d-757a-b11fb2ecc622&sni=tmesubgift.up.railway.app&host=tmesubgift.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.78
