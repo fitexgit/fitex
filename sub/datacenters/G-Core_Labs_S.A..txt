@@ -1,4 +1,8 @@
-vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.153
-vless://d6ef367c-4b0f-44ec-a8c4-8c5947ec747b@re1.wantedhonor.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=XU_UcD815BdmBJPoXIjCo-jBWaWDzz909WbNsxX3ESk&sid=171532396a322e32#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 82.158.120.153
-vless://7a9a3dc5-2278-4f3f-911b-69fe86dd431d@tr2.ips.gmax12.ir:42542?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.113
+vless://7a9a3dc5-2278-4f3f-911b-69fe86dd431d@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.132
+vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.101
+vless://b4107ac8-32aa-4680-89f2-a796a9229c7e@tr3.ips.gmax12.ir:42542?type=tcp&security=none&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.78
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.171
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaVcwRDRRQU5YRjI1TDVCRGU2d1dPZWxnMFhCVDM1WA@5.189.203.197:2055#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.189.203.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:810#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 95.85.90.181
+vless://d6ef367c-4b0f-44ec-a8c4-8c5947ec747b@re1.wantedhonor.ir:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=XU_UcD815BdmBJPoXIjCo-jBWaWDzz909WbNsxX3ESk&sid=171532396a322e32#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 82.158.120.153
+vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?type=xhttp&security=reality&path=/&sni=www.yahoo.com&host=brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site&mode=auto&fp=chrome&pbk=bm1X5R9OZK5AhcDhrn7j14rvTualxKopRR3lp065yWI&sid=5a8dba4b#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - G-Core Labs S.A. ┇ 217.195.200.153
