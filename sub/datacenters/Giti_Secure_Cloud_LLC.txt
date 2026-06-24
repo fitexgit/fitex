@@ -1,6 +1,4 @@
-vless://12db7fe7-d705-4b6e-ab30-7a758e0bcd3f@java.cdnforge.top:8080?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.162.107
-vless://0fb86db2-a2bd-44a6-03fe-7b2cd4d1f367@s2.zynavo.ir:2087?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 87.107.194.227
-vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Giti Secure Cloud LLC ┇ 94.183.162.131
+vless://12db7fe7-d705-4b6e-ab30-7a758e0bcd3f@java.cdnforge.top:8080?type=xhttp&security=reality&path=/&sni=Zarebin.ir&mode=auto&fp=chrome&pbk=uJsZX-if1IP9EJsNfq2wnTSAFCvnFawwMW6ZdoXfvQE&sid=8a2e23bd40418b7e#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - Giti Secure Cloud LLC ┇ 94.183.162.107
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 212.80.10.215
-vless://5e9ef304-567a-4226-fa8c-3d2e007b564f@s2.zynavo.ir:2087?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 87.107.194.227
-vless://b4d419f2-d356-4f80-3f03-f88907cfce3c@s1.zynavo.ir:2087?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 87.107.194.226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Giti Secure Cloud LLC ┇ 46.38.143.11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cFQ1OWVicjN6dERRQ3FI@bfqji.packetnet.de:22807#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Giti Secure Cloud LLC ┇ 87.107.192.118

@@ -1,10 +1,1 @@
-vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 2.59.80.65
-vless://c65e5625-fdb4-44f6-8b83-3734123310a0@2.59.80.65:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 2.59.80.65
-vless://197f6a70-559c-4fad-91d5-e532010abd76@176.109.85.115:5555?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 176.109.85.115
-vless://71b03803-5dfe-4dac-8406-a06e94b1bd70@176.109.94.202:9443?type=ws&security=tls&path=/ws&sni=mms-2tets.hysteria.ltd&host=mms-2tets.hysteria.ltd&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - MTS PJSC ┇ 176.109.94.202
-vless://197f6a70-559c-4fad-91d5-e532010abd76@176.109.85.114:5555?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 176.109.85.114
-vless://ae48d892-dd08-4317-9402-2fc38db400fc@176.109.94.199:443?type=tcp&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=q-MQ5ED1cqC28IdlV8rNg6Ya2yONdCJwecMiFI3o2ic&sid=8a282472fee64b17#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 176.109.94.199
-vless://197f6a70-559c-4fad-91d5-e532010abd76@top1032164794.mwscdn.ru:443?type=xhttp&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 89.169.90.10
-vless://197f6a70-559c-4fad-91d5-e532010abd76@top2900050754.mwscdn.ru:443?type=xhttp&security=tls&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 89.169.90.11
-vless://e2d92c0f-2cf9-4b04-8ae1-3b244188cda4@176.109.88.218:443?type=grpc&security=tls&sni=95.85.246.16.speed-storage.ru&fp=edge#RU 🇷🇺 ┇ VLESS-GRPC-TLS - MTS PJSC ┇ 176.109.88.218
-vless://124d62b5-8763-41eb-8762-dc75269698d1@176.109.88.218:443?type=grpc&security=tls&sni=95.85.246.16.speed-storage.ru&fp=edge#RU 🇷🇺 ┇ VLESS-GRPC-TLS - MTS PJSC ┇ 176.109.88.218
+vless://5f7c3b8f-8abf-40a9-b9ac-8617d9500487@176.109.85.65:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 176.109.85.65

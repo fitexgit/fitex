@@ -1,8 +1,7 @@
-vless://61f57d15-1d08-4515-8667-96bbf75a9ee1@fr1-global.mikro-host.com:443?type=tcp&security=none&path=/assets#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.6.97
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?type=tcp&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.43.75.185
-vless://61192e7a-f3f6-4edd-87db-c8f170ce266a@de.appcodes.ir:2026?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 153.76.112.92
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&sni=fry2.brocollisuper.click#FR 🇫🇷 ┇ VLESS-GRPC-TLS - YottaSrc ┇ 152.89.253.136
-vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.199
-vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@fr.avenpulse.ir:2087?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.216.226
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?type=grpc&security=tls&fp=firefox#GB 🇬🇧 ┇ VLESS-GRPC-TLS - YottaSrc ┇ 107.181.134.201
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry1.brocollisuper.click:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.216.50
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?type=grpc&security=tls&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-TLS - YottaSrc ┇ 45.43.75.185
+vless://a8c42091-2974-47e0-94f0-c69fb6b4c9c4@167.104.219.43:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 167.104.219.43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFkzQmRKbXBtV2R5OVJKbWd4ZmFB@217.179.5.162:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - YottaSrc ┇ 217.179.5.162
+vless://e2510a9d-4980-4fd8-aed5-0f4d55663317@ipx5.reallyclody.ir:2026?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 152.89.253.128
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb4.oneokapp.com:443?type=grpc&security=tls#GB 🇬🇧 ┇ VLESS-GRPC-TLS - YottaSrc ┇ 206.245.166.152
+vless://61192e7a-f3f6-4edd-87db-c8f170ce266a@de.appcodes.ir:2026?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 153.76.112.92
