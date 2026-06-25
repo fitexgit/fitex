@@ -1,26 +1,16 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.21
-vless://3461131f-6db9-4c8c-b663-fdcf2e6f4619@57.131.18.123:13355?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.131.18.123
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@italy.lizard2shop.com:2053?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 95.110.158.39
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.164.43
-vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.165.172
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.174
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Vladislav Nitsenko ┇ 31.76.113.30
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.249
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.22:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Vladislav Nitsenko ┇ 31.76.113.22
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.167.174
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.164.110
+vless://796c7a6d-923e-4500-a65d-932d23c2ec31@s1.gmax12.ir:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52
+vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.22:443?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Vladislav Nitsenko ┇ 31.76.113.22
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.131.32.191
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 103.241.66.76
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.190
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Vladislav Nitsenko ┇ 31.76.113.51
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.110
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.164.167
-vless://d7d95e1b-0c38-4553-82e4-6002f472fcd5@57.131.18.123:13355?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.131.18.123
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDIxNy4xMzguMTk3LjE3MSIsImFkZCI6IjIxNy4xMzguMTk3LjE3MSIsInBvcnQiOjQ0MywiaWQiOiI0MzVjOTc4ZS0yZjQ4LTQxOTQtOGQwNC0zOGNjNzlhMjQ0MjEiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.166.76
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.164.129
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyA1Ny4xMzEuMzguMTUwIiwiYWRkIjoiaXQtZnVsbC5wcml2YXRlaXAubmV0IiwicG9ydCI6NDQzLCJpZCI6ImFkZjBlNDliLTM2YjMtNDFmYS1iMmRmLTI5NzdjMzVlMTAyMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL1JBQ0VWUE4iLCJ0bHMiOiJ0bHMifQ
-vless://a347ce3f-0052-434f-bd42-31355ff1e700@57.131.18.123:13355?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 57.131.18.123
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.48:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.48
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Fastly, Inc. ┇ 151.101.241.151
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.21
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.190
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Vladislav Nitsenko ┇ 31.76.113.25
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDIxNy4xMzguMTk3LjE3MSIsImFkZCI6IjIxNy4xMzguMTk3LjE3MSIsInBvcnQiOjQ0MywiaWQiOiI0MzVjOTc4ZS0yZjQ4LTQxOTQtOGQwNC0zOGNjNzlhMjQ0MjEiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.164.167
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.129
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 204.216.216.23
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.164.117
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.48:8880?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Scaleway SAS ┇ 151.115.167.48
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Vladislav Nitsenko ┇ 31.76.113.51

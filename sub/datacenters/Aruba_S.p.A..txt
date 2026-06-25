@@ -1,8 +1,2 @@
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@fr.eorqen.ir:8086?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.156
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@italy.lizard2shop.com:2053?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 95.110.158.39
-vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
-vless://82fd60c0-f470-4102-a80c-6817727e161b@eng.wizardx1.com:8085?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.201
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@uk.eorqen.ir:8086?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.83
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@185.8.51.20:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.20
-vless://82fd60c0-f470-4102-a80c-6817727e161b@eng.wizardx1.com:2040?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.201
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@uk2.eorqen.ir:2053?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.184
+vless://796c7a6d-923e-4500-a65d-932d23c2ec31@s1.gmax12.ir:42542?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.37.52
+vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106

@@ -1,8 +1,9 @@
-vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@turkey.shabtaban.ir:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.164
-vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@tr2.avenpulse.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.173
+vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?type=tcp&security=none&path=/telegram?ed=2048#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.124.29
+vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?type=tcp&security=none&path=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.145.145
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.163.53
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?type=tcp&security=none&host=play.google.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.101
+ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.105.40
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.101
-vless://08c2dbaa-aebc-45c3-aca9-eb6656d70fbc@5.252.26.134:719?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.134
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=tcp&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
+hysteria2://5U7LBgpLNj@87.120.106.36:443?insecure=0#TR 🇹🇷 ┇ HYSTERIA2-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.36
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=tcp&security=none&path=/api#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
-vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@tr1.avenpulse.ir:2084?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.173
