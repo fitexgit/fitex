@@ -1,3 +1,4 @@
-vless://26a380f1-0338-4085-bd61-de944e99304f@37.49.224.93:443?type=tcp&security=reality&sni=dev.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a#EE 🇪🇪 ┇ VLESS-TCP-REALITY - PUSHPKT OU ┇ 37.49.224.93
-vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 37.49.224.93
+vless://572979b2-a664-4916-a5d8-d1c8a10c0de4@37.49.224.32:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 37.49.224.32
+vless://2989973f-817d-4eaf-b9d3-3be2505fa2ab@37.49.224.32:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 37.49.224.32
+vless://26a380f1-0338-4085-bd61-de944e99304f@37.49.224.93:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 37.49.224.93
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?type=tcp&security=reality&sni=dev.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a#EE 🇪🇪 ┇ VLESS-TCP-REALITY - PUSHPKT OU ┇ 37.49.224.32
