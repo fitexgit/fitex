@@ -1,8 +1,8 @@
-vless://cb25df71-caec-4405-9264-b1883735898d@104.252.53.31:2056?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=aEvw7E3x1-LDbMmKrNreYWbwLQ8tmTLGJqs0RjObTjo&sid=bfa6c4b88116b8#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.252.53.31
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194
-vless://9efc40f5-b10b-497a-96ed-cd97944d21d7@104.252.53.91:433?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.91
-vless://cb25df71-caec-4405-9264-b1883735898d@104.252.53.31:2053?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.31
 vless://eea3225a-8796-402e-aecd-ac00a36e24e4@ltv.erisrtg.ir:2083?type=grpc&security=none&mode=gun#LV 🇱🇻 ┇ VLESS-GRPC-NTLS - Cloud Software - FZCO ┇ 45.38.37.184
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 217.28.48.29
+vless://9efc40f5-b10b-497a-96ed-cd97944d21d7@104.252.53.91:433?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.91
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 37.233.82.140
 vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1IVFRQVVBHUkFERS1OVExTIC0gQ2xvdWQgU29mdHdhcmUgLSBGWkNPIFx1MjUwNyA0NS4zOS44NC42NSIsImFkZCI6IjQ1LjM5Ljg0LjY1IiwicG9ydCI6MTYwNjMsImlkIjoiYzdkY2M2YTgtMDRhZi00Y2RmLWE0NGYtNGQ0NzNkZWRiNTY1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Interhive OU ┇ 217.217.244.130
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Interhive OU ┇ 217.217.244.131
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?type=httpupgrade&security=none&path=/#LV 🇱🇻 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 45.38.37.4
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 217.28.48.29
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194

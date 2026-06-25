@@ -1,6 +1,2 @@
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - HostPapa ┇ 104.168.30.161
-vless://54a0bf6d-f2b5-4b2a-942c-798fb129527e@96.47.230.5:41499?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HostPapa ┇ 96.47.230.5
-vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:63263?type=tcp&security=reality&sni=secure.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#US 🇺🇸 ┇ VLESS-TCP-REALITY - HostPapa ┇ 96.47.230.5
-vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@96.47.230.5:11537?type=tcp&security=reality&sni=my.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#US 🇺🇸 ┇ VLESS-TCP-REALITY - HostPapa ┇ 96.47.230.5
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdFBhcGEgXHUyNTA3IDE5OC4yMy4xNzQuMTY4IiwiYWRkIjoiMTk4LjIzLjE3NC4xNjgiLCJwb3J0IjoyMDA4NiwiaWQiOiIyYjM2MzA0Yi00Zjg4LTRmZjUtOTAzMy1mNGQ1N2RiYjU0OTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdFBhcGEgXHUyNTA3IDEwNy4xNzMuMjcuMjE5IiwiYWRkIjoiMTA3LjE3My4yNy4yMTkiLCJwb3J0Ijo2NjY2LCJpZCI6ImYwYTJmYmU1LTI5YmYtNDY4Yy1kZGMxLWI1MjQ1NTJkMWEyMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIveW91dHViZSJ9
+vless://54a0bf6d-f2b5-4b2a-942c-798fb129527e@96.47.230.5:41499?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HostPapa ┇ 96.47.230.5

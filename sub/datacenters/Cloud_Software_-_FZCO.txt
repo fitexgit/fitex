@@ -1,6 +1,4 @@
-vless://cb25df71-caec-4405-9264-b1883735898d@104.252.53.31:2056?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=aEvw7E3x1-LDbMmKrNreYWbwLQ8tmTLGJqs0RjObTjo&sid=bfa6c4b88116b8#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.252.53.31
-vless://0fd3c238-8313-48f7-9fba-66a7aaf4ffba@us-1.arvancdn.dpdns.org:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.60.239
-vless://9efc40f5-b10b-497a-96ed-cd97944d21d7@104.252.53.91:433?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.91
-vless://cb25df71-caec-4405-9264-b1883735898d@104.252.53.31:2053?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.31
 vless://eea3225a-8796-402e-aecd-ac00a36e24e4@ltv.erisrtg.ir:2083?type=grpc&security=none&mode=gun#LV 🇱🇻 ┇ VLESS-GRPC-NTLS - Cloud Software - FZCO ┇ 45.38.37.184
+vless://9efc40f5-b10b-497a-96ed-cd97944d21d7@104.252.53.91:433?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.91
 vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1IVFRQVVBHUkFERS1OVExTIC0gQ2xvdWQgU29mdHdhcmUgLSBGWkNPIFx1MjUwNyA0NS4zOS44NC42NSIsImFkZCI6IjQ1LjM5Ljg0LjY1IiwicG9ydCI6MTYwNjMsImlkIjoiYzdkY2M2YTgtMDRhZi00Y2RmLWE0NGYtNGQ0NzNkZWRiNTY1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?type=httpupgrade&security=none&path=/#LV 🇱🇻 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 45.38.37.4
