@@ -1,2 +1,1 @@
-vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?type=grpc&security=tls&sni=free.ziroxcompany.ir&mode=gun&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
-vless://b490830e-b6a4-d468-ad15-6d25d801c462@104.194.144.187:443?type=tcp&security=none&path=/netlivpn#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.144.187
+vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?type=tcp&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
