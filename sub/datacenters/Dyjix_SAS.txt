@@ -1,3 +1,2 @@
-vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@185.171.202.108:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Dyjix SAS ┇ 185.171.202.108
-vless://67b004ae-50a6-40f4-ac17-17336e5de35e@185.171.202.201:443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=XP021Gnd6DIRMV_-JmMw50SPWQRWRcLrke5Uq_-OMk8&sid=e3170c535dcdd117#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 185.171.202.201
 vless://8b67b0b6-ac30-4d9f-8cf3-d7b9f4295b7a@argovpn.imanaghapour.ir:19326?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=z9FqCc1BwCVF0PRFlaW3JrADk2ImO9a4QmbDeYk4qx0&sid=a874661b#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 185.171.202.81
+vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@185.171.202.108:8443?type=tcp&security=reality&sni=play.google.com&host=play.google.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Dyjix SAS ┇ 185.171.202.108
