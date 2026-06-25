@@ -1,2 +1,1 @@
-vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?type=tcp&security=none&path=/ws/91679c30-bc1f-35e4-2cb2-ff0358e3d823#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.78
-vless://2e6d8e31-7261-4d5e-812d-eaffedeeec21@thomas.proxy.rlwy.net:31164?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=IT31PglBQpZdChah8ON53r7i-CzrylRjf41LY7-xHz0&sid=0123456789abcdef#US 🇺🇸 ┇ VLESS-TCP-REALITY - Railway ┇ 66.33.22.225
+vless://95613b74-6387-4e73-94f3-d599feed93a3@66.33.23.33:443?type=ws&security=tls&path=/ws&sni=zodproxy.qzz.io&host=zodproxy.qzz.io&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 66.33.23.33

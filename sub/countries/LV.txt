@@ -1,5 +1,6 @@
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Interhive OU ┇ 217.217.244.131
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?type=xhttp&security=reality&sni=online.1c.ru&mode=auto&fp=chrome&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&sid=cbe4d3770c#LV 🇱🇻 ┇ VLESS-XHTTP-REALITY - RETN Limited ┇ 90.156.254.168
+vless://821100fa-b819-4614-83ee-996c4cb142cb@186.246.19.214:40443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 186.246.19.214
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 217.28.48.29
 vless://9efc40f5-b10b-497a-96ed-cd97944d21d7@104.252.53.91:433?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.91
-vless://cb25df71-caec-4405-9264-b1883735898d@104.252.53.31:2053?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.31
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?type=httpupgrade&security=none&path=/#LV 🇱🇻 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 45.38.37.4
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Interhive OU ┇ 217.217.244.131
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194
