@@ -1,1 +1,11 @@
-vless://7df4501e-6c11-4fc9-9656-832a5fd21639@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.34
+vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?type=tcp&security=tls&sni=assets.trorays.com&fp=chrome&flow=xtls-rprx-vision#AE 🇦🇪 ┇ VLESS-TCP-TLS - Baxet Group Inc. ┇ 89.125.147.227
+vless://7df4501e-6c11-4fc9-9656-832a5fd21639@i.nonpath.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.187
+vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?type=tcp&security=none&path=?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.100
+vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?type=tcp&security=none&path=?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.193.172:443?type=tcp&security=reality&sni=rezerv3.yunus.guru&fp=firefox&flow=xtls-rprx-vision&pbk=Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4&sid=b28896ec1669a951#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Servers Tech Fzco ┇ 78.40.193.172
+vless://78e6619e-e82a-cd8d-b482-0973d8498305@94.140.0.100:8880?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@89.125.20.100:443?type=tcp&security=reality&sni=auto.malina24.xyz&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd0000#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Netly LLC ┇ 89.125.20.100
+vless://3e8751df-e180-43e6-83eb-c00a34e17855@solar.appleseraj.ir:2083?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
