@@ -1,11 +1,4 @@
-vless://9c9d264b-56cc-44ae-8f28-36bbbe3a2725@176.109.108.175:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@176.108.243.74:770?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.243.74
-vless://0b6d2a48-c1a2-418d-95de-c80b0bcc211e@176.109.108.175:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@176.108.243.74:220?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.243.74
-vless://1c35c084-6acc-4645-8fc2-f9bd027a7d81@176.109.108.175:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://0b6d2a48-c1a2-418d-95de-c80b0bcc211e@176.109.108.175:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://1c35c084-6acc-4645-8fc2-f9bd027a7d81@176.109.108.175:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://4256cc0e-469e-4769-9d17-305e4ebca1bf@176.109.108.175:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@176.108.243.74:230?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.243.74
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 176.108.242.76
-vless://4256cc0e-469e-4769-9d17-305e4ebca1bf@176.109.108.175:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@176.108.251.45:9893?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.251.45
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Cloud.ru ┇ 85.208.85.235
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@46.253.132.55:9892?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Cloud.ru ┇ 46.253.132.55
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.137.6:9887?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Cloud.ru ┇ 82.202.137.6

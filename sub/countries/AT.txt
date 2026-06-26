@@ -1,3 +1,2 @@
-vless://84b75855-a2e0-45c1-9721-8e0ae3f1ac7f@artishbod.consolgame.ir:2083?type=tcp&security=none&mode=gun#AT 🇦🇹 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 185.230.217.17
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.73.131.154
-vless://84b75855-a2e0-45c1-9721-8e0ae3f1ac7f@rohankoiz.consolgame.ir:1186?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - IONOS SE ┇ 185.230.217.17
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&sni=vindobona.org&flow=xtls-rprx-vision&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
+vless://1dd5f2be-f124-4f35-9239-8abc042829c2@77.110.110.81:14304?type=grpc&security=reality&sni=www.apple.com&fp=qq&pbk=JXTa4KFDYIaOu9zwHosqTFvERbnxRW6qpo4dUJRIQkA&sid=503b0853f3b2460d#AT 🇦🇹 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 77.110.110.81
