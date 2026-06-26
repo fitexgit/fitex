@@ -1,8 +1,3 @@
-vless://b27c5f96-467b-4620-8f72-96314c46e98b@77.110.109.178:9443?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.109.178
-vless://d2b91a86-f378-4ea3-b627-a3116afcc075@83.147.255.121:443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - NetCrafters OU ┇ 83.147.255.121
-vless://21b36227-9b6c-452b-a2cc-8129e78d5faf@83.147.255.103:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 83.147.255.103
-vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&sid=390ec8#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 77.110.122.102
-vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.209:37368?type=wsfreenettirThe&security=none&path=/meet&host=play.google.com#AE 🇦🇪 ┇ VLESS-WSFREENETTIRTHE-NTLS - NetCrafters OU ┇ 185.173.144.209
-vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?type=ws&security=none&path=/meet&host=play.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 185.173.144.209
 vless://ce967499-9b55-480f-9d8e-6f2d37bba843@83.147.253.245:4111?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 83.147.253.245
-vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 62.60.251.131
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=ws&security=none&path=/pourya#US 🇺🇸 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 77.110.127.191
+vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?type=tcp&security=none&path=/meet#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.209
