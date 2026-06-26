@@ -1,6 +1,1 @@
-vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#US 🇺🇸 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 167.104.223.68
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#DE 🇩🇪 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 103.109.234.138
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.137:443?type=tcp&security=tls&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - WEYRO LTD ┇ 195.184.247.137
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.86.159.186:7443?type=tcp&security=reality&sni=ya.ru&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#GB 🇬🇧 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 45.86.159.186
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.178:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#NL 🇳🇱 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 195.184.247.178
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.170:443?type=tcp&security=reality&sni=google.com&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#NL 🇳🇱 ┇ VLESS-TCP-REALITY - WEYRO LTD ┇ 195.184.247.170
+vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - WEYRO LTD ┇ 103.109.234.138
