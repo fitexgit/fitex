@@ -1,11 +1,8 @@
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.228.57
-vless://c28f3222-4f01-493c-a38f-0f1b34e62ea3@fire.jykvpn.com:2048?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.108.23.92
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
-vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=tcp&security=none&path=/@Marisa_kristi#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.238.213
 vless://f2200cec-858a-47c3-8a29-002902319f42@pinto5.wubbalubbadubdubb.ir:1011?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 176.124.220.29
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@nl.fast-cone.com:443?type=tcp&security=reality&sni=nl.fast-cone.com&flow=xtls-rprx-vision&pbk=JZ-JMdenLtpZb6J991KB0-3T92rACohEpDtqt2M--hs&sid=17#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.176.64.235
 vless://0cb903e2-66a6-4e58-9793-1049b0620962@45.152.198.221:47208?type=grpc&security=reality&sni=yahoo.com&mode=gun&fp=chrome&pbk=d8sNLxNRUvDCPQuMHs73mTLnMlLQCLhfR4ZsJA6reDI&sid=06531bb7f2#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.152.198.221
-vless://a22f89e7-ad6c-4d88-90b1-8db19dd8f41e@files.2365855155.ir:2085?type=tcp&security=none&path=/join-telegram-xFLANi-xFLANi-xFLANi-xFLANi-xFLANi-xFLANi#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.34.239
+vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=tcp&security=none&path=/@Marisa_kristi#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.238.213
+vless://c28f3222-4f01-493c-a38f-0f1b34e62ea3@fire.jykvpn.com:2048?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.108.23.92
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://31a7c9a2-0f42-4f5f-ae32-29b165f48ac3@213.165.42.219:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.42.219
 vless://f2200cec-858a-47c3-8a29-002902319f42@pinto1.wubbalubbadubdubb.ir:1011?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.144.55.242
 vless://f2200cec-858a-47c3-8a29-002902319f42@pinto3.wubbalubbadubdubb.ir:1011?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.221.153.200
