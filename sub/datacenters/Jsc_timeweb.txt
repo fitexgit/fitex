@@ -1,4 +1,2 @@
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.121.174
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.32.211:443?type=tcp&security=reality&sni=sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.32.211
-vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.245.170
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQzZYR1BtQUdKaFZSN1prbXd2QjZR@5.42.114.179:1080#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 5.42.114.179
+vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.245.170
+vless://6e6af208-ed09-4051-8a18-e44f7bef2a55@94.228.125.193:52649?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 94.228.125.193

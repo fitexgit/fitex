@@ -1,5 +1,6 @@
-vless://cb4e1998-3291-453a-903a-3f493e442e1d@94.140.0.100:2087?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
+vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1008?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 20.74.213.64
+vless://2b31d20b-0b8f-4ca8-aa7e-e9a184440ce2@im.storyhost.ir:13517?type=ws&security=tls&path=/&sni=tr.irhost.top&host=speedtest.net&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Arsan Technology Development Co Ltd ┇ 94.183.214.109
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?type=tcp&security=none&path=/meet#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.209
-vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?type=ws&security=tls&path=/ws?ed=2048&host=mozconfigs.mohammadaz2sub.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.255
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObFY1eHNrX0Nlb01NMmpRdVoxZEdB@20.74.213.64:1003#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.74.213.64
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgMjAuNzQuMjEzLjY0IiwiYWRkIjoiMjAuNzQuMjEzLjY0IiwicG9ydCI6MTAwMiwiaWQiOiI0NDBjZGRmOC1iZmRjLTQ5MzYtYjg0Mi0zODFkNTcyYTEyYWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1001?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 20.74.213.64
