@@ -1,2 +1,2 @@
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.148.20.44:9893?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 82.148.20.44
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@94.26.249.65:9830?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 94.26.249.65
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.148.20.44:9893?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 82.148.20.44
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@94.26.249.65:9830?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 94.26.249.65

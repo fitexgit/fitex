@@ -1,9 +1,8 @@
-vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.212:38334?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 185.173.144.212
-vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Giti Secure Cloud LLC ┇ 94.183.162.131
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
-vless://9658b411-0158-450e-b172-c6fdfa6426b0@main.devilfullspeed.com:2053?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.24
-vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1008?type=grpc&security=reality&sni=www.apple.com&mode=gun&fp=chrome&pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&sid=cc0fe3bfea219901#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - Microsoft Corporation ┇ 20.74.213.64
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?type=ws&security=none&path=/meet&host=play.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetCrafters OU ┇ 185.173.144.209
 vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?type=tcp&security=none&path=?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
-vless://78e6619e-e82a-cd8d-b482-0973d8498305@94.140.0.100:8880?type=tcp&security=none&path=/sync#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.153
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://04f7e317-d9d5-444a-b563-0e83df862282@o6.lunaboutiqu.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Zenlayer Inc ┇ 85.237.211.79
+vless://a0cd0229-6f24-4145-be18-f99c0c0e4a57@o6.lunaboutiqu.ir:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Zenlayer Inc ┇ 85.237.211.79
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObFY1eHNrX0Nlb01NMmpRdVoxZEdB@20.74.213.64:1003#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.74.213.64
