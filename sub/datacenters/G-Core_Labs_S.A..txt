@@ -1,6 +1,5 @@
-vless://336ab676-47c5-4d11-99a2-29441457e94e@5.252.26.69:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 5.252.26.69
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=tcp&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaVcwRDRRQU5YRjI1TDVCRGU2d1dPZWxnMFhCVDM1WA@5.189.203.197:2055#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.189.203.197
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=tcp&security=none&path=/api#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
 vless://d019957b-e934-48f0-a432-8b79e610c0fc@31.184.244.150:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 31.184.244.150
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=tcp&security=none&path=/ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227
+vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@93.114.98.241:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.241
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=tcp&security=none&path=/api#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.69.227

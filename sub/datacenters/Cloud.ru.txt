@@ -1,4 +1,4 @@
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@176.108.251.45:9893?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.108.251.45
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Cloud.ru ┇ 85.208.85.235
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@46.253.132.55:9892?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Cloud.ru ┇ 46.253.132.55
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.137.6:9887?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Cloud.ru ┇ 82.202.137.6
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.137.6:9887?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Cloud.ru ┇ 82.202.137.6
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@46.253.132.55:9892?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Cloud.ru ┇ 46.253.132.55
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Cloud.ru ┇ 85.208.85.235
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@176.108.251.45:9893?type=tcp&security=reality&sni=io.ozone.ru&fp=chrome&flow=xtls-rprx-vision&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 176.108.251.45
