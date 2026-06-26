@@ -1,3 +1,5 @@
 vless://45d82186-e606-4931-bc61-da7069c99305@185.8.51.156:8086?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.156
-vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
-vless://45d82186-e606-4931-bc61-da7069c99305@95.110.158.39:2053?type=grpc&security=reality&sni=play.google.com&mode=gun&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Aruba S.p.A. ┇ 95.110.158.39
+vless://45d82186-e606-4931-bc61-da7069c99305@217.61.20.83:8086?type=tcp&security=none&host=speed.cloudflare.com#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.83
+vless://eae0197b-8050-40e0-8c85-908e4c5340be@95.110.157.117:2003?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 95.110.157.117
+vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://77f1f68f-3629-4d93-9014-f18baf20b943@eng.wizardx1.com:8085?type=tcp&security=none&path=/&host=telewebion.comfreenettirUnited#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.201

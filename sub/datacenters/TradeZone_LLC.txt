@@ -1,4 +1,1 @@
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:8443?type=xhttp&security=none&path=/&mode=auto#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - TradeZone LLC ┇ 181.215.110.9
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:443?type=tcp&security=reality&sni=tgru.in&fp=chrome&flow=xtls-rprx-vision&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&sid=3287e9988ca1e611#NL 🇳🇱 ┇ VLESS-TCP-REALITY - TradeZone LLC ┇ 181.215.110.9
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?type=tcp&security=reality&sni=tgru.in&fp=chrome&flow=xtls-rprx-vision&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&sid=cd85b2abe0feed49#TR 🇹🇷 ┇ VLESS-TCP-REALITY - TradeZone LLC ┇ 188.132.192.30
-vless://251fdebe-7fd6-498d-851a-d391ee7cd867@shabiestar.superip.ir:12525?type=ws&security=none&host=speedtest.net#TR 🇹🇷 ┇ VLESS-WS-NTLS - TradeZone LLC ┇ 193.228.1.100
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - TradeZone LLC ┇ 181.215.110.9

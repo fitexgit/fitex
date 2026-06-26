@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.90
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#UA 🇺🇦 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 143.244.45.50

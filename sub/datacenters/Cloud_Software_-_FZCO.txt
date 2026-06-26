@@ -1,2 +1,8 @@
 vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.74.39
-vless://0fd3c238-8313-48f7-9fba-66a7aaf4ffba@us-1.arvancdn.dpdns.org:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.60.239
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr&host=t1s1.rittbo.kdns.fr#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloud Software - FZCO ┇ 104.253.175.99
+vless://871acef0-c7f9-4dc3-b5b0-7978288ffdc9@ltt.alimv82.ir:28193?type=xhttp&security=tls&path=/api&sni=ltt.alimv82.ir&host=ltt.alimv82.ir&mode=auto&fp=chrome#LV 🇱🇻 ┇ VLESS-XHTTP-TLS - Cloud Software - FZCO ┇ 104.253.18.252
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.54
+vless://35cf5820-52fa-419a-9dce-a0bee323f3f0@swqs.miniseries.ir:2019?type=tcp&security=none&path=/&host=Fast.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.92.177
+vless://cafcd21c-b79e-4240-9d6e-4703a3bc35b3@api.beshpor.qzz.io:15213?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.249.41
+vless://fa46aee0-69a8-4a9a-a330-518077b6feab@45.38.41.237:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=yEE21-pgEgQ9Ca4qLlFk9RAZh7qD6AQfQ8eQwc52SjM&sid=2d#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 45.38.41.237
+vless://797de269-0ead-4289-97a3-3695188143d2@45.39.33.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.33.97

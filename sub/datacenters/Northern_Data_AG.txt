@@ -1,2 +1,1 @@
-vless://bb9e929a-1e20-42f7-8e63-61534fc4c520@92.38.143.82:1010?type=tcp&security=none&path=/&host=play.google.com#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 92.38.143.82
-vless://f6a16959-425e-4b96-befd-0610aed8af48@92.38.143.82:443?type=tcp&security=reality&path=/&sni=google.com&host=play.google.com&fp=chrome&pbk=8cFvo9mNfPpkHEPgeQps9hSxwTx5XuZhixoEOK5COGQ&sid=850c0ac2#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Northern Data AG ┇ 92.38.143.82
+vless://39bd10b8-9234-4171-be41-71ce4dda4573@gb.amki.ir:8080?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=eudxzKNPVdV2AZyo-84rUXPnNx5TURdjHAHB95ZEhRo&sid=f7dc991121691df6#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Northern Data AG ┇ 85.234.91.186
