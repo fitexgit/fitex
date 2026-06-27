@@ -1,2 +1,1 @@
-vless://6d06761b-8103-41cb-af1b-5a3b32b0eedc@163.128.99.219:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - CYBERJET PTE LTD ┇ 163.128.99.219
-vless://d343fd16-d36b-40f1-93f0-6a5e6765427d@163.128.98.195:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - CYBERJET PTE LTD ┇ 163.128.98.195
+vless://6d06761b-8103-41cb-af1b-5a3b32b0eedc@163.128.99.219:443?type=tcp&security=reality&sni=www.apple.com&fp=safari&flow=xtls-rprx-vision&pbk=nnUS7C7-QQntfoyBI7_Ym2DYIJX8ULNjHkKk9Zr8dRs&sid=3a8657890bb824a2#SG 🇸🇬 ┇ VLESS-TCP-REALITY - CYBERJET PTE LTD ┇ 163.128.99.219
