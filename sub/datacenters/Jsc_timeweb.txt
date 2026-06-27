@@ -1,6 +1,5 @@
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888?type=grpc&security=reality&sni=dl.google.com&mode=gun&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Jsc timeweb ┇ 217.149.29.251
 vless://d271e19d-800a-4a46-9fe5-924653b71a63@72.56.32.134:80?type=tcp&security=none&mode=gun#US 🇺🇸 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 72.56.32.134
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@72.56.9.140:9877?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.9.140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 45.10.41.129
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@94.228.125.193:52649?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 94.228.125.193
 vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.245.170
+vless://2a2a24da-da1b-4988-bf33-82cf7601870f@94.228.125.193:52649?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 94.228.125.193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 45.10.41.129

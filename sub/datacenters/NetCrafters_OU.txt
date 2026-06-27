@@ -1,2 +1,3 @@
+vless://f2200cec-858a-47c3-8a29-002902319f42@pinto6.wubbalubbadubdubb.ir:1011?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 77.110.114.67
 vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 77.110.127.191
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 62.60.155.0
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?type=tcp&security=reality&sni=telegraph.co.uk&flow=xtls-rprx-vision&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&sid=deee73#IR 🇮🇷 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 62.60.155.0

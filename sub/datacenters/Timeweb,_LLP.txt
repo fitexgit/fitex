@@ -1,3 +1,2 @@
-vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Timeweb, LLP ┇ 185.201.28.95
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?type=tcp&security=reality&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.92.177
-vless://8c158c22-ecaf-441e-8653-91f1a5a4fd15@profile.netraidly.ru:40443?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=gFP8-P4r8FKkN10b0q1keHgL7jjmUOpY9qPAem_3z34&sid=5201#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.112.226
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.92.177
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?type=tcp&security=reality&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f#US 🇺🇸 ┇ VLESS-TCP-REALITY - Timeweb, LLP ┇ 72.56.81.165
