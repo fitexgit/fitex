@@ -1,2 +1,2 @@
-vless://17550015-678f-43ad-b0d2-65c0a829bedb@178.209.127.33:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 178.209.127.33
-vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 72.56.245.170
+vless://17550015-678f-43ad-b0d2-65c0a829bedb@178.209.127.33:8443?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 178.209.127.33
+vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0#US 🇺🇸 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.245.170

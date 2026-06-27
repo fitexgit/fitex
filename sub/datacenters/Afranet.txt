@@ -1,3 +1,3 @@
-vless://5d363005-54a7-49a1-b58a-f6f757cbab94@home.wordqress.sbs:43596?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.189.190
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?type=tcp&security=none&host=fast.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.118.226
-vless://74056a6c-5d51-40ce-9177-01f468b37cd9@edge.mcinet.live:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Afranet ┇ 79.175.177.41
+vless://74056a6c-5d51-40ce-9177-01f468b37cd9@edge.mcinet.live:443?type=tcp&security=reality&sni=telewebion.ir&fp=chrome&flow=xtls-rprx-vision&pbk=cF3Y4-bXsmD6TKJTETjCwsIesD3PoFE8YDprf-J67C8&sid=0123abcd#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Afranet ┇ 79.175.177.41
+vless://Telegram-Parsashonam-12@79.175.189.145:443?type=tcp&security=tls&path=/p4r34m&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-TLS - Afranet ┇ 79.175.189.145
