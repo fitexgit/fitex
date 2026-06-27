@@ -1,3 +1,1 @@
-vless://99ee7869-84e6-4e07-a7d2-1f56acd3a295@116.206.93.227:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Nearoute Limited ┇ 116.206.93.227
-vless://ea1c1e20-7263-4b08-a01b-690b29af66b3@103.76.85.138:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Nearoute Limited ┇ 103.76.85.138
-vless://8062e5ed-20b0-4304-b90b-e1652cfc72fa@103.100.158.25:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Nearoute Limited ┇ 103.100.158.25
+vless://ea1c1e20-7263-4b08-a01b-690b29af66b3@103.76.85.138:443?type=tcp&security=none&sni=www.apple.com#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Nearoute Limited ┇ 103.76.85.138
