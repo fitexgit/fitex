@@ -1,6 +1,3 @@
-vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:35007?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.134.92
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3VkIFNvZnR3YXJlIC0gRlpDTyBcdTI1MDcgMTA0LjI1My4xMzQuOTIiLCJhZGQiOiIxMDQuMjUzLjEzNC45MiIsInBvcnQiOjEzOTMyLCJpZCI6IjAxMGE2MTA2LTk2MGEtNGEzYy05NGQzLTQxMGE1MGMxMjE5ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.134.92
-vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:55117?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.134.92
-vless://bd39bd4f-fdb6-4a9d-b656-ab0dbc2f12b7@104.253.74.183:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.74.183
-vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:57529?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.134.92
+vless://4f9e22a8-d191-4913-a28d-6aa6c1616599@45.38.37.184:443?type=tcp&security=tls#LV 🇱🇻 ┇ VLESS-TCP-TLS - Cloud Software - FZCO ┇ 45.38.37.184
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.54
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.41

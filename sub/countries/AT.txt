@@ -1,1 +1,2 @@
-vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@152.53.39.148:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.39.148
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?type=ws&security=tls&path=/?proxyip&sni=ve.ylkszy.eu.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.102
+vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?type=tcp&security=reality&sni=as.pink-perfect.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.110.110.206

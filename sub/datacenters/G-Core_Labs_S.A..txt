@@ -1,5 +1,6 @@
-vless://54ef6629-6d37-4eac-b78c-8cf03f6f93d4@82.158.120.168:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.168
-vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@93.114.98.241:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 93.114.98.241
-vless://199c3ee4-6c00-4902-8b12-ede0ba4c8957@tw-ing-10.redfoxvpn.ru:2053?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.229
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?type=xhttp&security=reality&path=/&sni=www.yahoo.com&host=brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site&mode=auto&fp=chrome&pbk=bm1X5R9OZK5AhcDhrn7j14rvTualxKopRR3lp065yWI&sid=5a8dba4b#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - G-Core Labs S.A. ┇ 217.195.200.153
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?type=ws&security=tls&path=/ws&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 85.234.69.227
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?type=httpupgrade&security=tls&path=/api&fp=chrome#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-TLS - G-Core Labs S.A. ┇ 85.234.69.227
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
+vless://199c3ee4-6c00-4902-8b12-ede0ba4c8957@tw-ing-10.redfoxvpn.ru:2053?type=grpc&security=reality&sni=www.google.com&mode=gun&fp=chrome&pbk=XrNOGI1TNjL2rcq65LBsjw8ouZ9PQMOZt466XeJt8XE&sid=dd70b6a4e3e9e7ce#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - G-Core Labs S.A. ┇ 82.158.120.229
