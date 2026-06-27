@@ -1,5 +1,8 @@
 vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 178.215.238.148
-vless://ecd7aeca-2e37-4761-93e7-7cf4c2ff55bf@2.27.22.238:110?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 2.27.22.238
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyAyLjI2LjIzMS44NyIsImFkZCI6IjIuMjYuMjMxLjg3IiwicG9ydCI6MTEwLCJpZCI6ImVjZDdhZWNhLTJlMzctNDc2MS05M2U3LTdjZjRjMmZmNTViZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://485f9437-a541-48c4-831d-b296ce068ffe@83.143.112.143:810?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 83.143.112.143
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphc2hWczdrdlNuTEk5UUVMMkZqNE5n@83.143.112.143:999#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Play2go International Limited ┇ 83.143.112.143
+vless://485f9437-a541-48c4-831d-b296ce068ffe@83.143.112.143:810?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 83.143.112.143
+vless://52590634-cfce-4db7-abcc-d075175a3088@144.31.224.116:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 144.31.224.116
+vless://ecd7aeca-2e37-4761-93e7-7cf4c2ff55bf@2.27.22.238:110?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 2.27.22.238
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?type=tcp&security=tls#SE 🇸🇪 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.121.105.10
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBsYXkyZ28gSW50ZXJuYXRpb25hbCBMaW1pdGVkIFx1MjUwNyAyLjI2LjIzMS44NyIsImFkZCI6IjIuMjYuMjMxLjg3IiwicG9ydCI6MTEwLCJpZCI6ImVjZDdhZWNhLTJlMzctNDc2MS05M2U3LTdjZjRjMmZmNTViZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 94.156.112.71

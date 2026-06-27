@@ -1,3 +1,4 @@
+vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&sid=5fc027d907f46ee9#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Takehost Ou ┇ 5.175.178.161
+vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@95.85.243.239:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 95.85.243.239
+vless://nasnet@nasnet-146198073-direct.iranpress.co:443?type=tcp&security=tls&sni=nasnet-146198073-direct.iranpress.co&fp=chrome&flow=xtls-rprx-vision#EE 🇪🇪 ┇ VLESS-TCP-TLS ┇ 146.19.80.73
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - GmhostGrupp OU ┇ 45.129.96.62
-vless://536a80c2-18bd-40ac-b147-dbafc6f8e872@37.49.224.93:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-REALITY - PUSHPKT OU ┇ 37.49.224.93
