@@ -1,1 +1,2 @@
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 94.242.55.42
+vless://2b264116-de52-40b1-9004-0e4cbe36247b@5.34.214.11:8080?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 5.34.214.11
+vless://2b264116-de52-40b1-9004-0e4cbe36247b@178.173.250.59:8080?type=tcp&security=none&path=/api/v3#NL 🇳🇱 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 178.173.250.59
