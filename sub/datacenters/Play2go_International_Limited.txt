@@ -1,2 +1,5 @@
-vless://2ef58e73-7a43-4ced-8684-be3d8f2053ef@31.76.11.23:443?type=xhttp&security=none#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Play2go International Limited ┇ 31.76.11.23
-vless://0540b490-5738-4f6d-9517-7e75ad77186f@89.39.121.54:110?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 89.39.121.54
+vless://f90cc83a-97ce-446d-8f80-30d3eef3351c@144.31.30.69:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 144.31.30.69
+vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@lc2nodenl.vdkvpn.ru:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 2.27.21.250
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.120.166.118
+vless://2ef58e73-7a43-4ced-8684-be3d8f2053ef@31.76.11.23:443?type=xhttp&security=reality&path=/&sni=yahoo.com&host=yahoo.com&mode=auto&fp=chrome&pbk=osEhagNBzNX0-sPke0KR0dNC5OBu5xjPT2XLr7A_gVc&sid=33c3c2daaa6fa61a#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - Play2go International Limited ┇ 31.76.11.23
+vless://65f60e93-dbad-42b3-8856-7ca1c809adaa@2.27.22.238:110?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Play2go International Limited ┇ 2.27.22.238

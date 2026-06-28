@@ -1,7 +1,9 @@
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?type=httpupgrade&security=none&path=/#LV 🇱🇻 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 45.38.37.4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGd1NFdm1fcGkzY1Z1eEwzMXF2bkFVTjk0NndSX2Rkcg@31.56.179.35:1080#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-REALITY - RETN Limited ┇ 91.218.143.194
-vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@31.56.179.35:80?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.239
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.204.248
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?type=tcp&security=none&path=/sequre/ws?ed=2560#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.28
+vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?type=tcp&security=reality&sni=yahoo.com&host=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&sid=c73dd5d128e6bd3d#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.80.48
 vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@31.56.179.35:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTTBDTGF3anVxSWZ4YjlncFp1bzRybUxnV0wwLWtlQg@31.56.179.35:1080#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.57.158.48
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?type=tcp&security=none&mode=gun#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.33
