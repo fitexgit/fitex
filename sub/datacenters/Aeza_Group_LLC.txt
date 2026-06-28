@@ -1,6 +1,2 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@109.120.176.138:4111?type=grpc&security=reality&sni=www.icloud.com&mode=gun&fp=chrome&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&sid=9e0df5878ac2f3c8#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 109.120.176.138
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2NmtoZ2Y1Nmo5YnI1ZTQ2@109.120.152.128:80#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.120.152.128
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dDVwNWszY3kxeHcxM3Zx@45.144.55.112:80#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 45.144.55.112
+vless://b165aac9-5b78-4b47-9102-94eb16e2efd4@smws.benomiz.ir:16423?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=oFMI2SvruzNqYbNUwCJDK5pHebvZRAMOyGNa2lO953M&sid=789071bf51054742#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.221.137.132
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWV6YSBHcm91cCBMTEMgXHUyNTA3IDYyLjYwLjE1MS40MSIsImFkZCI6IjYyLjYwLjE1MS40MSIsInBvcnQiOjU3ODY1LCJpZCI6IjNjNjFlYTUzLWE1NTAtNDI1Mi04MjExLTk1NmY5ZjdkYzJkMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9

@@ -1,4 +1,8 @@
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=ws&security=tls&path=?ed=2048&sni=nuverv.appleseraj.ir&host=nuverv.appleseraj.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
-vless://09f2108d-1ab0-f615-1c96-b77f00000000@20.174.15.226:443?type=tcp&security=none&path=/sync#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 20.174.15.226
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@e1.xjjxdjjahgsgkgdkah.garletshopino.com:20224?type=tcp&security=none&path=/&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - LIGHT NODE LIMITED ┇ 130.94.46.39
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.100
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
+vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1008?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.74.213.64
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObFY1eHNrX0Nlb01NMmpRdVoxZEdB@20.74.213.64:1003#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.74.213.64
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Netly LLC ┇ 89.125.20.104
+vless://db1b568f-8847-42bf-84e5-a51e2e49a786@130.185.121.145:55375?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.145

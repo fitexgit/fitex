@@ -1,5 +1,7 @@
-vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@185.31.200.15:8080?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 185.31.200.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGd1NFdm1fcGkzY1Z1eEwzMXF2bkFVTjk0NndSX2Rkcg@31.56.179.35:1080#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.84.88.105
-vless://67658886-c7a6-4ab8-8db1-47879935db58@45.89.244.170:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.89.244.170
-vless://cb25df71-caec-4405-9264-b1883735898d@snapp.gotdns.ch:2088?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.178.200
+vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@185.31.200.15:2089?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.31.200.15
+vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@31.56.179.35:80?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.236.239
+vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@31.56.179.35:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTTBDTGF3anVxSWZ4YjlncFp1bzRybUxnV0wwLWtlQg@31.56.179.35:1080#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.56.179.35
+vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@185.31.200.15:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.31.200.15
