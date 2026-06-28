@@ -1,4 +1,7 @@
-vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@31.76.7.28:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.7.28
-vless://ec13d921-3072-4e16-b2cd-af709f7f7894@150.241.83.60:443?type=tcp&security=none&sni=www.icloud.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.83.60
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.103.208
-vless://e722d19e-7eec-4090-8012-a6c7c7afa20e@fl2.voxyvpn.ru:6443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 94.156.180.64
+vless://d1e06a43-0bb4-4d7b-81fc-f72e769d3f24@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@gateru.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.77.143.53
+vless://d1e06a43-0bb4-4d7b-81fc-f72e769d3f24@gateru.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.77.143.53
+vless://1914bf24-90b2-4c08-919f-b07297462185@150.241.75.219:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.75.219
+vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@144.31.218.147:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.218.147
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@193.151.108.143:443?type=tcp&security=reality&sni=shveccxc1.twilightparadox.com&flow=xtls-rprx-vision&pbk=wPBLToF6GA4jIb7C7yu0UMlCXlxTV9UlEh1R-EdCzRU&sid=2e5b7512fc1d69be#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 193.151.108.143
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105

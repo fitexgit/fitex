@@ -1,7 +1,4 @@
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.152
-vless://c08dc9a6-40ac-4253-a778-8a5a433eaaa7@87.120.106.164:8443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.164
-vless://66d512d7-7ddd-4f34-a5bb-72e4f252e15e@v1.vpn1016.ru:8443?type=xhttp&security=reality&path=/data&sni=www.google.com&mode=stream-up&fp=chrome&pbk=NItg3R8o-yzRz_sByhRa_5ZdEifZOqw3WGB8aLkQiRM&sid=464964de25699022#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - G-Core Labs S.A. ┇ 31.184.246.46
-vless://199c3ee4-6c00-4902-8b12-ede0ba4c8957@tw-ing-10.redfoxvpn.ru:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 82.158.120.229
-vless://44061174-3cd9-415d-891d-070e22964114@sdeovbmttkl.dadashinet10.ir:2044?type=tcp&security=none&path=/&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.74
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://b21c558b-1ca1-4159-a140-868448e5b1a8@62.112.222.47:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 45.82.161.101
+vless://2be4e29a-7c1d-42e5-99b9-0834105ba608@rea.iramkemaxyu.ir:2053?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 213.156.152.98

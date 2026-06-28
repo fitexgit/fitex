@@ -1,2 +1,1 @@
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 153.76.122.225
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@150.241.65.86:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 150.241.65.86
+vless://cfe007e3-f264-4403-b834-70d82e26cade@94.125.102.111:7443?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=8scIVVv78H2lFNiBh4wbB0bnHJ2PVd91DO1WQYIsl1A&sid=0e8c77184f7fb76c#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 94.125.102.111

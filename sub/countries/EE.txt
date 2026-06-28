@@ -1,6 +1,2 @@
-vless://60300afa-3366-4ae3-959a-7b50438acebb@ee2.wequ.host:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.129.199.148
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - GmhostGrupp OU ┇ 45.129.96.62
-vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?type=grpc&security=reality&sni=yahoo.com&mode=gun&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU#EE 🇪🇪 ┇ VLESS-GRPC-REALITY - QWINS LTD ┇ 132.243.65.121
 vless://0239395e-f490-4473-b0ae-4f3b37c75f01@185.200.196.68:5635?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Aktsiaselts WaveCom ┇ 185.200.196.68
-vless://0c986712-ccb1-4c8f-8e25-6a209db3c466@45.138.101.53:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 45.138.101.53
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@ee-1.coinbridge.nl:443?type=tcp&security=none&mode=gun#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 138.124.4.132
+vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?type=tcp&security=reality&sni=dev.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a#EE 🇪🇪 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.224.93

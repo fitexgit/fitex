@@ -1,7 +1,6 @@
-vless://bdef54fa-badb-4070-874e-09863734d5fb@45.144.55.112:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.144.55.112
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 89.22.234.121
-vless://31a7c9a2-0f42-4f5f-ae32-29b165f48ac3@213.165.42.219:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.165.42.219
-vless://4e8d44d9-9c29-4b97-8cfa-f3e1f3f14f29@89.208.96.40:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.208.96.40
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@109.120.176.138:4111?type=grpc&security=reality&sni=www.icloud.com&mode=gun&fp=chrome&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&sid=9e0df5878ac2f3c8#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 109.120.176.138
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2NmtoZ2Y1Nmo5YnI1ZTQ2@109.120.152.128:80#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.120.152.128
-vless://b165aac9-5b78-4b47-9102-94eb16e2efd4@musk.benomiz.ir:10606?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=HUB6enPmcPV2vIWJsdzmnJ2QUeNi2HVS_D3gan4FjD4&sid=652c66867ba30ff5#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 46.226.162.143
-vless://0dd1365f-4765-4502-a20d-1e09516ae8f5@45.146.131.154:8549?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.146.131.154
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dDVwNWszY3kxeHcxM3Zx@45.144.55.112:80#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 45.144.55.112

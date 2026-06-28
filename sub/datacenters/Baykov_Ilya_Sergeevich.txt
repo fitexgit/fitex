@@ -1,7 +1,4 @@
-vless://eb528c71-441a-4430-867d-ab63d301d4ee@flu.dns-crypto-yandex.com:443?type=grpc&security=none#LV 🇱🇻 ┇ VLESS-GRPC-NTLS - Baykov Ilya Sergeevich ┇ 213.21.237.141
-vless://0c986712-ccb1-4c8f-8e25-6a209db3c466@45.138.101.53:443?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 45.138.101.53
-vless://0c986712-ccb1-4c8f-8e25-6a209db3c466@5.39.250.173:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 5.39.250.173
+vless://eb528c71-441a-4430-867d-ab63d301d4ee@gifi.dns-crypto-yandex.com:443?type=tcp&security=none&mode=gun#US 🇺🇸 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 166.1.60.12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.47.60.186
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@185.68.184.237:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Baykov Ilya Sergeevich ┇ 185.68.184.237
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@ee-1.coinbridge.nl:443?type=tcp&security=none&mode=gun#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 138.124.4.132
-vless://3b2bb586-8f7d-46c3-ba92-a355c3628083@lv-1.coinbridge.nl:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Baykov Ilya Sergeevich ┇ 213.21.237.9
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@185.68.184.237:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 185.68.184.237
+vless://eb528c71-441a-4430-867d-ab63d301d4ee@grif.dns-crypto-yandex.com:443?type=tcp&security=none&mode=gun#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 91.92.46.21
