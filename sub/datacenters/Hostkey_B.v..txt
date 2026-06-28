@@ -1,8 +1,6 @@
-vless://37c79fbe-861a-4725-a8e4-196e2d886e33@141.98.4.99:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 141.98.4.99
-vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
-vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 107.181.151.241
-vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 132.243.213.174
-vless://6091db2d-1905-465a-9ce3-25c1c603865d@x.fl.vpnpplvpn.top:8008?type=xhttp&security=none&path=/upload&host=pcloud.com&mode=stream-up#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - Hostkey B.v. ┇ 212.237.217.87
-vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@82.21.53.70:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 82.21.53.70
-vless://4d017db2-7655-4276-9557-e2ec25b04ee7@107.181.151.39:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 107.181.151.39
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 194.164.217.139
 vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@194.147.214.197:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 194.147.214.197
+vless://1896c6c9-a941-4688-a865-29027bf7f8e6@107.181.151.39:443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 107.181.151.39
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
+vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 107.181.151.241
+vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@82.21.53.70:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 82.21.53.70

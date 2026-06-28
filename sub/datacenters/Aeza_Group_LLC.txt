@@ -1,6 +1,2 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:6443?type=grpc&security=reality&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.151.102.99
-vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@ll0ll.vip:8082?type=grpc&security=tls&sni=id.vk.com&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Aeza Group LLC ┇ 138.124.113.66
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@79.137.195.157:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 79.137.195.157
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2NmtoZ2Y1Nmo5YnI1ZTQ2@109.120.152.128:80#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.120.152.128
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.228.57
+vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=tcp&security=none&path=/@Marisa_kristi#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.238.213
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230

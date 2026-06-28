@@ -1,7 +1,5 @@
-vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 162.217.248.229
-vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.199
 vless://b970f499-b1b2-4a66-89c3-45194db6c0d5@64.49.15.196:80?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=dlkerkvPd88_3wGr9X0JoNBa8cNAwT6SaNTn7W53e1s&sid=2cd3b71e70dc77#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 64.49.15.196
-vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.13.226.97
-vless://2c212fbb-08f9-4be0-a128-b10892111d6d@45.67.139.162:80?type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=mjkj2VuAfc9eoRfIVNaHgUV7fZR40XgnjeE31hVVR24&sid=c1#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.67.139.162
-vless://Telegram%3AX_RAY_VPN1@217.179.5.62:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.5.62
+vless://Telegramm%3ATurboConfigs@217.179.5.62:2035?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.5.62
 vless://Telegram%3ATurboConfigs@217.179.5.62:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.5.62
+vless://5ad5c592-1425-4e9f-975c-f06f3ef9f27e@tr.shopsvip.xyz:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 143.246.136.108
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
