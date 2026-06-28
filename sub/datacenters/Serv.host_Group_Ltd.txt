@@ -1,9 +1,5 @@
-vless://fc602c0d-8b0b-4a3d-9ecd-859d87fa4fdc@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@2.26.11.62:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.11.62
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@213.176.73.54:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 213.176.73.54
-vless://509dec94-cc08-4351-9ce8-811e76e092c3@31.76.6.138:443?type=tcp&security=reality&sni=console.cloud.yandex.ru&flow=xtls-rprx-vision&pbk=DbpNCOTF5G7L5lGDBUtoiUNsZ_eoKwUgZX__Xhu4nEc&sid=add6bfff300435ac#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.6.138
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.56
-vless://98d61689-47d0-4abe-a23a-598632a7309a@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
-vless://9ad34ce5-3655-402c-a03a-682c745f59fa@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
-vless://ccd8d512-1802-46a8-8b9a-e9ba29dae894@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
-vless://5481bfe3-bf42-425c-b561-cb9d64bff7ff@31.76.84.184:443?type=tcp&security=reality&sni=x5.ru&flow=xtls-rprx-vision&pbk=D0tYligRGe3BOGZyKT6RhHQxYFZqpKm7-FnDrYHkIzU&sid=a9496097304cffd1#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.84.184
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@31.76.7.28:8388#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.7.28
+vless://ccd8d512-1802-46a8-8b9a-e9ba29dae894@gateru.janusgate.org:443?type=tcp&security=reality&sni=gateru.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=Zkjmoy79UuCGCS5_4fMfhv0lXDvgBjUTT7jCdQoWdQQ&sid=018c7fb89aa975de#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 193.163.203.52
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?type=ws&security=none&path=/dda12c57317ed12178061db1b799ebd2&host=progressiya-vpn.online#US 🇺🇸 ┇ VLESS-WS-NTLS - Serv.host Group Ltd ┇ 31.76.82.3
+vless://fc602c0d-8b0b-4a3d-9ecd-859d87fa4fdc@gateru.janusgate.org:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 193.163.203.52
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?type=tcp&security=reality&sni=cdn2.swaginozip.fun&flow=xtls-rprx-vision&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&sid=a13edee689fca1da#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.219.56

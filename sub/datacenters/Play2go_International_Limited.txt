@@ -1,10 +1,1 @@
-vless://485f9437-a541-48c4-831d-b296ce068ffe@83.143.112.143:810?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 83.143.112.143
-vless://f90cc83a-97ce-446d-8f80-30d3eef3351c@144.31.30.69:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 144.31.30.69
-vless://2ef58e73-7a43-4ced-8684-be3d8f2053ef@31.76.11.23:443?type=xhttp&security=none#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Play2go International Limited ┇ 31.76.11.23
-vless://c3c97d19-cfa9-43b3-b99f-5de55a564f04@2.26.103.204:37840?type=tcp&security=reality&sni=okko.tv&fp=safari&pbk=tVE4gCmVKLGlm2GPHNgycKloLowWRychuCv6lmVVQAU&sid=21619e426b76dc#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 2.26.103.204
-vless://94d7eefa-5c27-4c82-b159-6048c351fb9a@144.31.230.169:443?type=raw&security=reality&sni=www.twitch.tv&flow=xtls-rprx-vision&pbk=GhRS0DArxmmgxh0WYlA1vLu1HrS_1oiFmWRr0dZlPnk&sid=0f4f5970da2af8d7#SE 🇸🇪 ┇ VLESS-RAW-REALITY - Play2go International Limited ┇ 144.31.230.169
-vless://0537e5d5-8d2f-4f82-b660-ebf94062f67e@2.26.87.101:4443?type=tcp&security=tls&sni=eh.vk.com&fp=chrome#FI 🇫🇮 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 2.26.87.101
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphc2hWczdrdlNuTEk5UUVMMkZqNE5n@83.143.112.143:999#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Play2go International Limited ┇ 83.143.112.143
-vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?type=raw&security=reality&sni=eh.vk.com&fp=chrome&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&sid=478dc6#DE 🇩🇪 ┇ VLESS-RAW-REALITY - Play2go International Limited ┇ 178.215.238.148
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?type=tcp&security=tls&sni=vpn.oplatasite.ru&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-TLS - Play2go International Limited ┇ 87.121.105.10
-vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=iv8v94q9qxkMw5WSUc0obloyLVFNTsfyy9Y3FaGlj1k&sid=efd29b2d25#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 64.188.64.59
+vless://76c011aa-2303-43c8-98c3-0e5cf7f810ce@2.27.23.38:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Play2go International Limited ┇ 2.27.23.38

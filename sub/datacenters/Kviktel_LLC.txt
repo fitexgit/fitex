@@ -1,8 +1,3 @@
-vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105
-vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@185.147.27.105:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105
-vless://871c5149-421e-45d5-8a75-dbbb22eec708@185.147.27.105:80?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105
-vless://dd632900-378f-4e2b-ad89-84ea66478e94@185.147.27.105:80?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105
-vless://222ca353-a842-44f8-a86f-317fbbf73f2c@185.147.27.96:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 185.147.27.96
-vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105
-vless://71788e0b-c27f-4dd2-ba78-aa682ba652b6@185.147.27.105:80?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
+vless://222ca353-a842-44f8-a86f-317fbbf73f2c@185.147.27.96:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 185.147.27.96
+vless://871c5149-421e-45d5-8a75-dbbb22eec708@185.147.27.105:80?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Kviktel LLC ┇ 185.147.27.105

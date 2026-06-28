@@ -1,4 +1,1 @@
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - YottaSrc ┇ 45.43.75.185
-vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?type=tcp&security=reality&sni=www.avito.ru&fp=chrome&pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&sid=ec42626e#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.13.226.97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZkhJVU5UTzdKOGNXZ0E4VmNva0hR@111.235.151.198:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - YottaSrc ┇ 111.235.151.198
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?type=tcp&security=reality&sni=www.microsoft.com&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 198.105.123.142
+vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.13.226.97

@@ -1,4 +1,1 @@
-vless://4550993c-2191-493a-a612-aaba4a4ec083@g4.steptofsvo.com:443?type=tcp&security=reality&sni=g4.steptofsvo.com&fp=randomized&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#LV 🇱🇻 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 185.242.105.79
-vless://bf748e5b-dbd7-4012-b111-f0a73d7e5732@185.242.105.77:443?type=tcp&security=reality&sni=dev.max.ru&fp=safari&flow=xtls-rprx-vision&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#LV 🇱🇻 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 185.242.105.77
-vless://2e4defe7-46d7-46e9-8a44-158abc8025b2@185.242.105.77:443?type=tcp&security=reality&sni=dev.max.ru&fp=safari&flow=xtls-rprx-vision&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#LV 🇱🇻 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 185.242.105.77
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 94.242.55.42
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 94.242.55.42
