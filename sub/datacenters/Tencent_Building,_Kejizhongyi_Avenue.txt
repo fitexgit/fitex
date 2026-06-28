@@ -1,2 +1,4 @@
-vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@101.33.45.201:54321?type=tcp&security=none&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.33.45.201
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.153.208.246:7788?type=ws&security=tls&path=/&sni=c.eoa.ccwu.cc&host=c.eoa.ccwu.cc&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.208.246
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.163.89.186:3389?type=ws&security=tls&path=/&sni=c.eoa.ccwu.cc&host=c.eoa.ccwu.cc&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.163.89.186
 vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@101.33.75.233:39738?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.33.75.233
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@101.33.45.201:54321?type=tcp&security=none&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.33.45.201

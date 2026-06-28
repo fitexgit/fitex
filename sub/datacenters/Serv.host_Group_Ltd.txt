@@ -1,3 +1,4 @@
-vless://9ad34ce5-3655-402c-a03a-682c745f59fa@ee.janusgate.org:443?type=tcp&security=reality&sni=ee.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=bf26e6b6021935c6#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
-vless://d1e06a43-0bb4-4d7b-81fc-f72e769d3f24@gateru.janusgate.org:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 31.77.143.53
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&obfs=salamander#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
+vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@144.31.218.147:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.218.147
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@gateru.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.77.143.53
