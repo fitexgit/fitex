@@ -1,2 +1,1 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti. ┇ 212.64.210.109
-vless://00870c04-d720-45e5-b5b9-87ea18a86c13@trktaklink.serendpiti.ir:3063?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti. ┇ 212.64.211.115
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?type=tcp&security=reality&sni=tr.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=f68f32d02dbd5147#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti. ┇ 212.64.210.64

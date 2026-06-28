@@ -1,5 +1,1 @@
-vless://infinitymobilepc@node-8588103922-b266ea-production.up.railway.app:443?type=tcp&security=none&path=/ws/infinitymobilepc#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.126
-vless://public@node-8588103922-b266ea-production.up.railway.app:443?type=tcp&security=none&path=/ws/public#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.126
-vless://Netherlands@mmdu-production.up.railway.app:443?type=ws&security=tls&path=/ws/Netherlands&sni=mmdu-production.up.railway.app&host=mmdu-production.up.railway.app&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Railway ┇ 69.46.46.83
-vless://@%6e%61%6d%65%64%7a%61%64%69%6d@reseau.proxy.rlwy.net:56136?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.22.224
-vless://47e2baf3-8141-6ff4-96cf-73f252da4000@rvg-production-7fb9.up.railway.app:443?type=tcp&security=none&path=/ws/47e2baf3-8141-6ff4-96cf-73f252da4000#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 69.46.46.13
+vless://%40MAconnectt@reseau.proxy.rlwy.net:37943?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Railway ┇ 66.33.22.224
