@@ -1,4 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.30.187:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 213.171.30.187
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.86.75:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 85.208.86.75
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 176.108.242.76
-vless://bc32639e-100a-40ad-b064-b0829a0bd197@176.109.109.58:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Cloud.ru ┇ 176.109.109.58
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?type=grpc&security=reality&sni=dl.google.com&mode=gun&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Cloud.ru ┇ 85.208.85.235
