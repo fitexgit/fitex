@@ -1,5 +1,4 @@
-vless://c2591fc2-d8e5-48c8-b264-3c0d6cf86603@pars.mhticonfig.xyz:36396?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.117
-vless://09f2108d-1ab0-f615-1c96-b77f00000000@20.174.15.226:443?type=tcp&security=none&path=/sync#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 20.174.15.226
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://2bd5a83d-2bb2-4145-8f8e-614421194ce3@212.192.3.237:443?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Hostman LTD ┇ 212.192.3.237
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEhDYV96MmFxY0txRGgySkFHamNR@lite7.forredeye.com:2570#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.218.19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEhDYV96MmFxY0txRGgySkFHamNR@lite3.forredeye.com:2530#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Giti Secure Cloud LLC ┇ 94.183.218.11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R0pHU25idmRFcHdHOVhEMUo3bW44ODBUOFIxUE40Sg@1.ftrer.shop:1080#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.234

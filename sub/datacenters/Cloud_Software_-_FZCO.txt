@@ -1,8 +1,6 @@
-vless://c2591fc2-d8e5-48c8-b264-3c0d6cf86603@rg.xnbot-human.ir:9010?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.19.205
-vless://1176b07e-35ea-491e-aeec-d7a7912c6162@104.252.111.199:11439?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.199
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3VkIFNvZnR3YXJlIC0gRlpDTyBcdTI1MDcgMTA0LjI1Mi4xMTEuMjEiLCJhZGQiOiIxMDQuMjUyLjExMS4yMSIsInBvcnQiOjMxMzAzLCJpZCI6IjYwYmJmNGQzLTkxNWYtNDBlZi05Yjk3LTA2OTZjN2E2NzQzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?type=tcp&security=none&path=/#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.175.16
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:36298?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://797de269-0ead-4289-97a3-3695188143d2@45.39.33.97:443?type=tcp&security=none&host=play.google.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.33.97
+vless://797de269-0ead-4289-97a3-3695188143d2@45.39.33.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.33.97
+vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 104.253.74.39
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 95.182.80.48
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=xhttp&security=none&path=/&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:17492?type=tcp&security=none&path=/ws#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://43e1ba19-ba6c-4125-a24b-38599f04a300@104.252.53.173:2082?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.173
