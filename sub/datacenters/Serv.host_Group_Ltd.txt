@@ -1,2 +1,8 @@
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=reality&sni=service.mycloudsfere.abrdns.com&fp=firefox&flow=xtls-rprx-vision&pbk=Xb-A55KyH9nwjxKw85wksIUJs9KBGk5B8rLArXGVLiw&sid=d9654598d4415f95#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.216.98
-vless://1914bf24-90b2-4c08-919f-b07297462185@150.241.75.219:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 150.241.75.219
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@31.76.53.213:2040?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.53.213
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=reality&sni=service.mycloudsfere.abrdns.com&fp=chrome&flow=xtls-rprx-vision&pbk=Xb-A55KyH9nwjxKw85wksIUJs9KBGk5B8rLArXGVLiw&sid=d9654598d4415f95#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.216.98
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@ee.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 150.241.101.105
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.56
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.241.7
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.208:8443?type=tcp&security=reality&sni=cdn2.swaginozip.fun&flow=xtls-rprx-vision&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&sid=a13edee689fca1da#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.219.208
+vless://425c742d-112c-4cc6-bd75-234d46adfe9a@gateru.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.10.72
