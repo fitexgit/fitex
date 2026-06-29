@@ -1,2 +1,1 @@
-vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-REALITY - ESTOXY OU ┇ 37.49.224.32
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?type=tcp&security=none&path=twitterfreecodessecurity#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 45.80.110.245
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?type=ws&security=tls&path=twitterfreecodessecurity&sni=a.ssll.gay#EE 🇪🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 45.80.110.245

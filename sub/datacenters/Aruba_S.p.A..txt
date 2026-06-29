@@ -1,12 +1,2 @@
-vless://c17e5bd4-00f9-4cb2-bd8f-cfd21bd9e2fd@31.14.131.51:55829?type=tcp&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 31.14.131.51
-vless://82fd60c0-f470-4102-a80c-6817727e161b@eng.wizardx1.com:2040?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.201
-vless://2947e655-6da6-4f90-b983-4deb8b5bc539@italy.lizard2shop.com:2053?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 95.110.158.39
-vless://2947e655-6da6-4f90-b983-4deb8b5bc539@uk.eorqen.ir:8086?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.83
-vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@uk2.eorqen.ir:2053?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.184
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@fr.eorqen.ir:8086?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.156
-vless://2947e655-6da6-4f90-b983-4deb8b5bc539@185.8.51.20:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.20
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@uk.eorqen.ir:8086?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.83
-vless://82fd60c0-f470-4102-a80c-6817727e161b@eng.wizardx1.com:8085?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.201
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@185.8.51.20:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 185.8.51.20
-vless://3736571a-eaf6-4eb7-a0b4-946463043227@italy.lizard2shop.com:2053?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 95.110.158.39
+vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=chrome&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://2947e655-6da6-4f90-b983-4deb8b5bc539@185.8.51.20:2053?type=grpc&security=reality&sni=play.google.com&mode=gun&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Aruba S.p.A. ┇ 185.8.51.20

@@ -1,20 +1,13 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?type=tcp&security=tls#CH 🇨🇭 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 185.18.250.52
-vless://8b62732c-0d4a-4f8f-80cf-f9d30de33b62@37.156.40.244:2082?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.40.244
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?type=tcp&security=none&path=/tg@zdyz2#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 185.18.250.109
-vless://Masir_Sefid@83.228.200.66:8443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.200.66
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - GTHost ┇ 208.69.78.205
-vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@live.ravinoz.ir:1010?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.228.195
-vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 141.227.138.106
-vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@live.ravinoz.ir:2020?type=tcp&security=none&mode=gun#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 83.228.228.195
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHVEhvc3QgXHUyNTA3IDE4Ni4xOTAuMjE1LjMyIiwiYWRkIjoiMTg2LjE5MC4yMTUuMzIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?type=xhttp&security=none&path=/awduhiawad?ed=2560&host=amazon.joingulf.lol&mode=auto#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 185.18.250.67
-vless://e554afea-76a5-4733-9934-f9d4316d2f9b@ch-zicid.locations-sub.com:6200?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 141.227.138.106
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHVEhvc3QgXHUyNTA3IDE4Ni4xOTAuMjE1Ljc1IiwiYWRkIjoiMTg2LjE5MC4yMTUuNzUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
+vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@194.147.214.197:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 194.147.214.197
+vless://8aa64af5-1fa1-479c-9b9e-9a104338ad87@0000-000-00-000032662252.poki-pakipon.ir:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 179.237.75.180
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTguMjUwLjcwIiwiYWRkIjoiMTg1LjE4LjI1MC43MCIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
-vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?type=tcp&security=none&mode=gun#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 179.237.75.180
-vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Digitale Suisse AG ┇ 185.227.149.123
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.250.119
 vless://Masir_Sefid@37.156.44.205:8443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.44.205
-vless://Masir_Sefid@37.156.44.205:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.44.205
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Alexhost Srl ┇ 2.59.219.245
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@84.17.53.160:989#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 84.17.53.160
+vless://Masir_Sefid@37.156.44.205:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.44.205
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHVEhvc3QgXHUyNTA3IDE4Ni4xOTAuMjE1LjMyIiwiYWRkIjoiMTg2LjE5MC4yMTUuMzIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHVEhvc3QgXHUyNTA3IDE4Ni4xOTAuMjE1Ljc1IiwiYWRkIjoiMTg2LjE5MC4yMTUuNzUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
+vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?type=tcp&security=none&mode=gun#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 179.237.75.180
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - synaforce Schweiz AG ┇ 212.237.210.158
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?type=xhttp&security=none&path=/awduhiawad?ed=2560&host=amazon.joingulf.lol&mode=auto#CH 🇨🇭 ┇ VLESS-XHTTP-NTLS - Cloudflare London, LLC ┇ 185.18.250.67
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.44.6
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 83.228.250.119
+vless://21702d6d-7b35-4faa-8462-c23dc7e20e00@switzh-mk.t99-jd.shakhle.ir:22000?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Infomaniak Network SA ┇ 37.156.47.129

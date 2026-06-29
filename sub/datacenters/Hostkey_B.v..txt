@@ -1,10 +1,5 @@
-vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?type=ws&security=none&path=/randompath123&host=www.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 78.17.38.238
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 212.69.86.220
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 193.247.82.40
-vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?type=tcp&security=reality#IS 🇮🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 82.22.53.30
-vless://db9bbff2-224b-4017-b756-31dc7783a7be@81.29.146.82:443?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 81.29.146.82
-vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 194.164.217.139
-vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.22.50.157:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 82.22.50.157
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 194.247.187.177
+vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@194.147.214.197:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 194.147.214.197
+vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 194.180.206.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz@194.34.239.105:18760#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 194.34.239.105
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 132.243.213.174
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222

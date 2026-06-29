@@ -1,7 +1,2 @@
-vless://dbd258b1-1bd3-4cd8-8e5c-fb54fab08800@nl.ipsenter.org:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.107.196
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.45.129
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.27.99
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.190:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.60.190
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?type=tcp&security=reality&sni=4.oncloudnineservicestreang.com&flow=xtls-rprx-vision&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.46.178
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.60.65
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?type=tcp&security=none&mode=packet-up#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 185.244.192.101
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=reality&sni=5.oncloudnineservicestreang.com&fp=chrome&flow=xtls-rprx-vision&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&sid=273940fba6ad8250#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.44.159
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.46.178

@@ -1,10 +1,8 @@
-vless://a9c0d70c-8283-4dfb-b3e0-6e797fc4ce26@frd1.foot8all.ir:2026?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.79.165
-vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.134.92
-vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.80.48
-vless://797de269-0ead-4289-97a3-3695188143d2@45.39.33.97:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.33.97
-vless://1176b07e-35ea-491e-aeec-d7a7912c6162@104.252.111.199:11439?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Cloud Software - FZCO ┇ 104.252.111.199
-vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:17492?type=tcp&security=none&path=/ws#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
+vless://c2591fc2-d8e5-48c8-b264-3c0d6cf86603@rg.xnbot-human.ir:9010?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.19.205
+vless://1176b07e-35ea-491e-aeec-d7a7912c6162@104.252.111.199:11439?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.199
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3VkIFNvZnR3YXJlIC0gRlpDTyBcdTI1MDcgMTA0LjI1Mi4xMTEuMjEiLCJhZGQiOiIxMDQuMjUyLjExMS4yMSIsInBvcnQiOjMxMzAzLCJpZCI6IjYwYmJmNGQzLTkxNWYtNDBlZi05Yjk3LTA2OTZjN2E2NzQzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:36298?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://c2a0a24f-782f-4c64-ab1e-b22d69903a4e@45.38.198.189:29464?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 45.38.198.189
+vless://797de269-0ead-4289-97a3-3695188143d2@45.39.33.97:443?type=tcp&security=none&host=play.google.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.33.97
+vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=xhttp&security=none&path=/&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
+vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:17492?type=tcp&security=none&path=/ws#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
+vless://43e1ba19-ba6c-4125-a24b-38599f04a300@104.252.53.173:2082?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.53.173

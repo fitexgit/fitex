@@ -1,8 +1,5 @@
-vless://222ca353-a842-44f8-a86f-317fbbf73f2c@72.56.39.200:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.39.200
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.32.211:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 72.56.32.211
-vless://17550015-678f-43ad-b0d2-65c0a829bedb@178.209.127.33:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 178.209.127.33
 vless://222ca353-a842-44f8-a86f-317fbbf73f2c@109.73.195.191:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 109.73.195.191
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?type=tcp&security=reality&sni=sellflow.org&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.121.174
-vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 201.51.1.108
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 185.200.240.134
-vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.245.170
+vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&sid=e8d2a1b4c39f8877#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 37.77.104.182
+vless://222ca353-a842-44f8-a86f-317fbbf73f2c@72.56.39.200:8443?type=tcp&security=reality&sni=max.ru&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&fp=firefox&flow=xtls-rprx-vision&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.39.200
+vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 72.56.245.170
+vless://17550015-678f-43ad-b0d2-65c0a829bedb@178.209.127.33:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 178.209.127.33

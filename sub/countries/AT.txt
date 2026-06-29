@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 37.235.56.69
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.198
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.102
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&sni=vindobona.org&fp=chrome&flow=xtls-rprx-vision&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
