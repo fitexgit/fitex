@@ -1,5 +1,6 @@
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 185.221.199.37
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
 vless://c8b9291e-8193-4381-9ef2-f6fc806c69b7@98fra.rolexcloud.ir:2001?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.78.108
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@193.233.137.60:4111?type=tcp&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.137.60
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&sni=vindobona.org&fp=chrome&flow=xtls-rprx-vision&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.73.131.154
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.17:443?type=tcp&security=none&path=/download.php#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.176.17
+vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@46.226.161.129:2053?type=ws&security=tls&path=/proxyip=91.228.154.10?u=cf4dcf81ac&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza Group LLC ┇ 46.226.161.129
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@193.233.137.60:4111?type=tcp&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.137.60
