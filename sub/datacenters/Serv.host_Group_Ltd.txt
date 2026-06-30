@@ -1,2 +1,4 @@
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.208:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.208
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.56
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=reality&sni=service.mycloudsfere.abrdns.com&flow=xtls-rprx-vision&pbk=Xb-A55KyH9nwjxKw85wksIUJs9KBGk5B8rLArXGVLiw&sid=d9654598d4415f95#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.216.98
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.208:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.208
+vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@31.76.7.28:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.7.28
