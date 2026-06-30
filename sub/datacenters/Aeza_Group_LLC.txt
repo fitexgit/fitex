@@ -1,5 +1,4 @@
 vless://ce967499-9b55-480f-9d8e-6f2d37bba843@193.233.137.60:4111?type=tcp&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.137.60
-vless://c8b9291e-8193-4381-9ef2-f6fc806c69b7@98fra.rolexcloud.ir:2001?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.78.108
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.17:443?type=tcp&security=none&path=/download.php#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.176.17
+vless://c8b9291e-8193-4381-9ef2-f6fc806c69b7@98fra.rolexcloud.ir:2001?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.78.108
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality&sni=dipvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&security=reality&sni=stockholmresilience.org&fp=chrome&flow=xtls-rprx-vision&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&sid=b378#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 89.22.228.57
