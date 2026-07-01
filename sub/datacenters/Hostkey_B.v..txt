@@ -1,2 +1,4 @@
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@89.125.119.48:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 89.125.119.48
+vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.22.50.157:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 82.22.50.157
+vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 193.247.82.40
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 194.164.217.139
