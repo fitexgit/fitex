@@ -1,3 +1,5 @@
+vless://fee8813d-3a9c-4749-b0af-47e5e12e8b3a@152.236.3.28:8443?type=grpc&security=reality&sni=addons.mozilla.org&mode=gun&fp=chrome&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Latitude.sh ┇ 152.236.3.28
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?type=ws&security=tls&path=/vless/#MX 🇲🇽 ┇ VLESS-WS-TLS - Latitude.sh ┇ 45.134.9.133
 vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.28:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Latitude.sh ┇ 152.236.3.28
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTGF0aXR1ZGUuc2ggXHUyNTA3IDE3Mi4xMTEuMTQ2LjY0IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.30:8443?type=grpc&security=reality&sni=addons.mozilla.org&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Latitude.sh ┇ 152.236.3.30
+vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.30:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Latitude.sh ┇ 152.236.3.30
