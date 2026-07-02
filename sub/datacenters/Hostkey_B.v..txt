@@ -1,6 +1,2 @@
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 193.247.82.40
-vless://c63c03b0-2cc1-4063-b8c1-2eb64138f72f@146.0.75.144:443?type=grpc&security=tls&sni=dzen.ru&fp=qq#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Hostkey B.v. ┇ 146.0.75.144
-vless://c63c03b0-2cc1-4063-b8c1-2eb64138f72f@45.155.102.46:443?type=grpc&security=tls&sni=dzen.ru&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Hostkey B.v. ┇ 45.155.102.46
-vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 176.119.141.136
+vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.22.50.157:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 82.22.50.157
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
-vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 132.243.213.174
