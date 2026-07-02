@@ -1,2 +1,6 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 156.231.113.141
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.83.95.129:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 154.83.95.129
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.83.95.129:443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 154.83.95.129
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@it-r.vortexio.cc:8443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#IT 🇮🇹 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 45.196.215.241
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@de3-r.vortexio.cc:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#SC 🇸🇨 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 156.226.174.234
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?type=ws&security=tls&path=/&sni=t1s1.rittbo.kdns.fr#JP 🇯🇵 ┇ VLESS-WS-TLS - AKILE LTD ┇ 156.231.113.141
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@hk2-r.vortexio.cc:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#HK 🇭🇰 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 45.149.186.67
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@hk2-r.vortexio.cc:8443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#HK 🇭🇰 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 45.149.186.67

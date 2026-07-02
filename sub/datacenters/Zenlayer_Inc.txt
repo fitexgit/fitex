@@ -1,1 +1,4 @@
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@51.194.215.122:666?type=ws&security=tls&path=/proxy&sni=51.194.215.122#GB 🇬🇧 ┇ VLESS-WS-TLS - Zenlayer Inc ┇ 51.194.215.122
+vless://d136cf56-5fe0-4c3e-b1af-915e738d2320@181.214.100.120:2446?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Zenlayer Inc ┇ 181.214.100.120
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@181.214.100.89:666?type=ws&security=tls&path=/proxy&sni=181.214.100.89#AE 🇦🇪 ┇ VLESS-WS-TLS - Zenlayer Inc ┇ 181.214.100.89
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Zenlayer Inc ┇ 107.151.182.253

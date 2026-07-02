@@ -1,2 +1,4 @@
+vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@down.baguvix.ir:8855?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.100
+vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&pbk=N--0r-eUKZ-23lmSHvsC4ywFbsAWRahFtxv_N02AgFY&sid=df2becfa7b040c78#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 162.217.248.229
+vless://949483b0-fbab-492f-977c-fbcb7917f542@217.179.5.182:8880?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.5.182
 vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.199
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119

@@ -1,2 +1,7 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.30:8880?type=ws&security=none&path=/&sni=vms.lifetime42.workers.dev#US 🇺🇸 ┇ VLESS-WS-NTLS - Bigcommerce Inc. ┇ 63.141.128.30
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?type=tcp&security=none&path=/188.240.213.98:8443#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 63.141.128.45
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?type=ws&security=tls&path=/api/v1/stream&sni=sync.amordad.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.3
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?type=ws&security=tls&path=/api/v1/stream&sni=sync.amordad.xyz&host=sync.amordad.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.252
+vless://08e275e2-546f-423a-bcb7-c8e89a8aa070@cdn1.sokharivakilabad.ir:8880?type=tcp&security=none&fp=ios#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.111
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?type=ws&security=tls&path=/admins?ed=2560&sni=9.neshaan.org&host=9.neshaan.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Bigcommerce Inc. ┇ 192.200.160.14
-vless://8486b4db-0e97-4839-a132-5335bd85143f@cdn1.sokharivakilabad.ir:8080?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Bigcommerce Inc. ┇ 192.200.160.111
+vless://08e275e2-546f-423a-bcb7-c8e89a8aa070@cdn1.sokharivakilabad.ir:2086?type=tcp&security=none&fp=ios#US 🇺🇸 ┇ VLESS-TCP-NTLS - Bigcommerce Inc. ┇ 192.200.160.111
