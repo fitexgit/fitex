@@ -1,8 +1,6 @@
-vless://d136cf56-5fe0-4c3e-b1af-915e738d2320@181.214.100.120:2446?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Zenlayer Inc ┇ 181.214.100.120
-ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 176.125.231.11
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
-vless://6194f73e-67de-445a-b83c-c963e42d5592@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@181.214.100.89:666?type=ws&security=tls&path=/proxy&sni=181.214.100.89#AE 🇦🇪 ┇ VLESS-WS-TLS - Zenlayer Inc ┇ 181.214.100.89
-vless://78e6619e-e82a-cd8d-b482-0973d8498305@94.140.0.100:8880?type=ws&security=none&path=/sync&sni=silent-pine-a674.jfadwkglaugul.workers.dev#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 94.140.0.100
+vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?type=ws&security=none&path=/randompath123&host=www.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 78.17.38.238
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.63.44
+vless://fdf18cdb-7280-468e-9150-565a5da92471@yahoo.epiconline.ir:5039?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.81
+vless://6194f73e-67de-445a-b83c-c963e42d5592@45.86.228.237:443?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.63.44
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239

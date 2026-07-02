@@ -1,3 +1,1 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@163.5.207.110:443?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 163.5.207.110
-vless://f421e67c-64f3-45a1-d7b4-40cf42c844f6@45.158.127.48:443?type=ws&security=tls&path=/TG@wxgqlfx&sni=us2.wxgqlfx.icu&host=us2.wxgqlfx.icu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 45.158.127.48
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@2.59.183.233:444?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 2.59.183.233
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@2.59.183.233:444?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serva One Ltd ┇ 2.59.183.233

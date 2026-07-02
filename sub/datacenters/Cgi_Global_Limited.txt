@@ -1,10 +1,5 @@
-vless://66ce683a-7d07-4a20-9658-363c9f2b7c30@31.15.17.179:4050?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.17.179
-vless://c15dc8c2-261e-442d-9230-635af88921f9@sub.1.polnejat.ir:4720?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
-vless://98f613ab-03be-4a0d-8f98-5beb4327af4c@sub.1.polnejat.ir:4720?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
-vless://abd50fb7-f17b-4c53-aa0c-921ed714b2a0@46.8.78.231:17380?type=httpupgrade&security=none&path=/#HK 🇭🇰 ┇ VLESS-HTTPUPGRADE-NTLS - Cgi Global Limited ┇ 46.8.78.231
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 31.56.176.196
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.176.191
-vless://a1853748-4666-46d2-a19e-2f2a58e12d7b@46.8.78.150:2082?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.78.150
-vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@185.31.200.15:8080?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.31.200.15
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.63.44
+vless://0d7b2669-b470-45e0-8205-d03ad1825bd6@sub.1.polnejat.ir:25718?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
+vless://4d49aa89-3684-4c97-abfc-09798c67c673@31.15.17.124:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.17.124
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.63.44
 vless://7478a7f7-7fb3-4e55-9908-d860abc7f5e7@31.15.17.179:4050?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.17.179
+vless://66ce683a-7d07-4a20-9658-363c9f2b7c30@31.15.17.179:4050?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.15.17.179
