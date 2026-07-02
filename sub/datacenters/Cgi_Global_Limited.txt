@@ -1,4 +1,4 @@
+vless://571241ae-40ec-428e-8151-285bf2d3786f@riga.jorzel.ir:19302?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.29.28
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.63.44
-vless://abd50fb7-f17b-4c53-aa0c-921ed714b2a0@46.8.78.231:17380?type=httpupgrade&security=none&path=/#HK 🇭🇰 ┇ VLESS-HTTPUPGRADE-NTLS - Cgi Global Limited ┇ 46.8.78.231
-vless://c15dc8c2-261e-442d-9230-635af88921f9@sub.1.polnejat.ir:4720?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.92.183.244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 31.57.158.48
+vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@185.31.200.15:8080?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.31.200.15
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.48.86
