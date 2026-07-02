@@ -1,3 +1,2 @@
-vless://f7a656e5-e37d-442b-9693-29d293dba6bb@web.matcloud.ir:22187?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=paBOT7GydCbq4n4ANTEKrsmenc1xD1TBwV5LgGf6EE0&sid=39aa597373aa1e5a#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.141.118.173
-vless://9df9ff53-9960-46f6-9f06-f6f502fa143f@107.161.160.197:443?type=grpc&security=reality&mode=gun&fp=chrome&pbk=BOVDMLrMlAzz6uiXVuTF4yCknoXrU25dYmRFPD8_CXs#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - YottaSrc ┇ 107.161.160.197
-vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@down.baguvix.ir:8855?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 167.104.219.100
+vless://9df9ff53-9960-46f6-9f06-f6f502fa143f@107.161.160.197:443?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.197
+vless://Telegram@217.179.5.62:443?type=tcp&security=none&path=/&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.5.62

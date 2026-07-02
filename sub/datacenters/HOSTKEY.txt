@@ -1,1 +1,1 @@
-vless://d2527061-d0f8-4646-b38d-b7828aafefd9@82.39.214.45:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HOSTKEY ┇ 82.39.214.45
+vless://d2527061-d0f8-4646-b38d-b7828aafefd9@82.39.214.45:443?type=tcp&security=tls&sni=www.varzesh3.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - HOSTKEY ┇ 82.39.214.45
