@@ -1,4 +1,2 @@
-vless://50eca7ae-37c4-4713-8c52-e50a8f303d71@31.192.244.125:30491?type=tcp&security=none&path=/#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 31.192.244.125
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCYXhldCBHcm91cCBJbmMuIFx1MjUwNyA5MS4xNDkuMjM5LjE2NSIsImFkZCI6ImNnMWMxNC53YWltYW9qZC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJjZzFjMTQud2FpbWFvamQuY29tIiwicGF0aCI6Ii9hcGkvdjEvZ3JhcGhxbCIsInRscyI6InRscyIsInNuaSI6ImNnMWMxNC53YWltYW9qZC5jb20ifQ
-vless://7f4d19bb-c9a8-4793-8e00-bce688a1b674@31.192.244.125:40374?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - Baxet Group Inc. ┇ 31.192.244.125
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@206.251.49.44:443?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Baxet Group Inc. ┇ 206.251.49.44
+vless://50eca7ae-37c4-4713-8c52-e50a8f303d71@31.192.244.125:30491?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - Baxet Group Inc. ┇ 31.192.244.125
