@@ -1,6 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1S2lsb2xGVWp6bE1hYlEwT1J3QlV3cjZzU3ZxUkN6aA@85.234.73.234:1080#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.234
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Netly LLC ┇ 89.125.20.104
+vless://1104676b-0e7d-4f80-825f-83e8d7ea77c6@api2.hexogate.net:9443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.213
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozb0U2a3lhbjg2aWp5VHh5OHgzcTZ0NEczdHljY0ZXdw@uk-tun.xorvex.ir:8893#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Pars Abr Toseeh Ertebatat LTD ┇ 94.183.212.59
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://1104676b-0e7d-4f80-825f-83e8d7ea77c6@api2.hexogate.net:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.73.213
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=ws&security=tls&path=?ed=2048&sni=eunetherla.appleseraj.ir&host=eunetherla.appleseraj.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmFzdHRrbQ@188.208.110.58:8444#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Bfb One Fz-llc ┇ 188.208.110.58
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
-vless://8fccb509-683c-40b8-92b4-c618c75bab3d@t5.novatechlab.ir:2021?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Atrin Information & Communications Technology Company PJS ┇ 217.60.255.152
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
