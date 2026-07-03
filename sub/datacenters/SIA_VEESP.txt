@@ -1,2 +1,1 @@
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 94.242.55.42
-vless://3dbec774-ef69-463f-9bec-dfc899e41cb9@13.140.9.47:443?type=tcp&security=none&flow=xtls-rprx-vision#SE 🇸🇪 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 13.140.9.47
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 94.242.55.42
