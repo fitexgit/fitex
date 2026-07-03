@@ -1,5 +1,7 @@
-vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.193:2567?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 87.199.202.193
 vless://ccbbd3a3-db22-4f82-956e-d65178de2743@88.210.9.69:443?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=aQdv6gDmsVZc5dO1WmmEQ6Q_puJhNUurND-TJJjtCSs&sid=8f2c0e7a15bd#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Servers Tech Fzco ┇ 88.210.9.69
-vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 87.199.210.215
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.15:2566?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&sid=b220cebe89a795#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Servers Tech Fzco ┇ 87.199.202.15
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.193:2567?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 87.199.202.193
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.204.10:2567?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 87.199.204.10
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.203.225:2566?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Servers Tech Fzco ┇ 87.199.203.225
-vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.15:2566?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Servers Tech Fzco ┇ 87.199.202.15
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 87.199.210.215
+vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Servers Tech Fzco ┇ 195.63.133.145

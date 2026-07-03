@@ -1,4 +1,5 @@
-vless://eed5c625-7701-41da-aa3a-0c5e0e4de22a@144.225.65.249:80?type=ws&security=none&path=/profile&host=fonts.spsps.ir#TR 🇹🇷 ┇ VLESS-WS-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 144.225.65.249
-vless://544129ad-a0bd-4af8-8887-5ff7c414217e@bernar.hardvezoo.ir:6764?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.159.35
 vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRkF3QWdVaTRBSlg5Ujh0UFE0ODNR@bernar.hardvezoo.ir:8774#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.159.35
+vless://31ed0ed1-746a-46aa-bb54-7a3c30b90c3e@45.74.159.146:32845?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.159.146
+vless://544129ad-a0bd-4af8-8887-5ff7c414217e@bernar.hardvezoo.ir:6764?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.159.35
+vless://Telegram@45.74.158.246:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.158.246
+vless://eed5c625-7701-41da-aa3a-0c5e0e4de22a@144.225.65.249:80?type=ws&security=none&path=/profile&host=fonts.spsps.ir#TR 🇹🇷 ┇ VLESS-WS-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 144.225.65.249
