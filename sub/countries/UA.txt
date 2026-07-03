@@ -1,3 +1,1 @@
-vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@46.202.30.87:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c#UA 🇺🇦 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 46.202.30.87
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=tcp&security=none&path=/websocket#UA 🇺🇦 ┇ VLESS-TCP-NTLS - NetAssist LLC ┇ 95.164.47.60
-vless://226ce1e9-193c-493a-b32e-fa6bb4f99698@91.231.182.48:2020?type=tcp&security=none&host=play.google.com#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.48
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197

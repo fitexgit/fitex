@@ -1,2 +1,3 @@
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.190:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.60.190
-vless://8b04b31b-6435-472e-a598-90705c575afc@152.53.44.105:443?type=tcp&security=none&flow=xtls-rprx-vision#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.44.105
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=reality&sni=2.oncloudnineservicestreang.com&fp=chrome&flow=xtls-rprx-vision&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.22.155
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.46.178
+vless://8b04b31b-6435-472e-a598-90705c575afc@au-n1.gsupport.support:443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.44.105
