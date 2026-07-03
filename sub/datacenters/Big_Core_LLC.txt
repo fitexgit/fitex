@@ -1,5 +1,2 @@
-vless://550a334c-69a5-4167-a7ac-b69197cfea84@185.226.92.189:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=8r82vpvBeMFNnNAwOslczN4XI--CU1nA-LNm7qzvXx0&sid=c80bf843#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Big Core LLC ┇ 185.226.92.189
-vless://a4634028-e049-4682-9b54-9f6acfc6f6c9@185.226.93.216:8585?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=vcKiE0xk8puw1wUjB_1-vg68JDT106zpO-L9V7gPVyU&sid=1677a145cdf19a9d#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Big Core LLC ┇ 185.226.93.216
-vless://Telegramm%3ATurboConfigs@185.226.93.157:443?type=tcp&security=reality&sni=download.amd.com&fp=chrome&pbk=fIvwbiThGF7JXJjB1z7FWtILoc2odV_irWhFAbyNcVc&sid=405d4fcb82#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Big Core LLC ┇ 185.226.93.157
-vless://18287f51-6b16-49cd-b09b-484c00e77849@connect.nyxserver.ir:80?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.92.160
-vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.160
+vless://980282fd-25e7-4b99-bdb2-2c9d276a775e@connect.nyxserver.ir:80?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.92.160
+vless://18287f51-6b16-49cd-b09b-484c00e77849@connect.nyxserver.ir:80?type=tcp&security=none&path=/arvan-tuel#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.160

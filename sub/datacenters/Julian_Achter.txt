@@ -1,2 +1,7 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@swiss.janusgate.org:443?type=tcp&security=reality&sni=swiss.janusgate.org&fp=chrome&flow=xtls-rprx-vision&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=d38eea587f1a4f68#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Julian Achter ┇ 185.132.53.102
-vless://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@45.67.138.207:443?type=tcp&security=tls&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Julian Achter ┇ 45.67.138.207
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@92.119.164.56:443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 92.119.164.56
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@45.137.69.103:443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 45.137.69.103
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@45.137.201.63:443?type=tcp&security=none&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 45.137.201.63
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@185.132.53.62:443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 185.132.53.62
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@45.137.69.178:443?type=tcp&security=none&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 45.137.69.178
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@45.137.201.104:443?type=tcp&security=none&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 45.137.201.104
+vless://8742a92e-6826-4746-b7c3-d42d83e5d83c@45.141.119.16:443?type=tcp&security=none&flow=xtls-rprx-vision#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Julian Achter ┇ 45.141.119.16

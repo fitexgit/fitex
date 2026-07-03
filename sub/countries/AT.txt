@@ -1,8 +1,3 @@
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.44.148:443?type=tcp&security=tls&sni=at-c1.buycloud.app&fp=chrome&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - netcup GmbH ┇ 152.53.44.148
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.148:2096?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳+@WangCai2&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.148
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.194:443?type=ws&security=tls&path=/?ed=2560&sni=vb.zhuk.us.kg&host=vb.zhuk.us.kg#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.194
-vless://df74ab9a-63fb-4a81-9485-10052bbd24f9@77.110.110.166:443?type=tcp&security=reality&sni=ads.x5.ru&fp=randomized&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#AT 🇦🇹 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.110.110.166
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.103:443?type=ws&security=tls&path=/?proxyip&sni=xq.ylks.xyz#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.103
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.221:8443?type=ws&security=tls&path=/uploads/events&sni=linek.perry.us.kg&host=linek.perry.us.kg&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 132.243.203.221
-vless://c4d69096-4026-4da5-9485-20a3da91cb14@152.53.103.35:7443?type=grpc&security=reality&sni=www.aviasales.com&fp=chrome&pbk=J7kVt25xZozh2eLHffHi7JvzwVTbUaHYoANgnySb_Vc&sid=0e54c76c#AT 🇦🇹 ┇ VLESS-GRPC-REALITY - netcup GmbH ┇ 152.53.103.35
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?type=ws&security=tls&path=/?proxyip&sni=ve.ylkszy.eu.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.198
+vless://8b04b31b-6435-472e-a598-90705c575afc@152.53.44.105:443?type=tcp&security=none&flow=xtls-rprx-vision#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.44.105
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@at.fast-cone.com:443?type=tcp&security=none&flow=xtls-rprx-vision#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.239.153
+vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?type=tcp&security=none&flow=xtls-rprx-vision#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 132.243.254.58
