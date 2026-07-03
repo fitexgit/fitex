@@ -1,2 +1,7 @@
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@tunnle.izumii.ir:2009?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.144.43
+vless://a886115c-ee8f-42fa-9b49-4610037c8240@193.151.140.200:443?type=xhttp&security=tls&sni=cdn.gapfilm.org&host=cdn.gapfilm.org&mode=auto&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Asre Dadeha Asiatech ┇ 193.151.140.200
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.42
+vless://fab79bc8-0b97-4483-ab89-450cec9e324c@193.151.155.162:443?type=xhttp&security=tls&host=cdn.gapfilm.org&mode=auto#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Asre Dadeha Asiatech ┇ 193.151.155.162
+vless://ed60d60a-285d-461a-a6b3-32406ea32131@193.151.129.116:443?type=ws&security=tls&path=/ws?ed=500&sni=r1-vod.varzesh3.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Asre Dadeha Asiatech ┇ 193.151.129.116
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.138.148
-vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.12.224
+vless://c0548e90-3bad-4b5b-a327-63e52f50d550@ir.dashping2.ir:7102?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Asre Dadeha Asiatech ┇ 193.151.154.221

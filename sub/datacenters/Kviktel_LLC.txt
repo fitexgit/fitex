@@ -1,1 +1,3 @@
-vless://3d5faf47-a299-4e0b-a2dc-85d5ac2ce885@45.139.25.145:443?type=tcp&security=tls&sni=fl-mirror2-node.ok-sbrf.ru&fp=firefox#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 45.139.25.145
+vless://dd632900-378f-4e2b-ad89-84ea66478e94@185.147.27.105:80?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Kviktel LLC ┇ 185.147.27.105
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@45.139.27.86:443?type=tcp&security=reality&sni=alisa.kosmolet.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=IU2t096hBC7gAQ_rY1qwYsAtgiegzYI6loivZJxpx1E&sid=28e1270764a2464b#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 45.139.27.86
+vless://7d577d3b-71ff-4a12-99e5-b7662c92a9f1@185.147.27.105:80?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Kviktel LLC ┇ 185.147.27.105

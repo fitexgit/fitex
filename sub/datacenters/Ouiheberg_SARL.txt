@@ -1,2 +1,1 @@
-vless://3518eb7c-9fb0-4690-a908-9034d7d98e28@50.117.3.57:8443?type=tcp&security=none&sni=ign.dev#US 🇺🇸 ┇ VLESS-TCP-NTLS - Ouiheberg SARL ┇ 50.117.3.57
-vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@50.117.3.182:443?type=tcp&security=none&sni=apple.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Ouiheberg SARL ┇ 50.117.3.182
+vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@frp.musicperec.ru:443?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=8a0b9c6d#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Ouiheberg SARL ┇ 185.248.33.149

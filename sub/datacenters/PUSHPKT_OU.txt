@@ -1,1 +1,2 @@
-vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - PUSHPKT OU ┇ 117.55.202.15
+vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@nl-ws-1.hysteria.ltd:6443?type=ws&security=tls&path=/wsfp=chrome&sni=nl-ws-1.hysteria.ltd#NL 🇳🇱 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 117.55.203.72
+vless://abfc45c3-5210-43bd-83f1-0e5062790080@117.55.202.15:443?type=ws&security=tls&path=/&sni=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&host=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 117.55.202.15
