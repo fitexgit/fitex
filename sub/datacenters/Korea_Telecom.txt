@@ -1,5 +1,2 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@125.138.28.68:21268?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edgc.aimercc.dpdns.org&host=edgc.aimercc.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 125.138.28.68
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.191.33.84:30303?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.v6.army&host=sni.111000.v6.army#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.191.33.84
-vless://b2b62085-f202-4c49-9f19-a44676a3d76d@222.113.18.214:11310?type=ws&security=tls&path=/ray&sni=vpn2.rnmcnm.com&host=vpn2.rnmcnm.com#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 222.113.18.214
-vless://26524cce-d514-4014-a426-365fb266a14d@221.165.124.107:23023?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=vfa9.cdn-stream.fgfw.indevs.in&host=vfa9.cdn-stream.fgfw.indevs.in#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 221.165.124.107
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.47.194.165:50000?type=ws&security=tls&path=Telegram@freecodes/?ed=2560&sni=gaosir.unfeeling.sbs&host=gaosir.unfeeling.sbs#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 118.47.194.165
+vless://598437fc-a6c8-4e74-b68a-80292562d779@183.101.221.233:12016?type=tcp&security=none&mode=multi#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 183.101.221.233
+vless://32cedaf9-130b-4993-b2b5-8af343acb7e7@121.182.50.110:30029?type=tcp&security=none&mode=multi#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 121.182.50.110

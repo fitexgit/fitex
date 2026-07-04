@@ -1,2 +1,3 @@
+vless://a9db7a1c-65eb-49e4-bcad-6a791efeb982@91.124.209.145:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - WorldStream B.V. ┇ 91.124.209.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotZGNKdFBmZVV2SnQ1ZnVrdFVPTFhR@91.124.209.145:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.124.209.145
-vless://a9db7a1c-65eb-49e4-bcad-6a791efeb982@91.124.209.145:50051?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - WorldStream B.V. ┇ 91.124.209.145
+vless://a9db7a1c-65eb-49e4-bcad-6a791efeb982@91.124.209.145:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - WorldStream B.V. ┇ 91.124.209.145
