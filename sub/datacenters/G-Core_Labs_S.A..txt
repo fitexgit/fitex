@@ -1,5 +1,4 @@
-vless://48a0889d-ee9f-4a3b-8004-b9bf5a66d7b9@sync1.hexogate.net:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 162.216.231.242
-vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.53
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://359a4318-0bb4-4a75-aa43-8dc5dd1d5e20@bestinclass.soft98ver2.com:2082?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 5.252.26.161
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.137.142
+vless://7fbdb340-6434-430b-8a0a-86363840acb9@myip.check.nonpath.ir:42542?type=tcp&security=none&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.63
+vless://34c07602-2020-49f7-8d7d-13157991f454@myip.check.nonpath.ir:42542?type=tcp&security=none&path=/&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.63
+vless://fdf18cdb-7280-468e-9150-565a5da92471@yahoo.epiconline.ir:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 217.195.200.81

@@ -1,9 +1,6 @@
-vless://e286cebe-7473-44e9-8c30-273ac36ac83b@94.140.0.255:443?type=tcp&security=none&path=/ws?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
-vless://1ce66871-f61d-4f1f-8ef8-de1e3ca280f7@dubai.lunaparkmaku.com:42542?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Zenlayer Inc ┇ 85.237.211.79
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.9.181
-vless://8fccb509-683c-40b8-92b4-c618c75bab3d@t5.novatechlab.ir:2021?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Atrin Information & Communications Technology Company PJS ┇ 217.60.255.152
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@solar.appleseraj.ir:2083?type=ws&security=tls&path=?ed=2048&sni=nuren1.appleseraj.ir&host=nuren1.appleseraj.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=ws&security=tls&path=?ed=2048&sni=nuverv.appleseraj.ir&host=nuverv.appleseraj.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
-vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://fdf18cdb-7280-468e-9150-565a5da92471@yahoo.epiconline.ir:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 217.195.200.81
+vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - M247 Europe SRL ┇ 103.57.251.208
+vless://e286cebe-7473-44e9-8c30-273ac36ac83b@94.140.0.255:443?type=tcp&security=none&path=/ws?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
+vless://89acd2b4-ef58-42e8-8f34-50bfa9482e2a@du1.gamelistak.com:443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&sni=du1.gamelistak.com&host=du1.gamelistak.com&mode=auto&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - RouterHosting LLC ┇ 144.172.88.90
