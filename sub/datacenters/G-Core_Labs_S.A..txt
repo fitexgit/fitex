@@ -1,5 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://9a4365eb-dbfb-4809-90a3-53aca3d894fa@5.252.26.109:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 5.252.26.109
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@92.38.171.103:50004#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.103
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?type=ws&security=none&path=/#BG 🇧🇬 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 89.44.197.77
+vless://9fce38fd-1d71-4c39-bf8d-1685db314664@kaz1.frost-api.com:6443?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.39.157
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://22c7b1a9-86d7-4f64-ad70-d0fc6f6d2bfc@helixgaming.ir:80?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.128
+vless://9fce38fd-1d71-4c39-bf8d-1685db314664@nldnode1.frost-api.com:6443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 193.169.239.176
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@85.234.65.130:6000?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.130
