@@ -1,2 +1,2 @@
-vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@89.106.64.91:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - SYNLINQ ┇ 89.106.64.91
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?type=tcp&security=none&mode=stream-one#DE 🇩🇪 ┇ VLESS-TCP-NTLS - SYNLINQ ┇ 89.106.64.15
+hysteria2://r7386498464aq@vids.jibiji.store:443?sni=bts.com&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - SYNLINQ ┇ 37.44.215.235
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?type=xhttp&security=none&path=/&host=a12.crowsvpn.shop&mode=stream-one#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - SYNLINQ ┇ 89.106.64.15
