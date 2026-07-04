@@ -1,10 +1,4 @@
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@node5.frost-api.com:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - LLC VK ┇ 146.185.210.27
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@polnode1.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 85.192.35.191
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@fra1.frost-api.com:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - LLC VK ┇ 146.185.211.2
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@node6.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.31.218
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@usnode1.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 212.233.99.196
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@finnode2.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.198.103
+vless://9fce38fd-1d71-4c39-bf8d-1685db314664@node2.frost-api.com:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 91.219.227.253
+vless://39a7fe2d-41dc-46f5-bb76-f07707994885@109.120.189.154:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 109.120.189.154
+vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 217.16.29.31
 vless://9fce38fd-1d71-4c39-bf8d-1685db314664@msknode1.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 89.208.198.161
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@node2.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 91.219.227.253
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@node3.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 217.16.31.162
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@denode1.frost-api.com:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - LLC VK ┇ 109.120.183.69

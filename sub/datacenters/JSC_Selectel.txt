@@ -1,2 +1,3 @@
-vless://26c995f4-faee-42ad-b669-b8d61341bf81@79.143.30.33:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 79.143.30.33
-vless://fc7d8276-2f79-48f2-92c7-2fa5c0d9aa2a@139.100.234.44:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 139.100.234.44
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?type=tcp&security=reality&sni=ru.sfasti.ru&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 94.26.228.10
+vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 80.249.131.7
+vless://26c995f4-faee-42ad-b669-b8d61341bf81@79.143.30.33:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 79.143.30.33

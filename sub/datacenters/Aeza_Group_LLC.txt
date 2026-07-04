@@ -1,5 +1,7 @@
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
-vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 77.221.143.28
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?type=tcp&security=tls&sni=decdn7.suio.me#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza Group LLC ┇ 109.120.177.84
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 89.22.228.57
+vless://b0105618-904b-48f8-8ffc-ea5754da6206@109.120.150.17:7443?type=tcp&security=none&path=/@Marisa_kristi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.150.17
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.143.28
 vless://89049f79-320b-48a0-b1cf-110165cae30c@213.108.20.209:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.108.20.209
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.21.233.164
+vless://29ee269a-356f-475b-9e21-9df1f0899af1@77.221.154.42:3443?type=tcp&security=none&path=/@Marisa_kristi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.154.42
+vless://04c16649-bbf3-41fc-99eb-7507668221d2@77.221.154.152:8444?type=tcp&security=none&path=/@Marisa_kristi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.154.152
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
