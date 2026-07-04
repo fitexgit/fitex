@@ -1,6 +1,1 @@
-vless://949483b0-fbab-492f-977c-fbcb7917f542@217.179.5.182:8880?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 217.179.5.182
-vless://3f115179-afd0-44eb-b195-87a1224dbf33@107.181.155.29:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.181.155.29
-vless://e7c7bb21-73dd-4fee-8373-862369e86816@107.181.155.29:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.181.155.29
-vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.199
-vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 143.246.136.34
-vless://3cae9337-fd3e-4e1c-9911-a5fbaac828b9@allnets.lorqina.ir:21959?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 64.49.15.154
+vless://3dbec774-ef69-463f-9bec-dfc899e41cb9@45.43.75.124:443?type=http&security=reality&path=/&sni=www.google.com&fp=chrome&pbk=C0lyFVn8diL1wNztFDpFtTMjohRbNu-1x6yee6VGdnw#GB 🇬🇧 ┇ VLESS-HTTP-REALITY - YottaSrc ┇ 45.43.75.124

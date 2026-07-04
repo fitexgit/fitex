@@ -1,5 +1,3 @@
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&insecure=0#FI 🇫🇮 ┇ HYSTERIA2-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.75.135.220
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCd0NOWFphU2k0YWI3bFF1MmN2TTIw@45.95.233.55:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.233.55
-vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:8443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#GB 🇬🇧 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 45.89.60.64
-vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@tr.iranfastspeed.com.tr:59492?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Global Connectivity Solutions Llp ┇ 77.83.245.253
+vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?type=tcp&security=none&path=/?u=1e5b0dc4c9#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.60.66
 vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#GB 🇬🇧 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 45.89.60.64
+vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:8443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#GB 🇬🇧 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 45.89.60.64
