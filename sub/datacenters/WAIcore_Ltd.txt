@@ -1,3 +1,1 @@
-vless://2adb7d20-77d7-4808-a284-eb6306780eea@87.120.92.151:6543?type=tcp&security=none&mode=multi#BG 🇧🇬 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 87.120.92.151
-vless://ca42efc2-105d-4140-8804-8ba88c165300@87.120.92.151:6543?type=tcp&security=none&mode=multi#BG 🇧🇬 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 87.120.92.151
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=grpc&security=reality&sni=c.primarymaster.online&mode=gun&fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#CZ 🇨🇿 ┇ VLESS-GRPC-REALITY - WAIcore Ltd ┇ 95.85.233.181
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=tcp&security=none&mode=gun#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 95.85.233.181

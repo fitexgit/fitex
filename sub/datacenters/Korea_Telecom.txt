@@ -1,2 +1,1 @@
-vless://598437fc-a6c8-4e74-b68a-80292562d779@183.101.221.233:12016?type=tcp&security=none&mode=multi#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 183.101.221.233
-vless://32cedaf9-130b-4993-b2b5-8af343acb7e7@121.182.50.110:30029?type=tcp&security=none&mode=multi#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 121.182.50.110
+vless://2a442fd0-3c09-4b8f-b619-16888e8aa811@121.182.50.110:30029?type=ws&security=tls&path=/@VPNine1&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom ┇ 121.182.50.110

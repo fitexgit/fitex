@@ -1,3 +1,1 @@
-vless://4f8d3923-a356-0066-97c6-44ba7e05a4c2@2.27.13.63:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 2.27.13.63
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 153.76.122.225
-vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@153.76.122.94:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 153.76.122.94
+vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&sid=5ea7e22e889dabc5#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Node Host Limited ┇ 2.26.255.120
