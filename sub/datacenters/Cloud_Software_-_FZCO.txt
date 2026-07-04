@@ -1,7 +1,7 @@
-hysteria2://darer5j2tj2tgocd@104.252.89.240:16903?sni=cdn.arefvpn1.qzz.io&insecure=0#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.240
-vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=xhttp&security=none&path=/&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:38949?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.240
-vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:56911?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.240
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:36298?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.39.190.143:443?type=tcp&security=none&path=/#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.39.190.143
+vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:56911?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.240
 vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:12042?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.240
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.80.48
+vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:38949?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.89.240
+vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
