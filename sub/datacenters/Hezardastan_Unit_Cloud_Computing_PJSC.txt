@@ -1,1 +1,1 @@
-vless://b43cc996-4436-3779-b9ec-95f300000008@185.166.104.93:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.93
+vless://b43cc996-4436-3779-b9ec-95f300000008@185.166.104.93:443?type=ws&security=tls&path=/s1&sni=stark1.starkshop1.workers.dev&host=stark1.starkshop1.workers.dev&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.93
