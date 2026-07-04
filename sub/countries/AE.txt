@@ -1,4 +1,5 @@
-vless://de2edd29-c746-4dc7-a50b-e0692b01209d@78.17.198.194:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 78.17.198.194
-vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Baxet Group Inc. ┇ 89.125.201.223
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmFzdHRrbQ@188.208.110.58:8444#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Bfb One Fz-llc ┇ 188.208.110.58
+vless://6194f73e-67de-445a-b83c-c963e42d5592@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?type=xhttp&security=none#AE 🇦🇪 ┇ VLESS-XHTTP-NTLS - Baxet Group Inc. ┇ 89.125.201.223
+vless://1c4a1618-98a8-41c6-b155-5c1a866c8620@130.185.121.183:55375?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.183
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
