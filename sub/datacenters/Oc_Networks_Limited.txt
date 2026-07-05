@@ -1,1 +1,3 @@
-vless://72362320-3c4c-42cf-b76c-82f7b1832c47@64.188.79.53:48161?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 64.188.79.53
+vless://72362320-3c4c-42cf-b76c-82f7b1832c47@64.188.79.53:48161?type=tcp&security=reality&sni=github.com&fp=firefox&flow=xtls-rprx-vision&pbk=cm3MNPIRmySoBcEgeH6QEuVyoPbBQyjRhs8UF_swl1E&sid=41388e02247a3902#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Oc Networks Limited ┇ 64.188.79.53
+vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@pl.viralforge.ru:443?type=tcp&security=reality&sni=pl.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Oc Networks Limited ┇ 144.31.171.58
+vless://665c11ef-4723-4396-a8a1-45d013e68e6b@144.31.171.249:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Oc Networks Limited ┇ 144.31.171.249

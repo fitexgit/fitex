@@ -1,4 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
-vless://1c4a1618-98a8-41c6-b155-5c1a866c8620@130.185.121.183:55375?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.121.183
-vless://6194f73e-67de-445a-b83c-c963e42d5592@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
+vless://6194f73e-67de-445a-b83c-c963e42d5592@45.86.228.237:443?type=tcp&security=none&mode=gun#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
+vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?type=xhttp&security=reality&path=/&sni=www.vk.ru&mode=auto&fp=chrome&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&sid=99ea#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - Baxet Group Inc. ┇ 89.125.201.223
+vless://e286cebe-7473-44e9-8c30-273ac36ac83b@94.140.0.255:2053?type=tcp&security=none&path=/websocket?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
