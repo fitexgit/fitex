@@ -1,10 +1,1 @@
-vless://Bega_arvan@geri.alis1.ir:65535?type=tcp&security=none&path=/ed=2560#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:2095?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:2098?type=tcp&security=none&mode=multi#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:442?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://921773fd-9d64-475c-a032-64e5a07bac72@v8.fixgsmpro.com:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.122.225
-vless://Bega_arvan@geri.alis1.ir:447?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:446?type=tcp&security=none&mode=auto#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:36825?type=httpupgrade&security=none&path=/ed=2560&host=geri.alis1.ir#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:554?type=tcp&security=none&mode=multi#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
-vless://Bega_arvan@geri.alis1.ir:441?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 185.204.169.5
+vless://921773fd-9d64-475c-a032-64e5a07bac72@v8.fixgsmpro.com:443?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=tdYUowmZeJVI0Dp3PWUAcKE5dxlOWm3bo2k9_CNg5CM&sid=ea6cb7274fa0#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.122.225
