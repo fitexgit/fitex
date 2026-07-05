@@ -1,1 +1,1 @@
-vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Interserver, Inc ┇ 153.75.224.130
+vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?type=tcp&security=tls&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Interserver, Inc ┇ 153.75.224.130
