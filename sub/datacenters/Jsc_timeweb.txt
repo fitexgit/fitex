@@ -1,2 +1,1 @@
-vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 72.56.39.215
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@194.87.226.71:9877?type=grpc&security=reality&sni=dl.google.com&mode=gun&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Jsc timeweb ┇ 194.87.226.71
+vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?type=tcp&security=tls&sni=fast3.slopllex.app&fp=edge&flow=xtls-rprx-vision-udp443#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 72.56.39.215
