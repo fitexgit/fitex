@@ -1,13 +1,1 @@
-ss://YWVzLTEyOC1nY206aTJpMTdhMzlpeGRmeDN2OGN1MjU@205.209.104.94:17897#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 205.209.104.94
-ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw@161.129.71.148:17913#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 161.129.71.148
-ss://YWVzLTEyOC1nY206M3B4MHdteDBlODExNDVnNTY4Z2E@69.164.240.86:10880#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 69.164.240.86
-ss://YWVzLTEyOC1nY206c2hpc0NmZlZyVmVlWW5lTGI2aGNHNFFodTJjWEpYNkY@205.209.104.91:17895#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 205.209.104.91
-ss://YWVzLTEyOC1nY206N2wzaTZlbDZoeXgweHE1ajFjOGI@68.168.209.194:17276#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 68.168.209.194
-vless://ec22d674-8358-4f2b-b4b1-7fac25a099f2@150.241.203.110:443?type=xhttp&security=reality&path=/&sni=www.google.com&mode=auto&fp=chrome&pbk=2Bn5IflKPrRjGKnY97bjHlz3qdoJdBlnM4sw0jxCZHs&sid=f6#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Interserver, Inc ┇ 150.241.203.110
-vless://5adb89d1-471b-4cfb-b83d-71c2984ed264@153.75.235.64:2083?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=FiMM21acjDa_KaFNiOfE-wdvBZJQT9874mEh_TB21BE&sid=b4419779f8daeaaf#US 🇺🇸 ┇ VLESS-TCP-REALITY - Interserver, Inc ┇ 153.75.235.64
-vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?type=tcp&security=tls&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=tHb4kAmJ4Vlcrlpmz3_pRQItLsy1cHuE0DwxEWDmZQg&sid=46627f094d#US 🇺🇸 ┇ VLESS-TCP-TLS - Interserver, Inc ┇ 153.75.224.130
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@69.164.245.25:443?type=ws&security=tls&path=/?ed=2560&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#US 🇺🇸 ┇ VLESS-WS-TLS - Interserver, Inc ┇ 69.164.245.25
-ss://YWVzLTEyOC1nY206azZtbDd2eG9wenB3cmZsbjByY2M@192.64.87.130:17892#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 192.64.87.130
-ss://YWVzLTEyOC1nY206bGlveGo2cXg1d2o3aHo0bTlwb20@174.138.187.118:10875#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 174.138.187.118
-ss://YWVzLTEyOC1nY206ZDJma2d6c2R1NXN0dXJqczhmMTk@205.209.109.194:17277#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 205.209.109.194
-ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY@69.164.240.83:10878#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Interserver, Inc ┇ 69.164.240.83
+vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Interserver, Inc ┇ 153.75.224.130

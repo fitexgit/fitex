@@ -1,8 +1,4 @@
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 194.164.217.139
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@89.125.119.48:8443?type=tcp&security=reality&sni=mamakoko.morrisis.net&flow=xtls-rprx-vision&pbk=EtkZdJxEpbkpER7tXmp2DnuozvILY4xIQymfBrsMJwo#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 89.125.119.48
-vless://039a1658-e86e-475f-a3a4-67cc249acada@45.134.217.196:443?type=tcp&security=reality&sni=gr1.panel11.ru&fp=chrome&flow=xtls-rprx-vision&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&sid=f5c14a97040a38bf#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 45.134.217.196
-vless://0eb12a7a-b39e-4f7d-8bf6-7cb34b254564@147.90.13.19:443?type=xhttp&security=reality&path=/&sni=yahoo.com&mode=auto&fp=chrome&pbk=cqkIQAlIfDD_24qkjRgBD4qA7khDlUmTInGtZVSuzhM&sid=70885dd7#FR 🇫🇷 ┇ VLESS-XHTTP-REALITY - Hostkey B.v. ┇ 147.90.13.19
-vless://bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1@176.222.54.252:26690?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 176.222.54.252
-vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@45.134.217.32:443?type=tcp&security=reality&sni=gr1.panel11.ru&flow=xtls-rprx-vision&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&sid=f5c14a97040a38bf#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 45.134.217.32
+vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.22.50.157:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 82.22.50.157
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
 vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 176.119.141.136
-vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?type=tcp&security=reality&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d#ES 🇪🇸 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 5.180.173.222
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 194.164.217.139
