@@ -1,4 +1,1 @@
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.56
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.208:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.219.208
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@91.196.33.216:8443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 91.196.33.216
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.216.98
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@91.196.33.216:8443?type=tcp&security=reality&sni=u.malleev.ru&flow=xtls-rprx-vision&pbk=ZrTR1U8J1h4XtIzjKLznaMY6U_fogsndbuHlJmK-Ti4#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 91.196.33.216
