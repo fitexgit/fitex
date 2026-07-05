@@ -1,1 +1,2 @@
-vless://9b026b23-81c5-420b-99c4-21a410c74c33@176.109.88.216:42005?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 176.109.88.216
+vless://9b026b23-81c5-420b-99c4-21a410c74c33@176.109.88.216:42005?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 176.109.88.216
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@62.113.75.187:443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3🇷🇺#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 62.113.75.187
