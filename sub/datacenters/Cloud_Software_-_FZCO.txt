@@ -1,5 +1,3 @@
-vless://a57f209b-0826-40a9-b01f-7ffa3b33edb5@95.182.83.164:80?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.83.164
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:36298?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.228.33
-vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=tcp&security=none&mode=auto#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
-hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?sni=pro2.riziro.ir&insecure=0&obfs=salamander#LV 🇱🇻 ┇ HYSTERIA2-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.18.224
+vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:12107?type=xhttp&security=none&path=/&mode=auto#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Cloud Software - FZCO ┇ 104.252.111.21
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.74.249

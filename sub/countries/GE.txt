@@ -1,13 +1,1 @@
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:2096?type=ws&security=none&path=🔒#GE 🇬🇪 ┇ VLESS-WS-NTLS ┇ 77.91.73.188
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@206.53.48.65:443?type=ws&security=tls&path=/archives/products/seller&sni=linek.perry.us.kg&host=linek.perry.us.kg#GE 🇬🇪 ┇ VLESS-WS-TLS - Cloud 9 Ltd. ┇ 206.53.48.65
-vless://06a3c194-1c1d-4a4f-8297-1d648de0a958@77.91.75.113:443?type=tcp&security=tls&sni=alm2.vpntype.dev&fp=chrome&flow=xtls-rprx-vision#GE 🇬🇪 ┇ VLESS-TCP-TLS - WorkTitans B.V. ┇ 77.91.75.113
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:8443?type=ws&security=none&path=🔒#GE 🇬🇪 ┇ VLESS-WS-NTLS ┇ 77.91.73.188
-vless://94953376-9385-11ee-8335-9f4201f4a728@77.91.103.67:10004?type=ws&security=none&path=/vpnjantit#GE 🇬🇪 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 77.91.103.67
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@88.218.94.10:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#GE 🇬🇪 ┇ VLESS-TCP-TLS ┇ 88.218.94.10
-vless://a2bb8987-a8aa-46f9-9c28-e0a998e2f23b@77.91.97.234:2083?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=t_7D9Igy232LaH3Ds5L4QHaVeY4nUMlSmuJgjaF5Bl4&sid=16#GE 🇬🇪 ┇ VLESS-TCP-REALITY ┇ 77.91.97.234
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#GE 🇬🇪 ┇ VLESS-TCP-REALITY ┇ 77.91.74.189
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:443?type=ws&security=none&path=🔒#GE 🇬🇪 ┇ VLESS-WS-NTLS ┇ 77.91.73.188
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?type=tcp&security=reality#GE 🇬🇪 ┇ VLESS-TCP-REALITY ┇ 88.218.94.97
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?type=ws&security=none#GE 🇬🇪 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 77.91.103.216
-vless://ItsLegendaryking@77.91.70.43:443?type=tcp&security=none&mode=gun#GE 🇬🇪 ┇ VLESS-TCP-NTLS - Chsl One Ltd ┇ 77.91.70.43
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?type=ws&security=tls#GE 🇬🇪 ┇ VLESS-WS-TLS - WorkTitans B.V. ┇ 77.91.103.216
+vless://497631c4-a1a4-45ff-a86a-f42873473bb6@ge.quattro-tech.ru:443?type=tcp&security=reality&sni=ge.quattro-tech.ru&fp=qq&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#GE 🇬🇪 ┇ VLESS-TCP-REALITY - TradeZone LLC ┇ 194.135.119.164
