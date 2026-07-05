@@ -1,2 +1,9 @@
-vless://56cf06b0-3a04-4a77-b66a-0c7864c89be3@ir2.benyinglis1.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.249.91
-vless://56cf06b0-3a04-4a77-b66a-0c7864c89be3@ir4.benyinglis1.com:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.248.140
+vless://6a488250-3c23-681c-1d7a-0b4ed4f5dc16@5.10.248.60:2390?type=tcp&security=none&host=speedtest.net#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.248.60
+vless://93a0320c-fecf-cde5-4c51-41432f5c3d51@l98.magicnetwork.info:443?type=tcp&security=none&host=divarcdn.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.13.91
+vless://56cf06b0-3a04-4a77-b66a-0c7864c89be3@ir2.benyinglis1.com:443?type=xhttp&security=reality&path=/&sni=yahoo.com&host=yahoo.com&mode=auto&fp=chrome&pbk=MKofJ79LTZjnz3Zrit-GLbfH21rvkxCkUIFw389aZQE&sid=e42477a6b65ec961#IR 🇮🇷 ┇ VLESS-XHTTP-REALITY - Saeid Shahrokhi ┇ 5.10.249.91
+vless://989edd3c-9922-40ff-a33b-35aec6ed5de9@94.184.4.42:47233?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saeid Shahrokhi ┇ 94.184.4.42
+vless://2473e31a-adbc-47e5-b58a-c294d0450812@94.184.13.162:4040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.13.162
+vless://8f584d16-6ee7-1fc4-028b-a46a3302fac1@l32.magicnetwork.info:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.13.96
+vless://77a52785-c460-4e6f-94b1-f09ad8e6d7af@5.10.249.6:2058?type=tcp&security=none&host=fast.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.249.6
+vless://dff1ac89-d4c9-4a4b-8224-80af32b90ba4@94.184.4.55:1881?type=tcp&security=none&host=Fast.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.4.55
+vless://56cf06b0-3a04-4a77-b66a-0c7864c89be3@ir4.benyinglis1.com:443?type=xhttp&security=reality&path=/&sni=yahoo.com&host=yahoo.com&mode=auto&fp=firefox&pbk=MKofJ79LTZjnz3Zrit-GLbfH21rvkxCkUIFw389aZQE&sid=e42477a6b65ec961#IR 🇮🇷 ┇ VLESS-XHTTP-REALITY - Saeid Shahrokhi ┇ 5.10.248.140

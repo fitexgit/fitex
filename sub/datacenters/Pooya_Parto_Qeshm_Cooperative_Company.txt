@@ -1,2 +1,3 @@
-vless://60783c36-a6a9-4b73-a0e6-ab2cf9979f1e@germani2.devedkaler.ir:2029?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pooya Parto Qeshm Cooperative Company ┇ 45.86.4.186
-vless://60783c36-a6a9-4b73-a0e6-ab2cf9979f1e@soi.devedkaler.ir:2033?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pooya Parto Qeshm Cooperative Company ┇ 45.86.4.184
+vless://60783c36-a6a9-4b73-a0e6-ab2cf9979f1e@germani2.devedkaler.ir:2029?type=ws&security=tls&path=/&sni=lifetim.hiddenpuls.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Pooya Parto Qeshm Cooperative Company ┇ 45.86.4.186
+vless://60783c36-a6a9-4b73-a0e6-ab2cf9979f1e@soi.devedkaler.ir:2033?type=ws&security=tls&path=/&sni=lifetim.hiddenpuls.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Pooya Parto Qeshm Cooperative Company ┇ 45.86.4.184
+vless://9382f6db-2ad5-4de5-8e7c-19b924966877@re.meshost21.ir:443?type=tcp&security=reality&sni=www.aparet.com&fp=chrome&pbk=KybS9MNsCxrReK4jZg5uNKhyyWUqdg5kSP04-lXzjWk&sid=e2ecb917#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Pooya Parto Qeshm Cooperative Company ┇ 185.110.219.133

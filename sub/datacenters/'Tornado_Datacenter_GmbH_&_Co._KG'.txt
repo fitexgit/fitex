@@ -1,1 +1,11 @@
-vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?type=tcp&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
+vless://13e6fc6f-6abb-46f6-b7e6-9386dcf07923@104.194.148.116:27267?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116
+vless://1961d0da-1a20-4849-8867-0fb7ff29737b@free1.ziroxcompany.ir:8080?type=grpc&security=tls&sni=free.ziroxcompany.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
+vless://faae9b14-8a04-4aa6-8cfd-9db27b2105aa@104.194.148.116:23821?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116
+vless://6660f87b-7758-44fe-bc47-05f9cc305a36@104.194.151.112:32423?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=Od2DVESeJHUdboJk1OJKApvKIxFgWZ8GEGfseSA9rGQ&sid=d6#GB 🇬🇧 ┇ VLESS-TCP-REALITY - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.151.112
+vless://b490830e-b6a4-d468-ad15-6d25d801c462@104.194.144.187:443?type=ws&security=tls&path=/netlivpn&sni=1.t-me-netlivpn.workers.dev&host=1.t-me-netlivpn.workers.dev&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.144.187
+vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@104.194.142.122:8080?type=grpc&security=tls&sni=free.ziroxcompany.ir&mode=gun&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
+vless://9920a813-38cc-4908-821c-9624dedcc8c9@discord1.horqen.ir:56720?type=grpc&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.149.55
+vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116
+vless://77f5211d-055e-494c-af83-4ae460d982b3@104.194.142.122:8880?type=grpc&security=tls&sni=free.ziroxcompany.ir&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
+vless://239b795b-41ab-42de-8c9b-1ea8f6f4fc7a@codprizes.com:22885?type=tcp&security=none&host=status.play.google.com#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.193
+vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.56

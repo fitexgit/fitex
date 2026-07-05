@@ -1,1 +1,9 @@
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.149.98
+vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.149.168
+vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.149.98
+vless://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?type=tcp&security=tls&sni=ahmadi.gambron.info&host=bwm.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tahlil Dadeh Novin Fadak LLC ┇ 185.158.175.158
+vless://ea6d8aae-4ccb-4f9a-afdc-1abf53860930@94.183.149.237:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.149.237
+vless://1621b0a4-0c3b-407c-f6d9-3f65da431a8d@94.183.164.57:17091?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.164.57
+vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.149.38
+vless://7b3e76e2-66f7-47f5-bd78-a9324a5254b2@it.trevia.sbs:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.149.130
+vless://3a40f6b1-8915-4f26-a9d7-a14cff2d497a@94.183.181.7:3803?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.181.7

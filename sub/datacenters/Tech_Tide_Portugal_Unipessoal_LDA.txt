@@ -1,1 +1,4 @@
+vless://ca1def1a-834b-4d1c-b01f-071db077b4ce@nl1.miyazono-kaori.com:443?type=tcp&security=reality&sni=www.philips.com&fp=chrome&flow=xtls-rprx-vision&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Tech Tide Portugal Unipessoal LDA ┇ 5.175.174.216
+vless://dbb76e9c-4a6f-4a80-b69c-c4e7aa5a3604@hel.ios.lat:8443?type=httpupgrade&security=tls&path=/&sni=hel.ios.lat#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-TLS - Tech Tide Portugal Unipessoal LDA ┇ 5.83.142.223
+vless://108940ab-48de-4bee-a018-f9b9a36dd851@194.62.122.148:8443?type=tcp&security=reality&sni=ign.dev&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Tech Tide Portugal Unipessoal LDA ┇ 194.62.122.148
 vless://b437e293-a94f-4ae1-ab27-99e6819d77fd@client.mrktcity.shop:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Tech Tide Portugal Unipessoal LDA ┇ 94.249.153.166

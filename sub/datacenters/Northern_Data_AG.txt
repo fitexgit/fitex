@@ -1,2 +1,2 @@
-vless://1104676b-0e7d-4f80-825f-83e8d7ea77c6@api1.hexogate.net:80?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 85.234.79.171
-vless://1104676b-0e7d-4f80-825f-83e8d7ea77c6@api1.hexogate.net:9443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 85.234.79.171
+vless://f6a16959-425e-4b96-befd-0610aed8af48@92.38.143.82:443?type=tcp&security=reality&path=/&sni=google.com&host=play.google.com&fp=chrome&pbk=8cFvo9mNfPpkHEPgeQps9hSxwTx5XuZhixoEOK5COGQ&sid=850c0ac2#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Northern Data AG ┇ 92.38.143.82
+vless://bb9e929a-1e20-42f7-8e63-61534fc4c520@92.38.143.82:1010?type=tcp&security=none&path=/&host=play.google.com#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 92.38.143.82
