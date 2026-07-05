@@ -1,2 +1,4 @@
+vless://10a6b1ed-a0e0-449a-ba54-ecda60bd5ddd@193.84.255.91:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 193.84.255.91
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@faq.chapjavan.ir:3443?type=ws&security=tls&path=/&sni=faq.chapjavan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 217.18.94.177
-vless://0bbe9446-d537-458b-a836-8d4bcd5035f5@faq.chapjavan.ir:3443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 217.18.94.177
+vless://1e7e0537-c23d-43c2-afd5-4d7753831278@faq.chapjavan.ir:3445?type=ws&security=tls&path=/&sni=faq.chapjavan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 217.18.94.177
+vless://0bbe9446-d537-458b-a836-8d4bcd5035f5@faq.chapjavan.ir:3443?type=ws&security=tls&path=/&sni=faq.chapjavan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Taymaz Gostaran Naghshe Almas Co. ( Ltd ) ┇ 217.18.94.177

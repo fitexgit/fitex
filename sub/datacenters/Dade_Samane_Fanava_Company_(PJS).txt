@@ -1,17 +1,1 @@
-vless://ffea494e-6658-b9fa-73f6-5dcc51046bf1@ip.globalmymusic.com:8880?type=tcp&security=none&path=/path&host=divarcdn.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 95.38.41.140
-vless://39051b26-3165-4898-a552-c777a89aaf10@78.157.49.210:32197?type=tcp&security=none&host=speedtest.net#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.210
-vless://9e316ce0-8fd3-4058-bc5e-241f9c3a9f56@78.157.59.140:50067?type=ws&security=none&path=/&sni=MgbJP.divarcdn.com,LXHRl.snappfood.ir,3cubP.yjc.ir,XbifM.digikala.com,HL56Q.tic.ir&host=MgbJP.divarcdn.com,LXHRl.snappfood.ir,3cubP.yjc.ir,XbifM.digikala.com,HL56Q.tic.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.140
-vless://12fe57e6-9d9e-421a-97ea-f28056169763@78.157.53.171:443?type=ws&security=tls&path=/ws&sni=pa-ir2-wn8q2wwbrmjy.radshim.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Dade Samane Fanava Company (PJS) ┇ 78.157.53.171
-vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.37.186
-vless://33f0142b-7e7b-47a7-960a-acf51e38462a@78.157.53.192:80?type=xhttp&security=tls&path=/?ed=2560/v2ray&sni=finland.amaratstore.ir&mode=auto&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Dade Samane Fanava Company (PJS) ┇ 78.157.53.192
 vless://cd7365e1-5397-411c-9979-fc81d3a5ccbf@78.157.53.161:80?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.53.161
-vless://33f0142b-7e7b-47a7-960a-acf51e38462a@78.157.54.196:80?type=xhttp&security=tls&path=/?ed=2560/v2ray&sni=ge1.ostorehstore.ir&mode=auto&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Dade Samane Fanava Company (PJS) ┇ 78.157.54.196
-vless://0098262c-48dc-49f0-874d-599d78474453@78.157.42.130:48837?type=tcp&security=none&host=drive.google.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.42.130
-vless://40bcfe7f-9e3d-450e-993c-982630dbf3ca@78.157.42.100:80?type=ws&security=none&path=/?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.42.100
-vless://a2c49c4a-46d9-485d-bbf1-a19a0fba69af@78.157.42.130:13772?type=tcp&security=none&host=drive.google.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.42.130
-vless://d1df455e-55e1-43a0-a3de-78efdb79a212@78.157.59.141:44873?type=ws&security=none&path=ALMAS4&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.141
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.62.185
-vless://02ba2680-4f3f-40ca-a397-34705d7e3c42@fr.ipsenter.org:443?type=ws&security=tls&path=/ws&sni=nR.cHenSniP.iR&host=nR.cHenSniP.iR#IR 🇮🇷 ┇ VLESS-WS-TLS - Dade Samane Fanava Company (PJS) ┇ 78.157.60.164
-vless://8a18e162-d3af-4154-aa04-81a4c61a012a@fr.ipsenter.net:443?type=ws&security=tls&path=/ws?ed=2560&sni=nR.cHenSniP.iR&host=nR.cHenSniP.iR&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Dade Samane Fanava Company (PJS) ┇ 78.157.60.164
-vless://33f0142b-7e7b-47a7-960a-acf51e38462a@78.157.54.196:2000?type=xhttp&security=tls&path=/?ed=2560/v2ray&mode=auto&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Dade Samane Fanava Company (PJS) ┇ 78.157.54.196
-vless://276a40e3-4a5c-4238-bdda-40374af9e318@78.157.58.197:35776?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.58.197
