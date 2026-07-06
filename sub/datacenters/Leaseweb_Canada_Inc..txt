@@ -1,3 +1,1 @@
-vless://91172cee-7d4f-45aa-bb25-af2034ed2d98@ca.skymailg.com:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cw-LDv8DYV42XV44jtEr38BddAEXyUrjtZGNG0LtIW0&sid=b6517ba82171c34e#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Leaseweb Canada Inc. ┇ 184.107.106.84
-vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@can.nodsvpnspace.com:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=79#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Leaseweb Canada Inc. ┇ 198.50.127.164
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&security=none&path=/39427/Nextlife&host=telewebion.com#CA 🇨🇦 ┇ VLESS-WS-NTLS - Leaseweb Canada Inc. ┇ 198.50.119.86
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=tcp&security=none&path=/39427/Nextlife#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Leaseweb Canada Inc. ┇ 198.50.119.86

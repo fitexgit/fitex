@@ -1,11 +1,17 @@
-vless://64fda573-b872-4867-b3a1-857a9629a62f@188.72.103.3:443?type=http&security=tls&path=/live/media/manifest-7d2b9f&sni=shops.sale-stars.com&host=shops.sale-stars.com&mode=packet-up&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
+vless://84260313-d1db-4377-a71b-235b3b940649@v2shop-dubai1.bing-net.com:3038?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.22
+vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?type=tcp&security=none&path=/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.225.100
+vless://cb555a11-14da-4861-88b2-0d0507262b7d@ir894ag1733r.n33jdhj81a2s.e95v0h9lle7t.coffemoon.xyz:1884?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Ints Danebergs ┇ 94.183.169.15
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&security=none&path=/&host=uae.unixzone.us#AE 🇦🇪 ┇ VLESS-WS-NTLS - Oracle Corporation ┇ 84.235.244.108
-vless://bf142126-5bc4-46fa-986e-ffc4517655dd@cdn.tunnel-to-infirmary.online:443?type=http&security=tls&path=/&sni=cdn.tunnel-to-infirmary.online&fp=firefox#AE 🇦🇪 ┇ VLESS-HTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
-vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@cdncloudtwo.serverstats.ru:443?type=http&security=tls&sni=cdncloudtwo.serverstats.ru&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
-vless://1d69b662-74b4-46e4-8353-7c48e11ab9cd@edge-tr-ist.cdn.sx:2083?type=tcp&security=tls&sni=edge-tr-ist.cdn.sx&fp=firefox#AE 🇦🇪 ┇ VLESS-TCP-TLS - TradeZone LLC ┇ 89.36.137.206
-vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=grpc&security=reality&mode=gun&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - BlueVPS OU ┇ 45.86.228.237
-vless://a10dab76-0f3a-42bb-979f-2648085de252@du1.gamelistak.com:443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&host=du1.gamelistak.com&mode=auto&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - RouterHosting LLC ┇ 144.172.88.90
-vless://1e90e2f7-ccc9-41df-9ba0-769120fa9d21@i.nonpath.ir:42542?type=tcp&security=none&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.34
-vless://e05cb81b-5288-41d6-ad4a-fb4016cccb27@cdncloudtwo.serverstats.ru:443?type=http&security=tls&sni=cdncloudtwo.serverstats.ru&host=cdncloudtwo.serverstats.ru&mode=auto&fp=chrome#AE 🇦🇪 ┇ VLESS-HTTP-TLS - Yandex.Cloud LLC ┇ 188.72.103.3
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=1&obfs=salamander#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
+vless://6bf5267e-cbe3-42eb-bdb0-9f6cd457f168@138.128.225.100:2053?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.225.100
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?type=ws&security=tls&path=?ed=2048&sni=ctur.appleseraj.ir&host=ctur.appleseraj.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.100
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.9.181
+vless://cb555a11-14da-4861-88b2-0d0507262b7d@07mi3k5htug1.54q6mf94gspc.wtc2zvr8mc76.00763k.coffemoon.xyz:1883?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Ints Danebergs ┇ 94.183.169.17
+vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 78.17.38.238
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://77371595-b7aa-472a-9d61-e9731861af07@300.shecanmarket.com:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 217.60.236.134
+vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.18.135
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?type=tcp&security=tls#AE 🇦🇪 ┇ VLESS-TCP-TLS - Cloudflare London, LLC ┇ 94.140.0.186
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@146.75.64.0:80?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Fastly, Inc. ┇ 146.75.64.0

@@ -1,10 +1,2 @@
-vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@37.1.208.212:443?type=xhttp&security=tls&path=/xhttp/&sni=us3.tunnely.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - HIVELOCITY, Inc. ┇ 37.1.208.212
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us32.giamping.com:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HIVELOCITY, Inc. ┇ 74.50.98.185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us33.giamping.com:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HIVELOCITY, Inc. ┇ 74.50.99.86
-vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@38.180.192.156:443?type=ws&security=tls&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&sni=r8eerh.cainiaohub.xyz&host=r8eerh.cainiaohub.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HIVELOCITY, Inc. ┇ 38.180.192.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HIVELOCITY, Inc. ┇ 74.50.98.185
-vless://8440c9e5-3a24-49cd-8fdd-f140dcb1b8c7@37.1.212.241:5262?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - HIVELOCITY, Inc. ┇ 37.1.212.241
-vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@38.180.4.158:2001?type=ws&security=none&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb529&host=r8eerh.cainiaohub.xyz#US 🇺🇸 ┇ VLESS-WS-NTLS - HIVELOCITY, Inc. ┇ 38.180.4.158
-vless://319c114f-47ed-4a3c-9b97-7ef81715d8ba@207.180.29.179.cdn-one.org:443?type=tcp&security=reality&sni=207-180-29-179.cdn-one.org&fp=chrome&flow=xtls-rprx-vision&pbk=114jpmbVn1fwDx6zBTVIUf77Tg7wQUQO0yrmYdDMTDY&sid=14f290ad2da3c5ba#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 207.180.29.179
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&sid=6553e6d9#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 38.180.204.189
-vless://b5692799-0576-4c94-b67b-506994428dee@38.180.81.209:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=YG4byJp2QQKqQmcWVqxQVk99odu8l1wFNHxcTTNThAs&sid=6f0693bf8b91cb64#US 🇺🇸 ┇ VLESS-TCP-REALITY - HIVELOCITY, Inc. ┇ 38.180.81.209
+vless://319c114f-47ed-4a3c-9b97-7ef81715d8ba@207.180.29.179.cdn-one.org:443?type=tcp&security=none&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-NTLS - HIVELOCITY, Inc. ┇ 207.180.29.179
+vless://6331ab26-254e-43b1-a01f-d988b2302a09@207.180.29.179.cdn-one.org:443?type=tcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-NTLS - HIVELOCITY, Inc. ┇ 207.180.29.179

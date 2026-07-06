@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.30:8880?type=ws&security=none&path=/?ed=2560&host=vms.lifetime23.workers.dev#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.30
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.102
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?type=tcp&security=tls#AT 🇦🇹 ┇ VLESS-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.198
