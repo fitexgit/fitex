@@ -1,5 +1,2 @@
 vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?type=tcp&security=none&sni=fast2.screw.page#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 188.225.35.187
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@5.42.106.202:9878?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 5.42.106.202
-vless://696915f2-5ad4-452b-987c-d83d29d0503a@201.51.5.15:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 201.51.5.15
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.121.174
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 185.200.240.134
+vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 72.56.39.215

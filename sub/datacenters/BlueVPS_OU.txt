@@ -1,2 +1,1 @@
-vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - BlueVPS OU ┇ 45.86.228.237
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyeWVtVzcwYmM3ZWp6U2ptWWhGWmF2@193.43.104.64:32941#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 193.43.104.64
+vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@45.86.228.237:443?type=grpc&security=reality&mode=gun&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7#AE 🇦🇪 ┇ VLESS-GRPC-REALITY - BlueVPS OU ┇ 45.86.228.237
