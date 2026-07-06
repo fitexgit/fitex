@@ -1,8 +1,3 @@
-vless://13f99069-a259-4422-a294-ee59d21b54b3@fr1.appcodes.ir:2026?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.161.160.181
-vless://d7287652-4283-43df-89e5-81079a71d4a8@allu.lorqina.ir:38040?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.138.103
-vless://13f99069-a259-4422-a294-ee59d21b54b3@usa.appcodes.ir:2026?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.138.174
-vless://13f99069-a259-4422-a294-ee59d21b54b3@turk1.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.190
 vless://13f99069-a259-4422-a294-ee59d21b54b3@usa.codesystem.ir:8080?type=tcp&security=none&path=/&host=play.google.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 143.246.138.174
-vless://245dcf9b-3a9f-4d8d-adef-041d9730ebef@turk1.appcodes.ir:2026?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 204.10.192.190
-vless://13f99069-a259-4422-a294-ee59d21b54b3@fr1.codesystem.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.181
-vless://13f99069-a259-4422-a294-ee59d21b54b3@turk1.appcodes.ir:2026?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 204.10.192.190
+vless://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.136.174
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
