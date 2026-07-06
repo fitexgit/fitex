@@ -1,6 +1,2 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#MD 🇲🇩 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 176.120.72.63
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2082?type=ws&security=none&host=/@HiByeVPNN#FI 🇫🇮 ┇ VLESS-WS-NTLS - WorkTitans B.V. ┇ 92.118.233.42
-vless://f6c9c36a-375e-4885-9edd-ef0d41cc2ac5@tr2.towsponshw.my:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=qn_a7zCnpl9uVP54dJUL2LtQvI0GHvgvWPKE8M2MGC8&sid=a8c2a3f323#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 5.180.45.94
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?type=tcp&security=reality#CY 🇨🇾 ┇ VLESS-TCP-REALITY - WorkTitans B.V. ┇ 171.22.114.248
 vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV29ya1RpdGFucyBCLlYuIFx1MjUwNyA5NC4xMzEuMTA4LjM2IiwiYWRkIjoiOTQuMTMxLjEwOC4zNiIsInBvcnQiOjQ0MywiaWQiOiI5ODU1ZjFmMC1hODAwLTQwZDQtOGIzOC1jN2QzZWI3OTMwMmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:443?type=ws&security=tls&path=/#MD 🇲🇩 ┇ VLESS-WS-TLS - WorkTitans B.V. ┇ 94.131.9.157
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 185.231.205.99

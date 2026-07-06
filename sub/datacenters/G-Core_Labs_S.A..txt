@@ -1,9 +1,11 @@
-vless://875d0422-9b8d-4a43-9471-44144a468c75@map.downloadnova.live:719?type=ws&security=none&path=/api/v2/xtrnwqjbkr?ed=2560&host=play.google.com#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 82.158.120.56
-vless://7b5d9407-eef3-4544-b517-86c53a4adb33@85.234.65.79:443?type=tcp&security=reality&sni=aws-us-west-2.amazon.com&fp=chrome&pbk=02rMh_WqksfLXLv7VIHJ2OVvkPnvN1x3TVInB6WXr10&sid=09f62605#NL 🇳🇱 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.234.65.79
-vless://199c3ee4-6c00-4902-8b12-ede0ba4c8957@tw-ing-10.redfoxvpn.ru:2053?type=grpc&security=reality&sni=www.google.com&mode=gun&fp=chrome&pbk=XrNOGI1TNjL2rcq65LBsjw8ouZ9PQMOZt466XeJt8XE&sid=dd70b6a4e3e9e7ce#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - G-Core Labs S.A. ┇ 82.158.120.229
+vless://673d3734-e90b-4b23-ad0a-cc32eb22e4d7@panel.karmatel.ir:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vless://22e72575-9e40-494c-8ce7-86babf387f62@panel.karmatel.ir:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vless://673d3734-e90b-4b23-ad0a-cc32eb22e4d7@panel.karmatel.ir:8880?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vless://13f99069-a259-4422-a294-ee59d21b54b3@de1.appcodes.ir:2026?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 31.184.244.71
+vless://13f99069-a259-4422-a294-ee59d21b54b3@de1.appcodes.ir:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 31.184.244.71
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.44.197.181
+vless://22e72575-9e40-494c-8ce7-86babf387f62@panel.karmatel.ir:8080?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vless://673d3734-e90b-4b23-ad0a-cc32eb22e4d7@vip.karmatel.ir:8443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vless://673d3734-e90b-4b23-ad0a-cc32eb22e4d7@panel.karmatel.ir:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+vless://22e72575-9e40-494c-8ce7-86babf387f62@panel.karmatel.ir:8880?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjYxLjI1IiwiYWRkIjoiOTIuMjIzLjYxLjI1IiwicG9ydCI6ODAsImlkIjoiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://afb11cb0-edd3-4671-b986-3696989ff1b3@213.156.152.212:18425?type=tcp&security=reality&path=/&sni=www.intel.com&fp=chrome&pbk=18fbhwIBhRrqix3VNSPLyf26V6Q8weplRmxF0u0x_kE&sid=18b815590b47#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 213.156.152.212
-vless://13f99069-a259-4422-a294-ee59d21b54b3@de1.appcodes.ir:2026?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 31.184.244.71
-vless://c662cb42-b584-4b82-88f8-e2a64384bf20@5.252.26.85:443?type=tcp&security=reality&sni=www.yahoo.com&host=play.google.com&fp=chrome&pbk=sWR_Ckh6hk-HvacqbtfT8oHIqDJ7_NY4_JeHY_N4OHc&sid=8af36420#DE 🇩🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 5.252.26.85
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?type=tcp&security=reality&sni=www.wechat.com&fp=chrome&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7#AE 🇦🇪 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 109.61.18.135
