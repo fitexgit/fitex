@@ -1,1 +1,2 @@
-vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@176.109.92.139:443?type=tcp&security=none&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-NTLS - MTS PJSC ┇ 176.109.92.139
+vless://d0793daa-c12a-4f78-ae9d-a553062f245f@89.169.90.8:443?type=xhttp&security=tls&path=/xhttppath&sni=top1174643266.mwscdn.ru&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 89.169.90.8
+vless://c6c9951c-7677-45ab-a09e-8298123b41c7@89.169.90.8:443?type=xhttp&security=tls&path=/xhttppath&sni=top1174643266.mwscdn.ru&mode=auto&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - MTS PJSC ┇ 89.169.90.8

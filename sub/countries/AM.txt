@@ -1,2 +1,2 @@
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - 365.partners INC ┇ 77.91.68.70
-vless://195515bf-b46b-46a3-b7e4-e1969b2e7568@93.115.240.146:20988?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.115.240.146
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - 365.partners INC ┇ 77.91.68.70
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 146.185.248.22
