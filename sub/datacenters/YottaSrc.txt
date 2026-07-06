@@ -1,3 +1,7 @@
-vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@united.lorluma.ir:6300?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.91.248.163
-vless://13f99069-a259-4422-a294-ee59d21b54b3@turk1.appcodes.ir:2026?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 204.10.192.190
+vless://245dcf9b-3a9f-4d8d-adef-041d9730ebef@turk1.appcodes.ir:2026?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 204.10.192.190
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
+vless://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.136.174
 vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@45.43.92.110:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#NL 🇳🇱 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.92.110
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?type=grpc&security=tls&fp=firefox#GB 🇬🇧 ┇ VLESS-GRPC-TLS - YottaSrc ┇ 107.181.134.201
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#GB 🇬🇧 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.43.75.199
+vless://ccaaa73c-9c4b-4e4d-9f43-192770c50ed3@de2-global.mikro-host.com:443?type=ws&security=tls&path=/assets&sni=global.mikro-host.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - YottaSrc ┇ 45.134.38.51

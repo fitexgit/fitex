@@ -1,1 +1,2 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@us.janusgate.org:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - FiberState, LLC ┇ 23.160.56.194
+vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@23.166.40.27:443?type=xhttp&security=tls&path=ssp-xhttp&sni=u711540us880.ccgfw.top&host=s880.ccgfw.top&fp=firefox#US 🇺🇸 ┇ VLESS-XHTTP-TLS - FiberState, LLC ┇ 23.166.40.27
+vless://5db96d64-d457-425d-8960-a4dd879d53eb@38.58.180.135:3256?type=ws&security=none&path=/vless#US 🇺🇸 ┇ VLESS-WS-NTLS - FiberState, LLC ┇ 38.58.180.135
