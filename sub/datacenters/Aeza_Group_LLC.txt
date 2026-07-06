@@ -1,8 +1,4 @@
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
-vless://b0105618-904b-48f8-8ffc-ea5754da6206@109.120.150.17:7443?type=tcp&security=none&path=/@Marisa_kristi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.150.17
-vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:6443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.91.118
-vless://04c16649-bbf3-41fc-99eb-7507668221d2@77.221.154.152:8444?type=tcp&security=none&path=/@Marisa_kristi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.154.152
-vless://29ee269a-356f-475b-9e21-9df1f0899af1@77.221.154.42:3443?type=tcp&security=none&path=/@Marisa_kristi#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.154.42
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
-vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.229.3
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 104.238.29.241
+vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=HytUHg9GrbMLmfnwqCqIIa0RbZFd3xAIhAE4XNpZFxI&sid=98e8c2fe#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.229.3
+vless://2d223452-afb4-4bcf-a604-ac7a5c67c826@85.192.63.38:443?type=xhttp&security=reality&path=/&sni=o.aolcdn.com&mode=auto&fp=chrome&pbk=Rb0425FK9dw-iJ9dqDnklCEOKFBguv4OI_uidzP3hE4&sid=f9af798aa0#DE 🇩🇪 ┇ VLESS-XHTTP-REALITY - Aeza Group LLC ┇ 85.192.63.38
+vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:7443?type=grpc&security=reality&sni=5post-gate.x5.ru&mode=gun&pbk=L82J-1ku9yAEYvUmr7xVGnROijbyeEI1LSryHx464i4#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 193.233.91.118
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?type=tcp&security=reality&sni=play.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 213.21.233.164
