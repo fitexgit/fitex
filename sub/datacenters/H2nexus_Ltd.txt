@@ -1,1 +1,2 @@
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@85.192.49.4:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - H2nexus Ltd ┇ 85.192.49.4
+hysteria2://aa297f2a-42b2-440e-80cc-5c758f5f1003@2a0b:4142:a86::2:28443?insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - H2nexus Ltd ┇ 2a0b:4142:a86::2
+hysteria2://aa297f2a-42b2-440e-80cc-5c758f5f1003@2a0b:4142:a86::2:4142?sni=c9a0c4942b7edk1v6.587458.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - H2nexus Ltd ┇ 2a0b:4142:a86::2

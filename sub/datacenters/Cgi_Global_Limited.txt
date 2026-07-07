@@ -1,6 +1,8 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.206.236.214
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.19.4.143
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.91.193.124
-vless://59d08a71-f206-4ca3-9a42-8c56d3bfdc3c@46.8.229.199:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.229.199
-vless://fedf7ff3-0bd2-45dd-ba36-b25cda318388@31.57.28.197:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=jWNzEE0kjuK_3n0XQHdG_eEime9kSQt-O01XK5C68Fo&sid=201f2fa0#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.28.197
-vless://95658876-8b22-4bbf-9ab3-39dc9375b69f@185.31.200.203:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.31.200.203
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.97.133
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.206.192
+vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@fr1.waspnest.space:443?type=tcp&security=reality&sni=fr1.waspnest.space&fp=qq&flow=xtls-rprx-vision&pbk=TeIrR5shMsMAwIU0UgcnvokkgE97_38kJrNNVXGmEDg&sid=341ad73bbc77993c#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.108.121
+vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@usa0.unlimitedteam.space:443?type=tcp&security=reality&sni=usa0.unlimitedteam.space&fp=firefox&flow=xtls-rprx-vision&pbk=Mw1lAVT9SewUz96_mJDynJUKxTUQcxrEF2lfmYwFPng&sid=78052cf997f6f6b0#US 🇺🇸 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.178.160
+vless://95658876-8b22-4bbf-9ab3-39dc9375b69f@185.31.200.203:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=_QEZLSCXLgEaGDdqBuKS6NZF4aGK0hY7k2CejeIlTxQ&sid=578d5f58d4#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 185.31.200.203
+vless://7480038d-a1e6-4a0a-8c9b-b1d4f584f136@subi.polnejat.ir:4720?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.70.3
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.63.44
+vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@31.56.146.68:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.146.68
