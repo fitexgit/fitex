@@ -1,6 +1,5 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.215:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.59.215
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 109.120.132.142
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?type=grpc&security=reality&sni=www.amazon.com&mode=gun&fp=chrome&pbk=l_C0QQhMVDqhDT3-_AS8cBoOOhKksv8ubX4cf4EVjwo&sid=17#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Aeza Group LLC ┇ 45.151.101.137
-vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:6443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.91.118
-vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.229.3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 193.233.161.92
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.22.232.39:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.232.39
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 185.221.199.37
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.61.212
+vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=HytUHg9GrbMLmfnwqCqIIa0RbZFd3xAIhAE4XNpZFxI&sid=98e8c2fe#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.229.3
+vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.101.137
