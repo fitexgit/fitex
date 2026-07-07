@@ -1,4 +1,6 @@
 vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@fr1.codesystem.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.181
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
+vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@usa.appcodes.ir:2026?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.138.174
+vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@turk1.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.190
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none&host=snapp.ir#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
+vless://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?type=tcp&security=reality&sni=www.play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=k8SeTD6AcL6sQrek1DXbIGYya6SvFpfOwNo_2QYAbkw&sid=ee383485a23223b1#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.136.174
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@45.91.248.163:6300?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.91.248.163
