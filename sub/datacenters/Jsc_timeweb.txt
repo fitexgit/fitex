@@ -1,5 +1,3 @@
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 201.51.12.164
 vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?type=tcp&security=tls&sni=fast3.slopllex.app&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 72.56.39.215
-vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?type=tcp&security=reality&sni=apple.com&fp=qq&flow=xtls-rprx-vision&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 201.51.12.164
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-4.1001notes.ru:443?type=xhttp&security=tls&path=/vk&sni=ru-vk-4.1001notes.ru&mode=packet-up&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 147.45.251.77
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNalU5eUdjdWRxUWxWSDF5M0tpQThm@90.156.228.141:46717#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Jsc timeweb ┇ 90.156.228.141
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?type=tcp&security=reality&sni=sellflow.org&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.121.174
+vless://578c8541-16a0-40b7-bf72-9508d547f856@185.185.142.98:8443?type=tcp&security=none&mode=auto#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 185.185.142.98
