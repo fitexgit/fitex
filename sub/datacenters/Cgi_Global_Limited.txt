@@ -1,5 +1,4 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.97.133
-vless://0211eef0-efd0-4cfa-8301-ab074daa4775@31.57.62.87:666?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=KnwRRMjFPJDtaGLg10ONkoEnRYgI7bNZchPU54aoOwM&sid=f3#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.57.62.87
-vless://7480038d-a1e6-4a0a-8c9b-b1d4f584f136@subi.polnejat.ir:4720?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=gWjiT3hQZvFKUlwwOj8jLfi2c3SweB2hD-DMuZqSvW8&sid=8aba#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 193.164.155.116
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.97.133
-vless://d8523ccd-f983-44c6-8717-76f91087648d@45.38.143.75:1001?type=ws&security=none&path=/bia-telegram-Viturey---bia-telegram-Viturey#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 45.38.143.75
+vless://b24edb53-136c-4761-85c6-3d4734c3bf2c@185.31.200.15:8080?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 185.31.200.15
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd#AE 🇦🇪 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 217.60.63.44
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 95.182.115.126
+vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@31.56.146.68:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 31.56.146.68
