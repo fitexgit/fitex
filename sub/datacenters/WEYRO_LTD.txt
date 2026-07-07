@@ -1,3 +1,2 @@
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?type=tcp&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-TCP-NTLS - WEYRO LTD ┇ 45.86.159.136
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?type=tcp&security=none&mode=gun#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEYRO LTD ┇ 167.104.223.98
+vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?type=grpc&security=tls&sni=gbw40.moyvpns.com&mode=gun&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - WEYRO LTD ┇ 167.104.223.43
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - WEYRO LTD ┇ 85.155.98.34

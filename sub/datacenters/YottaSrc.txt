@@ -1,6 +1,4 @@
-vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@usa.appcodes.ir:2026?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.138.174
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 45.92.219.119
 vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none&host=snapp.ir#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
-vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@fr1.codesystem.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.181
-vless://7fcbb705-09cc-42aa-99b9-46f16972fbc0@allu.lorqina.ir:5151?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 143.246.138.103
-vless://Join,telegram@152.89.253.86:443?type=tcp&security=none&host=play.google.com#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 152.89.253.86
-vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@turk1.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.190
+vless://Join%2Ctelegram%3ATurboConfigs@152.89.253.86:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 152.89.253.86
+vless://7fcbb705-09cc-42aa-99b9-46f16972fbc0@allu.lorqina.ir:5151?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&sid=723eb27026f028#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.138.103
