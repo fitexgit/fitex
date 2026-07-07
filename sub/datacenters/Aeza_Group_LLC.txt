@@ -1,5 +1,6 @@
-vless://b79af372-53ce-4c03-a765-f0333bc2784c@193.233.244.92:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.244.92
+vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.229.3
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgR3JvdXAgTExDIFx1MjUwNyA4OS4yMi4yMjUuMTY0IiwiYWRkIjoiODkuMjIuMjI1LjE2NCIsInBvcnQiOjE2Mjg3LCJpZCI6ImIyOWRiOTJlLWI2ZGUtNGI4Ni1hMmQ0LTU4OWNkNjUzMjA1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:6443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 193.233.91.118
+vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&sid=abcd1234#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 147.45.78.118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 193.233.161.92
-vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 147.45.78.118
-vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:7443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 193.233.91.118
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.101.137
+vless://a4d329d2-196d-460b-94ec-e5acb029940c@askwodf.foot8all.ir:50567?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164

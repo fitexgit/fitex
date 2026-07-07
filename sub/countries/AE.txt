@@ -1,8 +1,10 @@
-vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&sid=9891d7#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.194
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.6
-vless://95ce82f2-5dc3-45b6-a541-b614da0cfdb1@94.140.0.255:2053?type=tcp&security=none&path=/websocket?ed=2048#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 94.140.0.255
-vless://07842189-6a75-4a58-a13f-590fbbf56d4f@212.100.171.205:443?type=xhttp&security=reality&path=/&sni=www.samsung.com&mode=auto&fp=chrome&pbk=XZC6OdUfIwsCBmvd3_O9DCWAAG0Q83fF8NeuH93w4Wc&sid=6663bfa8c6#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - OVH SAS ┇ 212.100.171.205
-vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@uae1.codesystem.ir:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.149
-vless://a10dab76-0f3a-42bb-979f-2648085de252@du1.gamelistak.com:443?type=xhttp&security=tls&path=/https://t.me/MrNexTV2RAY&host=du1.gamelistak.com&mode=auto&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - RouterHosting LLC ┇ 144.172.88.90
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@185.253.116.18:8443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.18
 vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://9c5f8201-1056-4811-a81f-f0db7dc77e13@172.86.77.74:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 172.86.77.74
+vless://07842189-6a75-4a58-a13f-590fbbf56d4f@212.100.171.205:443?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.205
+vless://9dd1c7b6-6c83-4bab-aee0-7a3d2e1719ec@uae1.codesystem.ir:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.149
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://9c5f8201-1056-4811-a81f-f0db7dc77e13@172.86.77.74:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 172.86.77.74
+vless://9c5f8201-1056-4811-a81f-f0db7dc77e13@172.86.77.74:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 172.86.77.74
+vless://9c5f8201-1056-4811-a81f-f0db7dc77e13@172.86.77.74:2052?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - RouterHosting LLC ┇ 172.86.77.74
