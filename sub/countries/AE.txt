@@ -1,6 +1,7 @@
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?type=ws&security=tls&path=/&sni=aza002.vaslbash.site&host=aza002.vaslbash.site#AE 🇦🇪 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 94.140.0.74
-vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:446?type=xhttp&security=reality&path=/my&sni=www.yahoo.com&host=lionvvandvvsun.alis1.ir&mode=auto&fp=chrome&pbk=ndmMYMRqnalEV8Hfy_Dl5AG-2UJKaMjFPlyiDRCdexg&sid=5ad8746fc40303#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.120.129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
 vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
-vless://e5e0fa63-7aba-402b-86b0-acd375a12b97@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
+vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:446?type=tcp&security=none&mode=auto#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.129
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://07842189-6a75-4a58-a13f-590fbbf56d4f@212.100.171.205:443?type=xhttp&security=reality&path=/&sni=www.samsung.com&mode=auto&fp=chrome&pbk=XZC6OdUfIwsCBmvd3_O9DCWAAG0Q83fF8NeuH93w4Wc&sid=6663bfa8c6#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - OVH SAS ┇ 212.100.171.205
+vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:553?type=tcp&security=none&path=/vpn#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.129
+vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:439?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.120.129
