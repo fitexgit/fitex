@@ -1,4 +1,6 @@
-vless://f5b2ef1a-6ee5-41bb-827e-37ddcf60aa4a@104.253.74.87:80?type=tcp&security=none&path=/assets/js/app-v2.8.4-5f9a2b3c.js#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.74.87
-vless://c9052348-bf5a-470e-b90c-06d806bc8575@95.182.90.234:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=7QbPMlE5jhWh76b6opK-TRr95ZT5LoYpGyjk3Sj99j8&sid=748e0d55b9#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.90.234
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.30.142
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?type=ws&security=none&path=/&host=play.google.com#LV 🇱🇻 ┇ VLESS-WS-NTLS - Cloud Software - FZCO ┇ 104.252.53.46
-vless://a4d329d2-196d-460b-94ec-e5acb029940c@qwy.foot8all.ir:52077?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 45.38.249.81
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.252.30.223:8882?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.252.30.223
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?type=httpupgrade&security=none&path=/#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Cloud Software - FZCO ┇ 104.253.134.92
+vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@lva2.unlimitedteam.space:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cloud Software - FZCO ┇ 95.182.85.111
+vless://f5b2ef1a-6ee5-41bb-827e-37ddcf60aa4a@104.253.74.87:80?type=tcp&security=none&path=/assets/js/app-v2.8.4-5f9a2b3c.js#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cloud Software - FZCO ┇ 104.253.74.87
