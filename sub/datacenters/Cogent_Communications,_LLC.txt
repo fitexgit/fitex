@@ -1,2 +1,1 @@
-vless://057f3c26-0fe7-4315-aabc-90c79d413d70@38.244.20.69:443?type=tcp&security=tls&sni=www.apple.com&fp=safari&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Cogent Communications, LLC ┇ 38.244.20.69
-vless://a19133c6-8e5d-4bbf-acdc-d88a628ab9c1@38.244.21.105:443?type=tcp&security=tls&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Cogent Communications, LLC ┇ 38.244.21.105
+vless://13a1a8bd-b86c-4f44-9705-3b5b35748955@38.244.10.38:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cogent Communications, LLC ┇ 38.244.10.38
