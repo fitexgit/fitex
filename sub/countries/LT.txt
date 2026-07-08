@@ -1,27 +1,5 @@
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 5.199.170.105
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:8443?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.66:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.66
-vless://31e302aa-c0ef-4ab3-b16f-71ac8ccfb045@top3.imlast2.com:8080?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.169:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.169
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.54:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.54
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.157:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.157
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.173:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.173
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.229:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.229
-vless://71fdfe0d-024b-4069-8c8c-83df63d96db0@cd2.phoneshop98.ir:2053?type=ws&security=tls&path=/ws?ed=2560&sni=panel.farsdns.com&host=panel.farsdns.com#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.246:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.246
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.152:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.152
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.213:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.213
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.42:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.42
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.99:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.99
-vless://31e302aa-c0ef-4ab3-b16f-71ac8ccfb045@top3.imlast2.com:2083?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://45eee3c9-ac41-43d5-a03f-b7b298a1d162@45.81.58.159:443?type=xhttp&security=tls&path=/cloudapi&sni=dl.mobileemdad.top&mode=auto&fp=chrome#LT 🇱🇹 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 45.81.58.159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - CNServer LLC ┇ 45.87.175.193
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?type=grpc&security=none#LT 🇱🇹 ┇ VLESS-GRPC-NTLS - UAB Cherry Servers ┇ 84.32.9.228
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.61:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.61
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.53:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - CNServer LLC ┇ 45.87.175.199
+vless://a809075c-c3d3-43d4-bb57-c5b0c316500b@89.116.180.49:8443?type=ws&security=tls&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&sni=bot.cloudi-host.ir&host=bot.cloudi-host.ir&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 89.116.180.49
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY4LjcxIiwiYWRkIjoiODUuMjA2LjE2OC43MSIsInBvcnQiOjMwMDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.163:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.163
-vless://31e302aa-c0ef-4ab3-b16f-71ac8ccfb045@top3.imlast2.com:2052?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 89.116.250.135
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.155:8443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - UAB Cherry Servers ┇ 45.194.10.155
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - CNServer LLC ┇ 45.87.175.193

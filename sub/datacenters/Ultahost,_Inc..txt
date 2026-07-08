@@ -1,3 +1,1 @@
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?type=grpc&security=none&mode=multi#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Ultahost, Inc. ┇ 192.142.53.38
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@31.172.87.124:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Ultahost, Inc. ┇ 31.172.87.124
-vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.172.87.124:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Ultahost, Inc. ┇ 31.172.87.124
+vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?type=tcp&security=none#ZA 🇿🇦 ┇ VLESS-TCP-NTLS - Ultahost, Inc. ┇ 192.142.53.38
