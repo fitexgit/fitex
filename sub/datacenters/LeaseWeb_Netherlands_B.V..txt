@@ -1,3 +1,1 @@
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
-vless://51f05327-38ce-454f-920c-3980827b6240@n1.parhamm1.ir:4001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 95.211.165.15
-vless://dcaf2c78-c6bf-48d1-a325-7b6607f10e37@apii.persianshield.ir:2024?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=zORNvwGuZxmhQR2eDF_VRU1QuTmg13ZQ-MRLAq01MjU&sid=c8f4d0cc#NL 🇳🇱 ┇ VLESS-TCP-REALITY - LeaseWeb Netherlands B.V. ┇ 82.192.69.47
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
