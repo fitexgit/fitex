@@ -1,5 +1,9 @@
 vless://73bbc823-4d2e-44cd-b26f-0646f1d12ca3@45.134.38.136:8080?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.134.38.136
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.71.219.218
 vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@fr1.codesystem.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.181
-vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?type=tcp&security=none&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 143.246.136.234
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.appcodes.ir:2026?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 185.71.219.218
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fr1.appcodes.ir:2026?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 107.161.160.181
+vless://d7287652-4283-43df-89e5-81079a71d4a8@allu.lorqina.ir:38040?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 143.246.138.103
+vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@usa.viralforge.ru:443?type=tcp&security=reality&sni=usa.viralforge.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#US 🇺🇸 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 162.217.248.214
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fr1.codesystem.ir:8080?type=tcp&security=none&host=play.google.com#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.181
+vless://e2a2b47d-0494-4db8-a415-9218e5716546@jshshshhdushhdhusjhsjie.uhshusjshhshs.naminofree11.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.181.155.34
