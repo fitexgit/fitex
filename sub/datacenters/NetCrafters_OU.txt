@@ -1,1 +1,3 @@
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 62.60.155.0
+vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?type=grpc&security=reality&sni=www.amazon.com&mode=gun&fp=chrome&pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&sid=b9b08cbb#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - NetCrafters OU ┇ 62.60.248.105
+vless://5d57655f-7cec-4ab4-8ef8-5e63cdf7b263@usa.feywebsite.ir:8080?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NetCrafters OU ┇ 193.233.131.122
+vless://0a8681e2-d3e7-4bf8-b7a7-5e24b1063ceb@83.147.252.52:443?type=tcp&security=reality&sni=www.yahoo.com&pbk=iC8Bb2OV8PgEI0_4RPZecUE3vm6vsLnZ42zvbPeVIgw&sid=cb4d31a32bc04d7e#FI 🇫🇮 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 83.147.252.52

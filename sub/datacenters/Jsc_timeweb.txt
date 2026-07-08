@@ -1,2 +1,3 @@
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@176.124.209.103:23346?type=tcp&security=reality&sni=zvuk.com&fp=chrome&flow=xtls-rprx-vision&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&sid=4294bfc2#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 176.124.209.103
-vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?type=tcp&security=tls&sni=fast3.slopllex.app&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 72.56.39.215
+vless://578c8541-16a0-40b7-bf72-9508d547f856@185.185.142.98:8443?type=tcp&security=none&mode=auto#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 185.185.142.98
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 201.51.12.164
+vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?type=tcp&security=tls#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 72.56.39.215

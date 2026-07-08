@@ -1,1 +1,4 @@
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@91.196.33.216:8443?type=tcp&security=reality&sni=u.malleev.ru&flow=xtls-rprx-vision&pbk=ZrTR1U8J1h4XtIzjKLznaMY6U_fogsndbuHlJmK-Ti4#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 91.196.33.216
+vless://67baa13e-d41b-4acf-ad0f-4ad35a136f85@user212.rise-tech.uk:443?type=tcp&security=reality&sni=user212.rise-tech.uk&fp=chrome&flow=xtls-rprx-vision&pbk=vUWfgJbhUT6UPK4gX_eX1qXa-82S5J9h84lOx9G_iSo&sid=bcbddae33bef0495#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 2.26.93.23
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Serv.host Group Ltd ┇ 144.31.216.98
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@31.76.7.28:8388#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Serv.host Group Ltd ┇ 31.76.7.28
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 144.31.82.47
