@@ -1,1 +1,3 @@
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:9443?type=ws&security=tls&path=/ws&sni=france-2.hysteria.ltd&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 205.237.105.196
+hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:5443?sni=france-2.hysteria.ltd&insecure=0#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - PUSHPKT OU ┇ 205.237.105.196
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 117.55.203.63
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:9443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - PUSHPKT OU ┇ 205.237.105.196
