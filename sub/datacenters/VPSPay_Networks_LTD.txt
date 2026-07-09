@@ -1,3 +1,1 @@
-vless://c09f37f2-ccbd-4b12-8268-349ccf260e2f@31.76.30.156:80?type=xhttp&security=none&path=/apps/depot/&host=media.steampowered.com&mode=auto#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - VPSPay Networks LTD ┇ 31.76.30.156
-vless://c09f37f2-ccbd-4b12-8268-349ccf260e2f@31.76.30.156:443?type=grpc&security=reality&sni=ota.nvidia.com&mode=gun&fp=randomized&pbk=kOCKZMtaPfQli7Fc0sEJumZEFjEMHU0OcvOgPi815HY#FI 🇫🇮 ┇ VLESS-GRPC-REALITY - VPSPay Networks LTD ┇ 31.76.30.156
-vless://c09f37f2-ccbd-4b12-8268-349ccf260e2f@31.76.251.5:443?type=grpc&security=reality&sni=ota.nvidia.com&mode=gun&fp=randomized&pbk=kOCKZMtaPfQli7Fc0sEJumZEFjEMHU0OcvOgPi815HY#PL 🇵🇱 ┇ VLESS-GRPC-REALITY - VPSPay Networks LTD ┇ 31.76.251.5
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - VPSPay Networks LTD ┇ 31.76.251.3
