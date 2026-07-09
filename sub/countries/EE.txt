@@ -1,2 +1,3 @@
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - RJ Network OU ┇ 185.155.97.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMUhhVUFOVlJkQjVsdFNxaExZUFdt@45.83.181.155:14475#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 45.83.181.155
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:8443?type=tcp&security=reality&sni=batman.jokertv.eu&flow=xtls-rprx-vision&pbk=9PFK7qve14puhWYmFyNGpmDVPEyUjwAsYHhgH3Y1HmY#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Brainoza OU ┇ 45.12.28.47
