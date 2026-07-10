@@ -1,4 +1,4 @@
-vless://1cce9431-01cd-68eb-cca6-48cd43628689@nh5.skyfanta.sbs:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 82.192.69.160
+vless://a5b5a5a1-c293-4351-8e45-c6d90f8727b0@82.192.69.94:38733?type=tcp&security=none&mode=gun#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 82.192.69.94
 vless://544fd259-8ce4-2663-ea8d-6cfec14a96c2@nh5.skyfanta.sbs:8443?type=tcp&security=none&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 82.192.69.160
-vless://a5b5a5a1-c293-4351-8e45-c6d90f8727b0@82.192.69.94:38733?type=grpc&security=reality&sni=play.google.com&mode=gun&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - LeaseWeb Netherlands B.V. ┇ 82.192.69.94
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.145.65
+vless://1cce9431-01cd-68eb-cca6-48cd43628689@nh5.skyfanta.sbs:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - LeaseWeb Netherlands B.V. ┇ 82.192.69.160
