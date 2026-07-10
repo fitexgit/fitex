@@ -1,1 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTGF0aXR1ZGUuc2ggXHUyNTA3IDE3Mi4xMTEuMTQ2LjY0IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii92bWVzcy8ifQ
+vless://c99fdb9a-0cec-497d-9d29-d45ed770807b@us2.fast-cone.com:443?type=tcp&security=reality&sni=us2.fast-cone.com&fp=chrome&flow=xtls-rprx-vision&pbk=Od_l3To6OKuXy19tY0Feep0qNZfWcDL8kW3dRQHW2AQ&sid=99#US 🇺🇸 ┇ VLESS-TCP-REALITY - Latitude.sh ┇ 206.206.127.114
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?type=ws&security=tls&path=/vless/&sni=ul-mexico1.09vpn.com#MX 🇲🇽 ┇ VLESS-WS-TLS - Latitude.sh ┇ 45.134.9.133
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Latitude.sh ┇ 172.111.146.64
+vless://1a05db30-9dce-4e3c-b491-012a14300a43@152.236.3.30:8443?type=grpc&security=reality&sni=addons.mozilla.org&mode=gun&fp=firefox&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Latitude.sh ┇ 152.236.3.30

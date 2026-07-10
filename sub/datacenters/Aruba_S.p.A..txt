@@ -1,1 +1,3 @@
-vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?type=tcp&security=reality#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 185.58.194.122
+vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?type=tcp&security=tls#IT 🇮🇹 ┇ VLESS-TCP-TLS - Aruba S.p.A. ┇ 195.231.60.106
+vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&sid=e5115b6a2127146d#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 185.58.194.122
+vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?type=tcp&security=reality&sni=gameup.ir&fp=firefox&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&sid=22b2598a025a3fde#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 80.211.136.126

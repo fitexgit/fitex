@@ -1,1 +1,3 @@
-vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@213.21.222.33.vhubtest.ru:443?type=tcp&security=none&sni=213.21.222.33.vhubtest.ru#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Virtual Data Center Inc ┇ 213.21.222.33
+vless://94dcdf00-1fd5-4b73-bbbc-b2e365ad90c2@213.21.222.27.tyr-agentstvo.tech:443?type=grpc&security=tls&sni=213.21.222.27.tyr-agentstvo.tech&fp=ios#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 213.21.222.27
+vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@213.21.222.33.vhubtest.ru:443?type=grpc&security=tls&sni=213.21.222.33.vhubtest.ru&mode=gun&fp=ios#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 213.21.222.33
+vless://43eb972f-f2fa-47dd-9916-85322c6e2c47@213.21.222.27.tyr-agentstvo.tech:443?type=grpc&security=tls&sni=213.21.222.27.tyr-agentstvo.tech&fp=ios#LV 🇱🇻 ┇ VLESS-GRPC-TLS - Virtual Data Center Inc ┇ 213.21.222.27
