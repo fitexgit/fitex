@@ -1,16 +1,18 @@
-vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:2083?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
-vless://d5536e94-a523-4c40-85ec-f3a3fc444602@istan.kakeroo.ir:4140?type=tcp&security=none&host=play.google.com#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.159.179
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpYmEgQ2xvdWQgT3BlcmF0aW9uIENvbXBhbnksIExMQyBcdTI1MDcgMTU1LjEwMy43MS4xNjMiLCJhZGQiOiIxNTUuMTAzLjcxLjE2MyIsInBvcnQiOjIwMjYsImlkIjoiYjJmY2M3NzUtMTU3OS00YjRiLTlmZTgtZjhkZGU3NzFjODYxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
-vless://fdebd2b4-4c8f-474a-851a-981082195643@turkgame.soltankabos.ir:22337?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.201
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Iksir Internet Hizmetleri A.S. ┇ 185.123.101.64
-vless://6f033e8a-3877-4de9-b8ec-04647562002d@31.40.204.28:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.28
-vless://7bc59ecf-6e9e-4875-b877-b870b864b056@helixgaming.ir:80?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 87.120.106.196
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@tr-wsdxc-sds-w-sd-wd-s-w-2w-23.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 155.103.71.78
-vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
 vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@77.83.245.253:59492?type=tcp&security=reality&sni=www.google.com:443&fp=chrome&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&sid=0b1eccc239d0#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Global Connectivity Solutions Llp ┇ 77.83.245.253
-vless://7d9fdfb8-829f-46c9-a0ff-cb0b8a5c1bca@tr.corecloud.space:42268?type=httpupgrade&security=none&path=/&host=play.google.com#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 144.225.65.200
-vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
+vless://Telegram%3ATurboConfigs@45.74.158.246:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.158.246
+vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@tu1-azad.petshopcloud.ir:5676?type=tcp&security=none&mode=auto#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 91.228.227.118
+vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:2083?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
+vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
+vless://1a4bad4f-26e0-4f9c-ae83-4a6539561730@77.92.151.100:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 77.92.151.100
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJYnJhaGltIFBveXJhem9nbHUgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
+vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.158.246
+vless://dc9c00a1-eead-4c83-8719-f256c695931c@144.225.65.210:1080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 144.225.65.210
+vless://turboo-server@37.221.79.82:8443?type=tcp&security=reality&sni=www.samsung.com&host=www.samsung.com&fp=random&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&sid=f7c096#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 37.221.79.82
+vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:2087?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
 vless://a3110cc1-5605-4f0f-a6e0-c98ebe489576@panel1.bakhe01.ir:55034?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 31.40.204.208
-vless://b7c8e587-48e8-470e-a3d9-9ea634f8794c@tr-wsdxc-sds-w-sd-wd-s-w-2w-23.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 155.103.71.78
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpYmEgQ2xvdWQgT3BlcmF0aW9uIENvbXBhbnksIExMQyBcdTI1MDcgMTU1LjEwMy43MS4xNjMiLCJhZGQiOiIxNTUuMTAzLjcxLjE2MyIsInBvcnQiOjIwMjYsImlkIjoiYjJmY2M3NzUtMTU3OS00YjRiLTlmZTgtZjhkZGU3NzFjODYxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@tu1-azad.petshopcloud.ir:44217?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 91.228.227.118
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?type=xhttp&security=reality&path=/&sni=www.google.com&mode=auto&fp=chrome&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#TR 🇹🇷 ┇ VLESS-XHTTP-REALITY - Hostigger INC. ┇ 141.98.118.70
+vless://0f75131f-4718-4e7e-9df3-260502aa1ab7@xn--gfdg321-8q25f24a.netbazshop.ir:2035?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 198.105.123.93
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@tr-wsdxc-sds-w-sd-wd-s-w-2w-23.codesystem.ir:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 155.103.71.78
+vless://9ca2de90-90c3-48ef-beac-998a8fbd56fb@static.oneset.ir:2128?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - Netlen Internet Hizmetleri Ltd. Sti. ┇ 45.74.159.230
