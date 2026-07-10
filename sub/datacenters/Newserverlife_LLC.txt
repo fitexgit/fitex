@@ -1,5 +1,7 @@
+vless://4ae555e0-daad-407f-d6d3-3e59a3058556@82.40.62.121:80?type=httpupgrade&security=none&path=/down.php&host=play.google.com#PL 🇵🇱 ┇ VLESS-HTTPUPGRADE-NTLS - Newserverlife LLC ┇ 82.40.62.121
+vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@dash.sharkjoy.org:8443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.22.41.237
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii92bWVzcy8ifQ
-vless://ae76d105-86c8-42de-b6ce-025a2c4e9d52@pol.mrsolo5323.ir:2053?type=tcp&security=none&mode=packet-up#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.138
-vless://dc782126-a41f-4ed1-9f50-f61d03e0e78b@pol.mrsolo5323.ir:2053?type=xhttp&security=none#PL 🇵🇱 ┇ VLESS-XHTTP-NTLS - Newserverlife LLC ┇ 82.40.62.138
-vless://a47543fd-ae74-473f-823a-cfdf42c52190@pl.wubbalubbadubdubb.ir:1013?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 45.144.49.64
+vless://ae76d105-86c8-42de-b6ce-025a2c4e9d52@pol.mrsolo5323.ir:2053?type=tcp&security=reality&path=/&mode=packet-up#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.138
+vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@104.167.197.98:443?type=tcp&security=reality&sni=us.hagrid-connected.com&fp=chrome&flow=xtls-rprx-vision&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 104.167.197.98
 vless://cababb95-deb2-479e-9018-01a0d08a4047@zx.virgooli.site:443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.40.62.125
+vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@zone.sharkjoy.org:8443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=NfxAGpsRbtQsHcs5hXh8khsVKAs0WByywb2hvtpnCxo&sid=5c21c768d4#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 38.107.232.38

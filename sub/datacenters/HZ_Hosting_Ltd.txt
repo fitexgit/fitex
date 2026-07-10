@@ -1,2 +1,2 @@
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.149
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@nate.plytob.ir:2026?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.221.222.16
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@nate.plytob.ir:2026?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#NL 🇳🇱 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.221.222.16
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?type=tcp&security=none&host=play.google.com#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.149
