@@ -1,5 +1,1 @@
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:80?type=ws&security=none&path=/14708/31d3c8561998/&host=imap.mmadcoffee.info#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.174.246.25
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNFIFx1MjUwNyA0My4xNzQuMTk2LjIwIiwiYWRkIjoibG9sLnBzIiwicG9ydCI6MjA1MiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hZnJobXMxNnYuYmVzdHhyYXkuYnV6ei9saW5rd3MifQ
-vless://552a071a-7a69-49b5-9a82-f353229d82ad@43.169.19.179:443?type=ws&security=tls&path=/&sni=gy.hhawks.kdns.fr&host=gy.hhawks.kdns.fr&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.19.179
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&security=tls&path=/16838/c89d26b724fe/&sni=sni.mmadcoffee.info&host=smtp.mmadcoffee.info&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.174.247.50
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?type=ws&security=tls&path=/proxyip=ProxyIP.CMLiussss.net&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.18.179
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?type=tcp&security=none&path=/proxyip=ProxyIP.CMLiussss.net#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.169.18.179

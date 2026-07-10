@@ -1,1 +1,2 @@
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?type=tcp&security=none&flow=xtls-rprx-vision#RO 🇷🇴 ┇ VLESS-TCP-NTLS - BL Networks ┇ 72.5.42.70
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@162.33.177.100:40443?type=tcp&security=reality&path=/&sni=deepl.com&host=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY#US 🇺🇸 ┇ VLESS-TCP-REALITY - BL Networks ┇ 162.33.177.100
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@69.48.229.50:40443?type=tcp&security=tls&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - BL Networks ┇ 69.48.229.50
