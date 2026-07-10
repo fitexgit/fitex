@@ -1,59 +1,50 @@
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 213.219.212.30
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 94.242.55.42
-vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:35412?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201
-vless://f07e17a7-6a17-4f52-ae7d-f60d0a00dba8@176.109.108.175:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:33837?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.114.98:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.114.98
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56639?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.34:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.106.34
-vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?type=tcp&security=reality&sni=site.rumedia-cdn.com&flow=xtls-rprx-vision&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&sid=8de54d32a8d3fdf9#RU 🇷🇺 ┇ VLESS-TCP-REALITY - SmartApe OU ┇ 193.93.194.120
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPT08gU292cmVtZW5ueWUgc2V0ZXZ5ZSB0ZWtobm9sb2dpaSBcdTI1MDcgMzcuMjIwLjE2MS4yNDkiLCJhZGQiOiIzNy4yMjAuMTYxLjI0OSIsInBvcnQiOjQ0MywiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMifQ
-vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 201.51.12.164
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:59242?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:18054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNC4xMTgiLCJhZGQiOiIxODUuMTQ4LjEwNC4xMTgiLCJwb3J0Ijo0NDMsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2In0
-vless://2766fda3-bb08-438a-94d7-0022e188ca31@195.208.65.192:443?type=ws&security=tls&path=/v1/data/sync/&sni=s46270.cdn.ngenix.net&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - OOO Sovremennye setevye tekhnologii ┇ 195.208.65.192
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44LjIxMS4xMzQiLCJhZGQiOiJpcHcuZ2ZkdjU0Y3ZnaGhnZmhnai1uamhnajY0LmluZm8iLCJwb3J0Ijo0NDMsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbGlua3Zrd3NzIiwidGxzIjoidGxzIn0
-vless://cacd77d9-6916-4a5e-87ad-50b030b8ed9a@192.144.13.35:45079?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:42942?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:54253?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPT08gU292cmVtZW5ueWUgc2V0ZXZ5ZSB0ZWtobm9sb2dpaSBcdTI1MDcgOTMuOTMuODkuMTE4IiwiYWRkIjoiOTMuOTMuODkuMTE4IiwicG9ydCI6NDQzLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyJ9
-vless://ad997094-40d4-461c-baf1-759d987351c3@176.123.165.127:12672?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:45398?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:47830?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNS41MiIsImFkZCI6Im1idC5pcmNmLnNwYWNlIiwicG9ydCI6NDQzLCJpZCI6Ijc5NzcwYTMyLTk2MDctNDkxOS05NDgzLTBmMTc5NDU1OTM5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2p1WUx5dk5CcFkwTEJPQW9tbXkyYUpFIiwidGxzIjoidGxzIn0
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.121.174
-vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:13561?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201
-vless://f07e17a7-6a17-4f52-ae7d-f60d0a00dba8@176.109.108.175:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
-vless://855372a7-6897-4411-8e9f-dd8a67b5b4ee@195.208.65.163:443?type=ws&security=tls&path=/v1/data/sync/&sni=s90782.cdn.ngenix.net&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - OOO Sovremennye setevye tekhnologii ┇ 195.208.65.163
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:45079?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?type=tcp&security=none&path=/rdfgtws#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 45.8.211.217
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT09PIFNvdnJlbWVubnllIHNldGV2eWUgdGVraG5vbG9naWkgXHUyNTA3IDE5NS4yMDkuODYuMjQxIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBvcnQiOjQ0MywiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQifQ
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb2NyZWRpdCBDb21wYW55IFpheW1lciBQSlNDIFx1MjUwNyA0NS42Ny4yMTUuMTE5IiwiYWRkIjoiNDUuNjcuMjE1LjExOSIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://ad997094-40d4-461c-baf1-759d987351c3@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://40ef0277-c521-4731-86db-6944e4d2e649@82.148.29.20:8443?type=grpc&security=reality&sni=gifs.ru&mode=gun&fp=chrome&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 82.148.29.20
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?type=ws&security=tls&path=/?proxyip&sni=xe.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Microcredit Company Zaymer PJSC ┇ 45.67.215.41
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?type=xhttp&security=tls&path=/start&sni=cdn.stroimvmeste.icu&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Storm Networks LLC ┇ 185.71.67.223
-ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg@46.17.43.63:20121#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 46.17.43.63
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:12672?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.117.3:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.117.3
-vless://ad997094-40d4-461c-baf1-759d987351c3@176.123.165.127:56745?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56745?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
-vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:18054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Beget LLC ┇ 159.194.230.15
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&host=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147
 vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:54328?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - WorkTitans B.V. ┇ 185.231.205.99
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.114.98:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.114.98
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:18054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56745?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBVRk8gSG9zdGluZyBMTEMgXHUyNTA3IDE3MS4yMi4xMzQuMTIiLCJhZGQiOiIxNzEuMjIuMTM0LjEyIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE2ODk5MzUyNDMwMjciLCJ0bHMiOiJ0bHMifQ
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 176.109.92.139
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@213.171.30.172:9881?type=tcp&security=none&mode=multi#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 213.171.30.172
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:45065?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:54253?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://f07e17a7-6a17-4f52-ae7d-f60d0a00dba8@176.109.108.175:80?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.34:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.106.34
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:18054?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@31.172.67.43:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Fornex Hosting S.L. ┇ 31.172.67.43
 vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:42942?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.130:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.106.130
-vless://a9debf09-259e-486e-9ecd-e496ba6b84bd@5.129.251.145:44003?type=raw&security=reality&sni=pool-a.pools.netcenter-cdn.com&fp=firefox&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&sid=90dd#RU 🇷🇺 ┇ VLESS-RAW-REALITY - Jsc timeweb ┇ 5.129.251.145
-vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&host=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:45065?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
 vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:45079?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:42942?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f07e17a7-6a17-4f52-ae7d-f60d0a00dba8@176.109.108.175:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.109.108.175
+vless://ad997094-40d4-461c-baf1-759d987351c3@176.123.165.127:56745?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNC4xMTgiLCJhZGQiOiIxODUuMTQ4LjEwNC4xMTgiLCJwb3J0Ijo0NDMsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhYi10ZXN0LWZyb3N0eS1mbG93ZXItZTdmYi50YXJpcm9jODY0LndvcmtlcnMuZGV2In0
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:59242?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:33837?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MTS PJSC ┇ 176.109.92.139
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:45079?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgNDUuMTQyLjEyMC4xOTAiLCJhZGQiOiI0NS4xNDIuMTIwLjE5MCIsInBvcnQiOjIwODIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://cacd77d9-6916-4a5e-87ad-50b030b8ed9a@192.144.13.35:45079?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://ad997094-40d4-461c-baf1-759d987351c3@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.130:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.106.130
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT09PIFNvdnJlbWVubnllIHNldGV2eWUgdGVraG5vbG9naWkgXHUyNTA3IDM3LjIyMC4xNjEuMjQ3IiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBvcnQiOjQ0MywiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQifQ
+vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:13561?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201
+vless://ad997094-40d4-461c-baf1-759d987351c3@176.123.165.127:12672?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg@46.17.43.63:20121#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 46.17.43.63
+vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:35412?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 87.242.85.201
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:12672?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@213.171.30.172:9881?type=tcp&security=none&mode=multi#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 213.171.30.172
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.117.3:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Khachatryan Armen Martirosovich ┇ 189.74.117.3
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Beget LLC ┇ 159.194.230.15
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 201.51.12.164
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#RU 🇷🇺 ┇ VLESS-TCP-REALITY - SIA VEESP ┇ 94.242.55.42
+vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:47830?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 192.144.13.35
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb2NyZWRpdCBDb21wYW55IFpheW1lciBQSlNDIFx1MjUwNyA0NS42Ny4yMTUuMTE5IiwiYWRkIjoiNDUuNjcuMjE1LjExOSIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Yandex.Cloud LLC ┇ 158.160.250.45
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56639?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - LLC VK ┇ 213.219.212.30
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMTQ4LjEwNS41MiIsImFkZCI6Im1idC5pcmNmLnNwYWNlIiwicG9ydCI6NDQzLCJpZCI6Ijc5NzcwYTMyLTk2MDctNDkxOS05NDgzLTBmMTc5NDU1OTM5MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2p1WUx5dk5CcFkwTEJPQW9tbXkyYUpFIiwidGxzIjoidGxzIn0
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:45398?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloud.ru ┇ 176.123.165.127
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?type=tcp&security=none&path=/rdfgtws#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 45.8.211.217
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Jsc timeweb ┇ 5.42.121.174
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPT08gU292cmVtZW5ueWUgc2V0ZXZ5ZSB0ZWtobm9sb2dpaSBcdTI1MDcgOTMuOTMuODkuMTE4IiwiYWRkIjoiOTMuOTMuODkuMTE4IiwicG9ydCI6NDQzLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyJ9
