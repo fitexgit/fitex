@@ -1,3 +1,2 @@
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@fr1.codesystem.ir:8080?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 107.161.160.181
-vless://d2ec3640-2e4c-45b4-b1a3-1d325646584b@weso.vaslehpineh.qzz.io:443?type=tcp&security=none&path=/ws#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 111.235.151.68
+vless://Join,telegram@152.89.253.86:443?type=tcp&security=none&host=play.google.com#FR 🇫🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 152.89.253.86
+vless://d2ec3640-2e4c-45b4-b1a3-1d325646584b@weso.vaslehpineh.qzz.io:443?type=ws&security=tls&path=/ws#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&sni=weso.vaslehpineh.qzz.io&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - YottaSrc ┇ 111.235.151.68
