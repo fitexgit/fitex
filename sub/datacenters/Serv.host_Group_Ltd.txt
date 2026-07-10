@@ -1,3 +1,2 @@
-vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?type=tcp&security=reality&sni=help.me3op.site&flow=xtls-rprx-vision&pbk=AT8TNQB1qRljPMmLuTa2Rj765qAr8XbC3D9YpEpxkw0&sid=abcdef12#US 🇺🇸 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 31.76.115.10
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
-vless://68474f96-98c1-402a-8f3f-9893ed3d7934@91.196.32.37:443?type=tcp&security=reality&sni=www.python.org&fp=randomized&flow=xtls-rprx-vision&pbk=wbOyKxI709eor4Ih2ksZwWu00S_1N6rnCgKBWBSg6Cg&sid=ea2dc6354e30d525#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 91.196.32.37
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Serv.host Group Ltd ┇ 80.66.81.78
+vless://68474f96-98c1-402a-8f3f-9893ed3d7934@91.196.32.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Serv.host Group Ltd ┇ 91.196.32.37
