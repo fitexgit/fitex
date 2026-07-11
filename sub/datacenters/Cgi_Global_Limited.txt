@@ -1,4 +1,9 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.27.191
-vless://729f315b-01e3-4543-849a-a1482f69349a@31.57.28.16:8080?type=tcp&security=none&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.28.16
-vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?type=tcp&security=reality&sni=yahoo.com&host=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&sid=c73dd5d128e6bd3d#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129
+vless://729f315b-01e3-4543-849a-a1482f69349a@31.57.28.16:8080?type=xhttp&security=reality&path=/ws&sni=play.google.com&host=De.emperorr.sbs&mode=auto&fp=chrome&pbk=opJtSOP5IDRUindFufbrBBdWVWnrNAyfIbPHGnaBW1Y&sid=3dc10c875cf37011#LV 🇱🇻 ┇ VLESS-XHTTP-REALITY - Cgi Global Limited ┇ 31.57.28.16
+vless://cf06fc75-f565-43d3-aeb0-44861687e27e@31.56.222.233:8443?type=xhttp&security=none#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 31.56.222.233
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.205.158
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.63.44
+vless://59d08a71-f206-4ca3-9a42-8c56d3bfdc3c@46.8.229.199:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.229.199
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none&path=/&host=it.fifapes.monster/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.109.31
+vless://ebe79663-ed43-48d2-8028-a579f7aa6408@31.56.222.233:443?type=xhttp&security=none#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 31.56.222.233
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none&host=play.google.com#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.48.66
 vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@ge-nn.jorzel.ir:2060?type=tcp&security=reality&path=/path&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.232.168
