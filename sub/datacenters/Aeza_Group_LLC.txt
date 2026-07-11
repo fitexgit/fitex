@@ -1,5 +1,8 @@
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 62.60.159.137
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.101.137
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
 vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?type=tcp&security=reality&sni=ign.com&fp=firefox&flow=xtls-rprx-vision&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&sid=fe2e4376#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.228.167
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?type=tcp&security=reality&sni=parisjetaime.com&fp=chrome&flow=xtls-rprx-vision&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&sid=5be8210215#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 89.208.113.157
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.22.228.57
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 104.238.29.241
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@89.208.113.54:50443?type=tcp&security=reality&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 89.208.113.54
+vless://54d91e99-3107-4e16-a342-37c88f294503@hoooossssttt1.sd.noafra.ir:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.61.212
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 62.60.159.137
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@79.137.207.130:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 79.137.207.130
+vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.101.137
