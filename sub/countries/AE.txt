@@ -1,8 +1,7 @@
-vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
 vless://8cd155b6-eb05-44ca-fb5a-514896084540@a9vercboaecf.dopweed.com:8379?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.197
-vless://07e71bdb-7a72-485e-949b-005450b64cf1@allnet.sanaiehdasti.com:1323?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.201
-vless://104e38f0-9946-4bf4-a684-4c558fa35818@151.245.163.59:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Netgrid Host Ltd ┇ 151.245.163.59
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:553?type=ws&security=tls&path=/vpn&sni=lionvvandvvsun.alis1.ir&host=lionvvandvvsun.alis1.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.129
-vless://acd5e21e-56ce-4589-b814-22cda9c4a16d@lionvvandvvsun.alis1.ir:446?type=xhttp&security=reality&path=/my&sni=www.yahoo.com&host=lionvvandvvsun.alis1.ir&mode=auto&fp=chrome&pbk=ndmMYMRqnalEV8Hfy_Dl5AG-2UJKaMjFPlyiDRCdexg&sid=5ad8746fc40303#AE 🇦🇪 ┇ VLESS-XHTTP-REALITY - Arvancloud Global Technologies L.L.C ┇ 130.185.120.129
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.149
+vless://07e71bdb-7a72-485e-949b-005450b64cf1@allnet.sanaiehdasti.com:1323?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.201
+vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://104e38f0-9946-4bf4-a684-4c558fa35818@151.245.163.59:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Netgrid Host Ltd ┇ 151.245.163.59
+vless://e7d6530a-632e-41db-b919-5a1f7a55f58c@allnet.sanaiehdasti.com:1323?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.201
