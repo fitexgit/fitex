@@ -1,7 +1,6 @@
+vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?type=ws&security=none&path=/randompath123&host=www.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 78.17.38.238
+vless://528c9248-7b50-45fb-9188-e46d889dafe6@fsur.noode.work:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Tube-Hosting ┇ 31.58.182.179
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
 vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
-vless://8cd155b6-eb05-44ca-fb5a-514896084540@a9vercboaecf.dopweed.com:8379?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 212.100.171.197
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.149
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.63.44
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?type=xhttp&security=tls&sni=fr0.eorqen.ir&host=fr0.eorqen.ir&mode=auto&fp=random#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 181.214.1.172
-vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 78.17.38.238
+vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 78.17.38.238

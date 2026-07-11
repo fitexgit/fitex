@@ -1,2 +1,1 @@
-vless://210b5f3b-c178-4df5-ba19-59aed1334423@aa.parsa.best.mytbsm.com:443?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - Hostman LTD ┇ 213.182.213.252
-vless://36ca976b-042a-4d24-b249-694620114a4a@195.216.168.140:443?type=tcp&security=none&mode=gun#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Hostman LTD ┇ 195.216.168.140
+vless://36ca976b-042a-4d24-b249-694620114a4a@195.216.168.140:443?type=grpc&security=reality&sni=play.google.com&mode=gun&fp=chrome&pbk=6tOeGXJPV8kC0THoo8-IkihKVwL2KNLVAwg95CZTBRo&sid=72f4c62b#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Hostman LTD ┇ 195.216.168.140

@@ -1,2 +1,1 @@
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?type=ws&security=tls&path=/id-tksi&sni=m.udemy.com.cyylr.eu.cc&host=m.udemy.com.cyylr.eu.cc&fp=chrome#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.81
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&security=none&path=/&host=vms.lifetime04.workers.dev#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.30
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?type=tcp&security=none&path=/id-tksi#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Ministry of Education ┇ 202.37.33.81
