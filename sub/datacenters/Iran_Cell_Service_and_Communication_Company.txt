@@ -1,1 +1,2 @@
-vless://e7cb2361-ea46-4ca3-9e32-648140c4e84b@2.144.25.196:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.25.196
+vless://e7cb2361-ea46-4ca3-9e32-648140c4e84b@2.144.25.196:443?type=tcp&security=tls&sni=api.bcdnjs.site&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.25.196
+vless://29631d28-ea31-4ffa-99d3-7816adc92fb5@2.144.21.150:2000?type=tcp&security=tls&path=/?ed=2560/v2ray&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.21.150
