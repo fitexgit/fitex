@@ -1,7 +1,6 @@
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 138.124.113.18
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 81.19.137.144
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@45.155.71.170:50443?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.155.71.170
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.151.101.137
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@89.208.113.54:50443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 89.208.113.54
+vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?type=tcp&security=none&path=/login/azaronline.com/?ed=2560#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.176.65.192
+vless://4d1d33b2-96d9-40c7-964d-a5016ba65984@saja.foot8all.ir:50567?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 213.21.233.164
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 185.221.199.37
 vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?type=tcp&security=reality&sni=ign.com&fp=firefox&flow=xtls-rprx-vision&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&sid=fe2e4376#SE 🇸🇪 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 45.80.228.167
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 109.120.185.230
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Aeza Group LLC ┇ 138.124.52.85
