@@ -1,1 +1,2 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.194
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 144.31.131.194
+vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&security=tls&path=/websocket&sni=de02.abvpn.ru&host=de02.abvpn.ru#UA 🇺🇦 ┇ VLESS-WS-TLS - NetAssist LLC ┇ 95.164.47.60
