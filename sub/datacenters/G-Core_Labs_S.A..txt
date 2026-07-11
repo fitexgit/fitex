@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:803#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 95.85.90.181
-vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?type=tcp&security=none&mode=packet-up#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.109
-vless://2de9c80d-ec8c-454c-930e-52a497dbda78@85.90.216.49:2095?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.90.216.49
-vless://a4f01119-883c-42e2-8c27-5711af28083a@85.234.65.234:36348?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.234
+vless://a4f01119-883c-42e2-8c27-5711af28083a@85.234.65.234:36348?type=tcp&security=reality&sni=www.yahoo.com&host=play.google.com&fp=chrome&pbk=cX_7WNnSaxIaFcgS1w9kGVK6wDz1DMYen5hUW4ZxQQQ&sid=1b04e265#NL 🇳🇱 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 85.234.65.234
+vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.109
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.163.53
+vless://1e1f4395-fd7c-4408-8268-e663a24c2eaa@pl.karmatel.ir:8443?type=tcp&security=none&path=/#PL 🇵🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 62.112.222.47
+ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.105.40
