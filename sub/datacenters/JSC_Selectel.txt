@@ -1,1 +1,3 @@
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?type=tcp&security=reality&sni=wa.sfasti.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#RU 🇷🇺 ┇ VLESS-TCP-REALITY - JSC Selectel ┇ 80.249.131.7
+vless://3c8303c1-e98e-4163-a3ef-3cae7428ba2f@82.148.29.20:8443?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 82.148.29.20
+vless://b63608d1-3fb3-4c39-94be-af9d61d0c5c0@82.148.29.20:8443?type=grpc&security=reality&sni=gifs.ru&mode=gun&fp=chrome&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - JSC Selectel ┇ 82.148.29.20
+vless://3c8303c1-e98e-4163-a3ef-3cae7428ba2f@92.53.64.241:443?type=tcp&security=none&mode=gun#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC Selectel ┇ 92.53.64.241
