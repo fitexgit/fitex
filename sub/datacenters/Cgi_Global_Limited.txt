@@ -1,7 +1,4 @@
-vless://cf06fc75-f565-43d3-aeb0-44861687e27e@31.56.222.233:8443?type=tcp&security=none&mode=auto#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.222.233
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.93.67
-vless://59d08a71-f206-4ca3-9a42-8c56d3bfdc3c@46.8.229.199:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.229.199
-vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@ge-nn.jorzel.ir:2060?type=tcp&security=reality&path=/path&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.232.168
-vless://95658876-8b22-4bbf-9ab3-39dc9375b69f@185.31.200.203:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=_QEZLSCXLgEaGDdqBuKS6NZF4aGK0hY7k2CejeIlTxQ&sid=578d5f58d4#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 185.31.200.203
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.56.205.158
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.62.176
+vless://OwLimbow@nl.bozbozghandi.dpdns.org:8880?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 195.211.124.173
+vless://OwLimbow@nl.bozbozghandi.dpdns.org:80?type=xhttp&security=reality&path=/ws&sni=yahoo.com&host=play.google.com&mode=auto&fp=chrome&pbk=gPf5lMTVwdwOJDT7y848flyvbnDqspt3kYK1k_F8NHY&sid=73#NL 🇳🇱 ┇ VLESS-XHTTP-REALITY - Cgi Global Limited ┇ 195.211.124.173
+vless://1e8ed829-92ba-4867-86ed-75c2a02d4cf5@ge-nn.jorzel.ir:2060?type=tcp&security=none&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.232.168
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 109.248.163.157

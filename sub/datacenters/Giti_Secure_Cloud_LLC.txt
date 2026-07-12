@@ -1,2 +1,7 @@
 vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
+vless://telegram-sw-amir@92.42.207.27:19218?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 92.42.207.27
+vless://9adb5a9e-ef33-406f-0562-34656d0a3ea2@s2.zynavo.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=cdn.zynavo.ir&mode=auto&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Giti Secure Cloud LLC ┇ 87.107.194.227
+vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?type=tcp&security=tls&path=/BetForward&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-TLS - Giti Secure Cloud LLC ┇ 87.107.194.227
+vless://56aab278-7c8b-4856-2315-6c8998cf08de@s1.zynavo.ir:2087?type=tcp&security=tls&path=/BetForward&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-TLS - Giti Secure Cloud LLC ┇ 87.107.194.226
+vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?type=tcp&security=none&path=/events/user/dashboard&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 62.220.120.82
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 212.80.10.215
