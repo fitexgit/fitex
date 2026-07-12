@@ -1,1 +1,1 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?type=tcp&security=none&path=/#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Node Host Limited ┇ 94.125.102.52
+vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?type=ws&security=tls&path=/&sni=ww1.aniuge.qzz.io&host=ww1.aniuge.qzz.io&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - Node Host Limited ┇ 94.125.102.52
