@@ -1,7 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
-vless://79857559-20bb-40d0-a232-1a2fec5c1326@89.37.192.123:443?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-REALITY - Magit'st Srl ┇ 89.37.192.123
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.163
 vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTkuMjA3IiwiYWRkIjoiNDUuODUuMTE5LjIwNyIsInBvcnQiOjQ0MywiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyJ9
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 95.133.245.163
-vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTguODgiLCJhZGQiOiI0NS44NS4xMTguODgiLCJwb3J0Ijo0NDMsImlkIjoiZWUzMGQzZmYtZGExNC00ZWE4LWJjZDItMDJlOGVlMzY2N2RlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYWlkYXBwLmxpZmV2d3MiLCJ0bHMiOiJ0bHMifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Dotro Telecom Srl ┇ 154.46.31.106
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@portal.seysisi.ir:443?type=tcp&security=none&sni=play.google.com#RO 🇷🇴 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 82.117.255.217
+vmess://eyJ2IjoiMiIsInBzIjoiUk8gXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyA0NS44NS4xMTguODgiLCJhZGQiOiI0NS44NS4xMTguODgiLCJwb3J0Ijo0NDMsImlkIjoiZWUzMGQzZmYtZGExNC00ZWE4LWJjZDItMDJlOGVlMzY2N2RlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYWlkYXBwLmxpZmV2d3MiLCJ0bHMiOiJ0bHMifQ
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?type=tcp&security=tls#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.180
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 77.74.123.163
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#RO 🇷🇴 ┇ VLESS-TCP-TLS - Interkvm Host Srl ┇ 95.133.245.105
+vless://79857559-20bb-40d0-a232-1a2fec5c1326@89.37.192.123:443?type=tcp&security=reality#RO 🇷🇴 ┇ VLESS-TCP-REALITY - Magit'st Srl ┇ 89.37.192.123

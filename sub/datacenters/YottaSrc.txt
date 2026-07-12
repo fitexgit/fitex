@@ -1,6 +1,6 @@
-vless://575c4798-ad7f-4780-b19b-97d716f6e219@tun.mamadhpbot.ir:2097?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.71.219.56
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
-vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:3044?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.71.219.56
-vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?type=tcp&security=reality#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 64.49.15.87
-vless://c35f0fdd-1248-4430-b0a5-f35eab9da7e2@general.uptalk.ir:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.5.223
+vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?type=tcp&security=reality&sni=play.google.com&fp=ios&flow=xtls-rprx-vision&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&sid=74a6bf9721cd1c19#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 64.49.15.87
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@5.abidar51.ir:443?type=tcp&security=none&pbk=Z7Tj1NXWB6ky7srugyd0qzDJ_TDTMUiURGDf5GuXwWM#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.67.136.210
+vless://c35f0fdd-1248-4430-b0a5-f35eab9da7e2@general.uptalk.ir:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 217.179.5.223
+vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:3044?type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 185.71.219.56
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 204.10.192.79
+vless://575c4798-ad7f-4780-b19b-97d716f6e219@tun.mamadhpbot.ir:2097?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&sid=0020b2c2d7f87920#TR 🇹🇷 ┇ VLESS-TCP-REALITY - YottaSrc ┇ 185.71.219.56
