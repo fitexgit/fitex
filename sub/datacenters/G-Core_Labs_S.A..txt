@@ -1,6 +1,8 @@
-ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
-ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.105.40
-vless://d55704a7-1bc0-430e-a6a2-c4c13ad31702@92.223.62.50:38395?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.62.50
 vless://a2292e36-fafb-6634-051d-1d99f45503c7@vajm5bz324c3.vtret.com:8379?type=tcp&security=none&mode=packet-up#TR 🇹🇷 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.109
+vless://c2a56771-5778-4212-8f09-138fbab5cb12@81.28.12.12:80?type=ws&security=none#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
+vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&sid=6b59#TR 🇹🇷 ┇ VLESS-TCP-REALITY - G-Core Labs S.A. ┇ 213.156.152.234
+vless://a4f01119-883c-42e2-8c27-5711af28083a@85.234.65.234:36348?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.234
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 87.120.106.93
 vless://8cd155b6-eb05-44ca-fb5a-514896084540@vajm5bz324c3.vtret.com:8379?type=xhttp&security=reality&path=/phpMyAdmin?q=一位處女在孫先生的農場工作。&sni=play.google.com&host=google.com&mode=packet-up&fp=firefox&pbk=qIRHacDVKAuyQJrOJMSpwYyKhw-5KwvOX0W3d-TiB3w&sid=07529200e1fe#TR 🇹🇷 ┇ VLESS-XHTTP-REALITY - G-Core Labs S.A. ┇ 93.114.98.109
+vless://Azarakhsh_Proxy@speedtest-fr5.gcore.com:80?type=httpupgrade&security=none&path=@Azarakhsh_Proxy/?ed=443&host=mesterfaloower.ir#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 92.223.124.62
 vless://cf938e27-b805-4330-b1a3-9b8d437980ca@f14on.sannest.ir:443?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.115.240.240

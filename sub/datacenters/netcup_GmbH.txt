@@ -1,3 +1,2 @@
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 159.195.22.155
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.whiteshark.click:10443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 152.53.248.215
-vless://8fad5032-f740-4df1-bb87-e02a21665ced@185.233.106.243:443?type=tcp&security=reality&sni=wikipedia.org&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&flow=xtls-rprx-vision&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2#DE 🇩🇪 ┇ VLESS-TCP-REALITY - netcup GmbH ┇ 185.233.106.243
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 159.195.44.159
+vless://8fad5032-f740-4df1-bb87-e02a21665ced@185.233.106.243:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 185.233.106.243

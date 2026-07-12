@@ -1,2 +1,1 @@
-vless://f09d18a9-d778-4e00-a49a-c0063d1c1b11@83.147.18.179:23564?type=tcp&security=tls&sni=gpuopen.com&fp=chrome&flow=xtls-rprx-vision-udp443#ES 🇪🇸 ┇ VLESS-TCP-TLS - Regxa Company for Information Technology Ltd ┇ 83.147.18.179
-vless://f09d18a9-d778-4e00-a49a-c0063d1c1b11@w.r.stockym.com:443?type=tcp&security=tls&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#PL 🇵🇱 ┇ VLESS-TCP-TLS - Regxa Company for Information Technology Ltd ┇ 150.251.112.40
+vless://f09d18a9-d778-4e00-a49a-c0063d1c1b11@w.r.stockym.com:443?type=tcp&security=none&mode=auto#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 150.251.112.40

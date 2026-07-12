@@ -1,7 +1,5 @@
-vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?type=ws&security=none&path=/stream&host=panel.dibaux.ir#PL 🇵🇱 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 82.40.62.134
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@dash.sharkjoy.org:8443?type=tcp&security=reality#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 82.22.41.237
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@zone.sharkjoy.org:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 38.107.232.38
-vless://51b0dfbc-529f-4029-87bd-a5e879e4c948@web.filpower.shop:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.206
-vless://693a9953-8b79-4cc4-9374-58aa0fc48906@82.40.62.136:443?type=tcp&security=none&mode=auto#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.136
+vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?type=tcp&security=reality&sni=usa32.clearorbitllc.com&fp=chrome&flow=xtls-rprx-vision&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Newserverlife LLC ┇ 104.167.198.211
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii92bWVzcy8ifQ
-vless://e5d83f7b-51fb-4506-ab58-8c913c8a8016@org.virgooli.site:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.206
+vless://2b0a7e5e-135e-4164-b470-84a0a3f4035b@pol.mrsolo5323.ir:2053?type=xhttp&security=none#PL 🇵🇱 ┇ VLESS-XHTTP-NTLS - Newserverlife LLC ┇ 82.40.62.138
+vless://693a9953-8b79-4cc4-9374-58aa0fc48906@82.40.62.136:443?type=tcp&security=none&mode=auto#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.136
+vless://51b0dfbc-529f-4029-87bd-a5e879e4c948@web.filpower.shop:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 82.40.62.206
