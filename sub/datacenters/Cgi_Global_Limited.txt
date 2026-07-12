@@ -1,6 +1,5 @@
-vless://4caca6e2-8004-4be6-8edf-6bc98bd17542@li.sannest.ir:443?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.26.89
-vless://59d08a71-f206-4ca3-9a42-8c56d3bfdc3c@46.8.229.199:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.229.199
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.61.189
-vless://0a63c088-2ca9-4e4f-8edc-3bc4b8a8e82e@46.8.224.150:443?type=tcp&security=reality&sni=video.media.yql.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=NVIPG28-FaoEfa79iyyz1Nvc4Vkll73FV7vHy9kqqDE&sid=a0e56b8bff#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.224.150
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.238.199
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&host=/?BIA_TELEGRAM@v2ray_configs_pools#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.170.76
+vless://de8c9038-36a7-43f3-a8d7-6af8f4146345@31.57.28.16:8080?type=tcp&security=none&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.28.16
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?type=tcp&security=none&host=play.google.com#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.215.31.55
+vless://0a63c088-2ca9-4e4f-8edc-3bc4b8a8e82e@46.8.224.150:443?type=tcp&security=reality&sni=br.financas.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=NVIPG28-FaoEfa79iyyz1Nvc4Vkll73FV7vHy9kqqDE&sid=db341ffa40d9f8#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.224.150
+vless://cf06fc75-f565-43d3-aeb0-44861687e27e@31.56.222.233:8443?type=xhttp&security=reality&path=/&sni=www.samsung.com&mode=auto&fp=chrome&pbk=s9Pcb88H6yJFIJKsQhW0JeZyfcJdinD5RTk5Ly9tN1A&sid=cf#NL 🇳🇱 ┇ VLESS-XHTTP-REALITY - Cgi Global Limited ┇ 31.56.222.233
+vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&sid=fa893256a458b8a0#LV 🇱🇻 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.236.129
