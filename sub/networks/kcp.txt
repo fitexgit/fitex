@@ -1,10 +1,10 @@
-vless://c44c7433-5460-4269-a7de-0af05e27a48f@64.90.7.33:8080?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - NetLab Global ┇ 64.90.7.33
 vless://0f8eab4c-4d27-44fa-bf1f-21d2dd787d74@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
-vless://e5e7f142-aaab-40fe-c451-4cd2aaba79d6@143.198.64.218:49510?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 143.198.64.218
-vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 104.21.1.12
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDEzNS4xODEuMTk4LjI1NSIsImFkZCI6IjEzNS4xODEuMTk4LjI1NSIsInBvcnQiOjEwMDAwLCJpZCI6Ijc2MzZlZDRmLTQ3Y2EtNDgxZS04OGM4LWE2YTMyMjNmMmFlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6InRlbGVncmFtLWlkLUBwcml2YXRldnBucyJ9
-vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
 vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDk1LjIxNi4yMTEuMTg5IiwiYWRkIjoiOTUuMjE2LjIxMS4xODkiLCJwb3J0IjoxMDAwMCwiaWQiOiI3NjM2ZWQ0Zi00N2NhLTQ4MWUtODhjOC1hNmEzMjIzZjJhZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJ0ZWxlZ3JhbS1pZC1AcHJpdmF0ZXZwbnMifQ
-vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 104.21.95.123
+vless://c44c7433-5460-4269-a7de-0af05e27a48f@64.90.7.33:8080?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - NetLab Global ┇ 64.90.7.33
+vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 104.21.1.12
 vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyBcdTI1MDcgTi9BIiwiYWRkIjoid3d3LmV2aWxzaGRtcm9oLmlyIiwicG9ydCI6Mzg2NDEsImlkIjoiNDY3ZDA2ZjEtZDU1NS00NTE5LWFhNmUtNjQ3MGE2ZGZjYWFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiSW40VzU5WmpBSSJ9
 vless://TELEgRAM-ID-conf0088@cuetara.name.cuetara.name:8443?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.160.79
+vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
+vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 172.67.144.195
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDEzNS4xODEuMTk4LjI1NSIsImFkZCI6IjEzNS4xODEuMTk4LjI1NSIsInBvcnQiOjEwMDAwLCJpZCI6Ijc2MzZlZDRmLTQ3Y2EtNDgxZS04OGM4LWE2YTMyMjNmMmFlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6InRlbGVncmFtLWlkLUBwcml2YXRldnBucyJ9
+vless://e5e7f142-aaab-40fe-c451-4cd2aaba79d6@143.198.64.218:49510?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 143.198.64.218
