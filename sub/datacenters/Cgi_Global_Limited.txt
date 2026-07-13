@@ -1,1 +1,4 @@
-vless://0a63c088-2ca9-4e4f-8edc-3bc4b8a8e82e@46.8.224.150:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.224.150
+vless://0c208adf-e5d0-44b1-abc6-0b1b50a8bee6@riga.jorzel.ir:19302?type=tcp&security=none&sni=yahoo.com#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.29.28
+vless://3544b5fc-a5bc-4d03-89fb-c1787c8719cd@31.57.28.16:8080?type=tcp&security=none&mode=auto#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 31.57.28.16
+vless://59d08a71-f206-4ca3-9a42-8c56d3bfdc3c@46.8.229.199:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Cgi Global Limited ┇ 46.8.229.199
+vless://de8c9038-36a7-43f3-a8d7-6af8f4146345@31.57.28.16:8080?type=xhttp&security=reality&path=/ws&sni=play.google.com&host=De.emperorr.sbs&mode=auto&fp=chrome&pbk=opJtSOP5IDRUindFufbrBBdWVWnrNAyfIbPHGnaBW1Y&sid=3dc10c875cf37011#LV 🇱🇻 ┇ VLESS-XHTTP-REALITY - Cgi Global Limited ┇ 31.57.28.16

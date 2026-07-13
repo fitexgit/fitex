@@ -1,8 +1,4 @@
-vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31
-vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&sid=d1d99597038144#AE 🇦🇪 ┇ VLESS-TCP-REALITY - Hostkey B.v. ┇ 78.17.38.238
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 130.185.120.239
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCLUNlQmlIc1Q1OXBldVJlTl9FNDVR@194.85.249.189:8443#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 194.85.249.189
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - Digital City FZE ┇ 130.49.161.70
-vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?type=ws&security=none&path=/randompath123&host=www.google.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 78.17.38.238
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?type=xhttp&security=tls&path=/&sni=pin4.jafarparty.lat&host=pin4.jafarparty.lat&mode=auto&fp=qq#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - Cloudflare London, LLC ┇ 181.214.1.172
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgOTQuMTQwLjAuMTEwIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://8cd155b6-eb05-44ca-fb5a-514896084540@a9vercboaecf.dopweed.com:8379?type=tcp&security=none&mode=packet-up#AE 🇦🇪 ┇ VLESS-TCP-NTLS - OVH SAS ┇ 212.100.171.197
+vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@185.253.116.38:443?type=tcp&security=reality&sni=duckduckgo.com&fp=chrome&flow=xtls-rprx-vision&pbk=A2_2LyDmeLGGBqdtl7Zu2vRKghhewpmsMq8NmG9RqDw&sid=b9cd333706f5#AE 🇦🇪 ┇ VLESS-TCP-REALITY - HZ Hosting Ltd ┇ 185.253.116.38
+vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 31.56.89.31

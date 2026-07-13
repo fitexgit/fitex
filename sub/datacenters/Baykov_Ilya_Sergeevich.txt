@@ -1,2 +1,4 @@
-vless://7d251cd4-82c6-41a3-8283-eb8a8df46cb2@194.147.33.199:29023?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 194.147.33.199
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Baykov Ilya Sergeevich ┇ 45.138.100.226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 193.47.60.186
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 185.68.184.237
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Baykov Ilya Sergeevich ┇ 45.138.100.226
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@five.neobo-tooth.ru:2053?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Baykov Ilya Sergeevich ┇ 185.79.138.127

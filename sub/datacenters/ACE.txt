@@ -1,2 +1,1 @@
-vless://31b7015e-5e35-4ce6-afee-c6b6eae7ed27@43.174.246.53:443?type=tcp&security=none&path=/23200/api#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.246.53
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?type=ws&security=tls&path=/proxyip=ProxyIP.CMLiussss.net&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.169.18.179
+vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.174.247.53
