@@ -1,8 +1,8 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?type=ws&security=tls&path=/blue&sni=da.ylks.xyz&host=da.ylks.xyz#MX 🇲🇽 ┇ VLESS-WS-TLS - Oracle Corporation ┇ 140.84.179.114
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.230
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?type=ws&security=tls&path=/?ed=2048&sni=lg.kpcloud.eu.org&host=lg.kpcloud.eu.org#MX 🇲🇽 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 158.23.168.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.27
-vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?type=tcp&security=tls&sni=qro-mx-01.fromblancwithlove.com#MX 🇲🇽 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 121.127.43.215
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.156.11:80?type=ws&security=none&path=/&host=Fastapi.Org#MX 🇲🇽 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 199.232.156.11
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?type=ws&security=tls&path=/?ed=2048&sni=lg.kpcloud.eu.org&host=lg.kpcloud.eu.org#MX 🇲🇽 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 158.23.168.120
+vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?type=tcp&security=tls&sni=qro-mx-01.fromblancwithlove.com#MX 🇲🇽 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 121.127.43.215
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.179.23
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?type=ws&security=tls&path=/vless/&sni=ul-mexico1.09vpn.com&host=ul-mexico1.09vpn.com&fp=chrome#MX 🇲🇽 ┇ VLESS-WS-TLS - Latitude.sh ┇ 45.134.9.133
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?type=ws&security=tls&path=/blue&sni=da.ylks.xyz&host=da.ylks.xyz#MX 🇲🇽 ┇ VLESS-WS-TLS - Oracle Corporation ┇ 140.84.179.114
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.230

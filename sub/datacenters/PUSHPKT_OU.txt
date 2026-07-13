@@ -1,5 +1,5 @@
 vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?type=tcp&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NL 🇳🇱 ┇ VLESS-TCP-REALITY - PUSHPKT OU ┇ 117.55.202.15
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:9443?type=ws&security=tls&path=/ws&sni=france-2.hysteria.ltd&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 205.237.105.196
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@205.237.105.111:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 205.237.105.111
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@205.237.104.99:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 205.237.104.99
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@nl-ws-33.hysteria.ltd:6443?type=ws&security=tls&path=/ws&sni=nl-ws-33.hysteria.ltd&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 117.55.203.63
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:9443?type=ws&security=tls&path=/ws&sni=france-2.hysteria.ltd&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - PUSHPKT OU ┇ 205.237.105.196
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@205.237.104.99:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 205.237.104.99
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@205.237.105.111:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - PUSHPKT OU ┇ 205.237.105.111
