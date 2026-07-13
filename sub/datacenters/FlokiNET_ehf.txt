@@ -1,1 +1,1 @@
-vless://5c5a466e-f2e0-4211-8963-742afac24948@185.247.226.138:443?type=tcp&security=none#IS 🇮🇸 ┇ VLESS-TCP-NTLS - FlokiNET ehf ┇ 185.247.226.138
+vless://5c5a466e-f2e0-4211-8963-742afac24948@185.247.226.138:443?type=ws&security=tls&path=/xiron&sni=netmelivip.dpdns.org&host=netmelivip.dpdns.org&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - FlokiNET ehf ┇ 185.247.226.138

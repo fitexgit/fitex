@@ -1,2 +1,2 @@
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.sharkphotos.de:443?type=tcp&security=none&mode=packet-up#DE 🇩🇪 ┇ VLESS-TCP-NTLS - NUXOA GmbH ┇ 89.36.32.145
-vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.sharkphotos.de:10443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - NUXOA GmbH ┇ 89.36.32.145
+vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.sharkphotos.de:443?type=xhttp&security=tls&path=/media/batch/sync&host=de2.sharkphotos.de&mode=packet-up#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - NUXOA GmbH ┇ 89.36.32.145
+vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.sharkphotos.de:10443?type=tcp&security=reality&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&pbk=dE1MAhwsIQ1CzuDXlEq1qOQFR6t5MF5iCWa1NR3abEg&sid=0bd84008#DE 🇩🇪 ┇ VLESS-TCP-REALITY - NUXOA GmbH ┇ 89.36.32.145
