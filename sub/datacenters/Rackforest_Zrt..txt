@@ -1,1 +1,2 @@
-vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@185.187.72.117:443?type=tcp&security=reality&sni=hu.locklance.lol&flow=xtls-rprx-vision&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&sid=2f6c940cadef9918#HU 🇭🇺 ┇ VLESS-TCP-REALITY - Rackforest Zrt. ┇ 185.187.72.117
+vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@hu.locklance.lol:443?type=tcp&security=tls&sni=hu.locklance.lol&fp=chrome&flow=xtls-rprx-vision-udp443#HU 🇭🇺 ┇ VLESS-TCP-TLS - Rackforest Zrt. ┇ 185.187.72.117
+vless://5a96b986-1a96-4005-b5ae-45096ae6f85a@hu.locklance.lol:443?type=tcp&security=none#HU 🇭🇺 ┇ VLESS-TCP-NTLS - Rackforest Zrt. ┇ 185.187.72.117

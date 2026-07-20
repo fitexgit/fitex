@@ -1,3 +1,6 @@
-vless://7e41b486-1783-446c-b0d0-4fe1389cae84@107.174.20.100:55703?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Nexeon Technologies, Inc. ┇ 107.174.20.100
 ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05k@172.93.146.210:49126#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Nexeon Technologies, Inc. ┇ 172.93.146.210
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOZXhlb24gVGVjaG5vbG9naWVzLCBJbmMuIFx1MjUwNyAxMDcuMTc1Ljk2Ljc0IiwiYWRkIjoiMTA3LjE3NS45Ni43NCIsInBvcnQiOjQxNTA3LCJpZCI6IjY5NWFjMGEzLTQwNmEtNDFkNy04M2M1LTVhZjhjMzlkM2JlYyIsImFpZCI6NSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoibnkxLmJ1bGtjYXNoLnRvcCIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoibnkxLmJ1bGtjYXNoLnRvcCJ9
+vless://7e41b486-1783-446c-b0d0-4fe1389cae84@107.174.20.100:55703?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Nexeon Technologies, Inc. ┇ 107.174.20.100
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@107.175.96.74:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Nexeon Technologies, Inc. ┇ 107.175.96.74
+vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@64.44.167.38:8443?type=ws&security=none&path=/?ed=2560&sni=hzhz85123803.dpdns.org&host=hzhz85123803.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - Nexeon Technologies, Inc. ┇ 64.44.167.38
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@64.44.42.195:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Nexeon Technologies, Inc. ┇ 64.44.42.195

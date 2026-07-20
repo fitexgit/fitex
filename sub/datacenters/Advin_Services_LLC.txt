@@ -1,15 +1,27 @@
+vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFkdmluIFNlcnZpY2VzIExMQyBcdTI1MDcgMjA4Ljg0LjEwMi4yMzQiLCJhZGQiOiIyMDguODQuMTAyLjIzNCIsInBvcnQiOjQwMjM4LCJpZCI6IjU0Y2JkYTAwLWM4ZjctNDk1NC04NDAxLWUwNDg5OTEyOWFiZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?sni=www.bing.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Advin Services LLC ┇ 204.10.194.86
+vless://d21a2d0c-6872-457f-93f2-069d5167a8fc@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
 vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
-vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:55974?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
-vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#US 🇺🇸 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 142.248.80.157
-vless://12fbfce4-80bc-4559-9936-337963bb3fca@samd.softupdl.ir:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
-vless://b18ca099-f725-4470-9032-259cc1a779e0@204.10.194.211:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
-vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@samd.softupdl.ir:13908?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://SoonTeam@sexi.carderrr.com:443?type=ws&security=none&path=@SylphNet&host=anten.ir#MY 🇲🇾 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60
+vless://e31f0562-6a2a-46fa-8c59-131a265e8faf@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
 vless://c7fb07cb-4de9-4030-acd4-decd15825f35@samd.softupdl.ir:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#US 🇺🇸 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 142.248.80.157
+vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@sexi.carderrr.com:443?type=ws&security=none&path=/telegram@SoonTeam&host=anten.ir&fp=qq#MY 🇲🇾 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFkdmluIFNlcnZpY2VzIExMQyBcdTI1MDcgMjEyLjE5My4zLjE5MiIsImFkZCI6IjIxMi4xOTMuMy4xOTIiLCJwb3J0IjoxMTAsImlkIjoiZTQ1ZDAzMjktMWFkMS00MTI0LWE5MjgtZTlmYzgyNjI4Y2ZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@samd.softupdl.ir:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
 vless://e286cebe-7473-44e9-8c30-273ac36ac83b@usa.mohammadaz2.shop:42348?type=tcp&security=none&path=/&host=play.google.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 208.84.102.234
-vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
-vless://SoonTeam@sexi.carderrr.com:443?type=ws&security=none&path=@SylphNet&host=anten.ir#MY 🇲🇾 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.103.60
-vless://503bf95a-e3ca-523d-81d9-8d55efd989a5@207.241.172.215:5222?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 207.241.172.215
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@204.10.194.114:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
+vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@samd.softupdl.ir:13908?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
 vless://d1566f1f-1697-4f1b-9352-d418163e909d@gemrnakcie.premiumv3ray.com:2035?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=hCiOvsBKJ6T4XAwYwAiA58J89IIO2bFrLdWi5vWLKWo&sid=b9565b60e226c64d#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 204.10.194.191
-vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:13908?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://87ace6ba-7c02-46b3-9e4e-61ea450c8ae5@reality1.novmber.ir:262?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.20
 vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@samd.softupdl.ir:55974?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:13908?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://12fbfce4-80bc-4559-9936-337963bb3fca@samd.softupdl.ir:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://0acbc72f-61f1-4404-bd8f-57015d10c899@samd.softupdl.ir:55974?type=tcp&security=none&host=Play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://7a12ccb8-c431-4cc0-ace9-a994cc4b2ca7@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
+vless://503bf95a-e3ca-523d-81d9-8d55efd989a5@207.241.172.215:5222?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 207.241.172.215
+vless://26524cce-d514-4014-a426-365fb266a14d@185.128.227.27:443?type=ws&security=none&path=/danfengsecurity=tls&host=xfxl35a.node-edge.gfw.hidns.co#MY 🇲🇾 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 185.128.227.27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjk5OGU1ZS05ZjVmLTQ3ZGQtODcyZC0wNDRjYTM4OWFjZTM@204.10.194.114:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
+vless://b18ca099-f725-4470-9032-259cc1a779e0@204.10.194.211:56792?type=tcp&security=none&host=play.google.com#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.211
+vless://6f786c4e-6402-4269-98d3-c383fb1708da@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
