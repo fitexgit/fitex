@@ -1,7 +1,5 @@
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?type=ws&security=tls&path=/id-tksi&sni=m.udemy.com.cyylr.eu.cc&host=m.udemy.com.cyylr.eu.cc&fp=chrome#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.81
-vless://76636b35-e926-4b10-8336-c0d0c48a42b8@202.37.33.80:2096?type=ws&security=tls&path=/?ed=2048fp=chrome&sni=ccffllyy.1412.me&host=ccffllyy.1412.me#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@202.37.33.80:443?type=ws&security=none&path=/?ed=2560security=tls&sni=nl.ylkszy.eu.org#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Ministry of Education ┇ 202.37.33.80
 vless://06df48c8-854b-408b-bbc7-265adb870d40@202.37.33.80:443?type=ws&security=tls&path=/sg-melbi&sni=gov2.cc.cd&host=gov2.cc.cd&fp=chrome#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.80
-vless://13d3b44b-8e02-4669-88ba-497c8b00365e@202.37.33.81:443?type=tcp&security=none#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Ministry of Education ┇ 202.37.33.81
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?type=tcp&security=none&path=/id-tksi#NZ 🇳🇿 ┇ VLESS-TCP-NTLS - Ministry of Education ┇ 202.37.33.81
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@202.37.33.80:443?type=ws&security=tls&path=/sg-melbi&sni=cyylr.eu.cc&host=cyylr.eu.cc&fp=chrome#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@202.37.33.81:443?type=ws&security=tls&path=/?ed=2560&sni=vb.zhuk.us.kg&host=vb.zhuk.us.kg#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.81
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?type=ws&security=tls&path=/sg-melbi&sni=cyylr.eu.cc&host=cyylr.eu.cc&fp=chrome#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.80
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?type=tcp&security=tls&path=/sg-melbi&host=cyylr.eu.cc&fp=chrome#NZ 🇳🇿 ┇ VLESS-TCP-TLS - Ministry of Education ┇ 202.37.33.80

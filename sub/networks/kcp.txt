@@ -1,98 +1,63 @@
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTkuNzIuMTMxIiwiYWRkIjoiOC4yMTkuNzIuMTMxIiwicG9ydCI6NTE3MTMsImlkIjoiNWRkYjQ0NTktY2UwOC00NjJiLWI5MjAtZWZjNDY0ZjdlOTRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vless://88bef288-3d7f-4171-a23d-c044c2041eb4@104.248.167.70:10304?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 104.248.167.70
-vless://0a529152-550e-473f-db91-6e8914f742cc@16.16.205.228:80?type=kcp&security=none#SE 🇸🇪 ┇ VLESS-KCP-NTLS - Amazon.com, Inc. ┇ 16.16.205.228
-vless://01775cf2-d700-40db-c1f4-235e50e47d6a@49.12.235.143:49019?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 49.12.235.143
-vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIChISykgTElNSVRFRCBcdTI1MDcgNDUuNDMuMzcuMjUzIiwiYWRkIjoiNDUuNDMuMzcuMjUzIiwicG9ydCI6MTcwMjMsImlkIjoiZmU3OTdkMzItNjYwNy00YjQ2LThlMzktYzRmYjFlM2MwODcyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
+vless://12446284-4fc4-465b-eaca-d0d05a47a6bc@91.107.176.34:26660?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.176.34
+vless://3380d01f-cb15-41c1-f2d3-a6bf8bae9ca8@88.198.119.245:41302?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 88.198.119.245
+vless://ee0da423-7ed2-4f2c-aa02-c7508b3eca45@91.107.159.135:17478?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.159.135
+vless://882b8cbc-49ed-4cff-b9fe-0e31a00afea8@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://admib@8.218.230.193:80?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - Alibaba (US) Technology Co., Ltd. ┇ 8.218.230.193
+vless://0a529152-550e-473f-db91-6e8914f742cc@16.16.146.103:80?type=kcp&security=none#SE 🇸🇪 ┇ VLESS-KCP-NTLS - Amazon.com, Inc. ┇ 16.16.146.103
+vless://a81008db-d4df-49c6-f631-35d86ee91c2f@135.181.32.98:8080?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 135.181.32.98
+vless://e5e7f142-aaab-40fe-c451-4cd2aaba79d6@143.198.64.218:49510?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 143.198.64.218
+vless://59127a60-b418-407b-a83d-a3524f236cb4@public.vipmobile98iran.online:49723?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://09eb871e-2107-4e15-962b-85f152f16251@146.70.113.148:56680?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - M247 Europe SRL ┇ 146.70.113.148
+vless://d7e51a20-abf4-4620-cfe6-1274d8d28969@212.64.223.175:53808?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS ┇ 212.64.223.175
+vless://9599c20b-bee7-4ca2-df56-d09c9e773f15@135.181.147.198:62345?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 135.181.147.198
+vless://5f1dbabe-be61-42fa-cbde-dc84ce43c638@shamo.shnovps.click:36611?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://47b3a206-71c2-4a14-9ba5-7f11e4801dc1@soskeynets.dezhawo.ir:11534?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://b5179c57-83bb-4f49-9238-15e7d0a9b991@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://65267c40-1aca-4808-b9bd-0e94fae826fb@3.149.243.102:47668?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - Amazon.com, Inc. ┇ 3.149.243.102
+vless://8f65ff4c-1220-44c6-ba75-535ade5f572c@116.203.232.105:80?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 116.203.232.105
+vless://7cbab2a0-e730-417f-8582-5da4b82d8357@178.79.142.27:52074?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - Akamai Connected Cloud ┇ 178.79.142.27
+vless://51c31e14-dfd8-4fbe-9a14-1e4c57a99223@162.19.211.185:53454?type=kcp&security=none#FR 🇫🇷 ┇ VLESS-KCP-NTLS - OVH SAS ┇ 162.19.211.185
 vless://01f815cc-30b3-4da5-b39b-74f6fff617b0@91.107.132.67:46242?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.132.67
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDMuMTAwLjEzMS4yNTIiLCJhZGQiOiI0My4xMDAuMTMxLjI1MiIsInBvcnQiOjU4MTY0LCJpZCI6ImRlMjBiYmQ5LTczZGUtNGY2Zi1hZjc4LWI1MjgzYTFlYzhjNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://47b541d6-3ad7-45cb-ac22-77d559d73687@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://e77f6c00-4477-4f72-9b45-d11d709ba6ac@65.109.216.172:27651?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.109.216.172
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDUuMTYxLjEwMi4xNjYiLCJhZGQiOiI1LjE2MS4xMDIuMTY2IiwicG9ydCI6NDQzLCJpZCI6ImU5Nzg3NjFlLTBmNmYtNDIyOS1mY2YwLTI3YzJmZjE0ODllMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6InZmQjNieUZQRFkifQ
+vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 104.21.1.12
+vless://7865103b-cc97-41b3-a289-3c3cad9a0f55@109.122.202.170:11023?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Melbikomas UAB ┇ 109.122.202.170
+vless://1bcc8eef-f3f8-4f05-c9f5-e558f028bbda@91.107.148.81:80?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.148.81
+vless://TELEgRAM-ID-conf0088@cuetara.name.cuetara.name:8443?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ 0.0.0.0
+vless://ed9ef23c-9143-4bd0-e246-68c4ad5ef153@public.vipmobile98iran.online:49723?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://bb46ab47-64c6-48e4-aef6-ed99cb5bc55d@91.107.140.193:2095?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.140.193
+vless://e33127f5-25de-48c9-9a79-aedd81ffb000@45.88.76.240:54350?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Podaon SIA ┇ 45.88.76.240
+vless://0e95f17a-a10f-4e0c-93f6-7878fe0544bc@109.122.202.170:20387?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Melbikomas UAB ┇ 109.122.202.170
 vless://47b3a206-71c2-4a14-9ba5-7f11e4801dc1@speed.dezhawo.ir:11534?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - OVH SAS ┇ 57.129.94.24
+vless://0f8eab4c-4d27-44fa-bf1f-21d2dd787d74@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
+vless://88bef288-3d7f-4171-a23d-c044c2041eb4@104.248.167.70:10304?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 104.248.167.70
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyBcdTI1MDcgTi9BIiwiYWRkIjoid3d3LmV2aWxzaGRtcm9oLmlyIiwicG9ydCI6Mzg2NDEsImlkIjoiNDY3ZDA2ZjEtZDU1NS00NTE5LWFhNmUtNjQ3MGE2ZGZjYWFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiSW40VzU5WmpBSSJ9
+vless://wearestand@kotlet.wearestandtelegram.online:2001?type=kcp&security=none&path=/#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://15204cab-28de-4957-beae-841c6db86059@212.52.1.119:2001?type=kcp&security=none#LV 🇱🇻 ┇ VLESS-KCP-NTLS ┇ 212.52.1.119
+vless://f3bf40ec-3c4d-415c-87f4-335513ee56b3@162.19.211.185:18993?type=kcp&security=none#FR 🇫🇷 ┇ VLESS-KCP-NTLS - OVH SAS ┇ 162.19.211.185
+vless://f64ce532-17ed-4f66-ceb6-614af207ee63@public.vipmobile98iran.online:12667?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://159d532f-792e-4413-cb73-c1bcd830b5b5@65.108.49.97:55406?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.108.49.97
+vless://61daf28f-ef1b-438b-fb27-e9a56d1a5e07@104.248.167.70:14509?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 104.248.167.70
+vless://41bba8e4-3ea1-4bbb-941a-c9b858ab3f5b@135.181.251.250:40439?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 135.181.251.250
+vless://a01b116d-9bf0-496b-f452-c7e1e55116e0@91.107.140.193:2086?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.140.193
+vless://01775cf2-d700-40db-c1f4-235e50e47d6a@49.12.235.143:49019?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 49.12.235.143
+vless://d9be46a8-0756-4a11-882e-e2c62b147b2b@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
+vless://5bcf3c74-0b36-4000-ba5e-01eeb915dc01@ar.dlnn.site:443?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
+vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDk1LjIxNi4yMTEuMTg5IiwiYWRkIjoiOTUuMjE2LjIxMS4xODkiLCJwb3J0IjoxMDAwMCwiaWQiOiI3NjM2ZWQ0Zi00N2NhLTQ4MWUtODhjOC1hNmEzMjIzZjJhZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJ0ZWxlZ3JhbS1pZC1AcHJpdmF0ZXZwbnMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDUuMTYxLjEyMC4xMTkiLCJhZGQiOiI1LjE2MS4xMjAuMTE5IiwicG9ydCI6NDQzLCJpZCI6IjM0ODU3NzljLTNkMTktNDhhZC1hOWYyLTczOGQ1YTQ1YzJmYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6IkQzT1NjRWJ2ajgifQ
+vless://27e779a9-b24d-4fcc-9049-952a48e77f5f@157.90.26.229:30410?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 157.90.26.229
+vless://776cf715-a0cd-4470-9ac4-29b46231f6af@pristytools.com.pristytools.com:8443?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.160.79
 vless://051f2caf-63c2-42a5-dfdb-46dd62b3f2b2@138.199.194.142:32975?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 138.199.194.142
 vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDEzNS4xODEuMTk4LjI1NSIsImFkZCI6IjEzNS4xODEuMTk4LjI1NSIsInBvcnQiOjEwMDAwLCJpZCI6Ijc2MzZlZDRmLTQ3Y2EtNDgxZS04OGM4LWE2YTMyMjNmMmFlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6InRlbGVncmFtLWlkLUBwcml2YXRldnBucyJ9
 vless://bef0a287-b229-4f68-b94c-fedd89af466c@91.107.140.193:2082?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.140.193
-vless://27e779a9-b24d-4fcc-9049-952a48e77f5f@157.90.26.229:30410?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 157.90.26.229
-vless://e33127f5-25de-48c9-9a79-aedd81ffb000@45.88.76.240:54350?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Podaon SIA ┇ 45.88.76.240
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTEuMTc1LjUzIiwiYWRkIjoiOC4yMTEuMTc1LjUzIiwicG9ydCI6MzY2NjgsImlkIjoiYjc5ODM3MmEtNTRjOC00NTk3LTk2OWUtOGIwMGQyZjc2YzA5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMDkuMjAzLjg4IiwiYWRkIjoiOC4yMDkuMjAzLjg4IiwicG9ydCI6NTg0OTAsImlkIjoiNTUxMDg3ZTUtOWEwMy00NjM0LTllN2YtNzE0MTMzZWIzY2NiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vless://5bcf3c74-0b36-4000-ba5e-01eeb915dc01@ar.dlnn.site:443?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://bb46ab47-64c6-48e4-aef6-ed99cb5bc55d@91.107.140.193:2095?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.140.193
-vless://159d532f-792e-4413-cb73-c1bcd830b5b5@65.108.49.97:55406?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.108.49.97
-vless://15204cab-28de-4957-beae-841c6db86059@212.52.1.119:2001?type=kcp&security=none#LV 🇱🇻 ┇ VLESS-KCP-NTLS ┇ 212.52.1.119
-vless://-v2rayvpnshop1-@82.115.13.24:29078?type=kcp&security=none#AU 🇦🇺 ┇ VLESS-KCP-NTLS - BitCommand LLC ┇ 82.115.13.24
-vless://e77f6c00-4477-4f72-9b45-d11d709ba6ac@65.109.216.172:27651?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.109.216.172
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMDkuMjExLjIzNiIsImFkZCI6IjguMjA5LjIxMS4yMzYiLCJwb3J0IjozNDkzMywiaWQiOiI4YTkxNTBiYy1iOWM4LTQwYWMtYmU4My1hYWVjNDUxNzZhODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://a01b116d-9bf0-496b-f452-c7e1e55116e0@91.107.140.193:2086?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.140.193
-vless://admib@8.218.230.193:80?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - Alibaba (US) Technology Co., Ltd. ┇ 8.218.230.193
-vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIFdvcmtUaXRhbnMgQi5WLiBcdTI1MDcgMTg1LjI0Mi44Ny4xNjEiLCJhZGQiOiIxODUuMjQyLjg3LjE2MSIsInBvcnQiOjU1MjU0LCJpZCI6IjAwYWY2ZmQ3LTc5OWMtNDNlZi1lODUyLWZjMDY3NWZiM2M5YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwicGF0aCI6IkNnNTNxR3JYZzQifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjQzLjEzNS40NyIsImFkZCI6IjQ3LjI0My4xMzUuNDciLCJwb3J0Ijo1MjI1LCJpZCI6ImU2NGY2NjZkLTRiNzUtNDczYi05Y2MyLWFhZjZmMGJmMGUzMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://ee0da423-7ed2-4f2c-aa02-c7508b3eca45@91.107.159.135:17478?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.159.135
-vless://0a529152-550e-473f-db91-6e8914f742cc@16.16.146.103:80?type=kcp&security=none#SE 🇸🇪 ┇ VLESS-KCP-NTLS - Amazon.com, Inc. ┇ 16.16.146.103
-vless://d7e51a20-abf4-4620-cfe6-1274d8d28969@212.64.223.175:53808?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS ┇ 212.64.223.175
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjM5LjI0Mi4xMzYiLCJhZGQiOiI0Ny4yMzkuMjQyLjEzNiIsInBvcnQiOjI2NzA2LCJpZCI6IjM5NDliZTNjLWY4NjItNDA4MS1hZmNhLTk5NzliZDE4OTY0OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://0f8eab4c-4d27-44fa-bf1f-21d2dd787d74@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
-vless://882b8cbc-49ed-4cff-b9fe-0e31a00afea8@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTEuMTQ1LjE0NiIsImFkZCI6IjguMjExLjE0NS4xNDYiLCJwb3J0IjoyMzg5LCJpZCI6IjlmOWYzOTViLWU5YjItNGNmZC04NWIzLTA0MjVmMGUxMWFkNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTEuMTM2LjI0OSIsImFkZCI6IjguMjExLjEzNi4yNDkiLCJwb3J0Ijo1NjQyOCwiaWQiOiIyYTM3ZWI0NS00Y2RkLTRjMmUtOTE0ZS1lZDJmOTcyZTQwMDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
 vless://13d9ce7a-6253-4f5a-cb90-f8adcb1c4f58@s82.rahanesh.top:2053?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://9599c20b-bee7-4ca2-df56-d09c9e773f15@135.181.147.198:62345?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 135.181.147.198
-vless://5f1dbabe-be61-42fa-cbde-dc84ce43c638@shamo.shnovps.click:36611?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzQuNDMuMTgyIiwiYWRkIjoiNDcuNzQuNDMuMTgyIiwicG9ydCI6NDc2MjgsImlkIjoiZjhkMDViZjgtYmM0ZC00NTk5LTlhM2EtOGRjZTljMjIzODE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMDkuMjU0LjE0NCIsImFkZCI6IjguMjA5LjI1NC4xNDQiLCJwb3J0IjoyMDQyOSwiaWQiOiJkZTk0NjU2Zi1kODI4LTQxNDUtYTU5NS1mZDQ5ODI1YjNkZDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://ed9ef23c-9143-4bd0-e246-68c4ad5ef153@public.vipmobile98iran.online:49723?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://1bcc8eef-f3f8-4f05-c9f5-e558f028bbda@91.107.148.81:80?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.148.81
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTguMjI4LjQ1IiwiYWRkIjoiOC4yMTguMjI4LjQ1IiwicG9ydCI6NTIwNTksImlkIjoiODg4Y2U1ZTktNmUzYS00YjVjLWJjYjctY2UxMTI1YzAyZDc5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vless://7973db56-b133-491d-fcdf-b78f47f36a93@65.21.144.96:50125?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.21.144.96
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDk1LjIxNi4yMTEuMTg5IiwiYWRkIjoiOTUuMjE2LjIxMS4xODkiLCJwb3J0IjoxMDAwMCwiaWQiOiI3NjM2ZWQ0Zi00N2NhLTQ4MWUtODhjOC1hNmEzMjIzZjJhZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJ0ZWxlZ3JhbS1pZC1AcHJpdmF0ZXZwbnMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuODMuMTgxLjE1NCIsImFkZCI6IjQ3LjgzLjE4MS4xNTQiLCJwb3J0IjozMzUxLCJpZCI6IjBiZmM4YWNmLWFjNDAtNDVjMS04ZGRlLTdmMzQxNzYyMTI4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://wearestand@kotlet.wearestandtelegram.online:2001?type=kcp&security=none&path=/#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 172.67.144.195
-vless://37a84e91-0fb1-4ccc-ae28-5a4f1600b7b6@5.78.56.48:2086?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 5.78.56.48
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzQuMTQuMzAiLCJhZGQiOiI0Ny43NC4xNC4zMCIsInBvcnQiOjUxMDYsImlkIjoiMWNjODQ4OTEtMTY1Ny00ZjcxLTk3ZDAtMjg3ZGY1NjU4MjBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFtYXpvbi5jb20sIEluYy4gXHUyNTA3IDU0LjE2OC4xNTEuMTY5IiwiYWRkIjoiNTQuMTY4LjE1MS4xNjkiLCJwb3J0IjozMDM5MSwiaWQiOiJjOTc3Mzg4ZC00NTUwLTQxMzUtYmJjNi0wMTk5ZGFhNzYzNTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMDkuMjAwLjkxIiwiYWRkIjoiOC4yMDkuMjAwLjkxIiwicG9ydCI6NDA5MTYsImlkIjoiYWYwN2JmNDItYzk0Mi00MDg1LWE3Y2ItODBmOWJlZDg4Nzc2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjQzLjIwNC4xNzQiLCJhZGQiOiI0Ny4yNDMuMjA0LjE3NCIsInBvcnQiOjMyODk5LCJpZCI6ImI5ZDkxNDNiLWVkYmEtNDcwZC04ZDI1LTBkMjY3ODgwZmU3ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://d9be46a8-0756-4a11-882e-e2c62b147b2b@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjQyLjE4Ni4xIiwiYWRkIjoiNDcuMjQyLjE4Ni4xIiwicG9ydCI6NTA0MywiaWQiOiI5M2MzNTI3Ny1lZTNmLTRhYjItOWQ5ZS00NjJiOTdhODc5NWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://51c31e14-dfd8-4fbe-9a14-1e4c57a99223@162.19.211.185:53454?type=kcp&security=none#FR 🇫🇷 ┇ VLESS-KCP-NTLS - OVH SAS ┇ 162.19.211.185
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMDkuMjQ4LjI0OCIsImFkZCI6IjguMjA5LjI0OC4yNDgiLCJwb3J0Ijo1NjYyNywiaWQiOiJlY2IzMDRmYy0xZTViLTQ1MzgtOTg5Yy1jZjgxMTBhZTA0NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://09eb871e-2107-4e15-962b-85f152f16251@146.70.113.148:56680?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - M247 Europe SRL ┇ 146.70.113.148
-vless://0e95f17a-a10f-4e0c-93f6-7878fe0544bc@109.122.202.170:20387?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Melbikomas UAB ┇ 109.122.202.170
-vless://7cbab2a0-e730-417f-8582-5da4b82d8357@178.79.142.27:52074?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - Akamai Connected Cloud ┇ 178.79.142.27
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzkuNDIuMjI2IiwiYWRkIjoiNDcuNzkuNDIuMjI2IiwicG9ydCI6NTc0NjksImlkIjoiMzVmZWFkNmQtMzFlZS00MGEwLTk5OWItOTI5M2M5MzdkMTIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzYuMTYwLjE1NCIsImFkZCI6IjQ3Ljc2LjE2MC4xNTQiLCJwb3J0Ijo2MzEwMSwiaWQiOiJiYTQ3YzUxNi0wYzE4LTQ5ZDUtOTU0OC02MzcwYzgzNWUxNjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuOTEuMTkuMjE2IiwiYWRkIjoiNDcuOTEuMTkuMjE2IiwicG9ydCI6Nzk2NSwiaWQiOiI5YTJlNTljMi1lOGExLTQ2ODQtOGRmNy01YTVjYTVhZTE3NGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjM5LjE4My44NyIsImFkZCI6IjQ3LjIzOS4xODMuODciLCJwb3J0IjoyODU5MCwiaWQiOiJkNzU0ODFjNy1iNWM4LTQwYTktODExYS0wMmI3MDllNzQ4MTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://41bba8e4-3ea1-4bbb-941a-c9b858ab3f5b@135.181.251.250:40439?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 135.181.251.250
-vless://59127a60-b418-407b-a83d-a3524f236cb4@public.vipmobile98iran.online:49723?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://61daf28f-ef1b-438b-fb27-e9a56d1a5e07@104.248.167.70:14509?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 104.248.167.70
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzQuNDIuMTc0IiwiYWRkIjoiNDcuNzQuNDIuMTc0IiwicG9ydCI6NDAzNTQsImlkIjoiNzlmMGNiOTctZDYzMS00OTNlLTg0YTEtODJhMDU3NmZhOTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyBcdTI1MDcgTi9BIiwiYWRkIjoid3d3LmV2aWxzaGRtcm9oLmlyIiwicG9ydCI6Mzg2NDEsImlkIjoiNDY3ZDA2ZjEtZDU1NS00NTE5LWFhNmUtNjQ3MGE2ZGZjYWFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiSW40VzU5WmpBSSJ9
-vless://a81008db-d4df-49c6-f631-35d86ee91c2f@135.181.32.98:8080?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 135.181.32.98
-vless://47b3a206-71c2-4a14-9ba5-7f11e4801dc1@soskeynets.dezhawo.ir:11534?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjQyLjIxNS4xNTQiLCJhZGQiOiI0Ny4yNDIuMjE1LjE1NCIsInBvcnQiOjIxNTIzLCJpZCI6ImY2Yzg5NGEzLWYzMjYtNDgwNy05MjcwLWYyMzZkYTQxMjBjMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
 vless://c44c7433-5460-4269-a7de-0af05e27a48f@64.90.7.33:8080?type=kcp&security=none#HK 🇭🇰 ┇ VLESS-KCP-NTLS - NetLab Global ┇ 64.90.7.33
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFtYXpvbi5jb20sIEluYy4gXHUyNTA3IDQzLjIwNy44My42MCIsImFkZCI6IjQzLjIwNy44My42MCIsInBvcnQiOjIwOTMyLCJpZCI6ImJjNGUwMjc1LTJhODMtNDNiZS1hNWI3LTMzMmE2MTYxNWYxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://8f65ff4c-1220-44c6-ba75-535ade5f572c@116.203.232.105:80?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 116.203.232.105
-vless://47b541d6-3ad7-45cb-ac22-77d559d73687@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzQuNDEuMTQ3IiwiYWRkIjoiNDcuNzQuNDEuMTQ3IiwicG9ydCI6NTM4OTMsImlkIjoiMDcyODczNjAtZTEyZi00Zjk0LTljN2EtNTQzODZjMTAwZDhhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIFVDTE9VRCBJTkZPUk1BVElPTiBURUNITk9MT0dZIChISykgTElNSVRFRCBcdTI1MDcgMTE4LjE5NC4yNTMuMTUiLCJhZGQiOiIxMTguMTk0LjI1My4xNSIsInBvcnQiOjU2NjMsImlkIjoiOTg2YjNiYzgtZDBmYi00YjYwLWIwMWYtMjgxNjRlNDRjZDQ4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDMuOTkuMjQ3LjExIiwiYWRkIjoiNDMuOTkuMjQ3LjExIiwicG9ydCI6MTA2NTUsImlkIjoiY2Q5ZDY2ODctZDFjMC00OWQ5LTg5ZmEtMmFjOTA5NDBiMTdhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgOC4yMTEuMTU0LjEwNyIsImFkZCI6IjguMjExLjE1NC4xMDciLCJwb3J0Ijo1MDk1MSwiaWQiOiJhM2QwNDU0OC02MjVjLTQ2NTgtOWZmMC1mOWE3ODM1ZDFmNmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://65267c40-1aca-4808-b9bd-0e94fae826fb@3.149.243.102:47668?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - Amazon.com, Inc. ┇ 3.149.243.102
+vless://0a529152-550e-473f-db91-6e8914f742cc@16.16.205.228:80?type=kcp&security=none#SE 🇸🇪 ┇ VLESS-KCP-NTLS - Amazon.com, Inc. ┇ 16.16.205.228
+vless://37a84e91-0fb1-4ccc-ae28-5a4f1600b7b6@5.78.56.48:2086?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 5.78.56.48
 vless://Tell-CLICK_VPNN@65.109.199.8:49193?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.109.199.8
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEhldHpuZXIgT25saW5lIEdtYkggXHUyNTA3IDEzNS4xODEuMTcyLjIyNSIsImFkZCI6IjEzNS4xODEuMTcyLjIyNSIsInBvcnQiOjQwNTYsImlkIjoiOWViYjUwYzktZGE3My00ZmFhLWQ5ODEtZDRlYTBjN2IyNGNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiRllYdGZVR0s3RyJ9
+vless://7973db56-b133-491d-fcdf-b78f47f36a93@65.21.144.96:50125?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.21.144.96
 vless://c2787b0f-05ed-46a7-9bfc-00a290a064aa@sv15.arzenow.store:47470?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://TELEgRAM-ID-conf0088@cuetara.name.cuetara.name:8443?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ 0.0.0.0
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFtYXpvbi5jb20sIEluYy4gXHUyNTA3IDEzLjIzMS4yMTEuMTQ2IiwiYWRkIjoiMTMuMjMxLjIxMS4xNDYiLCJwb3J0Ijo1NDQ4MywiaWQiOiJkYzJmZDZhNS0zNmZlLTRiMDYtOGIzMS1hNWM1ZDI2YWRkOTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://3380d01f-cb15-41c1-f2d3-a6bf8bae9ca8@88.198.119.245:41302?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 88.198.119.245
-vless://7865103b-cc97-41b3-a289-3c3cad9a0f55@109.122.202.170:11023?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Melbikomas UAB ┇ 109.122.202.170
-vless://12446284-4fc4-465b-eaca-d0d05a47a6bc@91.107.176.34:26660?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.176.34
-vless://f64ce532-17ed-4f66-ceb6-614af207ee63@public.vipmobile98iran.online:12667?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vless://776cf715-a0cd-4470-9ac4-29b46231f6af@pristytools.com.pristytools.com:8443?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.160.79
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzQuNTcuMTAiLCJhZGQiOiI0Ny43NC41Ny4xMCIsInBvcnQiOjM3MjU3LCJpZCI6ImNiNzc0ODgzLTFjMmYtNGI4YS04NjM3LTgyOGYzNTZlMGM3NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 104.21.1.12
-vless://b5179c57-83bb-4f49-9238-15e7d0a9b991@fre.alireza.com.tr:2087?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ N/A
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjM5LjE1MS4yMTUiLCJhZGQiOiI0Ny4yMzkuMTUxLjIxNSIsInBvcnQiOjgwODAsImlkIjoicm9vdGZhY2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSJ9
-vless://e5e7f142-aaab-40fe-c451-4cd2aaba79d6@143.198.64.218:49510?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - DigitalOcean, LLC ┇ 143.198.64.218
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIEFsaWJhYmEgKFVTKSBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuNzYuMjguNDMiLCJhZGQiOiI0Ny43Ni4yOC40MyIsInBvcnQiOjM0ODMzLCJpZCI6ImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIn0
-vless://f3bf40ec-3c4d-415c-87f4-335513ee56b3@162.19.211.185:18993?type=kcp&security=none#FR 🇫🇷 ┇ VLESS-KCP-NTLS - OVH SAS ┇ 162.19.211.185
-vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ N/A
+vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - Cloudflare, Inc. ┇ 104.21.95.123
+vless://-v2rayvpnshop1-@82.115.13.24:29078?type=kcp&security=none#AU 🇦🇺 ┇ VLESS-KCP-NTLS - BitCommand LLC ┇ 82.115.13.24
