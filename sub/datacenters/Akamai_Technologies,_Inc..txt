@@ -1,1 +1,2 @@
-vless://c073aa06-c111-4f1c-8faf-e111ce8e1ceb@fast.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Technologies, Inc. ┇ 23.203.236.4
+vless://c073aa06-c111-4f1c-8faf-e111ce8e1ceb@fast.com:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Akamai Technologies, Inc. ┇ 69.192.81.126
+vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@www.pinterest.com:443?type=ws&security=tls&path=/?ed=1024&sni=www.pinterest.com&host=a1.mehran.ir&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Technologies, Inc. ┇ 2.18.101.29
