@@ -1,8 +1,2 @@
-vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 23.81.33.86
-vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@173.234.79.240:2020?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Leaseweb UK Limited ┇ 173.234.79.240
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@23.81.33.77:443?type=xhttp&security=reality#GB 🇬🇧 ┇ VLESS-XHTTP-REALITY - Leaseweb UK Limited ┇ 23.81.33.77
-vless://907772ba-dd82-40a8-8ccb-71a7cba854b6@eng.aliyostd.com:2096?type=grpc&security=reality&sni=www.icloud.com&fp=chrome&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&sid=fbb8a1c698a0f918#GB 🇬🇧 ┇ VLESS-GRPC-REALITY - Leaseweb UK Limited ┇ 23.81.35.94
-vless://67dad83c-506e-4ed4-976a-7e696642f325@eng.aliyostd.com:9443?type=tcp&security=reality&sni=play.google.com&fp=qq&flow=xtls-rprx-vision&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&sid=14ac481b178e6dd8#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Leaseweb UK Limited ┇ 23.81.35.94
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@23.81.33.76:55778?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Leaseweb UK Limited ┇ 23.81.33.76
-vless://818b2d06-0fc6-4fbf-96ee-7cca131cdead@uk.potter-head.ir:2087?type=tcp&security=none&host=play.google.com#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 173.234.76.150
-vless://c06f20e6-681d-413f-8722-473ff26dc0f3@eng.aliyostd.com:9443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&sid=14ac481b178e6dd8#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Leaseweb UK Limited ┇ 23.81.35.94
+vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 23.81.33.86
