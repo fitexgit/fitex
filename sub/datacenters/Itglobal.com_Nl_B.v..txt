@@ -1,8 +1,10 @@
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.227.86.123:2053?type=ws&security=tls&path=/&sni=forfreeuse.sub-flow.online&host=forfreeuse.sub-flow.online&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Itglobal.com Nl B.v. ┇ 188.227.86.123
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.44.0.68:25?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg&host=vless.ifx.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Itglobal.com Nl B.v. ┇ 31.44.0.68
 vless://19466a14-94a2-40f9-b0d4-6e53e417c435@188.227.84.154:8443?type=tcp&security=none&host=zula.ir#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.154
 vless://cb024589-f32e-4022-b325-56ab0eeff33f@188.227.84.173:8443?type=tcp&security=none&host=zula.ir#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.173
-vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?type=tcp&security=none&host=www.speedtest.net#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.71
-vless://3f24ba6f-7546-41e3-b97f-69f6cb101493@78.111.84.142:8443?type=tcp&security=none&host=zula.ir#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.142
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=random&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Itglobal.com Nl B.v. ┇ 78.111.89.171
 vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&sid=08d8a4e0#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Itglobal.com Nl B.v. ┇ 188.227.84.78
 vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?type=tcp&security=none&host=zula.ir#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.137
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=random&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Itglobal.com Nl B.v. ┇ 78.111.89.171
+vless://3f24ba6f-7546-41e3-b97f-69f6cb101493@78.111.84.142:8443?type=tcp&security=none&host=zula.ir#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.142
+vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?type=tcp&security=none&host=www.speedtest.net#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 78.111.84.71
+vless://27ccac21-ad66-4741-add0-ab1ec27bbee9@188.227.85.94:8443?type=grpc&security=reality&sni=www.speedtest.net&mode=gun&fp=chrome&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&sid=f74b9234#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Itglobal.com Nl B.v. ┇ 188.227.85.94

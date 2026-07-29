@@ -1,3 +1,8 @@
+vless://5fc00045-12dc-4a72-a43f-3200c7696a7c@195.231.66.209:37345?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 195.231.66.209
 vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@5.249.146.98:443?type=ws&security=tls&path=/websocket&sni=cloudflare.vhub.pro&host=cloudflare.vhub.pro&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - Aruba S.p.A. ┇ 5.249.146.98
 vless://56c04341-2180-4e1f-9646-cdeb79cbbbad@94.177.253.242:8585?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 94.177.253.242
+vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?type=tcp&security=reality&sni=it2.krasivogame.ru&fp=chrome&flow=xtls-rprx-vision&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 80.211.136.16
+vless://1276930d-05c0-41d6-a546-a037235a4a2b@content.darkhoursehome.com:9341?type=tcp&security=reality&sni=ajax.googleapis.com&fp=firefox&flow=xtls-rprx-vision&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&sid=a41949cbc7c41377#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 195.231.39.254
+vless://45d82186-e606-4931-bc61-da7069c99305@217.61.20.83:8086?type=tcp&security=none&host=speed.cloudflare.com#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.20.83
+vless://ZEDMODEON--ZEDMODEON@217.61.62.166:32621?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 217.61.62.166
 vless://56c04341-2180-4e1f-9646-cdeb79cbbbad@188.213.165.231:8585?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 188.213.165.231
