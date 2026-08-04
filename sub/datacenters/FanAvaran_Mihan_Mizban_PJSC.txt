@@ -1,8 +1,8 @@
-vless://55a1f6f1-2272-4830-80dd-4558920fb1f8@87.236.208.192:49685?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.192
-vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 94.184.6.8
+vless://fb290991-bbd5-4c7f-b5fc-b0bb344bf6e1@5.160.252.55:443?type=ws&security=tls&path=/dashaq&sni=irtes.chakkalx.de&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - FanAvaran Mihan Mizban PJSC ┇ 5.160.252.55
 vless://7507f585-8236-4d90-9578-b051b19b6546@87.236.208.128:2626?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=hBTi8-ZyCqFGio30s5fekBrPM9rUZmuIxnfWEAZRZE4&sid=b9#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.128
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 62.60.163.77
-vless://fb290991-bbd5-4c7f-b5fc-b0bb344bf6e1@5.160.252.55:443?type=ws&security=tls&path=/dashaq&sni=irtes.chakkalx.de&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - FanAvaran Mihan Mizban PJSC ┇ 5.160.252.55
-vless://6e8e9178-24dd-4b56-b5d8-fe753237be24@85.133.202.90:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.90
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?type=tcp&security=reality&sni=dash.cloudflare.com&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-REALITY - FanAvaran Mihan Mizban PJSC ┇ 62.60.223.6
+vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 94.184.6.8
+vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-REALITY - FanAvaran Mihan Mizban PJSC ┇ 62.60.223.6
 vless://6e9b86ec-3bb8-4faf-9509-b445e8ede4fe@87.236.208.21:33824?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.21
+vless://6e8e9178-24dd-4b56-b5d8-fe753237be24@85.133.202.90:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 85.133.202.90
+vless://55a1f6f1-2272-4830-80dd-4558920fb1f8@87.236.208.192:49685?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - FanAvaran Mihan Mizban PJSC ┇ 87.236.208.192
