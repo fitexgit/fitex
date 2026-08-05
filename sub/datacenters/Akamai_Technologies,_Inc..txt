@@ -1,2 +1,2 @@
-vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@www.pinterest.com:443?type=ws&security=tls&path=/?ed=1024&sni=www.pinterest.com&host=a1.mehran.ir&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Technologies, Inc. ┇ 184.31.113.34
-vless://c073aa06-c111-4f1c-8faf-e111ce8e1ceb@fast.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Technologies, Inc. ┇ 184.86.162.26
+vless://50414e45-4c5f-5a45-5553-27596e2b61f6@2.16.46.234:443?type=tcp&security=none&path=/stream/TrexBridge/27596e2b61f6#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Akamai Technologies, Inc. ┇ 2.16.46.234
+vless://50414e45-4c5f-5a45-5553-27596e2b61f6@2.16.46.234:80?type=tcp&security=none&path=/stream/TrexBridge/27596e2b61f6#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Akamai Technologies, Inc. ┇ 2.16.46.234
