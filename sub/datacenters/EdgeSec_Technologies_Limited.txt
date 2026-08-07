@@ -1,4 +1,4 @@
+vless://e592c66c-7dda-0920-b26d-93a365b431c3@2.27.7.116:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - EdgeSec Technologies Limited ┇ 2.27.7.116
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@31.76.111.160:8443?type=grpc&security=tls&sni=de.makhkets.ru&fp=firefox#US 🇺🇸 ┇ VLESS-GRPC-TLS - EdgeSec Technologies Limited ┇ 31.76.111.160
 vless://25284d30-b4e6-4f86-b214-a78d4365ed05@31.76.111.160:8443?type=grpc&security=tls&sni=de.makhkets.ru&mode=gun#US 🇺🇸 ┇ VLESS-GRPC-TLS - EdgeSec Technologies Limited ┇ 31.76.111.160
 vless://ca0ccf9e-0975-4f72-b1bd-f829c556fdae@31.76.111.97:7443?type=tcp&security=reality&sni=gitlab.com&flow=xtls-rprx-vision&pbk=XRT88LR6k6kYrz4LqPdPKBl50nENOlzkEF_N_LhHylo&sid=59fd56aa3f89a352#US 🇺🇸 ┇ VLESS-TCP-REALITY - EdgeSec Technologies Limited ┇ 31.76.111.97
-vless://e592c66c-7dda-0920-b26d-93a365b431c3@2.27.7.116:80?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - EdgeSec Technologies Limited ┇ 2.27.7.116
