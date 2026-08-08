@@ -1,5 +1,5 @@
-vless://0c946396-6336-40c3-a161-fcb6bec776ce@38.60.126.149:23253?type=tcp&security=tls&sni=los.chihirokk.online&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FASTNET DATA INC ┇ 38.60.126.149
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@38.60.91.115:9458?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTNET DATA INC ┇ 38.60.91.115
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.5.kfc-520.com:10007?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&sid=61e4433c2b25da#US 🇺🇸 ┇ VLESS-TCP-REALITY - FASTNET DATA INC ┇ 154.23.243.97
-ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcA@23.185.200.135:57841#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - FASTNET DATA INC ┇ 23.185.200.135
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.5.kfc-520.com:10007?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&sid=61e4433c2b25da#US 🇺🇸 ┇ VLESS-TCP-REALITY - FASTNET DATA INC ┇ 154.23.243.75
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@23.165.40.54:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FASTNET DATA INC ┇ 23.165.40.54
+ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcA@23.185.200.135:57841#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - FASTNET DATA INC ┇ 23.185.200.135
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@38.60.91.115:9458?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTNET DATA INC ┇ 38.60.91.115
+vless://0c946396-6336-40c3-a161-fcb6bec776ce@38.60.126.149:23253?type=tcp&security=tls&sni=los.chihirokk.online&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FASTNET DATA INC ┇ 38.60.126.149
