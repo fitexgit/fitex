@@ -1,4 +1,6 @@
+vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - EuroByte LLC ┇ 95.183.13.203
+vless://ccf85f18-ba9d-439f-b199-7475791fd9ad@185.22.235.161:443?type=raw&security=reality&sni=web.max.ru&fp=qq&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#RU 🇷🇺 ┇ VLESS-RAW-REALITY - EuroByte LLC ┇ 185.22.235.161
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EuroByte LLC ┇ 185.221.153.52
 vless://72a38457-4682-4b87-b9e1-57f0fe62b100@185.22.235.161:443?type=raw&security=reality&sni=web.max.ru&fp=qq&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#RU 🇷🇺 ┇ VLESS-RAW-REALITY - EuroByte LLC ┇ 185.22.235.161
+vless://a8370166-fd41-40e7-9996-40057afcf963@46.254.18.60:443?type=raw&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=PL09r78ubjFaOILv5x6HPsCZeTdwhlRb3tuDY5vASwQ#RU 🇷🇺 ┇ VLESS-RAW-REALITY - EuroByte LLC ┇ 46.254.18.60
 vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 95.142.37.74
-vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8#RU 🇷🇺 ┇ VLESS-TCP-REALITY - EuroByte LLC ┇ 95.183.13.203
