@@ -1,2 +1,2 @@
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?type=tcp&security=tls&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Vladislav Novitskii ┇ 91.92.21.82
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de3.neobo-tooth.ru:2053?type=tcp&security=reality&sni=vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=E6u2RbffXIPvia5v5iIZVj6U_VpSBWmGTsHHNtH-5Rg&sid=417063feab794131#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Vladislav Novitskii ┇ 191.44.118.250
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@91.92.21.82:2083?type=tcp&security=tls&sni=pol2.neobo-tooth.ru&fp=chrome&flow=xtls-rprx-vision-udp443#PL 🇵🇱 ┇ VLESS-TCP-TLS - Vladislav Novitskii ┇ 91.92.21.82
+vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de3.neobo-tooth.ru:2053?type=raw&security=reality&sni=vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=E6u2RbffXIPvia5v5iIZVj6U_VpSBWmGTsHHNtH-5Rg&sid=417063feab794131#DE 🇩🇪 ┇ VLESS-RAW-REALITY - Vladislav Novitskii ┇ 191.44.118.250
