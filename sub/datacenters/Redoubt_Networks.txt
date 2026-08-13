@@ -1,4 +1,4 @@
-vless://932fbc77-4dff-4607-8b69-50d6580331a3@wa.us.srv.oplcdn.link:8443?type=tcp&security=reality&sni=ign.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-REALITY - Redoubt Networks ┇ 86.107.101.197
-vless://932fbc77-4dff-4607-8b69-50d6580331a3@86.107.101.195:8443?type=tcp&security=reality&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-REALITY - Redoubt Networks ┇ 86.107.101.195
-vless://932fbc77-4dff-4607-8b69-50d6580331a3@86.107.101.196:8443?type=tcp&security=reality&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-REALITY - Redoubt Networks ┇ 86.107.101.196
-hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?insecure=0#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Redoubt Networks ┇ 104.36.86.93
+hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?sni=104.36.86.93&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Redoubt Networks ┇ 104.36.86.93
+vless://fabe1eb5-8700-44c4-ab87-41040573c3af@n03.948905.xyz:15891?type=tcp&security=reality&pbk=HE7KqlqqGWi191-GhuRH3MfwIc_wXu_amp1gSxD_234#US 🇺🇸 ┇ VLESS-TCP-REALITY - Redoubt Networks ┇ 216.126.233.253
+hysteria2://KevinZakarian@66.23.198.35:8443?sni=kevin.serverv.net&insecure=1&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Redoubt Networks ┇ 66.23.198.35
+hysteria2://KevinZakarian@66.23.198.32:443?sni=www.eliv2ray.net&insecure=1&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Redoubt Networks ┇ 66.23.198.32

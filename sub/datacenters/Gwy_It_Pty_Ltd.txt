@@ -1,1 +1,3 @@
-vless://547cf8fd-2dd0-4ae5-aa8f-3683d389be26@103.79.76.253:50149?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=pBjuELJY0Pupr5YzfLeFL-zKpwmQTy2Z6_S5Jvr9YDE&sid=82946f2f33#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Gwy It Pty Ltd ┇ 103.79.76.253
+vless://db0b4d73-fdc8-483e-942c-90be87589669@103.79.118.14:23456?type=tcp&security=tls&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - Gwy It Pty Ltd ┇ 103.79.118.14
+vless://26524cce-d514-4014-a426-365fb266a14d@45.12.91.8:443?type=ws&security=none&path=/danfengfp=chromesecurity=tls&sni=xfxl35a.node-edge.gfw.hidns.co&host=xfxl35a.node-edge.gfw.hidns.co#SG 🇸🇬 ┇ VLESS-WS-NTLS - Gwy It Pty Ltd ┇ 45.12.91.8
+vless://db0b4d73-fdc8-483e-942c-90be87589669@31.220.14.123:23456?type=tcp&security=tls&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - Gwy It Pty Ltd ┇ 31.220.14.123

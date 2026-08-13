@@ -1,1 +1,4 @@
-vless://e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221@155.254.102.74:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c#AU 🇦🇺 ┇ VLESS-TCP-REALITY - Tomorin Network, LLC ┇ 155.254.102.74
+ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA@45e755.shlswe.xyz:28222#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Tomorin Network, LLC ┇ 155.254.102.202
+ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA@45e755.shlswe.xyz:28308#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Tomorin Network, LLC ┇ 155.254.102.202
+vless://e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221@155.254.102.74:443?type=tcp&security=tls&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision-udp443#AU 🇦🇺 ┇ VLESS-TCP-TLS - Tomorin Network, LLC ┇ 155.254.102.74
+ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA@45e755.shlswe.xyz:28118#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Tomorin Network, LLC ┇ 155.254.102.202

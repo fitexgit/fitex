@@ -1,1 +1,3 @@
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 185.224.3.42
+vless://6433b053-d7ae-4ec1-9bcf-7bde16516e25@51.241.7.80:443?type=tcp&security=reality&sni=weather.com&fp=chrome&flow=xtls-rprx-vision&pbk=ek_Gqike7DTlo6othh-e4xC-1OVVjwOu-4vOri_oKws&sid=d73154e2a51f777d#AT 🇦🇹 ┇ VLESS-TCP-REALITY - PipeHost e.U. ┇ 51.241.7.80
+vless://5efcfc72-47d7-4f7a-8da3-da18dfe44510@185.224.3.213:56096?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - PipeHost e.U. ┇ 185.224.3.213

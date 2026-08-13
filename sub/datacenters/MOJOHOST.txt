@@ -1,2 +1,2 @@
-vless://17540a16-a0dd-5694-7e1e-14e281ccc032@208.122.213.154:443?type=ws&security=tls&path=/@VPNine1/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com&host=crm.lotussec.com#US 🇺🇸 ┇ VLESS-WS-TLS - MOJOHOST ┇ 208.122.213.154
-vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@208.122.213.154:443?type=tcp&security=tls&path=/xn--q9jyb4c&mode=packet-up#US 🇺🇸 ┇ VLESS-TCP-TLS - MOJOHOST ┇ 208.122.213.154
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@208.122.213.154:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c&host=cloudflare.dns.xn--q9jyb4c&mode=packet-up#US 🇺🇸 ┇ VLESS-XHTTP-TLS - MOJOHOST ┇ 208.122.213.154
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@208.122.213.154:443?type=ws&security=tls&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com&host=crm.lotussec.com#US 🇺🇸 ┇ VLESS-WS-TLS - MOJOHOST ┇ 208.122.213.154

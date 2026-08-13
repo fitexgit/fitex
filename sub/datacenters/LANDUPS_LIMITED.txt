@@ -1,3 +1,3 @@
-vless://2d5035e0-574f-434b-87ec-000c868fe18c@103.192.179.61:17895?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=54NiRArALC-7w7tL9SvV7YLqBrPvXO8xftFGLdwPpRA#HK 🇭🇰 ┇ VLESS-TCP-REALITY - LANDUPS LIMITED ┇ 103.192.179.61
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@103.192.179.132:443?type=ws&security=tls&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#HK 🇭🇰 ┇ VLESS-WS-TLS - LANDUPS LIMITED ┇ 103.192.179.132
-vless://05fe60a6-9452-4ceb-b26b-4c90f3a37388@2400:c620:11:47::a:6593?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - LANDUPS LIMITED ┇ 2400:c620:11:47::a
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@154.36.145.47:443?type=ws&security=tls&path=/fp=chrome&sni=gogo.vks.dpdns.org&host=gogo.vks.dpdns.org#HK 🇭🇰 ┇ VLESS-WS-TLS - LANDUPS LIMITED ┇ 154.36.145.47
+vless://26524cce-d514-4014-a426-365fb266a14d@103.192.179.207:8112?type=ws&security=tls&path=/danfeng?ed=2560fp=chrome&sni=qznql.node-proxy.chinat.indevs.in&host=qznql.node-proxy.chinat.indevs.in#HK 🇭🇰 ┇ VLESS-WS-TLS - LANDUPS LIMITED ┇ 103.192.179.207

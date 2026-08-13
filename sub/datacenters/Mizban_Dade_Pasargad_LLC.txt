@@ -1,10 +1,3 @@
-vless://49024618-8095-45a2-9369-695e339470b2@185.81.97.48:20796?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 185.81.97.48
-vless://98875208-5356-4bb4-9e1a-d0eed4a53844@45.90.72.231:30760?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.72.231
-vless://7aff4cde-b7d1-4c38-8c57-31c96be49e8e@45.90.74.120:25744?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.74.120
-vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.73.228
-vless://244ff49f-dad6-47f2-bf05-03d9eaadaa99@45.90.73.147:443?type=xhttp&security=reality&path=/api/v2/stream&sni=aparat.com&mode=auto&fp=chrome&pbk=06VArulxNLGtWd-trz9uW7IDxJuCCoNHpZpaH3xv-Vs&sid=eac76a6f#IR 🇮🇷 ┇ VLESS-XHTTP-REALITY - Mizban Dade Pasargad LLC ┇ 45.90.73.147
-vless://35715310-46bc-4181-86ec-0dbf17e7964a@45.90.73.195:443?type=xhttp&security=tls&sni=cdn.gapfilm.org&host=cdn.gapfilm.org&mode=auto&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Mizban Dade Pasargad LLC ┇ 45.90.73.195
-vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 185.81.96.228
-vless://093a2812-2518-42c4-8e19-0307cdcee14d@tr-3.az9x99.ir:2040?type=ws&security=none&path=/scer#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mizban Dade Pasargad LLC ┇ 185.81.96.74
-vless://3be173d0-06d0-4631-a491-4945449ed28e@194.59.171.217:14774?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 194.59.171.217
-vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 194.59.171.217
+vless://8deb3e22-af23-2c8f-da3c-f61795de6b46@45.90.73.162:8443?type=tcp&security=none&host=ponisha.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.73.162
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gTWl6YmFuIERhZGUgUGFzYXJnYWQgTExDIFx1MjUwNyA0NS45MC43My40OSIsImFkZCI6IjQ1LjkwLjczLjQ5IiwicG9ydCI6ODE4MSwiaWQiOiI2OWIyOGIxYy1mZWZmLTRjNjYtODczNy0xZDE0NGFkZTEyOTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ4LnZpd2kudG9wIiwidGxzIjoidGxzIiwic25pIjoieC52aXdpLnRvcCJ9
+vless://093a2812-2518-42c4-8e19-0307cdcee14d@tr-3.az9x99.ir:2040?type=tcp&security=none&path=/scer#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 185.81.96.74

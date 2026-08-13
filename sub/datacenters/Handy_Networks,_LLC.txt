@@ -1,3 +1,4 @@
-vless://b7560990-b371-46e9-b02d-1fae800760a5@us.df14.ru:443?type=tcp&security=reality&sni=us.df14.ru&host=us.df14.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FuwPqBZWIvguJRMTVjOKTvJKCZDXIHLwIxVImPwt2UY&sid=177093e1343221f6#US 🇺🇸 ┇ VLESS-TCP-REALITY - Handy Networks, LLC ┇ 23.239.206.83
-vless://c7e9c591-2764-423a-afca-efbd010fd396@72.18.132.149:2053?type=ws&security=tls&path=/fp=chrome&sni=forfreeuse.sub-flow.online&host=forfreeuse.sub-flow.online#US 🇺🇸 ┇ VLESS-WS-TLS - Handy Networks, LLC ┇ 72.18.132.149
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#US 🇺🇸 ┇ VLESS-WS-TLS - Handy Networks, LLC ┇ 72.18.132.149
+vless://05f7b98c-3cd4-4f15-cb80-ac38e1c08a96@72.18.132.149:8443?type=ws&security=tls&path=/TG@wxgqlfx&sni=us2.wxgqlfx.icu&host=us2.wxgqlfx.icu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Handy Networks, LLC ┇ 72.18.132.149
+vless://05f7b98c-3cd4-4f15-cb80-ac38e1c08a96@198.57.46.6:443?type=ws&security=tls&path=/TG@wxgqlfx&sni=us2.wxgqlfx.icu&host=us2.wxgqlfx.icu&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Handy Networks, LLC ┇ 198.57.46.6
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Handy Networks, LLC ┇ 72.18.132.149
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@72.18.132.149:8443?type=ws&security=tls&path=/danfeng&host=snippet.danfeng.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - Handy Networks, LLC ┇ 72.18.132.149

@@ -1,2 +1,2 @@
-vless://07e326bb-801c-49fc-9005-d2a3e9673e89@84.200.33.81:2056?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.81
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?sni=nlb1.mangshe.xyz&insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.151
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@nlb1.mangshe.xyz:2056?sni=nlb1.mangshe.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.151
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?sni=nlb1.mangshe.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - firstcolo GmbH ┇ 84.200.33.151

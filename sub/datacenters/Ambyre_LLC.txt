@@ -1,2 +1,2 @@
-vless://eb774544-18d2-4f43-ad4a-df77ee6726d4@198.186.130.113:6673?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Ambyre LLC ┇ 198.186.130.113
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?type=ws&security=tls&path=/&sni=b6n3d22n.qcwdcq.workers.dev&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Ambyre LLC ┇ 198.186.131.222
+vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Ambyre LLC ┇ 198.186.131.216
