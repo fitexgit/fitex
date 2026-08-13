@@ -1,7 +1,1 @@
-vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?type=grpc&security=none&mode=gun#AM 🇦🇲 ┇ VLESS-GRPC-NTLS - GNC-Alfa CJSC ┇ 88.218.95.12
-vless://68c58767-b300-4490-94d4-844f4bd44c66@am.c2horizon.app:443?type=tcp&security=tls&sni=am.c2horizon.app&fp=qq&flow=xtls-rprx-vision-udp443#AM 🇦🇲 ┇ VLESS-TCP-TLS - GNC-Alfa CJSC ┇ 77.91.68.206
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@88.218.94.10:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision-udp443#AM 🇦🇲 ┇ VLESS-TCP-TLS - GNC-Alfa CJSC ┇ 88.218.94.10
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 88.218.94.97
-vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?type=grpc&security=none&mode=gun#AM 🇦🇲 ┇ VLESS-GRPC-NTLS - GNC-Alfa CJSC ┇ 88.218.95.8
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@194.36.37.254:8443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 194.36.37.254
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 77.91.68.70

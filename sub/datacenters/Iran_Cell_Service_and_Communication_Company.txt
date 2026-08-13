@@ -1,10 +1,3 @@
-vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@ip.bestfrends.ir:8587?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.15.187
-vless://6670c88f-5c7e-4943-9a64-db673dfbd404@2.144.4.240:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.240
-vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?type=tcp&security=tls&sni=api.bgp6.ir&host=api.bgp6.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.22.87
-vless://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Cell Service and Communication Company ┇ 2.144.13.37
-vless://21784e1c-392e-4c5f-b50a-9f8a49f87e9a@2.144.5.90:8443?type=ws&security=none&path=/Stream&host=bama.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Cell Service and Communication Company ┇ 2.144.5.90
-vless://66f52bd2-41c7-40af-98a7-142848fc3cf1@2.144.24.109:3456?type=ws&security=tls&path=/&sni=panel.ecofreenetping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Cell Service and Communication Company ┇ 2.144.24.109
-vless://9571ab21-7a77-426e-bb72-1beef9573040@vpn.lumanetwork.cloud:20004?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.21.209
-vless://46fee65f-b323-bcef-4899-0b3bd90191ab@2.144.13.87:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.13.87
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.229
-vless://32fec264-4d10-250b-b0b2-201ff5dd6850@2.144.13.87:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.13.87
+vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?type=tcp&security=tls&sni=api.bgp6.ir&host=api.bgp6.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.22.87
+vless://6670c88f-5c7e-4943-9a64-db673dfbd404@2.144.4.240:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.240
