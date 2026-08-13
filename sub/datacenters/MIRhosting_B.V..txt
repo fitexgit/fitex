@@ -1,1 +1,4 @@
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@194.147.149.54:443?type=ws&security=tls&path=/&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&host=b8k86.z3xq.fzi.hh.vavava.kdns.fr#NL 🇳🇱 ┇ VLESS-WS-TLS - MIRhosting B.V. ┇ 194.147.149.54
+vless://f68cd655-06d7-471f-86e3-f5a083230c8b@vpn-nd.solid-dev1.online:11111?type=xhttp&security=reality&path=/solid&sni=www.gstatic.com&fp=chrome&pbk=83tCVVew8UY4iPLTSSDfznL0iU7oJAuKb0wUeZUPk0E&sid=5ed0de1fef031a#NL 🇳🇱 ┇ VLESS-XHTTP-REALITY - MIRhosting B.V. ┇ 31.15.19.75
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@194.242.127.59:443?type=tcp&security=reality&sni=freenl.aiage.work&flow=xtls-rprx-vision&pbk=gYMI6_kvxK_r6sOPHp91ZYYKSUQfSp8JADHB3ZfuGUo&sid=85c7333f60d8834c#RU 🇷🇺 ┇ VLESS-TCP-REALITY - MIRhosting B.V. ┇ 194.242.127.59
+vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@31.15.19.10:443?type=ws&security=tls&path=/websocket&sni=cloudflare.vhub.pro&host=cloudflare.vhub.pro&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - MIRhosting B.V. ┇ 31.15.19.10

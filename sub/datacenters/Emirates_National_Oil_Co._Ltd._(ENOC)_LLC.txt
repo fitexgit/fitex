@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?type=ws&security=none&path=/&host=vms.lifetime18.workers.dev#AE 🇦🇪 ┇ VLESS-WS-NTLS - Emirates National Oil Co. Ltd. (ENOC) LLC ┇ 185.225.195.30
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?type=ws&security=none&sni=185.225.195.30#AE 🇦🇪 ┇ VLESS-WS-NTLS - Emirates National Oil Co. Ltd. (ENOC) LLC ┇ 185.225.195.30
+vless://05000d14-abf6-45e0-b51a-16469cdea06a@185.225.195.10:443?type=ws&security=tls&path=/?Telegram-WangCai2&sni=feijige.rujiao.icu&host=feijige.rujiao.icu#AE 🇦🇪 ┇ VLESS-WS-TLS - Emirates National Oil Co. Ltd. (ENOC) LLC ┇ 185.225.195.10

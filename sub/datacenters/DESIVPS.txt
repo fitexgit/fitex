@@ -1,1 +1,3 @@
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@185.106.96.231:443?type=tcp&security=tls&sni=u695099u84547b91s848.gogocs.xyz&host=84547b91s848.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - DESIVPS ┇ 185.106.96.231
+vless://7402e534-54dc-34cc-ac5b-c85ac6e236fd@185.106.96.231:443?type=xhttp&security=tls&path=ssp-xhttp&sni=u785109us559.ccgfw.top&host=s559.ccgfw.top&fp=random#US 🇺🇸 ┇ VLESS-XHTTP-TLS - DESIVPS ┇ 185.106.96.231
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@92.118.228.154:443?type=tcp&security=none&path=/YnqGMcAt/#US 🇺🇸 ┇ VLESS-TCP-NTLS - DESIVPS ┇ 92.118.228.154
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top&insecure=0#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DESIVPS ┇ 185.106.96.231

@@ -1,3 +1,8 @@
+vless://1c3e580a-bd02-4bdb-9bfe-349903422037@185.238.1.37:58465?type=grpc&security=none&mode=gun#VG 🇻🇬 ┇ VLESS-GRPC-NTLS - IT WEB LTD ┇ 185.238.1.37
 vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@185.212.129.53:443?type=tcp&security=reality&sni=musicboss.eu&fp=firefox&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#VG 🇻🇬 ┇ VLESS-TCP-REALITY - IT WEB LTD ┇ 185.212.129.53
-vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@185.212.129.41:443?type=tcp&security=reality&sni=musicboss.eu&fp=firefox&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#VG 🇻🇬 ┇ VLESS-TCP-REALITY - IT WEB LTD ┇ 185.212.129.41
+vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@185.212.129.53:443?type=tcp&security=reality&sni=musicboss.eu&fp=firefox&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#VG 🇻🇬 ┇ VLESS-TCP-REALITY - IT WEB LTD ┇ 185.212.129.53
 vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@185.212.129.42:443?type=tcp&security=reality&sni=musicboss.eu&fp=firefox&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#VG 🇻🇬 ┇ VLESS-TCP-REALITY - IT WEB LTD ┇ 185.212.129.42
+vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@185.212.129.41:443?type=tcp&security=reality&sni=musicboss.eu&fp=firefox&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#VG 🇻🇬 ┇ VLESS-TCP-REALITY - IT WEB LTD ┇ 185.212.129.41
+vless://010b32f0-fb6b-48bb-d86e-5c5ccab6f0fd@45.83.123.153:33532?type=ws&security=none&path=/#VG 🇻🇬 ┇ VLESS-WS-NTLS - IT WEB LTD ┇ 45.83.123.153
+vless://0773fe44-baaf-49fd-e834-5b05f6da3942@45.83.122.71:25841?type=ws&security=none&path=/#VG 🇻🇬 ┇ VLESS-WS-NTLS - IT WEB LTD ┇ 45.83.122.71
+vless://3eb2029e-ac2d-4c31-dbd8-5124aadc5776@45.83.122.172:56218?type=ws&security=none&path=/#VG 🇻🇬 ┇ VLESS-WS-NTLS - IT WEB LTD ┇ 45.83.122.172

@@ -1,2 +1,6 @@
+vless://7b16e592-4808-4226-bbcd-66f5281ff818@178.239.146.105:37153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.105
 vless://7678cb4e-45a4-4459-9691-4f6647e23432@itr.vipvirtualnet.eu:8081?type=grpc&security=tls&sni=hxo.vipvirtualnet.eu&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 85.133.243.49
+vless://434bcb6c-cd99-4db3-9bc5-0f9c9844137c@tun.grootvip.eu:33101?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 85.133.243.49
+vless://7678cb4e-45a4-4459-9691-4f6647e23432@ide.vipvirtualnet.eu:9990?type=grpc&security=tls&sni=del.vipvirtualnet.eu&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 85.133.243.49
+vless://7678cb4e-45a4-4459-9691-4f6647e23432@fr.vipvirtualnet.eu:5059?type=grpc&security=tls&sni=wx.vipvirtualnet.eu&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 85.133.243.49
 vless://7678cb4e-45a4-4459-9691-4f6647e23432@fr.vipvirtualnet.eu:4002?type=grpc&security=tls&sni=wx.vipvirtualnet.eu&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 85.133.243.49

@@ -1,1 +1,2 @@
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@176.98.182.67:10443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Popaj Gjevalin ┇ 176.98.182.67
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@176.98.182.67:10443?type=grpc&security=reality&sni=ne4.rexten.cc&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Popaj Gjevalin ┇ 176.98.182.67
+vless://b42f1201-2421-499a-804b-805aac71bf47@firebase-v1.core-multiplayer.com:443?type=grpc&security=reality&sni=firebase-v1.core-multiplayer.com&fp=firefox&pbk=rVbloVRaHnSDrP2zWmivpGqe9QimuMci37nq4BXgelc&sid=4fd3840415403f31#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Popaj Gjevalin ┇ 176.98.182.101
