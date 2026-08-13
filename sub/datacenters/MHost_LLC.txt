@@ -1,4 +1,4 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - MHost LLC ┇ 103.227.84.1
 vless://7bc2c010-dffd-4c81-8fa3-25e8f3781dca@109.107.168.154:443?type=tcp&security=reality&sni=cdn9-03.cdn-vkvideo.com&fp=chrome&flow=xtls-rprx-vision&pbk=2dUnvgWjYo4Xs5T17CfWoImszwB0I6hGHwRxZZEQvQs&sid=b0d8f964b7ac8ac3#DE 🇩🇪 ┇ VLESS-TCP-REALITY - MHost LLC ┇ 109.107.168.154
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?type=grpc&security=reality&sni=d.primarymaster.online&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - MHost LLC ┇ 45.131.214.45
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - MHost LLC ┇ 103.227.84.1
 vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@103.227.84.174:6443?type=tcp&security=reality&sni=ign.com&fp=firefox&flow=xtls-rprx-vision&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=81e89aa47ec96f1c#DE 🇩🇪 ┇ VLESS-TCP-REALITY - MHost LLC ┇ 103.227.84.174
