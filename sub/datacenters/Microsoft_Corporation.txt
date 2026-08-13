@@ -1,328 +1,166 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 68.219.96.61
-ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.106.241.226:5008#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.106.241.226
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdXptQ1JzSjM3OE1zRGNodGltNHU4@52.142.191.152:20168#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.142.191.152
-ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.120.24.20:9806#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.120.24.20
-vless://4b616b6f-6f6c-4e65-7773-e625d33bdbe4@20.90.66.7:443?type=ws&security=tls&path=/&sni=special-robot-4qjq6r66vqxrhg4p-443.app.github.dev#GB 🇬🇧 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.90.66.7
-vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@20.235.220.189:443?type=ws&security=tls&path=/websocket&sni=cloudflare.vhub.pro&host=cloudflare.vhub.pro&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.235.220.189
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.123.5:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.123.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ3R3ZhVmgxNG9yNndEVXpIQ3dy@51.142.185.195:48359#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.185.195
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@20.90.110.94:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.90.110.94
-vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?type=xhttp&security=none#ZA 🇿🇦 ┇ VLESS-XHTTP-NTLS - Microsoft Corporation ┇ 102.37.155.79
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdXNTanBUOGFKV1hQODZ4@20.87.107.99:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.107.99
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVGtMV1RzQUZJdGRJd25G@20.164.210.196:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.210.196
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMDQuMjA4LjY2LjEyNiIsImFkZCI6IjEwNC4yMDguNjYuMTI2IiwicG9ydCI6MTAwMDMsImlkIjoiOWIzYTY3NTMtMmYzMy00ZTBiLWJiMmUtODRlNTA3NmQ0NDVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.221.1
-vless://b0e07703-77ab-4d07-b67f-f825eb7a569e@s3hf8j.connect343.net:34820?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=846xvaKwZoNDLNHaA06RjUYfTbZg1tkkP290anPfIWw&sid=5a096852b9#US 🇺🇸 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 172.191.161.4
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgNTcuMTUxLjEwMC4yNyIsImFkZCI6IjU3LjE1MS4xMDAuMjciLCJwb3J0IjoxMDA4NiwiaWQiOiI1NTBlODQwMC1lMjliLTQxZDQtYTcxNi00NDY2NTU0NDAwMDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.233.247
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTc5LjI1MSIsImFkZCI6IjIwLjIzOS4xNzkuMjUxIiwicG9ydCI6NTAwNDUsImlkIjoiOWI2MWZmNDYtNGM2MS00YjMxLTgwMWEtZjg3MGQ3YTFkZTUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.36.164
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.45.116
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.255:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.119.255
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.7.68:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.7.68
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.69.68.162
-vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4xNy4xNTcuMjAiLCJhZGQiOiIyMC4xNy4xNTcuMjAiLCJwb3J0IjozNjgwMywiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCJ9
-vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?type=tcp&security=tls&sni=eleven.dilik.co&fp=chrome&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 20.215.42.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.136.145
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.91.252.21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN1BqMGM3M1BxUWY5N2xtV1ltQmJY@40.114.213.220:64504#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.114.213.220
-vless://4b616b6f-6f6c-4e65-7773-a67b8a12856f@20.90.66.7:443?type=ws&security=tls&path=/&sni=shiny-chainsaw-5vgvpvv4qj992754g-443.app.github.dev#GB 🇬🇧 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.90.66.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.42.173:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.108.42.173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.141.14
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 130.107.73.148
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.125.207:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.125.207
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443?type=ws&security=tls&path=/&sni=sgg1.azurewebsites.net&host=sgg1.azurewebsites.net#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.212.64.16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.138.134:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.138.134
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@13.87.96.194:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.96.194
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.166.9.251:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 172.166.9.251
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA1Mi4yNTMuOTcuMTI1IiwiYWRkIjoiNTIuMjUzLjk3LjEyNSIsInBvcnQiOjU5OTI5LCJpZCI6ImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvd25sb2FkIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.210.66.171
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@50.85.80.187:4004?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=D3bNJPmy4YJqhWQ3Xv1Fu3Z1danrTzswShytnkkG9Q4&sid=876caa38807c88e2#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 50.85.80.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.166.58.64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnFxS2Y3OEZ1TUhuQnFveGVXejRS@51.11.104.69:16550#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.104.69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@168.63.68.5:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 168.63.68.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.223.106.240
-vless://39d1c043-7bc5-4876-9d07-58574c023850@172.207.210.238:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=Oua7ls5NZ2sxxFSyccAHZCMrCjW34WPEsHbaIpWmxX8&sid=ac78f53d#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 172.207.210.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.250.133:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.90.250.133
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTjN4VUtlSUw1eXExNG9V@20.164.212.70:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.212.70
-vless://4b616b6f-6f6c-4e65-7773-dce3cd206a98@20.90.66.7:443?type=ws&security=tls&path=/&sni=verbose-winner-wvrv4vv59g5vcgw9x-443.app.github.dev#GB 🇬🇧 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.90.66.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM2Zzc3cyR0ZVcVR3anQ0SGxzV2p2@51.140.34.50:35276#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.140.34.50
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@4.240.110.47:443?type=ws&security=tls&sni=bab-6.site&fp=firefox#IN 🇮🇳 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 4.240.110.47
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?type=ws&security=tls&path=/&sni=dee33.azurewebsites.net&host=dee33.azurewebsites.net&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.189.104.97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.57.235:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.57.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bVZLTVUyT3E0ZFo1S2J4Qkl4V3g5@104.46.63.218:30775#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.63.218
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDEwNC4yMDguMTE3Ljg2IiwiYWRkIjoidW5pdnN0YXItMTA0LTIwOC0xMTctODYubmlwLmlvIiwicG9ydCI6NDQzLCJpZCI6IjMyOGIyNTQ3LWQxNDEtNGRmNC1hNzZlLTRmMWMyZTM2MWY1YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-vless://a41ec4d6-1ef3-4a00-bd24-5abcce37a40f@52.156.208.215:33371?type=tcp&security=reality&sni=sourceforge.net&fp=chrome&pbk=XknqXVFBQSpJEmo0oeKsLDeOGfhtmuurXd75BywgUlg&sid=456ad3a1b9f0#IE 🇮🇪 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 52.156.208.215
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgMjAuMTkzLjE1My4xOSIsImFkZCI6IjIwLjE5My4xNTMuMTkiLCJwb3J0IjoxNTgzNCwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcHhiQUNHSDdieVczMlp5@20.87.107.99:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.107.99
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMzAuMzMuODkuMjAxIiwiYWRkIjoiMTMwLjMzLjg5LjIwMSIsInBvcnQiOjM2ODAxLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 172.166.8.137
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.48.118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUXBhREpkRlBubHRZY2JCWUY0S3RL@40.113.153.173:45160#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.113.153.173
-vless://acba684c-4098-4eca-f519-828b09f96464@134.33.73.249:54254?type=tcp&security=reality&path=/&sni=apple.com&host=apple.com&flow=xtls-rprx-vision&pbk=HFEz9fAOugljXea_ZVOUHMju08su8h0P9RANNcHP2y4&sid=db35ffdc#US 🇺🇸 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 134.33.73.249
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.141.237:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.141.237
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbWwyZTZ6bHVJYThXU3BO@104.46.88.136:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.88.136
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.120.237
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.88.136
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Nm1vRGxaeU5ZMjI3UzBuQmlOZDhQ@51.136.162.7:11439#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.136.162.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejNjQlI5MVV4UFUwNThB@4.210.67.30:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.210.67.30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.208.7:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.208.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@98.71.81.64:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 98.71.81.64
-vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 72.146.184.66
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@4.158.75.50:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.75.50
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTc5LjI1MSIsImFkZCI6IjIwLjIzOS4xNzkuMjUxIiwicG9ydCI6NTAwNDUsImlkIjoiMTYxN2U4NzUtZTM3Ny00ZTRmLTg1ZWYtZGNmOWU1ZTEwZGY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.208.211:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.208.211
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.74.223.241:443?type=ws&security=tls&path=/?ed=2048&sni=ap.ylks.xyz&host=ap.ylks.xyz#AE 🇦🇪 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.74.223.241
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMDQuMjA4Ljg1LjU2IiwiYWRkIjoiMTA0LjIwOC44NS41NiIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.231.225.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 128.251.12.23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.235.119:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.235.119
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.215.110:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.215.110
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yNDMuMjAwLjI0NSIsImFkZCI6IjIwLjI0My4yMDAuMjQ1IiwicG9ydCI6ODAsImlkIjoiYmM0MTY3ZmEtNzM5NC0zODY5LWI5YzAtNjdhZTE4YjQwZjJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2042?type=tcp&security=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
-hysteria2://aa3c486e-6a1c-470e-b248-e6c55998206d@4.190.44.31:3488?sni=c1.bestai.beauty&insecure=0#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Microsoft Corporation ┇ 4.190.44.31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.60.151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.42.113:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.42.113
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NExiS0huQjNJTzc1OXVlRW5oZ01H@52.142.161.9:34424#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.142.161.9
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yNDcuMTA1LjIwMiIsImFkZCI6IjIwLjI0Ny4xMDUuMjAyIiwicG9ydCI6ODAsImlkIjoiZmEwZjk4ZDgtMWNhZi00ZWJlLTllYzQtNTk4MGMyOTRlOThmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMzAuMzMuOTYuMjA0IiwiYWRkIjoiMTMwLjMzLjk2LjIwNCIsInBvcnQiOjE2NjQ1LCJpZCI6IjJkZDMxYmQ5LWUyMmMtNDcxYS1hOWNjLTkxMjhmYzc2ODMyNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKa25UT0R4N2d6UXF3SkplUWxPdUxx@13.87.73.210:13844#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.73.210
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.123.9.48
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDIwLjIzNS4yMjAuMTg5IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-vless://0b08b1c4-342a-4992-ac5f-5b9eff2327a0@20.151.233.69:443?type=tcp&security=reality&path=/&sni=www.cloudflare.com&host=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=dalyPgxW_YMUf1O3cgNWc-3XDeShAzU43307V4rBr3s&sid=64597fca#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.151.233.69
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@20.247.137.183:443?type=ws&security=tls&path=/?ed&sni=lively-brook-c471.nedena3319.workers.dev&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.247.137.183
-ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.106.241.226:9806#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.106.241.226
-vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA2OC4xNTUuMTM5LjIwNCIsImFkZCI6IjY4LjE1NS4xMzkuMjA0IiwicG9ydCI6MzY4MDEsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgifQ
-vless://26524cce-d514-4014-a426-365fb266a14d@20.229.252.162:443?type=ws&security=tls&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&sni=i8dxb.media-cdn-us.chinav.indevs.in&host=i8dxb.media-cdn-us.chinav.indevs.in#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.229.252.162
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 102.37.156.224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTTJpQXd0RE9aTG9QUlk0TGxKZlFJ@23.97.167.141:9621#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 23.97.167.141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdENuSUFBUUFzc2N3TG5vNUoyY3Fk@52.142.191.186:54452#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.142.191.186
-vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4xNy4xNTYuMTk0IiwiYWRkIjoiY2luZHk1Mi5jZW9paWkuY29tIiwicG9ydCI6MzY4MDMsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZlVQZGtvRVhTd2Y2SnVN@168.63.68.5:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 168.63.68.5
-hysteria2://aa3c486e-6a1c-470e-b248-e6c55998206d@c1.bestai.beauty:3488?sni=c1.bestai.beauty&insecure=0#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Microsoft Corporation ┇ 20.78.109.122
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVHlwaWxtamlkcnI2ZFFZYU9HSGY3@13.87.75.155:46130#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.75.155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3hEc0ttWlJ1ejR3UkNLeVhKZEps@51.105.36.101:13928#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.105.36.101
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.202.224:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.202.224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbnRmVmVpQjdjeTNIbTFP@c1.nastuh.link:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
-ss://Y2hhY2hhMjAtaWV0Zjp2aXBrb2Q@20.201.12.45:1998#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.201.12.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@4.250.123.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.123.215
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.240.238:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.240.238
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.40.244.228:443?type=ws&security=tls&path=/?ed=2048&sni=ap.ylks.xyz&host=ap.ylks.xyz#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 104.40.244.228
-vless://4b616b6f-6f6c-4e65-7773-65c93f4dad75@20.103.221.187:443?type=ws&security=tls&path=/&sni=jubilant-robot-xr5r455jggqxcp6p4-443.app.github.dev#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.103.221.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMVlTV05WV2Z1Zm9scGxL@20.164.216.112:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.216.112
-vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMTMuMTIyLjI0NSIsImFkZCI6IjIwLjIxMy4xMjIuMjQ1IiwicG9ydCI6MzQ1NjMsImlkIjoiNDQ4ZTNlMjItM2YxMC00MGYxLWRjMGYtYzY0YjdjNDQwZjEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZnNmc2RmIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@85.210.136.251:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.136.251
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMTAuMTI2Ljg0IiwiYWRkIjoiMjAuMjEwLjEyNi44NCIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.33.92
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 102.133.165.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.210.184:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.210.184
-vless://4b616b6f-6f6c-4e65-7773-dce3cd206a98@20.103.221.187:443?type=ws&security=tls&path=/&sni=verbose-winner-wvrv4vv59g5vcgw9x-443.app.github.dev#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.103.221.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.142.221.250:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.221.250
-vless://4b616b6f-6f6c-4e65-7773-65c93f4dad75@20.90.66.7:443?type=ws&security=tls&path=/&sni=jubilant-robot-xr5r455jggqxcp6p4-443.app.github.dev#GB 🇬🇧 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.90.66.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.107.99
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdVRjenVDSTlMYk04TVV3@98.71.82.228:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 98.71.82.228
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.203.128:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.203.128
-ss://Y2hhY2hhMjAtaWV0Zjo1MjY4NzgxMjY2ZjQ4MTg5@20.113.28.20:5337#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.113.28.20
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@48.217.34.120:443?type=ws&security=tls&path=/?ed=2048&sni=lp.kpcloud.eu.org&host=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 48.217.34.120
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 172.165.94.205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.166.78:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.166.78
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2059?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 4.185.112.1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSzJRbng2Nnprd3BRUXo4eVRYVkNG@51.141.127.238:32413#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.141.127.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZUMySHpJTkhiNFNVWThT@20.223.136.202:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.136.202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.45.21:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.45.21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 172.187.109.127
-ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.120.24.20:5008#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.120.24.20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 172.187.105.25
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.36.131.211:443?type=ws&security=tls&path=/?ed=2048&sni=ap.ylks.xyz&host=ap.ylks.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.36.131.211
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.210.66.168
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWG1TY1d5SGZyejh2ZndBdmQ3ZEo3@52.169.37.198:5351#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.169.37.198
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.81.171:443?type=tcp&security=reality&sni=i2pd.website&fp=chrome&flow=xtls-rprx-vision&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#IL 🇮🇱 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.217.81.171
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.56.123:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.56.123
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA1MS4xMzcuMTMzLjE4MSIsImFkZCI6IjUxLjEzNy4xMzMuMTgxIiwicG9ydCI6MTM4MjgsImlkIjoiMmI1ZWUyZWQtZGRhYS00ZjEzLWE4NmMtZWU0N2FjZjI2YTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZGdmZ2RmIn0
-vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?type=tcp&security=none&host=tgju.org#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 70.153.184.247
-vless://49056bc4-f1f1-4841-91a2-3802a7b578d8@158.23.162.240:8880?type=grpc&security=reality&sni=digikala.ir&mode=gun&fp=firefox&pbk=La1P21rtClor9TjcW-J1qzeRwD1vR5S70njyhNFX-0w&sid=007f61f2c68c5d32#MX 🇲🇽 ┇ VLESS-GRPC-REALITY - Microsoft Corporation ┇ 158.23.162.240
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOUV2YUs1MmZ3S2JROExm@98.71.81.64:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 98.71.81.64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.210.184:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.210.184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.237.155.68
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bGExakJmOHpqcERqbGpaYVdDRHR2WkFRYjVEc0N2cWNkZHVzR2RjQXBnQT06SU54Q3F0Z1V3UWRkanhGM3IvRVpCOWhoUXNCUjdnRXF4MFgwVkxBaC96OD0@20.224.70.178:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.224.70.178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVFN5bVc0eXNIY2FxSDcw@20.164.116.218:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.116.218
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSENjc1hLMnJFY3M5bFJp@20.107.187.192:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.107.187.192
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgMjAuODkuOTQuNjIiLCJhZGQiOiIyMC44OS45NC42MiIsInBvcnQiOjQ0MywiaWQiOiJjODViMDhjYi1lODFhLTRkOGItOTk3Zi1lNDM4NzBkYzUyZGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6ImF1dG8iLCJ0bHMiOiJ0bHMifQ
-vless://96a05ae4-d4fe-448e-9b20-07da6c7ae482@52.141.25.42:443?type=ws&security=tls&path=/96a05ae4-d4fe-448e-9b20-07da6c7ae482-vless?ed=2048&sni=dciargo.lzj520hxw.dpdns.org&host=dciargo.lzj520hxw.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 52.141.25.42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cURubHp4ZWVQcnBWR3BrbG5zSENJ@13.87.75.163:21176#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.75.163
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.74.71
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMDUuMTExLjEwNyIsImFkZCI6IjIwLjIwNS4xMTEuMTA3IiwicG9ydCI6NTk2MTksImlkIjoiYTg4MDRhMDMtYmUzZi00M2I5LWVmN2YtOGFjYmRmMzljYmUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.162.130:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.162.130
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2064?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 4.185.112.1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTY1pkMThUR2o4M1RTMVdv@20.223.208.167:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.208.167
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMDUuMTEyLjI1MiIsImFkZCI6IjIwLjIwNS4xMTIuMjUyIiwicG9ydCI6MTIwNTksImlkIjoiNGI2Y2Q5Y2QtNzZhNS00YTdjLWFhOGUtZTI1MmNmNjA1MTU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDIwLjE4NC42MS4xMjIiLCJhZGQiOiJva3NsLmNmYXBwcy5hcDIxLmhhbmEub25kZW1hbmQuY29tIiwicG9ydCI6NDQzLCJpZCI6ImNiOTRjODNkLTUwY2YtNGE2OC1iYTAzLWM2ZWQ3NTdkZjFmMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2xhb2x1byIsInRscyI6InRscyJ9
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.211.64.15:443?type=ws&security=tls&path=/&sni=bdfgfrtt7.azurewebsites.net#AU 🇦🇺 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.211.64.15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwV3FUVFY2bHJuUEFwZEVBRjhRc204@40.114.210.138:40943#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.114.210.138
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2V2NpbVVTaVQxcmZWTTF2@20.107.187.192:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.107.187.192
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.53.76:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.53.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxR3ZIdDFxbVdsRXlINzBxb0RWYkxU@51.143.178.209:8657#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.143.178.209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.234.89.202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 135.116.16.35
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTc5LjI1MSIsImFkZCI6IjIwLjIzOS4xNzkuMjUxIiwicG9ydCI6NTAwNDQsImlkIjoiYTEyZTQ5NmUtZjg5YS00MzRhLTgwMTEtMTA4ODQ2ZjBlNDEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://01d0185d-7fd0-4fc8-abf9-5d246cec98de@20.174.14.69:36118?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 20.174.14.69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 128.251.12.23
-vless://jina@4.182.217.232:443?type=tcp&security=tls&sni=jina-4182217232-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 4.182.217.232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@4.250.57.235:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.57.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.49.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.49.215
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDIwLjIuMjE4LjE0MiIsImFkZCI6IjIwLjIuMjE4LjE0MiIsInBvcnQiOjg0NDMsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.254.21.147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQ3cyYmhSWm1KaHBtZ3JM@4.210.67.30:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.210.67.30
-vless://57d68ec3-6cc5-10e9-2bca-5ba3994aa783@20.191.143.151:8080?type=ws&security=tls&path=/glasspanel/0038ba35_0_1bdabe931208/fp=chrome&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.191.143.151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.207.175
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.234.78.179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.110.94:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.90.110.94
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.74.100.138:443?type=ws&security=tls&path=/&sni=sebbb.azurewebsites.net&host=sebbb.azurewebsites.net&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 40.74.100.138
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.120.47:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.120.47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.125.213:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.125.213
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMy4xMDEuMjcuNjAiLCJhZGQiOiIyMy4xMDEuMjcuNjAiLCJwb3J0Ijo4ODQ4LCJpZCI6ImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvd25sb2FkIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:4949#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.171.150
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTQ4@51.116.225.223:2148#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.116.225.223
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.199.135
-vless://bafacd98-136a-4530-838d-4e5c51838dac@20.16.105.244:443?type=ws&security=tls&path=/hot/juzibaipiao&sni=juzi8186.qea.ccwu.cc&host=juzi8186.qea.ccwu.cc#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.16.105.244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@4.158.89.188:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.89.188
-vless://7e6d3409-ea79-43d9-eaa1-e881146017de@172.167.12.228:443?type=tcp&security=tls&sni=sizdah.dilik.co&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 172.167.12.228
-ss://Y2hhY2hhMjAtaWV0ZjozMDMw@20.113.70.231:3030#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.113.70.231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 135.225.124.80
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDIwNy40Ni4xNDcuMTQ4IiwiYWRkIjoiZnVsbGFjY2Vzc3RvaG9uZ2tvbmduZXQuYXp1cmV3ZWJzaXRlcy5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiMjc0ZjExYzYtZjY5Yi00MGI5LTg5NjYtZjM5ZTA2ZTk3YmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ME9QZUl1VW5UdFBLN3Yyem9YTk0z@51.142.86.156:19348#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.86.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTkprWFNhYVVMM0pXejRi@20.107.197.108:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.107.197.108
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMTAuMTIyLjk4IiwiYWRkIjoiMjAuMjEwLjEyMi45OCIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.119.207:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.119.207
-ss://YWVzLTEyOC1nY206NjFlMmQwMjQtMzFhYy00YzhhLThjYTgtNmVhODVhZTc5NDFi@20.205.56.124:10003#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.205.56.124
-vless://jina@20.218.137.249:443?type=tcp&security=tls&sni=jina-20218137249-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 20.218.137.249
-vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&sid=0f5af4a2#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.199.24.140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptOVFkYnQ5SXUzNUl4eXFO@23.100.56.187:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 23.100.56.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV3NGTjE4dW5RZWdVS25Y@23.100.56.187:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 23.100.56.187
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuODguMTQ0IiwiYWRkIjoiMjAuMjM5Ljg4LjE0NCIsInBvcnQiOjgwLCJpZCI6ImU5ODIxODRmLWM2ZTAtNGJhNC05MWNjLTcxZWI2YzcwMjU4OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL25rcHZwbi5zaXRlIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUm9HUUtlcGcxQXNXTzJrVG5mUG5i@51.124.217.177:62048#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.124.217.177
-vless://4b616b6f-6f6c-4e65-7773-e625d33bdbe4@20.103.221.187:443?type=ws&security=tls&path=/&sni=special-robot-4qjq6r66vqxrhg4p-443.app.github.dev#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.103.221.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6N3BhQzk3SWlMWENvaEpJUzkxSUhU@51.142.185.220:31005#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.185.220
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?type=ws&security=tls&path=/&sni=organic-halibut-qv5j44vjgpgc9jpv-443.app.github.dev#NL 🇳🇱 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.103.221.187
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.119.128.0:443?type=ws&security=tls&path=/&sni=ndfddd.azurewebsites.net&host=ndfddd.azurewebsites.net#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.119.128.0
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?type=ws&security=tls&path=/&sni=werrr.azurewebsites.net&host=werrr.azurewebsites.net#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 52.187.36.104
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.245.239:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.245.239
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVVlKbndZTXBhbHJxeTlM@20.164.210.215:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.210.215
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@20.249.83.244:8443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.249.83.244
-vless://3f4265fa-2165-478a-b311-52eccc9df6e2@4.231.236.135:8443?type=grpc&security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=eoleU4IZieH6ri6pv4RWXB-JWJcx6W9bKCFLu1ba-VM&sid=7e38d8f3#IE 🇮🇪 ┇ VLESS-GRPC-REALITY - Microsoft Corporation ┇ 4.231.236.135
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDEzLjc2LjQuMTE0IiwiYWRkIjoiMTMuNzYuNC4xMTQiLCJwb3J0IjozNzAyMCwiaWQiOiIwOTg3ZmY5NS05MWVmLTQwZWYtYjZjYi1hNDRhYzZiMTk5MGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJkb3hpbmppYXBvLjUyMDEzMTQuY2ZkIiwicGF0aCI6Ii8wOTg3ZmY5NSIsInRscyI6InRscyIsInNuaSI6ImRveGluamlhcG8uNTIwMTMxNC5jZmQifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.64.226
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA1Mi4yMzEuMjA3LjI0NiIsImFkZCI6IjUyLjIzMS4yMDcuMjQ2IiwicG9ydCI6MjMzLCJpZCI6IjQwZDI0NWM3LTEzOGYtM2EyNS1hYTI2LTJiYmNiZjRhMTdhZiIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3YycmF5LzIzM3l1bi54eXoifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.94.193:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.94.193
-vless://0b2b6765-f352-4c9f-8b4b-8ebda80ed715@20.46.49.99:45743?type=ws&security=none&path=/&host=bmw.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Microsoft Corporation ┇ 20.46.49.99
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR1UxN2ZDa1FqaTk2eEZCZTFBUFNm@51.142.171.225:58488#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.171.225
-vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77#AU 🇦🇺 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.70.160.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.223.100.248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QXh1aXNPZ05xb1dadzc2VWU5blVL@51.104.229.3:20843#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.104.229.3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.24.225:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.24.225
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA1MS4xMy4zOC4xMTUiLCJhZGQiOiI1MS4xMy4zOC4xMTUiLCJwb3J0Ijo1MTYxMSwiaWQiOiIyOTdmNGIzNS1hMzIxLTQ0YjktOGE5MC0yZDQ4NmQxMTUzYzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODE4@20.124.221.217:2818#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.124.221.217
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.140.41:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.140.41
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?type=ws&security=tls&path=/&sni=urban-happiness-qv79p679ppr7c494x-443.app.github.dev&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.90.66.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ek42V0R3NVdiYWQ3WlZi@20.223.152.73:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.152.73
-vless://51744d2b-fa7d-497c-81b8-228d9202a473@40.82.144.107:443?type=grpc&security=reality&sni=x5.ru&fp=chrome&pbk=uwKrPOdPnnKfdj2qy7Cim29pbs645M78ICp3djv_tHw&sid=24b583295c427eb2#KR 🇰🇷 ┇ VLESS-GRPC-REALITY - Microsoft Corporation ┇ 40.82.144.107
-vless://3f8af6ef-621d-42da-9266-c66530c1145c@tom.myona.top:49471?type=ws&security=none&path=/&host=amd.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Microsoft Corporation ┇ 20.174.184.199
-vless://5822b465-036b-4a3b-89d0-b3e52ae20815@52.141.0.244:443?type=tcp&security=reality&sni=www.stanford.edu&fp=chrome&flow=xtls-rprx-vision&pbk=fI-eoLmyyeYXgUHr2SWzHcwxkhxmDj2QBnivpUPYfVY&sid=e3db542f549f5504#KR 🇰🇷 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 52.141.0.244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@4.250.123.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.123.215
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yLjcxLjEyNCIsImFkZCI6IjIwLjIuNzEuMTI0IiwicG9ydCI6ODAsImlkIjoiYmM0MTY3ZmEtNzM5NC0zODY5LWI5YzAtNjdhZTE4YjQwZjJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMEcyT1dkRnFxZmN6MzRMWXI5aW56@13.87.75.178:7294#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.75.178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@4.250.123.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.123.215
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.108.15.110
-ss://YWVzLTI1Ni1nY206MjMzYmxvZy5jb20@20.210.122.21:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.210.122.21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUMycmRreWRDeVlrc3ZLYjJRdkxL@51.104.194.81:51000#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.104.194.81
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?type=tcp&security=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZVB6NmplcFUyUEdMbEtC@azjnac1.uksouth.cloudapp.azure.com:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.246.127.166:443?type=ws&security=tls&path=/?ed=2048&sni=ap.ylks.xyz&host=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.246.127.166
-vless://61f7a0ac-7500-42f1-b27b-e85cb16d6afa@52.237.89.171:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&pbk=Oe1AXeDO0L6_NXhNtjh3SQHOvCkfHrVZFzg1ASl4RhQ&sid=3292498d#SG 🇸🇬 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 52.237.89.171
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.9:443?type=ws&security=tls&path=/&sni=zdfdf6.azurewebsites.net#JP 🇯🇵 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.210.64.9
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.81.7:443?type=tcp&security=reality&sni=i2pd.website&fp=chrome&flow=xtls-rprx-vision&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#IL 🇮🇱 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.217.81.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.162.216.117:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.162.216.117
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@20.6.12.145:443?type=ws&security=tls&path=/proxyip=ProxyIP.CMLiussss.net&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.6.12.145
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?type=ws&security=tls&sni=sdfee4.azurewebsites.net#AU 🇦🇺 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.42.228.160
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA2OC4xNTUuMTM5LjIwNCIsImFkZCI6IjY4LjE1NS4xMzkuMjA0IiwicG9ydCI6MzY4MDEsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@13.87.103.43:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.103.43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMy43My4yMjkuMjUwIiwiYWRkIjoiMTMuNzMuMjI5LjI1MCIsInBvcnQiOjQ0MywiaWQiOiI0ODkzZWQzZS04YTVmLTQ4ZGMtYWExZS1iYmMyZTY3YTA2NWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Vk5YOUxEdTZmcEVsWExp@20.107.201.69:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.107.201.69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.162.130:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.162.130
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDQwLjc0LjEwMC4xMjkiLCJhZGQiOiJmdWxsYWNjZXNzdG9qYXBhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwicG9ydCI6NDQzLCJpZCI6IjI3NGYxMWM2LWY2OWItNDBiOS04OTY2LWYzOWUwNmU5N2JlNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiZnVsbGFjY2Vzc3RvamFwYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmdWxsYWNjZXNzdG9qYXBhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0In0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbnRDdW03d0ZqMXphcFladXlnMWll@51.136.163.86:18435#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.136.163.86
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTGVuWHk4amxJZ1NiYWZj@104.46.88.136:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.88.136
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMjIuMzkuMyIsImFkZCI6IjIwLjIyMi4zOS4zIiwicG9ydCI6ODA4MCwiaWQiOiJlZmI3NDhlYy1jOTIxLTQyYTEtYWM5ZS0xZDU0ODVkNmM0NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kb3dubG9hZCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMDUuMTE1LjE0MCIsImFkZCI6IjIwLjIwNS4xMTUuMTQwIiwicG9ydCI6MTAwMDAsImlkIjoiZGU0Y2ViMzYtYjcwOC00NjU4LTgxYjItMmYyNjEyZTM5YTIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://d7dd3a35b68b4992b319a85b8a1fc8e5@20.247.120.107:25383?type=ws&security=tls&path=/&sni=dns68.putata.eu.org&host=dns68.putata.eu.org#HK 🇭🇰 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.247.120.107
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA0LjIxNi4xNzMuMTU5IiwiYWRkIjoiNC4yMTYuMTczLjE1OSIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VR@20.87.107.99:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.107.99
-vless://18e65438-6095-4430-f258-ad68be5133b6@52.139.202.182:443?type=ws&security=tls&path=/bing&sni=sga.okkeo.me&host=sga.okkeo.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 52.139.202.182
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
-vless://7781929f-165f-4a94-b07b-689edf7913e2@20.89.106.34:443?type=tcp&security=reality&sni=www.stanford.edu&fp=chrome&flow=xtls-rprx-vision&pbk=mFfDWNmPFHIN3ojAw2GENgpklJUCOvfj1i_zix8Pnkc&sid=73122674fa25a3ab#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.89.106.34
-vless://51744d2b-fa7d-497c-81b8-228d9202a473@nl.postpulse.space:443?type=grpc&security=reality&sni=x5.ru&fp=chrome&pbk=cSjNQ3BQET2tKxr386Qh_OyoBqoNEMJKvlyfYFF-0Wo&sid=5d0b269774ae93f7#NO 🇳🇴 ┇ VLESS-GRPC-REALITY - Microsoft Corporation ┇ 20.251.147.15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.102.66:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.102.66
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.199.135
-vless://6c8a3588-ff53-473f-b15e-87ddf7f3e3ad@172.197.218.137:445?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 172.197.218.137
-vless://62357561-a129-4b9e-9614-ce2578020866@20.41.104.196:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /?ed=2048&sni=edg.comorg.us.kg&host=edg.comorg.us.kg#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.41.104.196
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@4.250.123.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.123.215
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.82.156:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.82.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.140.41:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.140.41
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.234.89.202
-vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?type=tcp&security=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc0xUbGR5RjNDVXJRdndQ@20.87.210.108:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.210.108
-vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&sid=e1a78782#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 51.116.101.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOUV2YUs1MmZ3S2JROExm@40.112.71.34:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.112.71.34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWGhOeGlqQXZ5S0prbEM4@20.87.212.8:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.212.8
-ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.211.112.115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.223.106.151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@20.26.109.68:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.26.109.68
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yNDcuMTEyLjEyNSIsImFkZCI6IjIwLjI0Ny4xMTIuMTI1IiwicG9ydCI6ODAsImlkIjoiNDAxYTJhZTktYTRhZi0zMWM0LTliOTgtZGY0MTc3MzA5NGQyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvbnkifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgMjAuMjEzLjIwLjE4NSIsImFkZCI6IjIwLjIxMy4yMC4xODUiLCJwb3J0IjoxNzcxOCwiaWQiOiJjMjA2ZTAyMi0zNGM2LTRmZTMtYTIzMi1iOWMwN2JhMzE2NWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&sid=60bf01f7#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.0.105.19
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA0LjE5MC43MS43MiIsImFkZCI6ImNpbmR5NTAuY2VvaWlpLmNvbSIsInBvcnQiOjM2ODAxLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.211.151:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.211.151
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDUyLjIzMS4yMDAuMTc5IiwiYWRkIjoiZnVsbGFjY2Vzc3Rva29yZWFubmV0c3Vibm9kZTEuYXp1cmV3ZWJzaXRlcy5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiMjc0ZjExYzYtZjY5Yi00MGI5LTg5NjYtZjM5ZTA2ZTk3YmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.142.221.250:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.221.250
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.60.151
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDEwNC4yMDguMTE3Ljg2IiwiYWRkIjoidW5pdnN0YXItMTA0LTIwOC0xMTctODYubmlwLmlvIiwicG9ydCI6NDQzLCJpZCI6IjMyOGIyNTQ3LWQxNDEtNGRmNC1hNzZlLTRmMWMyZTM2MWY1YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vless://6c8a3588-ff53-473f-b15e-87ddf7f3e3ad@172.197.218.137:445?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 172.197.218.137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 128.251.12.23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.136.145
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMDUuMTExLjEwNyIsImFkZCI6IjIwLjIwNS4xMTEuMTA3IiwicG9ydCI6NTk2MTksImlkIjoiYTg4MDRhMDMtYmUzZi00M2I5LWVmN2YtOGFjYmRmMzljYmUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxR3ZIdDFxbVdsRXlINzBxb0RWYkxU@51.143.178.209:8657#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.143.178.209
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMzAuMzMuOTYuMjA0IiwiYWRkIjoiMTMwLjMzLjk2LjIwNCIsInBvcnQiOjE2NjQ1LCJpZCI6IjJkZDMxYmQ5LWUyMmMtNDcxYS1hOWNjLTkxMjhmYzc2ODMyNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTQ1LjExNSIsImFkZCI6IjIwLjIzOS4xNDUuMTE1IiwicG9ydCI6NDQzLCJpZCI6IjQ4OTNlZDNlLThhNWYtNDhkYy1hYTFlLWJiYzJlNjdhMDY1YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprajNDalc4cllRNlNpMVhN@20.87.208.184:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.208.184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.123.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.123.215
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.115.121.217
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.171.150
-vless://6d1dfcdf-f221-4765-b104-30216a977914@52.141.25.42:443?type=ws&security=tls&path=/?ed=2560&sni=a.c.e.m.n.o.r.s.u.v.w.x.a.c.trevely.de5.net&host=a.c.e.m.n.o.r.s.u.v.w.x.a.c.trevely.de5.net#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 52.141.25.42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTWN0WGpGaFhMRm41S3lKMjc2MU9V@51.143.184.72:35449#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.143.184.72
-vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA2OC4xNTUuODYuODQiLCJhZGQiOiI2OC4xNTUuODYuODQiLCJwb3J0IjozNjgwMSwiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.176.12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.136.145
-vless://19804f6b-3661-4eca-b294-ba37196dab5b@microsoft.com:443?type=ws&security=tls&path=/id-tksi&sni=graph.instagram.com.cyylr.eu.cc&host=graph.instagram.com.cyylr.eu.cc#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 150.171.110.194
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.170.42:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.170.42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzc3NTEzZS05ZGY1LTRkYzMtYmM4NC03NGU1NjQzNDVhODE@85.211.180.133:13012#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.211.180.133
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.140.41:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.140.41
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.202.58:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.202.58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.202.224:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.202.224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WEdteVRKQzhERGQwbEZS@23.100.56.187:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 23.100.56.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.107.99
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yNDcuMTA1LjUyIiwiYWRkIjoiMjAuMjQ3LjEwNS41MiIsInBvcnQiOjgwLCJpZCI6ImZhMGY5OGQ4LTFjYWYtNGViZS05ZWM0LTU5ODBjMjk0ZTk4ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMDQuMjA4Ljk2LjQ0IiwiYWRkIjoiMTA0LjIwOC45Ni40NCIsInBvcnQiOjgwLCJpZCI6IjgwZTk0YWY2LWU0MmEtNGRiYy04ZjRiLWM1Zjk5YmY5N2QzZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3poLWNuL2Rvd25sb2FkIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVXBUWXNuRm1JTkQxNHZ4@20.164.221.1:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.221.1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.13.182.236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.33.92
+vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?type=tcp&security=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.221.1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.234.89.202
+vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77#AU 🇦🇺 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.70.160.45
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.124.20:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.124.20
-vless://89722a6c-e074-4651-d0a7-6ad6c29ce87b@20.96.165.134:80?type=grpc&security=reality&sni=microsoft.com&mode=gun&fp=firefox&pbk=EyQUEBzlUrhZxnNL5uODPYYMu50SCsZo4abimP9aWlI&sid=c811882c07#US 🇺🇸 ┇ VLESS-GRPC-REALITY - Microsoft Corporation ┇ 20.96.165.134
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@4.216.102.153:38765?type=tcp&security=none&path=Telegram-WangCai2&host=notls.lukongtou.eu.org#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 4.216.102.153
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@51.142.92.199:44934#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.92.199
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdDc0bjdLYXBQdDRoM3F6eTdYdnhp@51.145.19.84:9870#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.145.19.84
-vless://jina@20.79.160.49:443?type=tcp&security=tls&sni=jina-207916049-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 20.79.160.49
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgNTEuMTE2LjEwMS44OCIsImFkZCI6IjUxLjExNi4xMDEuODgiLCJwb3J0Ijo4MDgxLCJpZCI6ImEwNGM5Y2RlLWRkOTYtNDY5Yi1iNmY0LTFjOGI0YmFkNjZmMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMG5maTJiTGl6V2RHMTE3@20.107.208.165:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.107.208.165
-vless://26524cce-d514-4014-a426-365fb266a14d@172.208.36.45:443?type=ws&security=tls&path=/danfengfp=chrome&sni=ynwta9.api-edge.fgfw.qzz.io&host=ynwta9.api-edge.fgfw.qzz.io#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 172.208.36.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODE4@20.120.24.20:2818#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.120.24.20
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMjIuMzkuMyIsImFkZCI6IjIwLjIyMi4zOS4zIiwicG9ydCI6ODA4MCwiaWQiOiJlZmI3NDhlYy1jOTIxLTQyYTEtYWM5ZS0xZDU0ODVkNmM0NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kb3dubG9hZCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwV3FUVFY2bHJuUEFwZEVBRjhRc204@40.114.210.138:40943#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.114.210.138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.234.78.179
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.255:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.119.255
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
+vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&sid=0f5af4a2#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.199.24.140
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?type=ws&security=tls&path=/&sni=dee33.azurewebsites.net&host=dee33.azurewebsites.net&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.189.104.97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@13.87.96.194:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.96.194
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTWN0WGpGaFhMRm41S3lKMjc2MU9V@51.143.184.72:35449#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.143.184.72
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@4.158.75.50:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.75.50
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 102.37.156.224
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.123.5:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.123.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.223.100.248
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA2OC4xNTUuODYuODQiLCJhZGQiOiI2OC4xNTUuODYuODQiLCJwb3J0IjozNjgwMSwiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 172.166.8.137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVVlKbndZTXBhbHJxeTlM@20.164.210.215:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.210.215
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMy4xMDEuMjcuNjAiLCJhZGQiOiIyMy4xMDEuMjcuNjAiLCJwb3J0Ijo4ODQ4LCJpZCI6ImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvd25sb2FkIn0
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 130.107.73.148
+vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 72.146.184.66
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA0LjIxNi4xNzMuMTU5IiwiYWRkIjoiNC4yMTYuMTczLjE1OSIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN1BqMGM3M1BxUWY5N2xtV1ltQmJY@40.114.213.220:64504#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.114.213.220
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.231.225.39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.91.252.21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.210.66.171
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA0LjE5MC43MS43MiIsImFkZCI6ImNpbmR5NTAuY2VvaWlpLmNvbSIsInBvcnQiOjM2ODAxLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.74.71
+vless://62357561-a129-4b9e-9614-ce2578020866@20.41.104.196:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /?ed=2048&sni=edg.comorg.us.kg&host=edg.comorg.us.kg#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.41.104.196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.164.45.116
+ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.120.24.20:5008#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.120.24.20
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yNDcuMTA1LjUyIiwiYWRkIjoiMjAuMjQ3LjEwNS41MiIsInBvcnQiOjgwLCJpZCI6ImZhMGY5OGQ4LTFjYWYtNGViZS05ZWM0LTU5ODBjMjk0ZTk4ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+vless://7e6d3409-ea79-43d9-eaa1-e881146017de@172.167.12.228:443?type=tcp&security=tls&sni=sizdah.dilik.co&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 172.167.12.228
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVHlwaWxtamlkcnI2ZFFZYU9HSGY3@13.87.75.155:46130#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 13.87.75.155
+vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?type=tcp&security=tls&sni=eleven.dilik.co&fp=chrome&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 20.215.42.100
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMy43My4yMjkuMjUwIiwiYWRkIjoiMTMuNzMuMjI5LjI1MCIsInBvcnQiOjQ0MywiaWQiOiI0ODkzZWQzZS04YTVmLTQ4ZGMtYWExZS1iYmMyZTY3YTA2NWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?type=ws&security=tls&sni=sdfee4.azurewebsites.net#AU 🇦🇺 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.42.228.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOTE3dXZwM2pXSU1reTV1@20.123.9.48:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.123.9.48
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.162.130:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.162.130
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMDUuMTE1LjE0MCIsImFkZCI6IjIwLjIwNS4xMTUuMTQwIiwicG9ydCI6MTAwMDAsImlkIjoiZGU0Y2ViMzYtYjcwOC00NjU4LTgxYjItMmYyNjEyZTM5YTIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuODguMTQ0IiwiYWRkIjoiMjAuMjM5Ljg4LjE0NCIsInBvcnQiOjgwLCJpZCI6ImU5ODIxODRmLWM2ZTAtNGJhNC05MWNjLTcxZWI2YzcwMjU4OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL25rcHZwbi5zaXRlIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWGhOeGlqQXZ5S0prbEM4@20.87.212.8:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.212.8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
+ss://Y2hhY2hhMjAtaWV0ZjozMDMw@20.113.70.231:3030#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.113.70.231
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yLjcxLjEyNCIsImFkZCI6IjIwLjIuNzEuMTI0IiwicG9ydCI6ODAsImlkIjoiYmM0MTY3ZmEtNzM5NC0zODY5LWI5YzAtNjdhZTE4YjQwZjJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMDQuMjA4Ljk2LjQ0IiwiYWRkIjoiMTA0LjIwOC45Ni40NCIsInBvcnQiOjgwLCJpZCI6IjgwZTk0YWY2LWU0MmEtNGRiYy04ZjRiLWM1Zjk5YmY5N2QzZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3poLWNuL2Rvd25sb2FkIn0
+ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.106.241.226:9806#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.106.241.226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOUV2YUs1MmZ3S2JROExm@98.71.81.64:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 98.71.81.64
+vless://7781929f-165f-4a94-b07b-689edf7913e2@20.89.106.34:443?type=tcp&security=reality&sni=www.stanford.edu&fp=chrome&flow=xtls-rprx-vision&pbk=mFfDWNmPFHIN3ojAw2GENgpklJUCOvfj1i_zix8Pnkc&sid=73122674fa25a3ab#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.89.106.34
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.162.130:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.162.130
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDIwNy40Ni4xNDcuMTQ4IiwiYWRkIjoiZnVsbGFjY2Vzc3RvaG9uZ2tvbmduZXQuYXp1cmV3ZWJzaXRlcy5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiMjc0ZjExYzYtZjY5Yi00MGI5LTg5NjYtZjM5ZTA2ZTk3YmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgNTcuMTUxLjEwMC4yNyIsImFkZCI6IjU3LjE1MS4xMDAuMjciLCJwb3J0IjoxMDA4NiwiaWQiOiI1NTBlODQwMC1lMjliLTQxZDQtYTcxNi00NDY2NTU0NDAwMDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprajNDalc4cllRNlNpMVhN@20.87.208.184:443#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.87.208.184
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443?type=ws&security=tls&path=/&sni=sgg1.azurewebsites.net&host=sgg1.azurewebsites.net#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.212.64.16
+vless://3f8af6ef-621d-42da-9266-c66530c1145c@tom.myona.top:49471?type=ws&security=none&path=/&host=amd.com#AE 🇦🇪 ┇ VLESS-WS-NTLS - Microsoft Corporation ┇ 20.174.184.199
+vless://89722a6c-e074-4651-d0a7-6ad6c29ce87b@20.96.165.134:80?type=tcp&security=none&mode=gun#US 🇺🇸 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 20.96.165.134
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTc5LjI1MSIsImFkZCI6IjIwLjIzOS4xNzkuMjUxIiwicG9ydCI6NTAwNDUsImlkIjoiMTYxN2U4NzUtZTM3Ny00ZTRmLTg1ZWYtZGNmOWU1ZTEwZGY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&sid=e1a78782#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 51.116.101.212
+vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4xNy4xNTcuMjAiLCJhZGQiOiIyMC4xNy4xNTcuMjAiLCJwb3J0IjozNjgwMywiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCJ9
+vless://b0e07703-77ab-4d07-b67f-f825eb7a569e@s3hf8j.connect343.net:34820?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=846xvaKwZoNDLNHaA06RjUYfTbZg1tkkP290anPfIWw&sid=5a096852b9#US 🇺🇸 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 172.191.161.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.57.235:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.57.235
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.207.175
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUXBhREpkRlBubHRZY2JCWUY0S3RL@40.113.153.173:45160#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 40.113.153.173
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.223.106.151
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptOVFkYnQ5SXUzNUl4eXFO@23.100.56.187:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 23.100.56.187
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM2Zzc3cyR0ZVcVR3anQ0SGxzV2p2@51.140.34.50:35276#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.140.34.50
+vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4xNy4xNTYuMTk0IiwiYWRkIjoiY2luZHk1Mi5jZW9paWkuY29tIiwicG9ydCI6MzY4MDMsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.141.14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 135.225.124.80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.166.58.64
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.235.119:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.235.119
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Vk5YOUxEdTZmcEVsWExp@20.107.201.69:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.107.201.69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTGVuWHk4amxJZ1NiYWZj@104.46.88.136:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.88.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 68.219.96.61
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbWwyZTZ6bHVJYThXU3BO@104.46.88.136:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.88.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.142.171.150
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 102.133.165.160
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@20.26.109.68:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.26.109.68
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.233.247
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMTAuMTIyLjk4IiwiYWRkIjoiMjAuMjEwLjEyMi45OCIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.254.21.147
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdXptQ1JzSjM3OE1zRGNodGltNHU4@52.142.191.152:20168#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.142.191.152
+vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyA1MS4xMy4zOC4xMTUiLCJhZGQiOiI1MS4xMy4zOC4xMTUiLCJwb3J0Ijo1MTYxMSwiaWQiOiIyOTdmNGIzNS1hMzIxLTQ0YjktOGE5MC0yZDQ4NmQxMTUzYzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.53.76:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.53.76
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgMjAuODkuOTQuNjIiLCJhZGQiOiIyMC44OS45NC42MiIsInBvcnQiOjQ0MywiaWQiOiJjODViMDhjYi1lODFhLTRkOGItOTk3Zi1lNDM4NzBkYzUyZGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6ImF1dG8iLCJ0bHMiOiJ0bHMifQ
+ss://YWVzLTI1Ni1nY206MjMzYmxvZy5jb20@20.210.122.21:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.210.122.21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.13.182.236
+vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMTMuMTIyLjI0NSIsImFkZCI6IjIwLjIxMy4xMjIuMjQ1IiwicG9ydCI6MzQ1NjMsImlkIjoiNDQ4ZTNlMjItM2YxMC00MGYxLWRjMGYtYzY0YjdjNDQwZjEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZnNmc2RmIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3hEc0ttWlJ1ejR3UkNLeVhKZEps@51.105.36.101:13928#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.105.36.101
+ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.120.24.20:9806#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.120.24.20
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMDQuMjA4Ljg1LjU2IiwiYWRkIjoiMTA0LjIwOC44NS41NiIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.120.237
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.129.129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@4.158.89.188:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.158.89.188
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.125.207:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.125.207
+vless://5822b465-036b-4a3b-89d0-b3e52ae20815@52.141.0.244:443?type=tcp&security=reality&sni=www.stanford.edu&fp=chrome&flow=xtls-rprx-vision&pbk=fI-eoLmyyeYXgUHr2SWzHcwxkhxmDj2QBnivpUPYfVY&sid=e3db542f549f5504#KR 🇰🇷 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 52.141.0.244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.208.211:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.208.211
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.102.66:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 85.210.102.66
+ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.211.112.115
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.11.128.24
+vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2042?type=tcp&security=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.123.9.48
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDQwLjc0LjEwMC4xMjkiLCJhZGQiOiJmdWxsYWNjZXNzdG9qYXBhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwicG9ydCI6NDQzLCJpZCI6IjI3NGYxMWM2LWY2OWItNDBiOS04OTY2LWYzOWUwNmU5N2JlNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiZnVsbGFjY2Vzc3RvamFwYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmdWxsYWNjZXNzdG9qYXBhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0In0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.108.15.110
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 52.237.155.68
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTc5LjI1MSIsImFkZCI6IjIwLjIzOS4xNzkuMjUxIiwicG9ydCI6NTAwNDUsImlkIjoiOWI2MWZmNDYtNGM2MS00YjMxLTgwMWEtZjg3MGQ3YTFkZTUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.234.89.202
+ss://Y2hhY2hhMjAtaWV0Zjo1MjY4NzgxMjY2ZjQ4MTg5@20.113.28.20:5337#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.113.28.20
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?type=tcp&security=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.33.31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODE4@20.124.221.217:2818#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.124.221.217
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.240.238:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.240.238
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV3NGTjE4dW5RZWdVS25Y@23.100.56.187:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 23.100.56.187
+vless://96a05ae4-d4fe-448e-9b20-07da6c7ae482@52.141.25.42:443?type=ws&security=tls&path=/96a05ae4-d4fe-448e-9b20-07da6c7ae482-vless?ed=2048&sni=dciargo.lzj520hxw.dpdns.org&host=dciargo.lzj520hxw.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 52.141.25.42
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2064?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 4.185.112.1
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMTAuMTI2Ljg0IiwiYWRkIjoiMjAuMjEwLjEyNi44NCIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 40.66.48.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@168.63.68.5:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 168.63.68.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 104.46.88.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODE4@20.120.24.20:2818#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.120.24.20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUm9HUUtlcGcxQXNXTzJrVG5mUG5i@51.124.217.177:62048#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 51.124.217.177
+vless://jina@20.218.137.249:443?type=tcp&security=tls&sni=jina-20218137249-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 20.218.137.249
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDUyLjIzMS4yMDAuMTc5IiwiYWRkIjoiZnVsbGFjY2Vzc3Rva29yZWFubmV0c3Vibm9kZTEuYXp1cmV3ZWJzaXRlcy5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiMjc0ZjExYzYtZjY5Yi00MGI5LTg5NjYtZjM5ZTA2ZTk3YmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@4.250.57.235:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 4.250.57.235
+ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.106.241.226:5008#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.106.241.226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.49.215:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.49.215
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2059?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Microsoft Corporation ┇ 4.185.112.1
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMDUuMTEyLjI1MiIsImFkZCI6IjIwLjIwNS4xMTIuMjUyIiwicG9ydCI6MTIwNTksImlkIjoiNGI2Y2Q5Y2QtNzZhNS00YTdjLWFhOGUtZTI1MmNmNjA1MTU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ek42V0R3NVdiYWQ3WlZi@20.223.152.73:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 20.223.152.73
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@20.249.83.244:8443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top&host=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 20.249.83.244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.125.213:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 131.145.125.213
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAxMzAuMzMuODkuMjAxIiwiYWRkIjoiMTMwLjMzLjg5LjIwMSIsInBvcnQiOjM2ODAxLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@98.71.81.64:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 98.71.81.64
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?type=ws&security=tls&path=/&sni=werrr.azurewebsites.net&host=werrr.azurewebsites.net#SG 🇸🇬 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 52.187.36.104
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yMzkuMTc5LjI1MSIsImFkZCI6IjIwLjIzOS4xNzkuMjUxIiwicG9ydCI6NTAwNDQsImlkIjoiYTEyZTQ5NmUtZjg5YS00MzRhLTgwMTEtMTA4ODQ2ZjBlNDEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNaWNyb3NvZnQgQ29ycG9yYXRpb24gXHUyNTA3IDIwLjIuMjE4LjE0MiIsImFkZCI6IjIwLjIuMjE4LjE0MiIsInBvcnQiOjg0NDMsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
+vless://jina@20.79.160.49:443?type=tcp&security=tls&sni=jina-207916049-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Microsoft Corporation ┇ 20.79.160.49
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTWljcm9zb2Z0IENvcnBvcmF0aW9uIFx1MjUwNyAyMC4yNDcuMTA1LjIwMiIsImFkZCI6IjIwLjI0Ny4xMDUuMjAyIiwicG9ydCI6ODAsImlkIjoiZmEwZjk4ZDgtMWNhZi00ZWJlLTllYzQtNTk4MGMyOTRlOThmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBcdTI1MDcgMjAuMTkzLjE1My4xOSIsImFkZCI6IjIwLjE5My4xNTMuMTkiLCJwb3J0IjoxNTgzNCwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@48.217.34.120:443?type=ws&security=tls&path=/?ed=2048&sni=lp.kpcloud.eu.org&host=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - Microsoft Corporation ┇ 48.217.34.120
+vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&sid=60bf01f7#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 20.0.105.19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.208.7:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Microsoft Corporation ┇ 74.177.208.7

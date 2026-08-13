@@ -1,108 +1,45 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDk1LjE2NC40NC4xNDAiLCJhZGQiOiI5NS4xNjQuNDQuMTQwIiwicG9ydCI6ODQ0MywiaWQiOiI3ZTczMjViZS01YzA0LTQwMGEtOWYxMS1lN2Y1MWM5Y2IxYTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIxMjcuMC4wLjEuZGwzLnhuLS04MGFkc2kyYTBmLm1yYXJzaGEueG4tLTgwYWpqYm91bmdqOGEzMjYzcjk3dmE3bjNuLnhuLS05bXl4MjJkLndvbmthY2FwaXRhbm8uYnV6ei4iLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiMTI3LjAuMC4xLmRsMy54bi0tODBhZHNpMmEwZi5tcmFyc2hhLnhuLS04MGFqamJvdW5najhhMzI2M3I5N3ZhN24zbi54bi0tOW15eDIyZC53b25rYWNhcGl0YW5vLmJ1enouIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcXlpbWl2M1lOZ3U2ZEFwY3Rwdzd0@130.0.233.100:33610#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 130.0.233.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.91
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link&host=hk.laoyoutiao.link#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.29
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.98
-vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?type=tcp&security=reality&sni=de-one.quiet-rogue.site&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk#UA 🇺🇦 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 193.41.4.20
-vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5#UA 🇺🇦 ┇ VLESS-TCP-REALITY - Green Floid LLC ┇ 193.238.153.15
-vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.53:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 143.244.45.53
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@91.124.127.254:8880?type=ws&security=none&path=/Telegram🇨🇳&host=yg.bantony199.top#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.254
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Virtual Systems LLC ┇ 91.218.49.99
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:37058?sni=dxobg4azmk.gafnode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://39d8059b-7d46-42f5-92a3-822b2bfe6db7@kyubdir.avaaal.ir:8880?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=TjFXdn9tysQF5FBUpfnro8HTll4EEEmp7Cxx7WLf_HY&sid=4e8df1fadd4be766#UA 🇺🇦 ┇ VLESS-TCP-REALITY - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 87.76.156.4
-vless://v2rayfree1-injas-biya@91.231.182.187:21341?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
-vless://411ce31a-baf8-4b00-a539-c46ddd5a5aae@141.105.130.118:43401?type=tcp&security=none&host=google.com#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.118
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 143.244.45.54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://23f15841-0587-42a6-b3cf-dcf456fc7b56@94.154.33.216:8080?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Skayvin LLC ┇ 94.154.33.216
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.90
-ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.78
-vless://411279b4-233f-4abe-950c-956b6ffc921b@87.76.154.18:16506?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 87.76.154.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
-hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?insecure=1#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS ┇ 46.203.248.72
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyA5NS4xNjQuNDQuMTQwIiwiYWRkIjoiOTUuMTY0LjQ0LjE0MCIsInBvcnQiOjIwOTUsImlkIjoiMjhmOGQ1MWEtMGU3NS00ZmMzLWEzNmUtMDNiZjRlNGQwOTEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaalZtWW1KbA@95.164.44.21:8388#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 95.164.44.21
-vless://Telegram@46.202.30.8:2096?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io&host=tn1rr.qzz.io#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 46.202.30.8
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWQ5NmZhYjc2ZWE0MDA4@163.171.137.66:11201#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.66
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbHBTRGV3bWlsQTRJekdLU3ZRSEsx@194.150.220.103:443#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.150.220.103
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.84
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.164.45.70
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@176.103.113.235:443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com&host=rubifen.adaspoloandco.com&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 176.103.113.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZmZLM3ZjRzdxa0Q0dUFxV0NGbVdKY3dhOENLYncwRzBVWk9wbjV0azR0NjZReWw@193.0.61.96:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Maksym Rivtin ┇ 193.0.61.96
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://241cc6d6-3f35-551e-a8ce-7af4dfa29ed3@95.164.46.39:80?type=ws&security=none&path=/vless?ed=2408&host=it2.v2vless.sitespeedtest.net#UA 🇺🇦 ┇ VLESS-WS-NTLS - Private Networks Technologies LTD ┇ 95.164.46.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.3.93
-vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:16816?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&sid=7f700392#UA 🇺🇦 ┇ VLESS-TCP-REALITY ┇ 212.79.125.38
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?type=tcp&security=reality&sni=www.lamer.com&fp=edge&flow=xtls-rprx-vision&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9#UA 🇺🇦 ┇ VLESS-TCP-REALITY - IP-Connect LLC ┇ 91.236.248.20
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Private Networks Technologies LTD ┇ 95.164.46.39
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&security=tls&path=/@Filter_breaker&sni=proxy.aslivpn.ir&host=proxy.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Server.ua LLC ┇ 194.54.80.37
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://ItsLegendaryking@141.105.130.162:443?type=tcp&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.162
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.72
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 143.244.45.55
-vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&security=tls&path=/@Filter_breaker&sni=vpn.aslivpn.ir&host=vpn.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyA5NS4xNjQuNDQuMTQwIiwiYWRkIjoiOTUuMTY0LjQ0LjE0MCIsInBvcnQiOjgwODAsImlkIjoiMjhmOGQ1MWEtMGU3NS00ZmMzLWEzNmUtMDNiZjRlNGQwOTEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-hysteria2://eb053b55-484d-4102-8056-bd7674d0e450@92.112.22.221:32711?sni=www.bing.com&insecure=1#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS ┇ 92.112.22.221
-vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:59874?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&sid=7f700392#UA 🇺🇦 ┇ VLESS-TCP-REALITY ┇ 212.79.125.38
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBDIEFzdHJhLW5ldCBcdTI1MDcgMTg1LjE2Ny43OC40NCIsImFkZCI6IjE4NS4xNjcuNzguNDQiLCJwb3J0IjoxOTExNiwiaWQiOiJmNWE4OGI0YS1jNTc4LTQ2NjAtYzdlMi05Yjg5N2I5ODQyYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@79.133.108.24:443?type=ws&security=tls&path=/?ed=2048&sni=revil.servehttp.com&host=revil.servehttp.com&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 79.133.108.24
-vless://45533f81-cd8c-4792-a030-1adfbca4580a@95.164.44.221:8443?type=tcp&security=none&mode=multi#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.164.44.221
-vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.192
-ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Virtual Systems LLC ┇ 45.134.173.247
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&security=none&path=/#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.164.45.122
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?type=tcp&security=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.85
-vless://15541f39-2a7b-4617-a22f-d800d1742d52@2a0c:b641:6f0:55::2:49364?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 2a0c:b641:6f0:55::2
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - H2nexus Cloud Services - Fzco ┇ 144.31.131.194
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#UA 🇺🇦 ┇ VLESS-TCP-REALITY ┇ 95.164.44.237
-vless://43488128-319e-f480-64ea-0acdc712e2a8@193.238.152.60:443?type=tcp&security=reality&sni=www.github.com&fp=chrome&flow=xtls-rprx-vision&pbk=ICj0tYvWTiCM0Q47ddC3pTQ9APwk9tS9_i2gWC_dZRA&sid=a1b2c3d4e5f67890#UA 🇺🇦 ┇ VLESS-TCP-REALITY - Green Floid LLC ┇ 193.238.152.60
-hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - Wisdom Cloud Internet Technology Pte. Ltd. ┇ 92.112.23.216
-vless://56de843d-21e1-47cc-b216-b957ef4e23ba@jp.voxyvpn.ru:6443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=deadbeef#UA 🇺🇦 ┇ VLESS-TCP-REALITY - Global Connectivity Solutions Llp ┇ 194.150.221.56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 130.0.233.100
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?type=grpc&security=reality&sni=www.microsoft.com&mode=gun&fp=chrome&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA#UA 🇺🇦 ┇ VLESS-GRPC-REALITY - Fast Servers (Pty) Ltd ┇ 91.218.122.10
-vless://cec8e340-71e3-4d69-bc4f-831c937b3d2b@95.164.45.179:443?type=ws&security=tls&path=/vless&sni=speedtest.net#UA 🇺🇦 ┇ VLESS-WS-TLS ┇ 95.164.45.179
-vless://542d6d26-e374-432a-a1d4-f20d62eae00f@141.105.130.118:21109?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.118
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 143.244.45.50
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@46.202.30.254:8880?type=ws&security=none&path=/Telegram🇨🇳&host=yg.bantony199.top#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.254
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.52:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 143.244.45.52
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 87.76.154.21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
-vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.70
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.95
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@46.202.30.186:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=Telegram-channel-WangCai2&host=ip.langmanshanxi.top#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.186
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none&sni=TABRIZ.NET&fp=chrome#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.94
-vless://27bf0617-9625-4977-a987-eb08e35c8bd6@46.203.124.170:44174?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=zAZ7rKqhhCWOKTOMlyEvjFtkkuR1PsLbSU1Xp7QGlQ8&sid=f64ef7b3#UA 🇺🇦 ┇ VLESS-TCP-REALITY ┇ 46.203.124.170
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@2a0c:b641:6f0:9b::2:49938?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 2a0c:b641:6f0:9b::2
-vless://27b6e259-9c75-488a-ac60-9fcf520cadd2@141.105.130.195:29345?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.195
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Server.ua LLC ┇ 194.54.80.37
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&security=tls&path=/websocket?ed=2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&sni=de02.abvpn.ru&host=de02.abvpn.ru&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - NetAssist LLC ┇ 95.164.47.60
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://91985dec-9fa3-4d3b-9810-70f92c7ca7c8@141.105.130.25:47053?type=tcp&security=none&host=ramzinex.com, fast.com, cloudflare.com#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.25
-vless://d77e442e-8bb8-53c6-8577-0cc100b2e9ac@95.164.46.154:2052?type=ws&security=none&path=/vless&host=www-domain.it1.v2vless.sitespeedtest.net#UA 🇺🇦 ┇ VLESS-WS-NTLS - Private Networks Technologies LTD ┇ 95.164.46.154
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.95
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@176.103.113.235:443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com&host=rubifen.adaspoloandco.com&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 176.103.113.235
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link&host=hk.laoyoutiao.link#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.29
+vless://411279b4-233f-4abe-950c-956b6ffc921b@87.76.154.18:16506?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 87.76.154.18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Virtual Systems LLC ┇ 91.218.49.99
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - H2nexus Cloud Services - Fzco ┇ 144.31.131.194
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
+vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti. ┇ 87.76.154.21
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.85
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#UA 🇺🇦 ┇ VLESS-TCP-REALITY ┇ 95.164.44.237
+vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Private Networks Technologies LTD ┇ 95.164.46.39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.3.93
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.164.45.70
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?type=tcp&security=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.85
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@46.202.30.254:8880?type=ws&security=none&path=/Telegram🇨🇳&host=yg.bantony199.top#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.254
+vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.70
+vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&security=tls&path=/@Filter_breaker&sni=proxy.aslivpn.ir&host=proxy.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248
+vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5#UA 🇺🇦 ┇ VLESS-TCP-REALITY - Green Floid LLC ┇ 193.238.153.15
+vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:59874?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&sid=7f700392#UA 🇺🇦 ┇ VLESS-TCP-REALITY ┇ 212.79.125.38
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZmZLM3ZjRzdxa0Q0dUFxV0NGbVdKY3dhOENLYncwRzBVWk9wbjV0azR0NjZReWw@193.0.61.96:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Maksym Rivtin ┇ 193.0.61.96
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
+vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.84
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Server.ua LLC ┇ 194.54.80.37
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@91.124.127.254:8880?type=ws&security=none&path=/Telegram🇨🇳&host=yg.bantony199.top#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.254
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?type=tcp&security=reality&sni=www.lamer.com&fp=edge&flow=xtls-rprx-vision&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9#UA 🇺🇦 ┇ VLESS-TCP-REALITY - IP-Connect LLC ┇ 91.236.248.20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
+vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.91
+vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?type=tcp&security=reality&sni=de-one.quiet-rogue.site&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk#UA 🇺🇦 ┇ VLESS-TCP-REALITY - NetCrafters OU ┇ 193.41.4.20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.164.45.94
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Meteverse Limited. ┇ 163.171.137.76
+vless://Telegram@46.202.30.8:2096?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io&host=tn1rr.qzz.io#UA 🇺🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 46.202.30.8
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
+ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Virtual Systems LLC ┇ 45.134.173.247
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyA5NS4xNjQuNDQuMTQwIiwiYWRkIjoiOTUuMTY0LjQ0LjE0MCIsInBvcnQiOjIwOTUsImlkIjoiMjhmOGQ1MWEtMGU3NS00ZmMzLWEzNmUtMDNiZjRlNGQwOTEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?type=grpc&security=none&mode=gun#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.164.45.78
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Server.ua LLC ┇ 194.54.80.37
+vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&security=tls&path=/@Filter_breaker&sni=vpn.aslivpn.ir&host=vpn.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248

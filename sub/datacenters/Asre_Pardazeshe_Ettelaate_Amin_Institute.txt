@@ -1,16 +1,2 @@
-vless://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.21.220
-vless://zigma-config-bot-2338@212.80.19.27:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.19.27
-vless://1fa2daa0-e017-4018-a440-4bd01d3b7123@212.80.19.47:443?type=xhttp&security=tls&sni=stream50.cdn.asset.filimo.com&host=stream50.cdn.asset.filimo.com&mode=auto&fp=firefox#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.19.47
-vless://fbf9b5e2-d4bf-4677-a1c6-4c57ea64e3ed@185.213.10.99:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.213.10.99
-vless://0b3da50c-9dba-469d-94b5-c5c400fce06a@62.60.196.148:443?type=tcp&security=tls&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 62.60.196.148
-vless://26b1dd3c-5323-4b16-af75-c07dd03e43f9@2.189.243.219:1002?type=ws&security=none&host=dl31.cofeliq1.blog#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.243.219
-vless://167dc3ca-d6e2-47a6-8b83-717e2fdabeb5@89.42.137.30:64106?type=ws&security=none&path=/?ed=2610#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.137.30
-vless://4918a707-1a7a-4215-e4a5-141f3f4e4f65@2.189.242.166:443?type=tcp&security=tls&sni=v2pnshop.kh.liq-english-78.site#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.242.166
-vless://00e407dc-8d0f-23dd-9b2e-e35ce13d29e8@212.80.19.40:443?type=xhttp&security=tls&path=/TR&sni=iran.ir&host=iran.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.19.40
-vless://1bac519a-8429-7716-f1bb-fdd9afa93ece@89.42.139.167:443?type=xhttp&security=tls&path=/&sni=iran.ir&host=iran.ir&mode=auto&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.139.167
-vless://eb673009-7a7f-440b-8000-649f22ade219@185.229.204.187:28735?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.229.204.187
-vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.142.157.161
-vless://3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b@89.42.139.69:3530?type=tcp&security=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 89.42.139.69
-vless://0125494a-67b1-4262-a758-dee5abe8ac66@176.97.220.168:15338?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 176.97.220.168
 vless://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 212.80.20.50
-vless://26b1dd3c-5323-4b16-af75-c07dd03e43f9@2.189.242.183:3002?type=ws&security=none&host=dl3.liq-group.monster#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 2.189.242.183
+vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 185.142.157.161
