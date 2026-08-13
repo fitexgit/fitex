@@ -1,3 +1,3 @@
-vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?type=grpc&security=tls&sni=free.ziroxcompany.ir&mode=gun&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
-vless://c8f85c67-016b-4d12-90a8-036f416592f3@104.194.146.32:443?type=xhttp&security=reality&path=/&sni=www.intel.com&mode=auto&fp=chrome&pbk=6x4A8wp1qTHTHr0Ws1zdfjY3YemQrKuQ79zGIYh2dyY&sid=41208ca9bd7a#GB 🇬🇧 ┇ VLESS-XHTTP-REALITY - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.146.32
 vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116
+vless://c8f85c67-016b-4d12-90a8-036f416592f3@104.194.146.32:443?type=xhttp&security=reality&path=/&sni=www.intel.com&mode=auto&fp=chrome&pbk=6x4A8wp1qTHTHr0Ws1zdfjY3YemQrKuQ79zGIYh2dyY&sid=41208ca9bd7a#GB 🇬🇧 ┇ VLESS-XHTTP-REALITY - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.146.32
+vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?type=grpc&security=tls&sni=free.ziroxcompany.ir&mode=gun&fp=chrome#GB 🇬🇧 ┇ VLESS-GRPC-TLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.142.122
