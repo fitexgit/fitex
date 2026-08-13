@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.253.188.151:443?type=ws&security=none&path=/?ed=2560security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-NTLS - DePowered Limited ┇ 5.253.188.151
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.253.188.238:443?type=ws&security=none&path=/?ed=2560security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-NTLS - DePowered Limited ┇ 5.253.188.238
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.253.188.151:443?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - DePowered Limited ┇ 5.253.188.151

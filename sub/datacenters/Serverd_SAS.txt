@@ -1,3 +1,6 @@
-vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=tcp&security=none&mode=gun#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Serverd SAS ┇ 193.168.144.46
-vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Serverd SAS ┇ 45.155.169.91
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@0000:0000:0000:0000:0000:ffff:c1a8:902e:443?type=grpc&security=reality&sni=mega.io&mode=gun&fp=chrome&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&sid=07a9a22b#CH 🇨🇭 ┇ VLESS-GRPC-REALITY - Serverd SAS ┇ 0000:0000:0000:0000:0000:ffff:c1a8:902e
+vless://58aec3a8-5d65-4acf-9ed3-f34edf157d68@193.168.145.2:443?type=tcp&security=reality&sni=fr.4cdn.de&fp=firefox&flow=xtls-rprx-vision&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#FR 🇫🇷 ┇ VLESS-TCP-REALITY - Serverd SAS ┇ 193.168.145.2
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlcnZlcmQgU0FTIFx1MjUwNyA0NS4xNTUuMTY5LjE1NCIsImFkZCI6IjQ1LjE1NS4xNjkuMTU0IiwicG9ydCI6MTYzMjIsImlkIjoiMDhkMTY2YzktYjY4Yi00ZTQ2LWM4N2YtZDE2YjU3YTA3NGYxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Serverd SAS ┇ 45.155.169.91
+vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@45.147.97.221:443?type=grpc&security=reality&sni=www.speedtest.net&mode=gun&fp=firefox&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&sid=790d3c76#FR 🇫🇷 ┇ VLESS-GRPC-REALITY - Serverd SAS ┇ 45.147.97.221
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=grpc&security=reality&sni=mega.io&mode=gun&fp=chrome&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&sid=07a9a22b#CH 🇨🇭 ┇ VLESS-GRPC-REALITY - Serverd SAS ┇ 193.168.144.46

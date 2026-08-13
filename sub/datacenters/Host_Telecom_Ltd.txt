@@ -1,2 +1,5 @@
+vless://0e53beb1-75d0-5eaf-b4ad-e1cdaa65a592@45.142.213.112:2052?type=ws&security=none&path=/vless#Telegram@MARAMBASHI#GB 🇬🇧 ┇ VLESS-WS-NTLS - Host Telecom Ltd ┇ 45.142.213.112
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.215.61:443?type=ws&security=tls&path=/?Telegram🇨🇳+@WangCai2=&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#GB 🇬🇧 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 45.142.215.61
+vless://18d896f9-ed21-4773-91ae-f9b05fbdfb8c@45.142.213.51:80?type=ws&security=none&path=/vless&host=lv1.v2vless.xyz#GB 🇬🇧 ┇ VLESS-WS-NTLS - Host Telecom Ltd ┇ 45.142.213.51
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.215.242:8443?type=ws&security=tls&path=/?Telegram🇨🇳+@WangCai2=&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#GB 🇬🇧 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 45.142.215.242
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.215.61:443?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳 @WangCai2&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#GB 🇬🇧 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 45.142.215.61
+vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?type=grpc&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - Host Telecom Ltd ┇ 45.142.213.112

@@ -1,2 +1,3 @@
-vless://ee41be64-5208-4d46-ab1d-f0d333b0a438@144.31.24.49:8443?type=grpc&security=tls&sni=ads.x5.ru&fp=qq#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Alfahost LLC ┇ 144.31.24.49
-vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@144.31.24.84:443?type=tcp&security=reality&sni=st.okcdn.ru&fp=qq&flow=xtls-rprx-vision&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=39a1eb3ec417cd66#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Alfahost LLC ┇ 144.31.24.84
+vless://0d82de91-be9c-4800-b31a-b6dc173f983f@144.31.24.85:8443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Alfahost LLC ┇ 144.31.24.85
+vless://1d6705da-0790-49bf-bf47-b166d2e945cf@144.31.24.84:443?type=tcp&security=reality&sni=st.okcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=39a1eb3ec417cd66#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Alfahost LLC ┇ 144.31.24.84
+vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Alfahost LLC ┇ 144.31.24.89

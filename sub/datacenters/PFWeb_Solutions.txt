@@ -1,2 +1,2 @@
-vless://bf038412-931e-4b18-a6a7-32d09304f333@ge3.pandaonline.org:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - PFWeb Solutions ┇ 5.231.45.200
-vless://00000000-0000-4000-8000-000000000000@5.231.45.46:24443?type=ws&security=tls&path=/@Marisa_kristi&host=mhgzqzcnxpjginc5hkdk.bpd67081tsq.ddns-ip.net#DE 🇩🇪 ┇ VLESS-WS-TLS - PFWeb Solutions ┇ 5.231.45.46
+vless://bf038412-931e-4b18-a6a7-32d09304f333@ge3.pandaonline.org:443?type=tcp&security=reality&sni=ge3.pandaonline.org&fp=firefox&flow=xtls-rprx-vision&pbk=lvFOmvUfAoLa9vgvoAQVrZtCmU-wB-HcmgCU66WCQzc#DE 🇩🇪 ┇ VLESS-TCP-REALITY - PFWeb Solutions ┇ 5.231.45.200
+vless://e04ab105-c05f-49b9-8e6b-4a5f7d34301d@5.231.59.81:443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=W3ezAT8DB8WlL4iaV6E6EdWnts1ihGl7AUf-nvTq2y4&sid=694ee64512cfcaef#DE 🇩🇪 ┇ VLESS-TCP-REALITY - PFWeb Solutions ┇ 5.231.59.81
