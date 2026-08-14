@@ -1,9 +1,4 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpYmVyU3RhdGUsIExMQyBcdTI1MDcgMzguMTQ3LjEwNy4yMTQiLCJhZGQiOiIzOC4xNDcuMTA3LjIxNCIsInBvcnQiOjIzNzcwLCJpZCI6IjZjNTY1MGNkLWFhYWMtNDExMC1mYjM1LWI2NWU3ZGQ0MmI0MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - FiberState, LLC ┇ 155.117.19.221
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@23.166.40.27:443?type=tcp&security=tls&sni=u695099u0660a077s79.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - FiberState, LLC ┇ 23.166.40.27
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@us.janusgate.org:443?type=tcp&security=reality&host=Telegram-NitruVIP&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg#US 🇺🇸 ┇ VLESS-TCP-REALITY - FiberState, LLC ┇ 23.160.56.229
-vless://5efabea4-f6d4-91fd-b8f0-17e004c89c60@node67.lunes.host:3116?type=ws&security=none&path=/@s5gydl&host=node67.lunes.host#US 🇺🇸 ┇ VLESS-WS-NTLS - FiberState, LLC ┇ 38.58.180.136
-vless://d1216260-7488-11ee-b86c-1239d0255272@23.158.72.133:443?type=grpc&security=tls&sni=dash.cloudflare.com&mode=gun#US 🇺🇸 ┇ VLESS-GRPC-TLS - FiberState, LLC ┇ 23.158.72.133
-vless://27d613a0-5136-11f0-8496-1239d0255272@23.158.72.133:443?type=grpc&security=tls&sni=kul01s11-in-f4.1e100.net#US 🇺🇸 ┇ VLESS-GRPC-TLS - FiberState, LLC ┇ 23.158.72.133
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443?type=tcp&security=reality&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=b5MToLVScOCFJ29Ln9kNTKEhbc6Eiqvlv4WFSUU7ZhQ&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-REALITY - FiberState, LLC ┇ 166.0.18.206
 vless://5efabea4-f6d4-91fd-b8f0-17e004c89c68@node67.lunes.host:3087?type=ws&security=none&path=/@s5gydl&host=node67.lunes.host#US 🇺🇸 ┇ VLESS-WS-NTLS - FiberState, LLC ┇ 38.58.180.136
+vless://5efabea4-f6d4-91fd-b8f0-17e004c89c60@38.58.180.136:3116?type=ws&security=none&path=/@s5gydl&host=node67.lunes.host#US 🇺🇸 ┇ VLESS-WS-NTLS - FiberState, LLC ┇ 38.58.180.136

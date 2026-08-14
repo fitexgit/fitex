@@ -1,9 +1,1 @@
-vless://bb35f4b6-17f3-d76b-9a40-9da3e142a7eb@95.156.236.207:1110?type=tcp&security=none&host=kukala.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 95.156.236.207
-vless://8058fd1c-28ca-4e6c-9828-ce7cf4433b5c@134.255.204.17:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 134.255.204.17
-vless://77cacf2f-abf9-4de9-a9fe-c8dbe1d93445@31.214.168.228:29564?type=tcp&security=none&host=fast.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 31.214.168.228
-vless://3ab86b95-b4fe-4226-a9d4-c628e82df099@iran.mikacp.site:57070?type=grpc&security=tls&sni=iran.mikacp.site&mode=gun&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Parsan Lin Co. PJS ┇ 37.228.139.14
-vless://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?type=grpc&security=reality&sni=telewebion.com&mode=gun&fp=firefox&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&sid=16b6cda7ab793526#IR 🇮🇷 ┇ VLESS-GRPC-REALITY - Parsan Lin Co. PJS ┇ 134.255.204.120
-vless://04d533ee-51ba-47cc-a703-6336470898ad@31.214.251.222:443?type=ws&security=tls&path=/8Ku2BGY685PUNtppXQIC9t&sni=mhsang2c3.afsharidempire.uk&host=mhsang2c3.afsharidempire.uk&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Parsan Lin Co. PJS ┇ 31.214.251.222
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQYXJzYW4gTGluIENvLiBQSlMgXHUyNTA3IDE4NS4xOTIuMTE0LjE5MiIsImFkZCI6InRpbWUuaXIiLCJwb3J0Ijo0NDMsImlkIjoibGFzdC11cGRhdGUtdGltZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-vless://8c6e35f3-290e-4b87-ad68-c384cdfac3a1@31.214.250.157:58606?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parsan Lin Co. PJS ┇ 31.214.250.157
-vless://3c580695-bc40-4ce9-92e9-b0eb73cb46e1@walt.1gfind.click:443?type=tcp&security=none&host=aparat.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 185.13.231.68
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQYXJzYW4gTGluIENvLiBQSlMgXHUyNTA3IDE4NS4xOTIuMTEyLjEyMyIsImFkZCI6InRpbWUuaXIiLCJwb3J0Ijo0NDMsImlkIjoibGFzdC11cGRhdGUtdGltZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidGltZS5pciIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoidGltZS5pciJ9
