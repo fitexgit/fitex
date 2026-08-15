@@ -1,8 +1,8 @@
-vless://%40narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/&host=varzesh3.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 85.133.228.198
-vless://575c6f3b-9596-4590-e961-8ee5b23ce590@195.254.165.163:2052?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Parsun Network Solutions PTY LTD ┇ 195.254.165.163
-vless://32f9646d-ca52-439c-ab2c-96838550083c@185.113.10.14:44649?type=ws&security=none&path=/&host=paktloss-production.up.railway.app#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parsun Network Solutions PTY LTD ┇ 185.113.10.14
-vless://@narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/&host=varzesh3.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 85.133.228.198
-vless://2a478693-a06c-4191-999e-0bc05aac64bb@195.254.165.163:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 195.254.165.163
-vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@195.254.165.163:2052?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Parsun Network Solutions PTY LTD ┇ 195.254.165.163
 vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&sid=eaa8#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Parsun Network Solutions PTY LTD ┇ 195.254.165.243
+vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@195.254.165.163:2052?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Parsun Network Solutions PTY LTD ┇ 195.254.165.163
+vless://%40narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/&host=varzesh3.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 85.133.228.198
+vless://32f9646d-ca52-439c-ab2c-96838550083c@185.113.10.14:44649?type=ws&security=none&path=/&host=paktloss-production.up.railway.app#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parsun Network Solutions PTY LTD ┇ 185.113.10.14
 vless://narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/&host=varzesh3.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 85.133.228.198
+vless://2a478693-a06c-4191-999e-0bc05aac64bb@195.254.165.163:2052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 195.254.165.163
+vless://@narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/&host=varzesh3.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsun Network Solutions PTY LTD ┇ 85.133.228.198
+vless://575c6f3b-9596-4590-e961-8ee5b23ce590@195.254.165.163:2052?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Parsun Network Solutions PTY LTD ┇ 195.254.165.163

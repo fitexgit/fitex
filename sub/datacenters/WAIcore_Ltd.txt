@@ -1,6 +1,6 @@
-vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?type=tcp&security=none&host=box.ponisha.ir#BG 🇧🇬 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 87.120.92.135
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?type=tcp&security=reality&path=/Api/AS&mode=auto#BG 🇧🇬 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 87.120.205.76
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=grpc&security=reality&path=/&sni=c.primarymaster.online&fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#CZ 🇨🇿 ┇ VLESS-GRPC-REALITY - WAIcore Ltd ┇ 95.85.233.181
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&mode=gun&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#BG 🇧🇬 ┇ VLESS-GRPC-REALITY - WAIcore Ltd ┇ 87.120.205.207
 vless://99daa633-8998-4f51-931c-9f71fe113137@de1.cenza.cloud:443?type=tcp&security=reality&sni=steamcommunity.com&fp=randomized&flow=xtls-rprx-vision&pbk=DtrZmUl6FG-yOGVepZ8HTLhyOC8FtuJQ1iIvjXMQhzs#CZ 🇨🇿 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 194.87.77.21
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?type=tcp&security=reality&sni=www.google.com&fp=random&flow=xtls-rprx-vision&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&sid=25425ff6fa#DE 🇩🇪 ┇ VLESS-TCP-REALITY - WAIcore Ltd ┇ 213.176.77.65
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&mode=gun&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#BG 🇧🇬 ┇ VLESS-GRPC-REALITY - WAIcore Ltd ┇ 87.120.205.207
+vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?type=tcp&security=none&host=box.ponisha.ir#BG 🇧🇬 ┇ VLESS-TCP-NTLS - WAIcore Ltd ┇ 87.120.92.135

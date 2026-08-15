@@ -1,5 +1,5 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?type=tcp&security=tls&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision-udp443#AR 🇦🇷 ┇ VLESS-TCP-TLS - LIGHT NODE LIMITED ┇ 38.54.45.184
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - LIGHT NODE LIMITED ┇ 38.54.45.129
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.216.11:80?type=ws&security=none&path=/&host=Fastapi.Org#AR 🇦🇷 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 151.101.216.11
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?type=tcp&security=tls&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision-udp443#AR 🇦🇷 ┇ VLESS-TCP-TLS - LIGHT NODE LIMITED ┇ 38.54.45.184
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.33.19.136:2053?type=ws&security=tls&path=/&sni=vpn47.cc.cd&host=vpn47.cc.cd&fp=chrome#AR 🇦🇷 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 149.33.19.136
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
