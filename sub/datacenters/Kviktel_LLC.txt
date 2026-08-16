@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?type=tcp&security=tls&sni=ru104.mechvpn.online&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 45.139.26.104
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?type=tcp&security=reality&sni=www.ya.ru&fp=firefox&flow=xtls-rprx-vision&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&sid=8a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 45.139.27.106
 vless://78eb741d-579e-4738-b647-9a850646060f@rus.noooo.win:8443?type=tcp&security=tls&sni=user-6a7eb845.noooo.win&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 185.147.27.164
-vless://78eb741d-579e-4738-b647-9a850646060f@185.147.27.165:8443?type=tcp&security=tls&sni=user-6a7eb845.noooo.win&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 185.147.27.165
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.63
-vless://c519c16d-e0c7-4533-93e5-23588cd47ccd@511.cdnconn.com:10443?type=grpc&security=reality&sni=max.ru&mode=gun&fp=chrome&pbk=qflDse4yNSmw5uo74Leu1S9lHAcP9ThsanYSkZYSPTs#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Kviktel LLC ┇ 185.147.26.53
+vless://78eb741d-579e-4738-b647-9a850646060f@185.147.27.165:8443?type=tcp&security=tls&sni=user-6a7eb845.noooo.win&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 185.147.27.165
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?type=tcp&security=reality&sni=www.ya.ru&fp=firefox&flow=xtls-rprx-vision&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&sid=8a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Kviktel LLC ┇ 45.139.27.106
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?type=tcp&security=tls&sni=ru104.mechvpn.online&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Kviktel LLC ┇ 45.139.26.104
+vless://c519c16d-e0c7-4533-93e5-23588cd47ccd@511.cdnconn.com:10443?type=grpc&security=reality&sni=max.ru&mode=gun&fp=chrome&pbk=qflDse4yNSmw5uo74Leu1S9lHAcP9ThsanYSkZYSPTs#RU 🇷🇺 ┇ VLESS-GRPC-REALITY - Kviktel LLC ┇ 185.147.26.45
