@@ -1,2 +1,2 @@
-vless://ceb72168-9622-42f5-9c4d-0b83a06d4fd6@mio1.game2lizard.com:2087?type=tcp&security=none&mode=auto#US 🇺🇸 ┇ VLESS-TCP-NTLS - Oshkosh Corporation ┇ 192.206.179.241
-vless://ceb72168-9622-42f5-9c4d-0b83a06d4fd6@mio1.game2lizard.com:2053?type=tcp&security=none&path=/lizard#US 🇺🇸 ┇ VLESS-TCP-NTLS - Oshkosh Corporation ┇ 192.206.179.241
+vless://ceb72168-9622-42f5-9c4d-0b83a06d4fd6@mio1.game2lizard.com:2053?type=ws&security=tls&path=/lizard&sni=liz2.pishi.lat&host=liz2.pishi.lat&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Oshkosh Corporation ┇ 192.206.179.241
+vless://ceb72168-9622-42f5-9c4d-0b83a06d4fd6@mio1.game2lizard.com:2087?type=xhttp&security=tls&sni=nl0.tannexa.ir&host=nl0.tannexa.ir&mode=auto&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Oshkosh Corporation ┇ 192.206.179.241
