@@ -1,19 +1,19 @@
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@27.131.164.85:47121#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - KIRZ Service Provider ┇ 27.131.164.85
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80?type=ws&security=none&path=/&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com#TH 🇹🇭 ┇ VLESS-WS-NTLS - VP InfoTech Co., Ltd. ┇ 143.14.11.236
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@165.101.64.218:8443?type=tcp&security=reality&sni=th.cryptoofarm.com&fp=firefox&flow=xtls-rprx-vision&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&sid=591076636be970d0#TH 🇹🇭 ┇ VLESS-TCP-REALITY - VP InfoTech Co., Ltd. ┇ 165.101.64.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Alibaba (US) Technology Co., Ltd. ┇ 47.81.56.202
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80?type=ws&security=none&path=/&host=Fastapi.Org#TH 🇹🇭 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 199.232.164.11
-vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80?type=ws&security=none&path=/knl8&host=d7iwyzy9wpvuu.cloudfront.net#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 157.85.97.238
-vless://d6c81f6d-24a8-46d9-a3bf-c38d51fc5fe5@171.97.18.114:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=sDH4MlZFHXJB5VR_mfuFNBrQHtptpNK-qj3sot7b1zU&sid=16887c51#TH 🇹🇭 ┇ VLESS-TCP-REALITY - True Online ┇ 171.97.18.114
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?type=tcp&security=none#TH 🇹🇭 ┇ VLESS-TCP-NTLS - LIGHT NODE LIMITED ┇ 38.54.33.177
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws#TH 🇹🇭 ┇ VLESS-WS-NTLS - Bangmod Enterprise Co., Ltd. ┇ 103.86.49.57
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=raw&security=reality&sni=www.primevideo.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#TH 🇹🇭 ┇ VLESS-RAW-REALITY - Alibaba (US) Technology Co., Ltd. ┇ 47.81.35.108
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - POPIDC powered by CSLoxinfo ┇ 43.254.132.220
 vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&sid=e3b9f430320df1#TH 🇹🇭 ┇ VLESS-TCP-REALITY - Scloud Pte Ltd ┇ 165.154.247.187
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@27.131.164.85:47121#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - KIRZ Service Provider ┇ 27.131.164.85
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.87.65.216:443?type=tcp&security=reality&sni=api.digital-help-prd.autodesk.com&fp=random&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#TH 🇹🇭 ┇ VLESS-TCP-REALITY - Alibaba (US) Technology Co., Ltd. ┇ 47.87.65.216
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.136.253.123
+vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80?type=ws&security=none&path=/knl8&host=d7iwyzy9wpvuu.cloudfront.net#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 157.85.97.238
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80?type=ws&security=none&path=/&host=Fastapi.Org#TH 🇹🇭 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 199.232.164.11
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80?type=ws&security=none&path=/&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com#TH 🇹🇭 ┇ VLESS-WS-NTLS - VP InfoTech Co., Ltd. ┇ 143.14.11.236
+vless://d6c81f6d-24a8-46d9-a3bf-c38d51fc5fe5@171.97.18.114:8443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=sDH4MlZFHXJB5VR_mfuFNBrQHtptpNK-qj3sot7b1zU&sid=16887c51#TH 🇹🇭 ┇ VLESS-TCP-REALITY - True Online ┇ 171.97.18.114
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@157.85.105.179:80?type=ws&security=none&path=/&sni=d2pwbkmfr5lxa4.cloudfront.net&host=d2pwbkmfr5lxa4.cloudfront.net#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 157.85.105.179
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?type=ws&security=none&path=/ws&host=aIs.SpEeDtEsT.nEt#TH 🇹🇭 ┇ VLESS-WS-NTLS - Bangmod Enterprise Co., Ltd. ┇ 116.206.124.228
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.136.253.123
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - POPIDC powered by CSLoxinfo ┇ 43.254.132.220
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.87.65.216:443?type=tcp&security=reality&sni=api.digital-help-prd.autodesk.com&fp=random&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#TH 🇹🇭 ┇ VLESS-TCP-REALITY - Alibaba (US) Technology Co., Ltd. ┇ 47.87.65.216
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws#TH 🇹🇭 ┇ VLESS-WS-NTLS - Bangmod Enterprise Co., Ltd. ┇ 103.86.49.57
+vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?type=tcp&security=none#TH 🇹🇭 ┇ VLESS-TCP-NTLS - LIGHT NODE LIMITED ┇ 38.54.33.177
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?type=tcp&security=reality&sni=th.cryptoofarm.com&fp=firefox&flow=xtls-rprx-vision&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&sid=591076636be970d0#TH 🇹🇭 ┇ VLESS-TCP-REALITY - VP InfoTech Co., Ltd. ┇ 165.101.64.150
 vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?type=tcp&security=none#TH 🇹🇭 ┇ VLESS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 157.85.102.28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - 453 Ladplacout Jorakhaebua ┇ 119.59.98.58
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?type=tcp&security=reality&sni=th.cryptoofarm.com&fp=firefox&flow=xtls-rprx-vision&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&sid=591076636be970d0#TH 🇹🇭 ┇ VLESS-TCP-REALITY - VP InfoTech Co., Ltd. ┇ 165.101.64.150
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.35.108:443?type=raw&security=reality&sni=www.primevideo.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#TH 🇹🇭 ┇ VLESS-RAW-REALITY - Alibaba (US) Technology Co., Ltd. ┇ 47.81.35.108
