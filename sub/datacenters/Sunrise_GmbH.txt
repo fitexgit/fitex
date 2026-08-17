@@ -1,1 +1,1 @@
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@194.147.173.116:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top&host=vod.ensf.top&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-TLS - Sunrise GmbH ┇ 194.147.173.116
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@194.147.173.116:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Sunrise GmbH ┇ 194.147.173.116
