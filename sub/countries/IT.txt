@@ -1,116 +1,115 @@
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
-vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?type=ws&security=none&path=WEDBAZ?ed=2048&host=Germandiginoe.com#IT 🇮🇹 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 151.101.242.172
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.68
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
-vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?type=xhttp&security=reality&path=/api/v1/stream/?@mehrosaboran?ed=2048&sni=play.google.com&mode=packet-up&fp=chrome&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&sid=5f9a#IT 🇮🇹 ┇ VLESS-XHTTP-REALITY - OVH SAS ┇ 57.131.42.58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.233
-vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none&host=account.xiaomi.com#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Kamatera, Inc. ┇ 185.47.172.174
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 103.241.66.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.194.61
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@2a14:7584:4408::2:443?type=tcp&security=tls&sni=u691611u8adcedd7s8746.gogocs.xyz&host=8adcedd7s8746.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - LAKENETWORKS ┇ 2a14:7584:4408::2
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@185.213.20.133:443?type=tcp&security=reality&sni=it.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#IT 🇮🇹 ┇ VLESS-TCP-REALITY - BrainStorm Network, Inc ┇ 185.213.20.133
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.188
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.200
-vless://423db61e-56dd-4dc3-a9d1-a7e142f78dcc@4aritv5tbbf0.dop999.com:14988?type=tcp&security=reality&sni=video-api.sapi.yahoo.com&fp=chrome&pbk=ftOGvoZHzXt7gMz5g_g5LlKqsKZl4ZpTUGuueWuDpWc&sid=1ae504a756#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.19.26
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.116
+ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18760#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - INCUBATEC GmbH - Srl ┇ 84.33.193.79
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.221
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.214
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.51
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1ZIIFNBUyBcdTI1MDcgNTcuMTMxLjM1LjI0MyIsImFkZCI6IjU3LjEzMS4zNS4yNDMiLCJwb3J0Ijo0NDMsImlkIjoiOGY5MzkxZWQtZmVkZS00ZWU2LWI3YzItODlkMDkzOTU0NWJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.167
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.190
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 204.216.216.23
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBWaWFub3ZhIFMucC5BIFx1MjUwNyAxMDkuMTIyLjIwOC4yMDUiLCJhZGQiOiIxMDkuMTIyLjIwOC4yMDUiLCJwb3J0Ijo0ODM3NywiaWQiOiIyMTc0NWJmZS1lZjRkLTRlNjEtYzE0Mi05N2I0ODQ4ZmRjMTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.76
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.38.163
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:443?type=tcp&security=reality&sni=free-exp.kyras.pw&fp=firefox&flow=xtls-rprx-vision&pbk=xRD8N2qL8TcYKc7iQQuaqoZS_2dYsiNRmL3CdW8ZtgM&sid=8f2ffff1b0a3e4f7#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.20
-vless://GKVCVNnu@151.101.242.172:80?type=xhttp&security=none&host=sdarkrd.global.ssl.fastly.net&mode=auto#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - Fastly, Inc. ┇ 151.101.242.172
-vless://6f719ff5-cb04-4e94-b982-0bd94ba49d94@ita.montago-shop.ir:443?type=tcp&security=reality&sni=us.demonware.net&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.22.97
-vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@it.morinsq.su:443?type=tcp&security=reality&sni=it.morinsq.su&fp=chrome&pbk=D3qByJ6qqJd5phYkfAtJpBqAhSb8VHPax1ZhvI3ZKEE&sid=96e380212691bba8#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.78
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.93
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@italy.funvideorus.net:443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.64
-vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80?type=ws&security=none&path=/containers/fi&host=EtZM4uyEwUnSfh.com#IT 🇮🇹 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 146.75.55.82
-vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 72.146.184.66
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - SEEWEB s.r.l. ┇ 95.174.23.218
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.120
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.48
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBbw@195.231.87.172:103#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aruba S.p.A. ┇ 195.231.87.172
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.27.178:1080#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.128.27.178
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.6
-vless://c52d4d8b-57ba-4875-a00f-2908cfcd54d3@ita.montago-shop.ir:443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.22.97
-vless://1c82f022-513e-4f30-8cd8-eb548611752a@ita.montago-shop.ir:443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.22.97
+vless://GKVCVNnu@151.101.242.172:80?type=xhttp&security=none&host=sdarkrd.global.ssl.fastly.net&mode=auto#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - Fastly, Inc. ┇ 151.101.242.172
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.75:443?type=tcp&security=reality&sni=it.savesafe.cc&fp=firefox&flow=xtls-rprx-vision&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78#IT 🇮🇹 ┇ VLESS-TCP-REALITY - XeniaGroup SRL ┇ 37.202.205.75
-vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@45.196.215.241:8443?type=tcp&security=reality&path=/&sni=www.cloudflare.com&host=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=QV00KqkkTfpOq_smbzj5ywYWNykPUe_LArIF6bwOk2k&sid=629b1c1cbbd0cd26#IT 🇮🇹 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 45.196.215.241
-vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?type=xhttp&security=none&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&sni=global.ssl.fastly.net&host=sharkrt.global.ssl.fastly.net&mode=auto&fp=chrome#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - Fastly, Inc. ┇ 151.101.242.172
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.167
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.197
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.233
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca39.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.59
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.43
+hysteria2://0ansucp5k6aop125@185.47.172.226:32950?sni=185.47.172.226&insecure=0&obfs=salamander#IT 🇮🇹 ┇ HYSTERIA2-TCP-NTLS - Kamatera, Inc. ┇ 185.47.172.226
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?type=tcp&security=reality&sni=it.savesafe.cc&fp=firefox&flow=xtls-rprx-vision&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78#IT 🇮🇹 ┇ VLESS-TCP-REALITY - XeniaGroup SRL ┇ 37.202.205.70
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Baxet Group Inc. ┇ 194.87.47.204
+vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@141.227.140.218:3037?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 141.227.140.218
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.117
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.63
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca19.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.43
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@2a14:7584:4408::2:443?type=tcp&security=tls&sni=u691611u8adcedd7s8746.gogocs.xyz&host=8adcedd7s8746.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - LAKENETWORKS ┇ 2a14:7584:4408::2
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@2a14:7584:4408::2:443?type=tcp&security=tls&sni=u695099u8adcedd7s8746.gogocs.xyz&host=8adcedd7s8746.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - LAKENETWORKS ┇ 2a14:7584:4408::2
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.152
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.68
+vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@45.196.215.241:8443?type=tcp&security=reality&path=/&sni=www.cloudflare.com&host=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=QV00KqkkTfpOq_smbzj5ywYWNykPUe_LArIF6bwOk2k&sid=629b1c1cbbd0cd26#IT 🇮🇹 ┇ VLESS-TCP-REALITY - AKILE LTD ┇ 45.196.215.241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@2600:3c0b::f03c:95ff:fe91:d3ba:8080#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 2600:3c0b::f03c:95ff:fe91:d3ba
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.36
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - SEEWEB s.r.l. ┇ 95.174.23.218
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.27.178:1080#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 185.128.27.178
+vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@it.morinsq.su:443?type=tcp&security=reality&sni=it.morinsq.su&fp=chrome&pbk=D3qByJ6qqJd5phYkfAtJpBqAhSb8VHPax1ZhvI3ZKEE&sid=96e380212691bba8#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.78
+vless://921db318-1694-4408-9cc7-c93df39f7f8e@185.213.20.133:443?type=tcp&security=reality&sni=it.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#IT 🇮🇹 ┇ VLESS-TCP-REALITY - BrainStorm Network, Inc ┇ 185.213.20.133
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.173
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@216.106.191.151:13868?type=tcp&security=reality&sni=www.roblox.com&fp=firefox&flow=xtls-rprx-vision&pbk=Z4ACfr0IRkMbW0-pJKS08CRhYl56DWHQBb63-pXBa3A&sid=e852dc#IT 🇮🇹 ┇ VLESS-TCP-REALITY - GTHost ┇ 216.106.191.151
+vless://56c04341-2180-4e1f-9646-cdeb79cbbbad@188.213.165.231:8585?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 188.213.165.231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 103.241.66.76
+vless://b3051b10-716d-455b-9811-aefcce3d633e@57.131.32.191:80?type=ws&security=none&path=/vless/&host=ov-italy1.09vpn.com#IT 🇮🇹 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.131.32.191
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@216.106.191.151:13868?type=tcp&security=reality&sni=www.roblox.com&fp=firefox&flow=xtls-rprx-vision&pbk=Z4ACfr0IRkMbW0-pJKS08CRhYl56DWHQBb63-pXBa3A&sid=e852dc#IT 🇮🇹 ┇ VLESS-TCP-REALITY - GTHost ┇ 216.106.191.151
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.21
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@italy.funvideorus.net:443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.64
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDIxNy4xMzguMTk3LjE3MSIsImFkZCI6IjIxNy4xMzguMTk3LjE3MSIsInBvcnQiOjQ0MywiaWQiOiI0MzVjOTc4ZS0yZjQ4LTQxOTQtOGQwNC0zOGNjNzlhMjQ0MjEiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
 vless://tell--ZEDMODEON@146.75.54.228:443?type=ws&security=tls&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&sni=zmaoz.faculty.ucdavis.edu&host=irantvto.ir#IT 🇮🇹 ┇ VLESS-WS-TLS - Fastly, Inc. ┇ 146.75.54.228
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.233
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?sni=185.47.172.226&insecure=0&obfs=salamander#IT 🇮🇹 ┇ HYSTERIA2-TCP-NTLS - Kamatera, Inc. ┇ 185.47.172.226
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca36.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.86
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@91.193.5.112:1080#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 91.193.5.112
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.129
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@213.218.212.4:443?type=raw&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#IT 🇮🇹 ┇ VLESS-RAW-REALITY - Serva One Ltd ┇ 213.218.212.4
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.36
-vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@juventusoldhag.belzema.ir:7006?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.16.242
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?type=ws&security=tls&path=/vless/&sni=ov-italy1.09vpn.com&host=ov-italy1.09vpn.com#IT 🇮🇹 ┇ VLESS-WS-TLS - OVH SAS ┇ 57.131.32.191
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@141.227.140.218:3037?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 141.227.140.218
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca39.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.59
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.26
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
-vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@2a14:7584:4408::2:443?type=tcp&security=tls&sni=u643766u757d49e4s8746.gogocs.xyz&host=757d49e4s8746.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - LAKENETWORKS ┇ 2a14:7584:4408::2
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?type=ws&security=none&path=/vless/&host=OV-Italy1.09vpn.com&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.131.32.191
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.174
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.221
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.190
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.129
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.228
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.110
-ss://YWVzLTI1Ni1nY206Ykk1MVVjN0NMNg@50.114.159.250:6666#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - TELECOM ITALIA SPARKLE S.p.A. ┇ 50.114.159.250
+vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?type=ws&security=none&path=WEDBAZ?ed=2048&host=Germandiginoe.com#IT 🇮🇹 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 151.101.242.172
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 vless://1bdb202e-b99b-4ff8-b81c-c732645e0703@fardad-it.football-player.ir:6800?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.17.155
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.43:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.43
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?type=ws&security=none&path=WEDBAZ?ed=2048&host=Germany.ss.ss#IT 🇮🇹 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 151.101.242.172
-vless://b3051b10-716d-455b-9811-aefcce3d633e@57.131.32.191:80?type=ws&security=none&path=/vless/&host=ov-italy1.09vpn.com#IT 🇮🇹 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.131.32.191
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.249
-vless://56c04341-2180-4e1f-9646-cdeb79cbbbad@188.213.165.231:8585?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Aruba S.p.A. ┇ 188.213.165.231
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@2a14:7584:4408::2:443?type=tcp&security=tls&sni=u695099u8adcedd7s8746.gogocs.xyz&host=8adcedd7s8746.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - LAKENETWORKS ┇ 2a14:7584:4408::2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.214
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.167
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 57.131.28.246
-vless://6068d9ac-d712-4558-8919-222714bc9d00@fardad-it.safire-soleiman.ir:6800?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.17.155
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.178
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?type=grpc&security=reality&sni=dash.cloudflare.com&mode=gun&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 185.247.184.147
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@216.106.191.151:13868?type=tcp&security=reality&sni=www.roblox.com&fp=firefox&flow=xtls-rprx-vision&pbk=Z4ACfr0IRkMbW0-pJKS08CRhYl56DWHQBb63-pXBa3A&sid=e852dc#IT 🇮🇹 ┇ VLESS-TCP-REALITY - GTHost ┇ 216.106.191.151
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.165.172
 vless://c8a71f9b-692d-4916-ad73-f070ac00257f@141.227.140.214:2030?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - OVH SAS ┇ 141.227.140.214
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@2600:3c0b::f03c:95ff:fe91:d3ba:8080#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 2600:3c0b::f03c:95ff:fe91:d3ba
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.134
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Baxet Group Inc. ┇ 194.87.47.204
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.21
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 147.45.51.30
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca19.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.43
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.60
-vless://5d2679fd-7320-4474-ac47-57adb5c99e66@it.zarqivo.ir:2083?type=xhttp&security=reality&path=/&sni=play.googleapis.com&mode=auto&fp=chrome&pbk=lzAsZbFKsDtyUqGG4ShxyK5fbUuQrsoEMohG1Xg3KRM&sid=4994a3ebb255ebc9#IT 🇮🇹 ┇ VLESS-XHTTP-REALITY - Kamatera, Inc. ┇ 185.47.172.221
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18760#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - INCUBATEC GmbH - Srl ┇ 84.33.193.79
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?type=grpc&security=reality&sni=360.yandex.ru&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Akenai Products LTD ┇ 31.77.154.46
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?type=tcp&security=reality&sni=it.savesafe.cc&fp=firefox&flow=xtls-rprx-vision&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78#IT 🇮🇹 ┇ VLESS-TCP-REALITY - XeniaGroup SRL ┇ 37.202.205.70
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.131
-vless://8db764be-f144-4df0-ae5d-21d5f2551290@md.gilangard.ir:11431?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=-mmOMxUx52Rj14VuE5fhlsvh7qt5WT9WEZy5LQlnSDc&sid=d8de8785395c206b#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.19.139
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Oracle Corporation ┇ 204.216.216.23
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.178
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.228
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.37
-vless://fa98f221-29e1-4a7e-8797-3bf294aeda35@31.77.154.46:443?type=grpc&security=reality&sni=360.yandex.ru&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Akenai Products LTD ┇ 31.77.154.46
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.48
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.6
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.134
+ss://YWVzLTI1Ni1nY206Ykk1MVVjN0NMNg@50.114.159.250:6666#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - TELECOM ITALIA SPARKLE S.p.A. ┇ 50.114.159.250
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@213.218.212.4:443?type=raw&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#IT 🇮🇹 ┇ VLESS-RAW-REALITY - Serva One Ltd ┇ 213.218.212.4
+vless://423db61e-56dd-4dc3-a9d1-a7e142f78dcc@4aritv5tbbf0.dop999.com:14988?type=tcp&security=reality&sni=video-api.sapi.yahoo.com&fp=chrome&pbk=ftOGvoZHzXt7gMz5g_g5LlKqsKZl4ZpTUGuueWuDpWc&sid=1ae504a756#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.19.26
 vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Kamatera, Inc. ┇ 185.47.172.105
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Baxet Group Inc. ┇ 194.87.47.162
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@216.106.191.151:13868?type=tcp&security=reality&sni=www.roblox.com&fp=firefox&flow=xtls-rprx-vision&pbk=Z4ACfr0IRkMbW0-pJKS08CRhYl56DWHQBb63-pXBa3A&sid=e852dc#IT 🇮🇹 ┇ VLESS-TCP-REALITY - GTHost ┇ 216.106.191.151
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyA1Ny4xMzEuMzIuMTkxIiwiYWRkIjoiNTcuMTMxLjMyLjE5MSIsInBvcnQiOjg0NDMsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoidGxzIiwic25pIjoiT1YtSXRhbHkxLjA5dnBuLmNvbSJ9
-ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.120
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1ZIIFNBUyBcdTI1MDcgNTcuMTMxLjM1LjI0MyIsImFkZCI6IjU3LjEzMS4zNS4yNDMiLCJwb3J0Ijo0NDMsImlkIjoiOGY5MzkxZWQtZmVkZS00ZWU2LWI3YzItODlkMDkzOTU0NWJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 204.216.216.23
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.110
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.126
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?type=ws&security=none&path=WEDBAZ?ed=2048&host=Germany.ss.ss#IT 🇮🇹 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 151.101.242.172
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.174
+vless://6f719ff5-cb04-4e94-b982-0bd94ba49d94@ita.montago-shop.ir:443?type=tcp&security=reality&sni=us.demonware.net&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.22.97
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.165.172
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.249
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?type=xhttp&security=none&path=/Beraghsa&host=MoenTechProxy.global.ssl.fastly.net#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - Fastly, Inc. ┇ 151.101.242.172
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?type=grpc&security=reality&sni=dash.cloudflare.com&mode=gun&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Global Connectivity Solutions Llp ┇ 185.247.184.147
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 147.45.51.30
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&security=none&path=/vless/&host=OV-Italy1.09vpn.com&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.131.32.191
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?type=ws&security=none&path=/vless/&host=OV-Italy1.09vpn.com&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-NTLS - OVH SAS ┇ 57.131.32.191
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.38.163
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca36.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.86
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.126
+vless://6068d9ac-d712-4558-8919-222714bc9d00@fardad-it.safire-soleiman.ir:6800?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.17.155
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.129
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@2a14:7584:4408::2:443?type=tcp&security=tls&sni=u643766u757d49e4s8746.gogocs.xyz&host=757d49e4s8746.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#IT 🇮🇹 ┇ VLESS-TCP-TLS - LAKENETWORKS ┇ 2a14:7584:4408::2
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80?type=ws&security=none&path=/containers/fi&host=EtZM4uyEwUnSfh.com#IT 🇮🇹 ┇ VLESS-WS-NTLS - Fastly, Inc. ┇ 146.75.55.82
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.60
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 57.131.28.246
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.116
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.167
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.110
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.76
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.197
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:443?type=tcp&security=reality&sni=free-exp.kyras.pw&fp=firefox&flow=xtls-rprx-vision&pbk=xRD8N2qL8TcYKc7iQQuaqoZS_2dYsiNRmL3CdW8ZtgM&sid=8f2ffff1b0a3e4f7#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@91.193.5.112:1080#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 91.193.5.112
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 38.180.194.61
+vless://c52d4d8b-57ba-4875-a00f-2908cfcd54d3@ita.montago-shop.ir:443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.22.97
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?type=xhttp&security=reality&path=/api/v1/stream&sni=play.google.com&mode=packet-up&fp=chrome&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&sid=5f9a#IT 🇮🇹 ┇ VLESS-XHTTP-REALITY - OVH SAS ┇ 57.131.42.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 193.168.175.56
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDIxNy4xMzguMTk3LjE3MSIsImFkZCI6IjIxNy4xMzguMTk3LjE3MSIsInBvcnQiOjQ0MywiaWQiOiI0MzVjOTc4ZS0yZjQ4LTQxOTQtOGQwNC0zOGNjNzlhMjQ0MjEiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.51
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.63
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.200
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.1
+vless://1c82f022-513e-4f30-8cd8-eb548611752a@ita.montago-shop.ir:443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.22.97
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Oracle Corporation ┇ 204.216.216.23
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPVkggU0FTIFx1MjUwNyA1Ny4xMzEuMzIuMTkxIiwiYWRkIjoiNTcuMTMxLjMyLjE5MSIsInBvcnQiOjg0NDMsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoidGxzIiwic25pIjoiT1YtSXRhbHkxLjA5dnBuLmNvbSJ9
+vless://fa98f221-29e1-4a7e-8797-3bf294aeda35@31.77.154.46:443?type=grpc&security=reality&sni=360.yandex.ru&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Akenai Products LTD ┇ 31.77.154.46
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.131
+vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none&host=account.xiaomi.com#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Kamatera, Inc. ┇ 185.47.172.174
+vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?type=xhttp&security=none&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&sni=global.ssl.fastly.net&host=sharkrt.global.ssl.fastly.net&mode=auto&fp=chrome#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - Fastly, Inc. ┇ 151.101.242.172
+vless://5d2679fd-7320-4474-ac47-57adb5c99e66@it.zarqivo.ir:2083?type=xhttp&security=reality&path=/&sni=play.googleapis.com&mode=auto&fp=chrome&pbk=lzAsZbFKsDtyUqGG4ShxyK5fbUuQrsoEMohG1Xg3KRM&sid=4994a3ebb255ebc9#IT 🇮🇹 ┇ VLESS-XHTTP-REALITY - Kamatera, Inc. ┇ 185.47.172.221
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Baxet Group Inc. ┇ 194.87.47.162
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?type=grpc&security=none&mode=gun#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.167.188
+vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@juventusoldhag.belzema.ir:7006?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE#IT 🇮🇹 ┇ VLESS-TCP-REALITY - OVH SAS ┇ 57.131.16.242
+vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?type=grpc&security=reality&sni=360.yandex.ru&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2#IT 🇮🇹 ┇ VLESS-GRPC-REALITY - Akenai Products LTD ┇ 31.77.154.46
+vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Microsoft Corporation ┇ 72.146.184.66
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.110
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?type=tcp&security=reality&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#IT 🇮🇹 ┇ VLESS-TCP-REALITY - Akenai Products LTD ┇ 31.76.113.26
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.166.93
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Scaleway SAS ┇ 151.115.164.129
