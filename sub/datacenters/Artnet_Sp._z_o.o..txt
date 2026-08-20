@@ -1,5 +1,5 @@
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@194.15.196.66:5004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.66
-vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443?type=tcp&security=tls&sni=tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Artnet Sp. z o.o. ┇ 38.180.50.4
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@178.255.45.189:43893#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 178.255.45.189
-vless://38cc34e9-9973-439c-b61b-3d89b798d571@tutdesignstudio.site:8443?type=tcp&security=tls&fp=firefox&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Artnet Sp. z o.o. ┇ 38.180.50.4
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@38.180.50.4:8443?type=tcp&security=tls&sni=tutdesignstudio.site&fp=edge&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Artnet Sp. z o.o. ┇ 38.180.50.4
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBcnRuZXQgU3AuIHogby5vLiBcdTI1MDcgMTk0LjE1LjE5Ni4xNzIiLCJhZGQiOiIxOTQuMTUuMTk2LjE3MiIsInBvcnQiOjQ0MywiaWQiOiI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
+vless://38cc34e9-9973-439c-b61b-3d89b798d571@38.180.50.4:8443?type=tcp&security=tls&sni=tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Artnet Sp. z o.o. ┇ 38.180.50.4
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@178.255.45.189:43893#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 178.255.45.189

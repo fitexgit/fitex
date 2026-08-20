@@ -1,4 +1,4 @@
-vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.229
 vless://6670c88f-5c7e-4943-9a64-db673dfbd404@2.144.4.240:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.240
-vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?type=tcp&security=tls&sni=api.bgp6.ir&host=api.bgp6.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.22.87
 vless://b47a1c70-d033-4c31-b24f-6058d6cd04bf@2.144.26.237:9443?type=ws&security=tls&path=/nova-geo-psiphon-be&sni=vip.polnejat.ir&host=vip.polnejat.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Cell Service and Communication Company ┇ 2.144.26.237
+vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?type=tcp&security=tls&sni=api.bgp6.ir&host=api.bgp6.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.22.87
+vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.229
