@@ -1,3 +1,4 @@
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3VkaWUgTGltaXRlZCBcdTI1MDcgMTg1LjIwNy4xNTUuMTIzIiwiYWRkIjoiMTg1LjIwNy4xNTUuMTIzIiwicG9ydCI6Mzk5NDksImlkIjoiMDg5OWIyM2QtZmJkMi00MmI4LThlNDgtYjA1N2NmNDVlMjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-NTLS - Cloudie Limited ┇ 103.118.252.45
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.242.2.214:8443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com&host=rubifen.adaspoloandco.com&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloudie Limited ┇ 103.242.2.214
+vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-NTLS - Cloudie Limited ┇ 103.118.252.45
+vless://3979cfac-7f7b-3dcf-a4e4-513eb8d125a7@family.bucket.6.kfc-520.com:10019?type=tcp&security=reality&path=/&sni=www.sap.com&host=www.sap.com&fp=firefox&flow=xtls-rprx-vision&pbk=pqXjD4or04GC_CbVnjNLFhJkfxcIXSAbxzLsBad2TCI&sid=6b4135b5fd#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Cloudie Limited ┇ 103.231.15.195
