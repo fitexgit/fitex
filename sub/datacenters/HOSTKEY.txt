@@ -1,3 +1,4 @@
-vless://139aa859-0297-4235-82fb-41678653978e@205.172.59.52:33843?type=grpc&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=RA9NH_qGC2s6M4qRsEcTal72R407pHOo6xL5d9FhTQ0&sid=316dda#US 🇺🇸 ┇ VLESS-GRPC-REALITY - HOSTKEY ┇ 205.172.59.52
+vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - HOSTKEY ┇ 80.209.242.219
 vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@80.209.242.219:8443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&fp=firefox&pbk=JSuGjKCO2qkvNLP6jiMgIzlYhFrtkil7Iv2OP9ukegc&sid=09b62e27761e80a9#US 🇺🇸 ┇ VLESS-TCP-REALITY - HOSTKEY ┇ 80.209.242.219
+vless://139aa859-0297-4235-82fb-41678653978e@205.172.59.52:33843?type=grpc&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=RA9NH_qGC2s6M4qRsEcTal72R407pHOo6xL5d9FhTQ0&sid=316dda#US 🇺🇸 ┇ VLESS-GRPC-REALITY - HOSTKEY ┇ 205.172.59.52
 vless://bbba2d10-b617-404c-a29a-cc2d29386fbf@162.120.19.101:8443?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=HL1U3jw23O3wBvulaidUQYJkgO7CMTxH2ho5qghcTFw&sid=b2cb6902574ef0#US 🇺🇸 ┇ VLESS-TCP-REALITY - HOSTKEY ┇ 162.120.19.101
