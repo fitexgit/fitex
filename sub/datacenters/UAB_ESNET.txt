@@ -1,5 +1,1 @@
-vless://a5d6f241-6eb8-4439-8e4f-8d5e895df595@185.80.130.25:443?type=ws&security=tls&path=/ws&sni=185.80.130.25&host=185.80.130.25&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - UAB ESNET ┇ 185.80.130.25
-vless://d028f1bd-d358-43b8-a08e-97a08cffe82a@185.80.130.25:35668?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB ESNET ┇ 185.80.130.25
-vless://29a37011-532c-48ec-ba2b-d573948b6c7f@185.80.130.25:23190?type=ws&security=none&path=/ws&host=185.80.130.25#LT 🇱🇹 ┇ VLESS-WS-NTLS - UAB ESNET ┇ 185.80.130.25
-vless://8ffceee1-545a-4a55-b771-d58a16acd01d@185.80.130.25:23190?type=ws&security=none&path=/ws&host=185.80.130.25#LT 🇱🇹 ┇ VLESS-WS-NTLS - UAB ESNET ┇ 185.80.130.25
-vless://434ff06d-304d-4979-a60c-55cc27d19e82@185.80.130.25:35668?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - UAB ESNET ┇ 185.80.130.25
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@185.80.128.115:8443?type=ws&security=tls&path=/pg/10086-dfc816f117c49173&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-TLS - UAB ESNET ┇ 185.80.128.115
