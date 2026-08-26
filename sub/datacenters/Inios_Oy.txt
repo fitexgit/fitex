@@ -1,3 +1,3 @@
+vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?type=grpc&security=none#FI 🇫🇮 ┇ VLESS-GRPC-NTLS - Inios Oy ┇ 141.0.184.113
 vless://1156d5bd-5e86-4d83-93ff-a40ffd8d18b5@163.5.153.155:443?type=tcp&security=reality&sni=163-5-153-155.cdn-one.org&fp=firefox&flow=xtls-rprx-vision&pbk=THV6UE0GWSkqKIjdRA91mtlXGlEr0T8hHqj7dWZ-Xnk&sid=87668dfdf96ae2c5#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 163.5.153.155
 vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&sid=a91045bc#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 163.5.153.153
-vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?type=grpc&security=none#FI 🇫🇮 ┇ VLESS-GRPC-NTLS - Inios Oy ┇ 141.0.184.113
