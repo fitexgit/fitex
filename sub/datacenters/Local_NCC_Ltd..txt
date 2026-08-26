@@ -1,12 +1,3 @@
-vless://3e1fccbe-d8f3-4dd5-871e-1e57962a306b@77.91.123.74:443?type=ws&security=tls&path=/vless&sni=shop.globe.com.ph&host=77.91.123.74#NL 🇳🇱 ┇ VLESS-WS-TLS - Local NCC Ltd. ┇ 77.91.123.74
-vless://27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&security=none&path=/vless#@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi#DE 🇩🇪 ┇ VLESS-WS-NTLS - Local NCC Ltd. ┇ 77.91.101.131
-vless://1e2c0b2f-bc2c-595a-93e5-2579e980e530@77.91.100.41:443?type=ws&security=tls&path=/vless&sni=zula.ir&host=77.91.100.41&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Local NCC Ltd. ┇ 77.91.100.41
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?type=grpc&security=none&mode=gun#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Local NCC Ltd. ┇ 77.91.123.207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YVJNMVUyUUl1MVVrcllJRHRHZUR5@77.91.123.173:18332#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Local NCC Ltd. ┇ 77.91.123.173
-vless://2f581cf2-a54e-4e34-bd59-2d6299b7635c@185.69.123.208:443?type=grpc&security=reality&sni=www.google.com&fp=firefox&pbk=S-oJqJO0OPyHjA-VZL6x2JZt7hr60lQ0QSdD1SGTUEc&sid=eaafc13e#FI 🇫🇮 ┇ VLESS-GRPC-REALITY - Local NCC Ltd. ┇ 185.69.123.208
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:443?type=ws&security=tls&path=/#DE 🇩🇪 ┇ VLESS-WS-TLS - Local NCC Ltd. ┇ 77.91.101.228
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2g1YW9RZGNYMG5aWENBSDV5Rjc1@77.91.101.132:43458#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Local NCC Ltd. ┇ 77.91.101.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaa3luRlg1ZVNhRTBZdXNGOGpYZ3FR@77.91.123.173:18332#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Local NCC Ltd. ┇ 77.91.123.173
-vless://34eaf2f3-894f-472e-a36c-0e08a30f0829@185.199.198.182:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Local NCC Ltd. ┇ 185.199.198.182
-vless://2f581cf2-a54e-4e34-bd59-2d6299b7635c@185.69.121.172:443?type=grpc&security=reality&sni=www.google.com&fp=firefox&pbk=LfJMz-WmOH2EE_XUXFG-xpzG_buK8FoTEVboV5aveFI&sid=5163a717#FI 🇫🇮 ┇ VLESS-GRPC-REALITY - Local NCC Ltd. ┇ 185.69.121.172
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?type=ws&security=tls&path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#DE 🇩🇪 ┇ VLESS-WS-TLS - Local NCC Ltd. ┇ 77.91.101.201
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:443?type=ws&security=tls&path=/#DE 🇩🇪 ┇ VLESS-WS-TLS - Local NCC Ltd. ┇ 77.91.101.228
