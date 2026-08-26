@@ -1,2 +1,1 @@
-vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@170.168.7.252:443?type=tcp&security=tls&sni=cloudflare.dns.xn--q9jyb4c&fp=chrome#KM 🇰🇲 ┇ VLESS-TCP-TLS - Cloudflare, Inc. ┇ 170.168.7.252
-vless://82ef9d5e-eba6-4ce6-9dea-d296d0ff495d@170.168.7.252:443?type=ws&security=tls&path=/Telegram-Channel--Masir-Sefid&sni=vps.masir-sefid-4.shop&host=vps.masir-sefid-4.shop&fp=chrome#KM 🇰🇲 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 170.168.7.252
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@170.168.7.63:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c&host=cloudflare.dns.xn--q9jyb4c&mode=packet-up&fp=chrome#KM 🇰🇲 ┇ VLESS-XHTTP-TLS - Cloudflare, Inc. ┇ 170.168.7.63

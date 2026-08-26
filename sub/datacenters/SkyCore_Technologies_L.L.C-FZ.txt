@@ -1,1 +1,5 @@
 vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - SkyCore Technologies L.L.C-FZ ┇ 153.56.134.149
+vless://d067adf8-9adc-4854-990d-f779875a855e@153.56.135.59:443?type=tcp&security=reality#LT 🇱🇹 ┇ VLESS-TCP-REALITY - SkyCore Technologies L.L.C-FZ ┇ 153.56.135.59
+vless://3761d81d-68b2-480b-aad9-3ff847b93839@153.56.135.59:443?type=tcp&security=reality&sni=site.rumedia-cdn.com&fp=chrome&flow=xtls-rprx-vision&pbk=OevcHjcNd6P5915hkVd476stUNgpabD_XO9eWtArrls&sid=f5f36cfd792b1f65#LT 🇱🇹 ┇ VLESS-TCP-REALITY - SkyCore Technologies L.L.C-FZ ┇ 153.56.135.59
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@109.172.93.20:443?type=ws&security=tls&path=/sg-lnd&sni=tn1rr.qzz.io&host=tn1rr.qzz.io#NL 🇳🇱 ┇ VLESS-WS-TLS - SkyCore Technologies L.L.C-FZ ┇ 109.172.93.20
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@194.0.194.38:443?type=ws&security=tls&sni=vod.ensf.top&fp=firefox#NL 🇳🇱 ┇ VLESS-WS-TLS - SkyCore Technologies L.L.C-FZ ┇ 194.0.194.38

@@ -1,4 +1,1 @@
-vless://b67a711d-49b6-4916-8163-13db31b01140@141.101.64.3:443?type=tcp&security=tls&sni=cloudflare.com&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Cloudflare Inc ┇ 141.101.64.3
-vless://4f1d6391-32d4-4aba-b708-2e07b08bc10f@141.101.64.1:443?type=tcp&security=tls&sni=cloudflare.com&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Cloudflare Inc ┇ 141.101.64.1
-vless://cfd3ef2f-6b10-4815-aad5-8100331f4198@141.101.64.5:443?type=tcp&security=tls&sni=cloudflare.com&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Cloudflare Inc ┇ 141.101.64.5
-vless://32f5d746-b469-4b08-9beb-8039ac9ecc47@141.101.64.4:443?type=tcp&security=tls&sni=cloudflare.com&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Cloudflare Inc ┇ 141.101.64.4
+vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@162.159.83.112:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Cloudflare Inc ┇ 162.159.83.112

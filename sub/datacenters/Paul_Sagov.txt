@@ -1,4 +1,8 @@
-vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@dea.mythos-wargame.fun:443?type=grpc&security=tls&sni=dea.mythos-wargame.fun&fp=qq#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Paul Sagov ┇ 179.254.115.112
-vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@nla.mythos-wargame.fun:443?type=grpc&security=tls&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Paul Sagov ┇ 150.251.141.178
+vless://f4685d27-73e3-4588-9622-add50b84046a@31.77.59.83:9800?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Paul Sagov ┇ 31.77.59.83
+hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@n.nl.cleanersaz.help:443?insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Paul Sagov ┇ 150.251.141.72
+vless://fd65311a-5b25-4e20-963b-bb7500f74d40@ee-2-gatev1.dedicated.cdnnow.xyz:12303?type=tcp&security=reality&sni=music.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ens3hLP8kjd-Zye3nW1Q_CC2kJFo0PdPbplj9VLwkWg&sid=9dca5fc4ebb92cc6#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Paul Sagov ┇ 93.89.218.102
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eea.mythos-wargame.fun:443?type=grpc&security=tls&sni=eea.mythos-wargame.fun&fp=qq#EE 🇪🇪 ┇ VLESS-GRPC-TLS - Paul Sagov ┇ 179.254.126.40
+vless://f4685d27-73e3-4588-9622-add50b84046a@179.254.126.218:9800?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - Paul Sagov ┇ 179.254.126.218
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@nla.mythos-wargame.fun:443?type=grpc&security=tls&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Paul Sagov ┇ 150.251.141.178
 vless://ec94f044-eb08-4f41-9a03-f3d9c92f5713@ee-2-gatev1.dedicated.cdnnow.xyz:12303?type=tcp&security=reality&sni=music.yandex.ru&fp=edge&flow=xtls-rprx-vision&pbk=ens3hLP8kjd-Zye3nW1Q_CC2kJFo0PdPbplj9VLwkWg&sid=faa145dab838eac4#EE 🇪🇪 ┇ VLESS-TCP-REALITY - Paul Sagov ┇ 93.89.218.102
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@dea.mythos-wargame.fun:443?type=grpc&security=tls&sni=dea.mythos-wargame.fun&fp=qq#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Paul Sagov ┇ 179.254.115.112

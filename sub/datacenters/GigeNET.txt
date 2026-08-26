@@ -1,2 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZzhuODlOQVJOY3VUSDJYdlV0Wg@66.55.92.75:8389#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GigeNET ┇ 66.55.92.75
+vless://9d1f3ed0-7426-4100-ac06-21ec1f01c51b@45.41.204.232:25565?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=vSD7OjQzz4Bl1a-Q9LljpZrccUdLGdaVMWCLgkJht10&sid=d8acb17fe3c9e4f2#US 🇺🇸 ┇ VLESS-TCP-REALITY - GigeNET ┇ 45.41.204.232
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@130.185.239.145:443?type=tcp&security=tls&sni=u643766u7fa15b34s542.gogocs.xyz&host=7fa15b34s542.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - GigeNET ┇ 130.185.239.145
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@2607:adc0:6:48::5b26:443?type=tcp&security=tls&sni=u643766ub12cc47as1976.gogocs.xyz&host=b12cc47as1976.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - GigeNET ┇ 2607:adc0:6:48::5b26
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s1977.okgfwbackxyz.xyz:443?type=tcp&security=tls&sni=u643766ub12cc47as1976.gogocs.xyz&host=b12cc47as1976.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - GigeNET ┇ 45.41.206.90
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@70.32.1.32:443?type=ws&security=tls&path=/kos_madar_publisher&sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top#US 🇺🇸 ┇ VLESS-WS-TLS - GigeNET ┇ 70.32.1.32
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZzhuODlOQVJOY3VUSDJYdlV0Wg@66.55.92.75:8389#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GigeNET ┇ 66.55.92.75
+vless://424e7cc4-df34-3518-9c7b-401db4ece90a@158.51.99.69:443?type=grpc&security=tls&sni=u710947u85f7s394.ccgfw.top&host=s394.ccgfw.top&mode=gun&fp=ios#US 🇺🇸 ┇ VLESS-GRPC-TLS - GigeNET ┇ 158.51.99.69
