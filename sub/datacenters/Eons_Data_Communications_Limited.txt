@@ -1,4 +1,6 @@
+vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@64.118.155.66:44918?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Eons Data Communications Limited ┇ 64.118.155.66
 vless://c381ed79-f3c9-4028-85ae-687795d89ece@de.ipsenter.org:443?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&sid=1128da54b05ec30c#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Eons Data Communications Limited ┇ 216.236.30.225
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.us.pngv.top:4999?type=tcp&security=none&host=play.google.com#US 🇺🇸 ┇ VLESS-TCP-NTLS - Eons Data Communications Limited ┇ 216.195.211.169
-vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@64.118.155.66:44918?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Eons Data Communications Limited ┇ 64.118.155.66
+vless://26524cce-d514-4014-a426-365fb266a14d@64.118.145.191:443?type=ws&security=tls&path=/&sni=nai3.api-gateway-01.chinat.indevs.in&host=nai3.api-gateway-01.chinat.indevs.in&fp=firefox#JP 🇯🇵 ┇ VLESS-WS-TLS - Eons Data Communications Limited ┇ 64.118.145.191
+vless://4dd69f91-190c-413d-88c7-2f1675a98d85@cdn.jp2.cocoduck.org:25642?type=tcp&security=tls&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Eons Data Communications Limited ┇ 64.118.154.148
 vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@191.40.5.176:2087?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Eons Data Communications Limited ┇ 191.40.5.176

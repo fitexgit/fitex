@@ -1,3 +1,5 @@
 vless://09c5212b-22d2-4c65-a663-5b33d9f153e8@192.109.228.139:443?type=tcp&security=reality&sni=www.ns.nl&fp=random&flow=xtls-rprx-vision&pbk=QBdXen963Ix7NIuah8rviFhCUexHTs8Wa8K38yPuRBs&sid=563e0c1f007bc7ab#NL 🇳🇱 ┇ VLESS-TCP-REALITY - xTom GmbH ┇ 192.109.228.139
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@78.142.230.76:443?type=ws&security=tls&path=/?ed=2560&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&host=b8k86.z3xq.fzi.hh.vavava.kdns.fr#NL 🇳🇱 ┇ VLESS-WS-TLS - xTom GmbH ┇ 78.142.230.76
 ss://YWVzLTI1Ni1nY206ODd4dlBQTDJXVlduS2NzZQ@c331s1.portablesubmarines.com:8505#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - xTom GmbH ┇ 65.49.151.177
 vless://853a3bff-2583-4908-9f16-934bb3077d24@23.165.200.168:49527?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=IbI4GjOoEE7mFvOyegC2bdADUgDjzpz24OIIhQhzdnc&sid=9c4b91b9#DE 🇩🇪 ┇ VLESS-TCP-REALITY - xTom GmbH ┇ 23.165.200.168
+vless://afa41ec4-3e2d-4bba-af0f-8f7c739f0ae3@185.194.53.169:443?type=tcp&security=reality&sni=www.coop.ee&fp=firefox&flow=xtls-rprx-vision&pbk=805vJbnw_12vyuxa9pW46ObJ1cOub-75pGJYTfMJYHM&sid=74e50da3c1769379#EE 🇪🇪 ┇ VLESS-TCP-REALITY - xTom GmbH ┇ 185.194.53.169

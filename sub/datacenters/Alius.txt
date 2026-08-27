@@ -1,2 +1,1 @@
-vless://600c333c-53dd-4eb9-80cf-c5716cc570f8@scan.capitaledge.blog:8443?type=tcp&security=reality&sni=hartfordmedia.online&fp=chrome&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#CN 🇨🇳 ┇ VLESS-TCP-REALITY - Alius ┇ 213.182.216.4
-vless://e8badfe0-eaaa-4664-9b32-7a53a501aefa@lb20.westondigita.cloud:8443?type=tcp&security=reality&path=/&sni=westondigita.cloud&host=westondigita.cloud&fp=chrome&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Alius ┇ 167.17.191.2
+vless://e8badfe0-eaaa-4664-9b32-7a53a501aefa@lb20.westondigita.cloud:8443?type=tcp&security=tls&sni=westondigita.cloud&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Alius ┇ 167.17.191.2
