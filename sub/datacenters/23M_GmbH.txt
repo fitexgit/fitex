@@ -1,7 +1,7 @@
-vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@de253.mechvpn.online:443?type=tcp&security=tls&sni=de253.mechvpn.online&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - 23M GmbH ┇ 82.38.4.253
-vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@de62.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - 23M GmbH ┇ 93.127.160.62
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.49:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 62.113.194.49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 62.113.194.158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.237.3:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 62.113.237.3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 212.83.51.81
 vless://efbd6d24-0475-4f2f-a548-f5950ce08214@62.113.210.26:301?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - 23M GmbH ┇ 62.113.210.26
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 62.113.194.158
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.49:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 62.113.194.49
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.237.3:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - 23M GmbH ┇ 62.113.237.3
+vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@de253.mechvpn.online:443?type=tcp&security=tls&sni=de253.mechvpn.online&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - 23M GmbH ┇ 82.38.4.253
+vless://50767b5d-7e5d-4aee-af39-5a07d36ccc36@93.127.160.62:443?type=tcp&security=tls&path=/&fp=qq&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - 23M GmbH ┇ 93.127.160.62
