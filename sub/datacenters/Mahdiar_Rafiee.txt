@@ -1,11 +1,4 @@
-vless://6975fa0f-d373-4b89-b068-66d21b6a8f8e@185.218.139.222:1200?type=xhttp&security=reality&path=/&sni=www.intel.com&mode=auto&fp=chrome&pbk=0-nqF5Xi2ngicrbm96gzfohteEqk6lI87u83Ks-EC3E&sid=b3be#IR 🇮🇷 ┇ VLESS-XHTTP-REALITY - Mahdiar Rafiee ┇ 185.218.139.222
-vless://5e7ca567-aef3-4e55-a64b-40910d7dd349@185.218.139.222:1000?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=q-YV7OBxlU9S_9AbMyEvHzz7lI3o9beegLMN5HkXZgE&sid=9f657918fe#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Mahdiar Rafiee ┇ 185.218.139.222
-vless://d0eca1e1-c4ec-43dc-a6e9-25e5d29d9fe5@193.39.9.240:1300?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=NFsIgOxjsTyqP45-UF_42xOsQH6u6vZSJ90JQYDtuSo&sid=15629d#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Mahdiar Rafiee ┇ 193.39.9.240
-vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?type=tcp&security=none&host=google.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
-vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8080?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.218.139.222
-vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none&host=google.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
-vless://5e7ca567-aef3-4e55-a64b-40910d7dd349@185.218.139.222:2018?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=qeFx0FMZb7mD-fBWb_sdQJaKyM4_9BDuDA7XUHMSAGo&sid=ac08#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Mahdiar Rafiee ┇ 185.218.139.222
-vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:2000?type=tcp&security=tls&path=/#IR 🇮🇷 ┇ VLESS-TCP-TLS - Mahdiar Rafiee ┇ 185.218.139.222
-vless://7a5bb925-29c7-4ed5-ae34-f38d09fded2e@185.218.139.222:1500?type=xhttp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=uawuZi92GK3qW-Vwa6eThRM2oAXcTSl2EKOvqYyf0RI&sid=c9fe79228d4956#IR 🇮🇷 ┇ VLESS-XHTTP-REALITY - Mahdiar Rafiee ┇ 185.218.139.222
 vless://aec91a80-c1cc-4393-97d0-1b67bf331172@185.211.57.210:2080?type=tcp&security=none&host=imam-khomeini.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.211.57.210
-vless://1e05b4b6-e8f6-4b5f-b36e-d25bb6881487@185.218.139.150:1700?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 185.218.139.150
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?type=tcp&security=none&host=google.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
+vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?type=tcp&security=none&host=google.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahdiar Rafiee ┇ 193.58.119.134
+vless://d0eca1e1-c4ec-43dc-a6e9-25e5d29d9fe5@193.39.9.240:1300?type=tcp&security=reality&sni=www.intel.com&fp=chrome&pbk=NFsIgOxjsTyqP45-UF_42xOsQH6u6vZSJ90JQYDtuSo&sid=15629d#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Mahdiar Rafiee ┇ 193.39.9.240
