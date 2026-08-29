@@ -1,1 +1,3 @@
 vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.148.116
+vless://b9f8fd09-ba47-4a5f-82e0-7b36eef4e010@104.194.144.40:2083?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=HvJuOxVfnZMEO_HgNgYlLSPT4LAEqMx9OMbCUuALIEo&sid=4f060344d438bc1f#GB 🇬🇧 ┇ VLESS-TCP-REALITY - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.144.40
+vless://b9f8fd09-ba47-4a5f-82e0-7b36eef4e010@104.194.144.40:443?type=xhttp&security=reality&path=/&sni=amp-api-edge.apps.apple.com&mode=auto&fp=chrome&pbk=pWniduE2t5tBtXpJKbS8Pku5UWw_BzsG5d6jbTA0InQ&sid=6149#GB 🇬🇧 ┇ VLESS-XHTTP-REALITY - 'Tornado Datacenter GmbH & Co. KG' ┇ 104.194.144.40
