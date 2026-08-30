@@ -1,6 +1,6 @@
 vless://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=fLtEa_5BiN89xQDypfFMOu5o6DoUf6ch42jGdkXy6zE&sid=7f24526f7307c07a#JP 🇯🇵 ┇ VLESS-TCP-REALITY - BAGE CLOUD LLC ┇ 162.141.131.102
 vless://7b102311-43fd-4e8f-877e-8090623c101d@103.219.194.43:443?type=ws&security=tls&path=/&sni=vp10.pages.dev&host=vp10.pages.dev&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - BAGE CLOUD LLC ┇ 103.219.194.43
 vless://7b102311-43fd-4e8f-877e-8090623c101d@209.33.160.61:443?type=ws&security=tls&path=/&sni=vp10.pages.dev&host=vp10.pages.dev&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - BAGE CLOUD LLC ┇ 209.33.160.61
+vless://548df4ba-0b7f-4850-ac84-716bbb68a4ba@77.93.90.231:443?type=ws&security=tls&path=/?ed=2560&sni=fm3.pages.dev&host=fm3.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - BAGE CLOUD LLC ┇ 77.93.90.231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@jp.fastsoonlink.com:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE CLOUD LLC ┇ 162.141.130.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@sgp.fastsoonlink.com:40005#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - BAGE CLOUD LLC ┇ 85.149.212.247
-vless://548df4ba-0b7f-4850-ac84-716bbb68a4ba@77.93.90.231:443?type=ws&security=tls&path=/?ed=2560&sni=fm3.pages.dev&host=fm3.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - BAGE CLOUD LLC ┇ 77.93.90.231
