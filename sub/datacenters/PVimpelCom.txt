@@ -1,10 +1,10 @@
 vless://0d81b209-0722-4b32-9163-542f54ba56ed@66.90.90.13:8443?type=tcp&security=tls&sni=ai-6a936d01.noooo.win&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.13
-vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.13:8443?type=tcp&security=tls&path=/&sni=ai-6a8c51f9.noooo.win&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.13
-vless://0d81b209-0722-4b32-9163-542f54ba56ed@66.90.90.20:8443?type=tcp&security=tls&sni=ai-6a936d01.noooo.win&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.20
-vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@66.90.90.20:8443?type=tcp&security=tls&sni=ai-6a936c8a.noooo.win&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.20
-vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?type=ws&security=tls&path=/api/connect&sni=gateway-v1.bosx.net&fp=ios#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 66.90.93.74
+vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.164:8443?type=tcp&security=tls&sni=ai-6a8c51f9.noooo.win&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.164
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8449?type=ws&security=tls&path=/api/v6/connect&sni=gateway-v1.bosx.net&fp=ios#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 66.90.93.74
+vless://435fc5e1-f12b-468b-b1d4-802a9ce86ba3@66.90.90.20:8443?type=tcp&security=tls&sni=ai-6a936c8a.noooo.win&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.20
+vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.13:8443?type=tcp&security=tls&path=/&sni=ai-6a8c51f9.noooo.win&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.13
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?type=ws&security=tls&path=/api/connect&sni=gateway-v1.bosx.net&fp=ios#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 66.90.93.74
+vless://0d81b209-0722-4b32-9163-542f54ba56ed@66.90.90.164:8443?type=tcp&security=tls&sni=ai-6a936d01.noooo.win&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.164
+vless://0d81b209-0722-4b32-9163-542f54ba56ed@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a936d01.noooo.win&mode=stream-one&fp=ios&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.20
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@66.90.90.13:8443?type=raw&security=tls&sni=ai-6a8d949a.noooo.win&fp=qq&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-RAW-TLS - PVimpelCom ┇ 66.90.90.13
 vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.20:8443?type=tcp&security=tls&sni=ai-6a8c51f9.noooo.win&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.20
-vless://0d81b209-0722-4b32-9163-542f54ba56ed@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a936d01.noooo.win&mode=stream-one&fp=ios&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.164
-vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.164:8443?type=tcp&security=tls&sni=ai-6a8c51f9.noooo.win&fp=edge&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.164
