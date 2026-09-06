@@ -1,4 +1,4 @@
-vless://aa6b9a9d-84d4-49e5-93f7-90404b112634@93.119.168.18:1280?type=ws&security=none&path=/#PT 🇵🇹 ┇ VLESS-WS-NTLS - Northern Data AG ┇ 93.119.168.18
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@85.234.91.30:443?type=tcp&security=reality&sni=www.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Northern Data AG ┇ 85.234.91.30
 vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?type=tcp&security=none&path=/#PT 🇵🇹 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 93.119.168.26
+vless://aa6b9a9d-84d4-49e5-93f7-90404b112634@93.119.168.18:1280?type=ws&security=none&path=/#PT 🇵🇹 ┇ VLESS-WS-NTLS - Northern Data AG ┇ 93.119.168.18
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none&path=/#PT 🇵🇹 ┇ VLESS-TCP-NTLS - Northern Data AG ┇ 93.119.168.215

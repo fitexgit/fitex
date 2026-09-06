@@ -1,5 +1,5 @@
-vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?type=tcp&security=none&mode=gun#RS 🇷🇸 ┇ VLESS-TCP-NTLS - Freakhosting Ltd ┇ 81.18.48.97
-vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Freakhosting Ltd ┇ 185.194.177.120
-hysteria2://KevinZakarian@179.61.132.96:8443?sni=179.61.132.96&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Freakhosting Ltd ┇ 179.61.132.96
 vless://db95508f-1c19-4ff3-b6e1-ea70d0dd3e04@pen.clevernote.top:11260?type=tcp&security=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Freakhosting Ltd ┇ 46.203.233.231
 vless://60e2a548-96aa-4850-a279-1edab743c39b@109.176.229.45:2083?type=grpc&security=reality&sni=autotrader.co.uk&mode=gun&fp=chrome&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03#GB 🇬🇧 ┇ VLESS-GRPC-REALITY - Freakhosting Ltd ┇ 109.176.229.45
+vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?type=grpc&security=reality&sni=finanzfluss.de&mode=gun&fp=firefox&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03#RS 🇷🇸 ┇ VLESS-GRPC-REALITY - Freakhosting Ltd ┇ 81.18.48.97
+vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Freakhosting Ltd ┇ 185.194.177.120
+hysteria2://KevinZakarian@179.61.132.96:8443?sni=179.61.132.96&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Freakhosting Ltd ┇ 179.61.132.96
