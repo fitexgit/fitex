@@ -1,6 +1,6 @@
 vless://cf29fa5c-964b-4215-8c1b-0a4e7a92d621@188.130.209.200:443?type=tcp&security=reality&sni=media.mycdn-io.ru&fp=chrome&flow=xtls-rprx-vision&pbk=EMedbccbw2GcUux0nqRfMhF1B2lE-BJhcnKpiILSvlU&sid=ae368c547f644d1c#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 188.130.209.200
+vless://62cfc7fa-98d6-45b0-8ad5-89ac8f635457@188.130.209.222:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 188.130.209.222
+vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?type=ws&security=none&path=/api/v2/stream#RU 🇷🇺 ┇ VLESS-WS-NTLS - Delta Ltd ┇ 45.91.52.140
 vless://eaf8abff-0fbf-4b64-8d8f-18c1757c75df@188.130.209.185:443?type=tcp&security=reality&sni=images.mycdn-io.ru&fp=chrome&flow=xtls-rprx-vision&pbk=vrtWpW_N3rBs9WEoV1Yz4uOYsci3Kpe7HitaYr4oQGc&sid=fbe42a5d4788bacc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 188.130.209.185
 vless://97672c17-4b8d-496b-b9b5-c7adc978a8a5@45.81.33.217:443?type=tcp&security=reality&sni=exton.xanka.best&fp=chrome&flow=xtls-rprx-vision&pbk=sW6eP36wnIB0Q_e6Djmu7_RQ2zUyPzbupAtlg0fKdHQ&sid=8b15da3a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 45.81.33.217
-vless://62cfc7fa-98d6-45b0-8ad5-89ac8f635457@188.130.209.222:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Delta Ltd ┇ 188.130.209.222
 vless://60300afa-3366-4ae3-959a-7b50438acebb@212.115.55.242:443?type=raw&security=reality&sni=ru-dc.wequ.host&fp=firefox&flow=xtls-rprx-vision&pbk=JH077KoB3PWwc8qs7D2SPRWLDS7xKE4JbjDzEoSVvzQ&sid=37164c3e#TW 🇹🇼 ┇ VLESS-RAW-REALITY - Delta Ltd ┇ 212.115.55.242
-vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?type=ws&security=none&path=/api/v2/stream#RU 🇷🇺 ┇ VLESS-WS-NTLS - Delta Ltd ┇ 45.91.52.140
