@@ -1,1 +1,1 @@
-vless://a4fee7ea-cb5b-47bf-8422-41a03fdfcf5e@78.24.92.66:443?type=tcp&security=none&mode=auto#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Start2 LLC ┇ 78.24.92.66
+vless://a4fee7ea-cb5b-47bf-8422-41a03fdfcf5e@78.24.92.66:443?type=tcp&security=tls&path=/api/v1/&mode=auto#RU 🇷🇺 ┇ VLESS-TCP-TLS - Start2 LLC ┇ 78.24.92.66
