@@ -1,14 +1,17 @@
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBmY2xvdWQgVUcgKGhhZnR1bmdzYmVzY2hyYW5rdCkgXHUyNTA3IDE3Ni42NS4xNTEuNzYiLCJhZGQiOiJwbHVzLmFwYXJhdHJhdGluZm8uaXIiLCJwb3J0Ijo5NDQzLCJpZCI6IjQ5OWUzNmY0LWU3NWEtNDIxMC04NTNmLThjODQ5NzkwZDI1NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://8b8d9dd7-bfa2-4823-8c20-de837dbab732@176.65.151.67:10852?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
-vless://b9cfac77-f765-4a35-8d20-77f4831f4f77@176.65.151.67:25188?type=grpc&security=none&mode=gun#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMalBfOHpVMmFUanZKdGtDeDk0QWFmY0dRVzZPc21iTw@176.65.151.237:49332#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.237
+vless://e99e62ef-9f48-484b-8533-b7a6e7b700b5@31.57.185.231:443?type=tcp&security=tls&sni=31.57.185.231&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - Pfcloud UG (haftungsbeschrankt) ┇ 31.57.185.231
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBmY2xvdWQgVUcgKGhhZnR1bmdzYmVzY2hyYW5rdCkgXHUyNTA3IDE3Ni42NS4xNTEuODkiLCJhZGQiOiIxNzYuNjUuMTUxLjg5IiwicG9ydCI6MzAwMDAsImlkIjoiMGMzMWRlNTAtYWMxNC00M2JkLTg5MDctNTdkZmFkZjI0MjAxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://28e842ac-b144-4c65-bfbe-03e0f60d4c20@176.65.151.77:53521?type=tcp&security=none&host=play.google.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.77
-vless://e9448e13-47b9-4095-9e3a-58ccc8e05774@176.65.151.67:59863?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUExRYTN0WE9NeE5LQzRfUTNEeTVaRkRSb3dlVWJpOA@176.65.151.212:36937#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.212
-vless://4aa4c358-5776-4a70-b472-50439acbe6af@176.65.151.67:57370?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
-vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
-vless://5158555b-b004-44f5-a606-34d914c185b6@176.65.151.67:50159?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
-vless://8f936789-6db7-4949-81ad-da52e24b1d33@176.65.151.67:19257?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+vless://b9cfac77-f765-4a35-8d20-77f4831f4f77@176.65.151.67:25188?type=grpc&security=none&mode=gun#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+vless://e99e62ef-9f48-484b-8533-b7a6e7b700b5@31.57.185.231:8443?type=xhttp&security=reality&path=/&sni=store.sony.ca&host=31.57.185.231&mode=auto&fp=chrome&pbk=XgTZ9uR8aUH47Z8lGlalA8DKplEdbqFSAt_TeWIU5QE&sid=6367c2a0014666#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - Pfcloud UG (haftungsbeschrankt) ┇ 31.57.185.231
+vless://34b0cfae-3a54-4b49-a3ce-59e783feb98e@176.65.151.67:48177?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
 vless://fa87edcc-4751-4d28-b53b-3abf7bee7ece@lp.mtcmicserver.ir:8080?type=grpc&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=wegUSBXt8tLaCp7Ze22cuKJa-MQ0KRSe7BX1dDgLRQg&sid=b397faa58de7c5f3#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.101
+vless://8f936789-6db7-4949-81ad-da52e24b1d33@176.65.151.67:19257?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+vless://8b8d9dd7-bfa2-4823-8c20-de837dbab732@176.65.151.67:10852?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+vless://28e842ac-b144-4c65-bfbe-03e0f60d4c20@176.65.151.77:53521?type=tcp&security=none&host=play.google.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.77
+vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?type=kcp&security=none#NL 🇳🇱 ┇ VLESS-KCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+vless://e9448e13-47b9-4095-9e3a-58ccc8e05774@176.65.151.67:59863?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+vless://4aa4c358-5776-4a70-b472-50439acbe6af@176.65.151.67:57370?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
 vless://@vpn_kurdnet@45.135.194.196:56283?type=ws&security=none&path=/netpath&host=snapp.ir#DE 🇩🇪 ┇ VLESS-WS-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 45.135.194.196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMalBfOHpVMmFUanZKdGtDeDk0QWFmY0dRVzZPc21iTw@176.65.151.237:49332#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.237
+vless://5158555b-b004-44f5-a606-34d914c185b6@176.65.151.67:50159?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.67
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUExRYTN0WE9NeE5LQzRfUTNEeTVaRkRSb3dlVWJpOA@176.65.151.212:36937#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pfcloud UG (haftungsbeschrankt) ┇ 176.65.151.212
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBmY2xvdWQgVUcgKGhhZnR1bmdzYmVzY2hyYW5rdCkgXHUyNTA3IDE3Ni42NS4xNTEuNzYiLCJhZGQiOiJwbHVzLmFwYXJhdHJhdGluZm8uaXIiLCJwb3J0Ijo5NDQzLCJpZCI6IjQ5OWUzNmY0LWU3NWEtNDIxMC04NTNmLThjODQ5NzkwZDI1NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
