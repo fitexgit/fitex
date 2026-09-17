@@ -1,10 +1,11 @@
-vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?type=ws&security=none&path=/29c8fed7ca22#DE 🇩🇪 ┇ VLESS-WS-NTLS - IDC Cube ┇ 163.8.195.241
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?type=ws&security=none&path=/3bfc3e3ed603#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 82.24.203.10
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?type=ws&security=none&path=/29c8fed7ca22#DE 🇩🇪 ┇ VLESS-WS-NTLS - IDC Cube ┇ 163.8.195.241
+vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=ws&security=none&path=/5c62e3c616d8#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 82.24.203.37
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?type=grpc&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - IDC Cube ┇ 82.24.203.174
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 188.220.67.181
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 188.220.67.140
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?type=grpc&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - IDC Cube ┇ 82.24.203.92
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 188.220.67.224
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?type=grpc&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - IDC Cube ┇ 82.24.203.174
-vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?type=ws&security=none&path=/5c62e3c616d8#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 82.24.203.37
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 188.220.67.245
-vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - IDC Cube ┇ 82.24.203.20
+vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?type=ws&security=none&path=/fd5ba98a3970#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 82.24.203.20
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083?type=grpc&security=none&mode=gun#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - IDC Cube ┇ 82.24.203.15
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?type=ws&security=none&path=/8f2690e2d016#GB 🇬🇧 ┇ VLESS-WS-NTLS - IDC Cube ┇ 188.220.67.224
