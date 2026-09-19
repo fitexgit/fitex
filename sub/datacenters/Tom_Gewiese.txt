@@ -1,3 +1,3 @@
-vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?type=grpc&security=reality&sni=google.com&mode=gun&fp=chrome&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&sid=6a326909#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Tom Gewiese ┇ 217.69.167.135
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Tom Gewiese ┇ 94.249.187.46
+vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?type=tcp&security=none&mode=gun#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Tom Gewiese ┇ 217.69.167.135
+vless://e0d66042-eeb3-45e1-9106-045c4c4b24fa@free-de.noode.work:443?type=tcp&security=reality&sni=johnydeep.net&fp=random&flow=xtls-rprx-vision&pbk=6vDdlh4aAipoRQ-IXDjzTUtKpZS09xtNXIisCa__2CM&sid=f74c6a18133e2e72#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Tom Gewiese ┇ 94.249.184.10
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvbSBHZXdpZXNlIFx1MjUwNyA5NC4yNDkuMTg3LjQ2IiwiYWRkIjoiOTQuMjQ5LjE4Ny40NiIsInBvcnQiOjIwODYsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
