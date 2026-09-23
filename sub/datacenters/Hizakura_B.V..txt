@@ -1,1 +1,1 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@45.148.62.113:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hizakura B.V. ┇ 45.148.62.113
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@45.148.62.113:443?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&host=shuma.ccwu.cc&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Hizakura B.V. ┇ 45.148.62.113
