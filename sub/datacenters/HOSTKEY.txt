@@ -1,5 +1,5 @@
-vless://988be430-813f-4174-b5ed-86fcebd7cda0@townhouseusa1.purpl.su:443?type=tcp&security=reality&sni=townhouseusa1.purpl.su&fp=chrome&flow=xtls-rprx-vision&pbk=83OuwaHhy7LMq7hCl0C9mdckoGvzYRhC0iE0dXXdXXs&sid=2b777629#US 🇺🇸 ┇ VLESS-TCP-REALITY - HOSTKEY ┇ 166.1.89.168
 vless://c6f6ecc2-26af-4e2f-95a7-e7018819a716@82.26.93.57:8445?type=grpc&security=reality&sni=hetzner.com&mode=gun&fp=chrome&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-GRPC-REALITY - HOSTKEY ┇ 82.26.93.57
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?sni=hopp-us.yyuyy.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - HOSTKEY ┇ 82.38.60.15
+vless://988be430-813f-4174-b5ed-86fcebd7cda0@townhouseusa1.purpl.su:443?type=tcp&security=reality&sni=townhouseusa1.purpl.su&fp=chrome&flow=xtls-rprx-vision&pbk=83OuwaHhy7LMq7hCl0C9mdckoGvzYRhC0iE0dXXdXXs&sid=2b777629#US 🇺🇸 ┇ VLESS-TCP-REALITY - HOSTKEY ┇ 166.1.89.168
 vless://c6f6ecc2-26af-4e2f-95a7-e7018819a716@82.26.93.57:8446?type=xhttp&security=reality&path=/&sni=hetzner.com&mode=stream-up&fp=chrome&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-XHTTP-REALITY - HOSTKEY ┇ 82.26.93.57
 vless://cc01f435-d561-4525-bf1f-7a9876d33207@205.172.56.151:5432?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - HOSTKEY ┇ 205.172.56.151
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?sni=hopp-us.yyuyy.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - HOSTKEY ┇ 82.38.60.15
