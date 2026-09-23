@@ -1,3 +1,3 @@
-vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?type=ws&security=tls&path=/api/connect&sni=gateway-v1.bosx.net&fp=ios#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 66.90.93.74
-vless://151077fd-f4a0-4622-bfd2-1ee2c121a544@66.90.90.13:8443?type=tcp&security=tls&sni=dsapi-v2-6aaeee8a.adhil.uk&fp=safari&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.13
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8449?type=ws&security=tls&path=/api/v6/connect&sni=gateway-v1.bosx.net&fp=ios#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 66.90.93.74
+vless://151077fd-f4a0-4622-bfd2-1ee2c121a544@66.90.90.13:8443?type=tcp&security=tls&sni=dsapi-v2-6aaeee8a.adhil.uk&fp=chrome&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - PVimpelCom ┇ 66.90.90.13
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?type=ws&security=tls&path=/api/connect&sni=gateway-v1.bosx.net&fp=ios#RU 🇷🇺 ┇ VLESS-WS-TLS - PVimpelCom ┇ 66.90.93.74
