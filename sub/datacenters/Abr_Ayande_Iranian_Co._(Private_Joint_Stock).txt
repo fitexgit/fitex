@@ -1,2 +1,4 @@
-vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?type=tcp&security=none&host=myket.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.172
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?type=grpc&security=none&mode=gun#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.188
+vless://6b070b11-e90f-4ad4-938a-a8d41cda0297@ir09.nimhub.ir:1018?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=9M6h7Yk0P92zpzd9X641uy2DoJ6PILUDy2OJytI-aVs&sid=3020d88137278ac5#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.14
+vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?type=tcp&security=none&host=myket.ir#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.172
+vless://6b070b11-e90f-4ad4-938a-a8d41cda0297@ir10.nimhub.ir:1019?type=tcp&security=reality&sni=www.myket.ir&fp=chrome&flow=xtls-rprx-vision&pbk=9M6h7Yk0P92zpzd9X641uy2DoJ6PILUDy2OJytI-aVs&sid=ecec9d97c15477d9#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.207.15
