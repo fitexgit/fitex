@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@166.1.228.172:30888#EG 🇪🇬 ┇ SHADOWSOCKS-TCP-NTLS - Baxet Group Inc. ┇ 166.1.228.172
-vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?type=ws&security=none&path=/d1000b16fe76&host=Telegram-Leviko_v2ray#EG 🇪🇬 ┇ VLESS-WS-NTLS - LIGHT NODE LIMITED ┇ 38.54.59.209
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@166.1.228.218:443?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&host=shuma.ccwu.cc&fp=chrome#EG 🇪🇬 ┇ VLESS-WS-TLS - Baxet Group Inc. ┇ 166.1.228.218
 vless://322710c4-eef9-45ea-ad10-1efa1c6767d0@node-nd01.rkitman.ru:443?type=tcp&security=reality&sni=node-nd01.rkitman.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd#EG 🇪🇬 ┇ VLESS-TCP-REALITY - Pipe Networks LTD ┇ 192.88.182.105
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.59.99:989#EG 🇪🇬 ┇ SHADOWSOCKS-TCP-NTLS - LIGHT NODE LIMITED ┇ 38.54.59.99
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@166.1.228.218:443?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&host=shuma.ccwu.cc&fp=chrome#EG 🇪🇬 ┇ VLESS-WS-TLS - Baxet Group Inc. ┇ 166.1.228.218
+ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@166.1.228.172:30888#EG 🇪🇬 ┇ SHADOWSOCKS-TCP-NTLS - Baxet Group Inc. ┇ 166.1.228.172
+vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?type=ws&security=none&path=/d1000b16fe76&host=Telegram-Leviko_v2ray#EG 🇪🇬 ┇ VLESS-WS-NTLS - LIGHT NODE LIMITED ┇ 38.54.59.209
