@@ -1,3 +1,3 @@
-vless://92749c99-a0b3-46ea-8435-0b3b6613c205@45.202.255.24:58780?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=MmECueAQ5bxl1qibZ3R512MDOLKvSjLjonc7EhiPugQ&sid=2e00#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Catixs Ltd ┇ 45.202.255.24
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001?type=raw&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678#US 🇺🇸 ┇ VLESS-RAW-REALITY - Catixs Ltd ┇ 156.229.161.107
-vless://45d87ca1-d006-44ac-b62a-cb03d04c7130@45.202.255.24:8890?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Catixs Ltd ┇ 45.202.255.24
+vless://45d87ca1-d006-44ac-b62a-cb03d04c7130@45.202.255.24:8890?type=grpc&security=reality&sni=addons.mozilla.org&mode=gun&fp=chrome&pbk=DcHXqq0OOR8N-bd92fSrMjy2yrcAsG1Es7PesCOc7gc#JP 🇯🇵 ┇ VLESS-GRPC-REALITY - Catixs Ltd ┇ 45.202.255.24
+vless://92749c99-a0b3-46ea-8435-0b3b6613c205@45.202.255.24:58780?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=MmECueAQ5bxl1qibZ3R512MDOLKvSjLjonc7EhiPugQ&sid=2e00#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Catixs Ltd ┇ 45.202.255.24

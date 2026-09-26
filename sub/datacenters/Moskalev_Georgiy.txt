@@ -1,2 +1,2 @@
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@201.10.90.202:443?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Moskalev Georgiy ┇ 201.10.90.202
-vless://a6b29052-e9ba-4714-a43c-4a660f452c44@201.10.90.24:2027?type=tcp&security=reality&path=/patch/?@MARAMBASHI_MARAMBASHI?ed=2048#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Moskalev Georgiy ┇ 201.10.90.24
+vless://a6b29052-e9ba-4714-a43c-4a660f452c44@201.10.90.24:2027?type=tcp&security=none&mode=auto#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Moskalev Georgiy ┇ 201.10.90.24
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-ii.subaru-volga.com:443?type=tcp&security=reality&sni=lineartronic-ii.subaru-volga.com&fp=random&pbk=Fy5oUXHjwXPsnyRzZAHohjOd4dYkDj9mlIhr-Xh6tTc&sid=6fddaa#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Moskalev Georgiy ┇ 201.10.90.202
