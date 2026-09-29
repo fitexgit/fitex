@@ -1,3 +1,3 @@
-vless://7013d889-14f4-4475-a5ff-a5ecd992b522@222.167.248.156:443?type=tcp&security=reality&sni=www.google.com&fp=qq&flow=xtls-rprx-vision&pbk=9H_heZMEI3tShkb5pXRrlAzwGWIzGFCRX_HgyPdktnU#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Datagio Systems Ltd. ┇ 222.167.248.156
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl.pleiades.codes:443?type=grpc&security=tls&sni=assets-nl.pleiades.codes&mode=gun&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Datagio Systems Ltd. ┇ 130.78.191.159
 vless://7013d889-14f4-4475-a5ff-a5ecd992b522@222.167.248.157:443?type=tcp&security=reality&sni=www.google.com&fp=safari&flow=xtls-rprx-vision&pbk=9H_heZMEI3tShkb5pXRrlAzwGWIzGFCRX_HgyPdktnU#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Datagio Systems Ltd. ┇ 222.167.248.157
+vless://7013d889-14f4-4475-a5ff-a5ecd992b522@222.167.248.156:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9H_heZMEI3tShkb5pXRrlAzwGWIzGFCRX_HgyPdktnU#PL 🇵🇱 ┇ VLESS-TCP-REALITY - Datagio Systems Ltd. ┇ 222.167.248.156
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@130.78.191.159:443?type=grpc&security=tls&sni=assets-nl.pleiades.codes&fp=firefox#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Datagio Systems Ltd. ┇ 130.78.191.159
