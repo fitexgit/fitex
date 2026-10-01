@@ -1,1 +1,4 @@
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Itglobal.com Nl B.v. ┇ 78.111.89.171
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@45.133.16.41:443?type=ws&security=tls&path=/fp=chrome&sni=shuma.ccwu.cc&host=shuma.ccwu.cc#CA 🇨🇦 ┇ VLESS-WS-TLS - Itglobal.com Nl B.v. ┇ 45.133.16.41
+vless://d13b3634-094c-41fd-8154-76a512662dbe@31.44.4.107:8443?type=tcp&security=none&sni=zula.ir#US 🇺🇸 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 31.44.4.107
+vless://497631c4-a1a4-004b-a86a-f42873473bb6@78.111.90.138:8443?type=tcp&security=reality&sni=auto.quattro-tech.ru&fp=edge&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#CA 🇨🇦 ┇ VLESS-TCP-REALITY - Itglobal.com Nl B.v. ┇ 78.111.90.138
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?type=tcp&security=reality&sni=www.cloudflare.com&host=/?bia_telegram&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Itglobal.com Nl B.v. ┇ 78.111.89.171

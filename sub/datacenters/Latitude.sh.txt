@@ -1,2 +1,13 @@
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@152.236.3.10:8443?type=grpc&security=tls&sni=addons.mozilla.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Latitude.sh ┇ 152.236.3.10
+vless://f4df3096-8568-4c86-83d2-985623035724@185.18.222.50:10444?type=tcp&security=tls&sni=max.ru&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - Latitude.sh ┇ 185.18.222.50
+vless://16a44e56-cef4-4c50-8399-11de9803aa7b@152.236.3.13:8443?type=grpc&security=tls&sni=addons.mozilla.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Latitude.sh ┇ 152.236.3.13
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?type=ws&security=tls&path=/vless/&sni=ul-mexico1.09vpn.com#MX 🇲🇽 ┇ VLESS-WS-TLS - Latitude.sh ┇ 45.134.9.133
+vless://1a05db30-9dce-4e3c-b491-012a14300a43@152.236.3.30:8443?type=grpc&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5#DE 🇩🇪 ┇ VLESS-GRPC-REALITY - Latitude.sh ┇ 152.236.3.30
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.230.62.172:8080?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg&host=a.mifeng.us.kg#GB 🇬🇧 ┇ VLESS-WS-NTLS - Latitude.sh ┇ 37.230.62.172
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@152.236.3.20:8443?type=grpc&security=tls&sni=addons.mozilla.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Latitude.sh ┇ 152.236.3.20
+vless://af2e1391-e1df-4939-906f-93ee993c940e@releases.capitaledge.blog:8448?type=tcp&security=tls&sni=aliusfilms.ru&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Latitude.sh ┇ 152.236.3.19
+hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443?sni=grape-beer.yyuyy.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Latitude.sh ┇ 185.39.31.117
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTGF0aXR1ZGUuc2ggXHUyNTA3IDE3Mi4xMTEuMTQ2LjY0IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@103.50.33.138:8443?type=tcp&security=tls&sni=eze-1.fromblancwithlove.com#AR 🇦🇷 ┇ VLESS-TCP-TLS - Latitude.sh ┇ 103.50.33.138
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Latitude.sh ┇ 172.111.146.64
+vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.18.222.128:443?type=tcp&security=reality&sni=jp.chick-team.ru&fp=firefox&flow=xtls-rprx-vision&pbk=6-REVWq51xr9OwJAE4VlW98QvZN9NCYe3BK5RKd7YBw&sid=c643a34162d37587#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Latitude.sh ┇ 185.18.222.128

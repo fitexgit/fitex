@@ -1,1 +1,4 @@
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.170.217.60:443?type=ws&security=tls&path=/&sni=shuma.ccwu.cc&host=shuma.ccwu.cc&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - WebHorizon Internet Services ┇ 103.170.217.60
+vless://2ce29d82-30ff-4d5e-9f14-19158237adf4@194.5.97.184:443?type=tcp&security=reality&sni=drive.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=NTxE5fnbrIwMXvWbWAKBYRzMfixaioo3NWEewIVrxjg&sid=3d5f458e28#NL 🇳🇱 ┇ VLESS-TCP-REALITY - WebHorizon Internet Services ┇ 194.5.97.184
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@194.5.98.105:8443?type=ws&security=tls&path=/&sni=eded-52n.pages.dev&host=eded-52n.pages.dev&fp=chrome#NO 🇳🇴 ┇ VLESS-WS-TLS - WebHorizon Internet Services ┇ 194.5.98.105
+vless://e48bd3bf-b241-4d18-8b10-743154b05882@194.5.97.158:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - WebHorizon Internet Services ┇ 194.5.97.158

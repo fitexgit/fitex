@@ -1,1 +1,5 @@
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.177:8080?type=ws&security=none&path=/IVApi/NL/0#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.177
+vless://12a781ed-3c49-469b-96a6-984c0115912e@miller.iransatellite.net:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.242.44
+vless://6bd500ff-95eb-a989-164d-25cc67c14eb4@85.133.161.179:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.179
 vless://00e407dc-8d0f-23dd-9b2e-e35ce13d29e8@85.133.161.190:443?type=xhttp&security=tls&path=/US&sni=iran.ir&host=iran.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.190
+vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.161.168

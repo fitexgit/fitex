@@ -1,2 +1,4 @@
-vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@103.134.35.107:22335?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&sid=a2346cd0#JP 🇯🇵 ┇ VLESS-TCP-REALITY - DODO K.K. ┇ 103.134.35.107
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?sni=vpn-jp-016.fastervpn.world&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - DODO K.K. ┇ 103.134.35.37
+vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@103.134.35.107:22335?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - DODO K.K. ┇ 103.134.35.107
+ss://YWVzLTI1Ni1nY206OWFjZmY4MDdjM2Nj@163.61.206.64:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - DODO K.K. ┇ 163.61.206.64
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@103.20.199.101:30860?type=ws&security=none&path=/?ed=2048&sni=v2.yunchun.top&host=v2.yunchun.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - DODO K.K. ┇ 103.20.199.101
