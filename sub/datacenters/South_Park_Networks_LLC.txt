@@ -1,14 +1,3 @@
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:50440?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:43429?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@2a0c:b641:6f0:9b::2:49938?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 2a0c:b641:6f0:9b::2
-hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@185.126.255.78:58944?sni=dxobg4azmk.gafnode.sbs&insecure=1#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?type=tcp&security=tls&sni=www.speedtest.net&fp=chrome#UA 🇺🇦 ┇ VLESS-TCP-TLS - South Park Networks LLC ┇ 185.126.255.180
-vless://15541f39-2a7b-4617-a22f-d800d1742d52@2a0c:b641:6f0:55::2:49364?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 2a0c:b641:6f0:55::2
 vless://v2rayfree1-injas-biya@91.231.182.187:21341?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:56684?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45294?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494?sni=real.getafreenode.sbs&insecure=0#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
+vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none&host=speedtest.net#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@141.105.130.102:443?type=ws&security=tls&path=/pg/10086-dfc816f117c49173&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - South Park Networks LLC ┇ 141.105.130.102
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.98
-vless://27b6e259-9c75-488a-ac60-9fcf520cadd2@141.105.130.195:29345?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.195

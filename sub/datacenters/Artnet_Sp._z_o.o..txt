@@ -1,9 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBcnRuZXQgU3AuIHogby5vLiBcdTI1MDcgMTk0LjE1LjE5Ni4xNzIiLCJhZGQiOiIxOTQuMTUuMTk2LjE3MiIsInBvcnQiOjQ0MywiaWQiOiI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@178.255.41.214:1080#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 178.255.41.214
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@194.15.196.106:8881#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.106
-vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@38.180.51.120:443?type=ws&security=tls&path=/snippets?ip=proxyip:port(443)&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - Artnet Sp. z o.o. ┇ 38.180.51.120
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@178.255.45.189:43893#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 178.255.45.189
-vless://6386ea1b-37da-4493-b922-7c2674c10c06@37.252.10.140:443?type=grpc&security=tls&sni=www.samsung.com&fp=qq#PL 🇵🇱 ┇ VLESS-GRPC-TLS - Artnet Sp. z o.o. ┇ 37.252.10.140
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@194.15.196.106:7306#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.106
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@194.15.196.106:8882#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.106
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@38.180.50.4:8443?type=tcp&security=tls&sni=tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision#PL 🇵🇱 ┇ VLESS-TCP-TLS - Artnet Sp. z o.o. ┇ 38.180.50.4
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@194.15.196.66:5004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.66
+vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBcnRuZXQgU3AuIHogby5vLiBcdTI1MDcgNS4xMzMuMTIuNjMiLCJhZGQiOiI1LjEzMy4xMi42MyIsInBvcnQiOjQ0MywiaWQiOiI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8yMjAxMjgwNzExMDAiLCJ0bHMiOiJ0bHMifQ
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@194.15.196.106:8881#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.106
+vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBcnRuZXQgU3AuIHogby5vLiBcdTI1MDcgMTk0LjE1LjE5Ni4xNzIiLCJhZGQiOiIxOTQuMTUuMTk2LjE3MiIsInBvcnQiOjQ0MywiaWQiOiI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiemxMclJDUkhkWHA0U1NMMHZvSEJT@37.252.10.45:47580#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 37.252.10.45
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@194.15.196.106:7306#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.106
+vless://98ac33d4-b944-4bdb-abf3-97012efa171a@38.244.187.204:8443?type=grpc&security=tls&sni=plhy2.metricpipe.space&fp=firefox#PL 🇵🇱 ┇ VLESS-GRPC-TLS - Artnet Sp. z o.o. ┇ 38.244.187.204

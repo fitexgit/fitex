@@ -1,10 +1,1 @@
-vless://b16e5d29-b874-4070-a8ca-0f93d6818789@sparkconfigg.parsclad.ir:43594?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.248.179
-vless://391521f1-d8ef-489b-9c37-d7df0270501a@l32.magicnetwork.info:443?type=tcp&security=none&host=divarcdn.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.13.96
-vless://2473e31a-adbc-47e5-b58a-c294d0450812@94.184.13.162:4040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.13.162
-vless://09355316-dcae-4830-bb49-54bd09cc0332@94.184.4.157:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.4.157
-vless://316492e0-1801-46a9-a785-c0852149c214@sparkconfig.parsclad.ir:7378?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=1hrU2O7Hads4EW7IWaubuDZmVQXKHtUfaUrtXLtcZhw&sid=78#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Saeid Shahrokhi ┇ 5.10.248.179
-vless://316492e0-1801-46a9-a785-c0852149c214@sparkconfig.parsclad.ir:56408?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=igieZCZLRmmQL7kS4JAz3jz0k97PpgjU86RLy5B95Tw&sid=fd655cb2cec4f95e#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Saeid Shahrokhi ┇ 5.10.248.179
-vless://33bb7e7c-ff37-49cd-b199-402d8f8bc1e3@94.184.13.37:8368?type=tcp&security=none&host=sheypoor.com#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 94.184.13.37
-vless://4cf3ca56-ebc7-48d9-a240-3262d1046625@sparkconfig.parsclad.ir:56408?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=igieZCZLRmmQL7kS4JAz3jz0k97PpgjU86RLy5B95Tw&sid=14db07fe#IR 🇮🇷 ┇ VLESS-TCP-REALITY - Saeid Shahrokhi ┇ 5.10.248.179
-vless://fa75fd99-1ae6-4cb2-86a6-a41fb65ab4c4@5.10.249.14:29988?type=ws&security=none&path=/&host=anten.ir#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saeid Shahrokhi ┇ 5.10.249.14
-vless://224859e8-cc60-448b-858a-9aa2f03cbd3e@94.184.4.42:22797?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saeid Shahrokhi ┇ 94.184.4.42
+vless://fa75fd99-1ae6-4cb2-86a6-a41fb65ab4c4@5.10.249.14:29988?type=ws&security=tls&path=/&sni=anten.ir&host=anten.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Saeid Shahrokhi ┇ 5.10.249.14

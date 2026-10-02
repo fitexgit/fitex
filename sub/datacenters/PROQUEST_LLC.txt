@@ -1,5 +1,4 @@
-vless://e8d06b09-acd9-448c-9874-3c36151d36ee@165.215.250.16:443?type=ws&security=tls&path=/?ed=2048&sni=icy-wildflower-2590.lihuifeng595.workers.dev&host=icy-wildflower-2590.lihuifeng595.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST LLC ┇ 165.215.250.16
-vless://InternetAzadRobot@165.215.250.14:2087?type=tcp&security=tls&sni=ws.kheybar.store&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - PROQUEST LLC ┇ 165.215.250.14
-vless://32f1b878-3b34-4070-863e-055a3cc714bc@165.215.250.12:2095?type=ws&security=none&path=/&host=gr1.monopolitass.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - PROQUEST LLC ┇ 165.215.250.12
-vless://c9aa956c-d53f-4b2e-827d-aa27fa7d5900@165.215.250.12:2086?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROQUEST LLC ┇ 165.215.250.12
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@165.215.250.129:443?type=tcp&security=none&path=/43.218.77.16#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROQUEST LLC ┇ 165.215.250.129
+vless://32f1b878-3b34-4070-863e-055a3cc714bc@165.215.250.12:2095?type=ws&security=none&host=gr1.monopolitass.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - PROQUEST LLC ┇ 165.215.250.12
+vless://e8d06b09-acd9-448c-9874-3c36151d36ee@165.215.250.16:443?type=ws&security=tls&path=/&sni=icy-wildflower-2590.lihuifeng595.workers.dev&host=icy-wildflower-2590.lihuifeng595.workers.dev#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST LLC ┇ 165.215.250.16
+vless://f7b750e4-289e-4a1c-b929-60de654fa001@165.215.250.12:8443?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROQUEST LLC ┇ 165.215.250.12
+vless://e52c6cca-6805-4cc7-a1da-34b212d68a21@165.215.250.14:2096?type=ws&security=tls&path=/&sni=ez-d7807d.ezaccess15f2d17.workers.dev&host=ez-d7807d.ezaccess15f2d17.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - PROQUEST LLC ┇ 165.215.250.14
