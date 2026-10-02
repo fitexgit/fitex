@@ -1,2 +1,2 @@
-vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@176.117.75.143:2087?type=grpc&security=tls&sni=www.cloudflare.com&fp=chrome#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Serverius Holding B.V. ┇ 176.117.75.143
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?type=tcp&security=none&host=fast.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serverius Holding B.V. ┇ 91.198.77.59
+vless://82f726c1-9d81-4ec5-881d-2da53a4d1a38@91.198.77.59:650?type=tcp&security=reality&sni=dolat.ir&host=tamin.ir&fp=chrome&pbk=aMttwESaYXl_Gh2EOT8BHNGkX7K9n_7iQg8a0SEs5R4#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Serverius Holding B.V. ┇ 91.198.77.59
