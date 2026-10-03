@@ -1,4 +1,1 @@
-vless://c928859b-424d-429c-b1fe-c99137af7c4b@151.244.30.176:443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&fp=chrome&flow=xtls-rprx-vision&pbk=V4MbF_aWSZ8bw6WbRL_wApaf4uagzBnu0c62g3dyNQY&sid=c16225938b61882e#CA 🇨🇦 ┇ VLESS-TCP-REALITY - 12651980 CANADA INC. ┇ 151.244.30.176
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443?sni=iq5ny.pleiades.codes&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - 12651980 CANADA INC. ┇ 81.168.62.17
-vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@179.61.227.145:2083?type=tcp&security=reality&sni=assets.pleiades.codes&fp=chrome&flow=xtls-rprx-vision&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c#IN 🇮🇳 ┇ VLESS-TCP-REALITY - 12651980 CANADA INC. ┇ 179.61.227.145
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@151.247.193.5:8443?sni=iq5ny.pleiades.codes&insecure=0#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - 12651980 CANADA INC. ┇ 151.247.193.5
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@179.61.227.145:2083?type=tcp&security=reality#IN 🇮🇳 ┇ VLESS-TCP-REALITY - 12651980 CANADA INC. ┇ 179.61.227.145
