@@ -1,12 +1,5 @@
-vless://307998ce-9dc2-473b-81bb-6c359817df5c@185.185.69.251:2200?type=ws&security=none&path=/v1&host=rzd.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 185.185.69.251
-vless://d95161a0-7453-472d-81eb-6de879024114@186.246.54.124:26146?type=tcp&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=d4f2a3a536b962#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 186.246.54.124
-vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?type=ws&security=none&path=/v1&host=live.ok.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 185.185.69.26
-vless://0e49e208-e09e-49bc-afee-2907e5419107@80.64.24.118:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 80.64.24.118
-vless://fab39305-3019-4ea3-b807-912cec95b449@141.8.199.198:2200?type=ws&security=none&sni=rzd.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 141.8.199.198
-vless://fc72e947-b8dd-4de0-9ec7-2b0050c9f83a@141.8.199.212:4100?type=ws&security=none&path=/v1&host=live.ok.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 141.8.199.212
-vless://3bfa9b24-6e07-4587-a1cd-5a228acbf124@45.142.44.47:8443?type=tcp&security=reality&sni=blog.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#RU 🇷🇺 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 45.142.44.47
-vless://67f06be5-3ebc-48f4-942b-94b5bdc7349b@186.246.54.124:26146?type=tcp&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=be#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 186.246.54.124
 vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:5000?type=tcp&security=reality&sni=www.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&sid=ec4a18#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 191.44.32.103
-vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:2200?type=ws&security=none&sni=rzd.ru#RU 🇷🇺 ┇ VLESS-WS-NTLS - Sprinthost.ru LLC ┇ 185.185.69.26
+hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@85.235.205.212:56410?sni=dxobg4azmk.gafnode.sbs&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - Sprinthost.ru LLC ┇ 85.235.205.212
+vless://d95161a0-7453-472d-81eb-6de879024114@186.246.54.124:26146?type=tcp&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=d4f2a3a536b962#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 186.246.54.124
 vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:50064?type=tcp&security=reality&sni=www.vk.com&fp=firefox&flow=xtls-rprx-vision&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&sid=ae85b4253042d74b#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 191.44.32.103
-vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@212.60.4.188:26146?type=tcp&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=d4f2a3a536b962#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 212.60.4.188
+vless://67f06be5-3ebc-48f4-942b-94b5bdc7349b@186.246.54.124:26146?type=tcp&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=be#BY 🇧🇾 ┇ VLESS-TCP-REALITY - Sprinthost.ru LLC ┇ 186.246.54.124

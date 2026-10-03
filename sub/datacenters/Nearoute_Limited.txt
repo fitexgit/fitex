@@ -1,6 +1,8 @@
-vless://d17a1e53-09c7-4174-aed8-033c01d39038@103.137.215.189:443?type=tcp&security=reality&path=/&sni=www.apple.com&host=www.apple.com&fp=safari&flow=xtls-rprx-vision&pbk=zPB0R1XcjjUCEWWXVrt4UAKXPFtFDVsrEQueuBRmKwA&sid=aa76df495eafba20#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Nearoute Limited ┇ 103.137.215.189
+hysteria2://w8P7v2K4v6Y1e@2a12:bec0:165:1e8:::443?insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 2a12:bec0:165:1e8::
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?sni=vpn-jp-010.fastervpn.world&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 116.206.92.123
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443?sni=vpn-jp-005.fastervpn.world&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 116.206.92.69
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 116.206.92.123
-vless://ea1c1e20-7263-4b08-a01b-690b29af66b3@103.137.215.122:443?type=tcp&security=reality#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Nearoute Limited ┇ 103.137.215.122
-vless://e28c2204-a259-4f0c-b9a5-57e390fc3ab0@103.137.215.233:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k_w0QOrnHpsCOiQsz-EY7NZs14BpB2fn2_zHt0UTMGw&sid=d8324dce91b5c3a6#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Nearoute Limited ┇ 103.137.215.233
-vless://cf16297a-79ef-454b-94e3-030ae8503886@103.137.215.177:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Vwm4rDhe5zEjYsSO9vcR0zdeansCTL6GOtXXNWlZXG0&sid=0123456789abcdef#JP 🇯🇵 ┇ VLESS-TCP-REALITY - Nearoute Limited ┇ 103.137.215.177
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?sni=vpn-jp-011.fastervpn.world&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 116.206.92.234
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 116.206.92.109
+hysteria2://a28e61d9-61f9-4058-be6c-cc4ad07e01a4@hk02.tehuicloud.top:57338?sni=hk02.tehuicloud.top&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 38.207.142.38
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5lYXJvdXRlIExpbWl0ZWQgXHUyNTA3IDExNi4yMDYuOTIuMTg0IiwiYWRkIjoiMTE2LjIwNi45Mi4xODQiLCJwb3J0IjoyODk3NiwiaWQiOiJkMWYxMDIyYi1jZDQzLTQ5ZTQtYjczNi03NzQ0ZDFlMTFhNzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5lYXJvdXRlIExpbWl0ZWQgXHUyNTA3IDEwMy4xMDAuMTU4LjE4IiwiYWRkIjoiMTAzLjEwMC4xNTguMTgiLCJwb3J0IjoyOTAyNSwiaWQiOiJjNDVhYjYyZS01ZDI1LTQ4NmEtZjkxZS04MDdmZTRiOWMyM2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9

@@ -1,6 +1,3 @@
-vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@141.0.187.52:2083?type=ws&security=tls&path=/vless-ws&sni=crt.dodopanel.biz&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Alfahost LLC ┇ 141.0.187.52
-vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?type=tcp&security=reality&sni=node5.telegavpn.org&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Alfahost LLC ┇ 144.31.24.89
-vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?type=ws&security=tls&path=/vless-ws&sni=crt.dodopanel.biz&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Alfahost LLC ┇ 141.0.187.16
 vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@141.0.187.53:2083?type=ws&security=tls&path=/vless-ws&sni=crt.dodopanel.biz&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Alfahost LLC ┇ 141.0.187.53
-vless://0780b3f0-4eef-4bc8-b01e-a329cdc48b83@144.31.24.85:8443?type=grpc&security=reality&sni=ads.x5.ru&mode=gun&fp=qq&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#NL 🇳🇱 ┇ VLESS-GRPC-REALITY - Alfahost LLC ┇ 144.31.24.85
-vless://3fde8314-1e32-45c1-a88b-0c58a93a3538@141.0.187.28:2083?type=ws&security=tls&path=/vless-ws&sni=crt.onecloudstream.com&fp=random#EE 🇪🇪 ┇ VLESS-WS-TLS - Alfahost LLC ┇ 141.0.187.28
+vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@141.0.187.52:2083?type=ws&security=tls&path=/vless-ws&sni=crt.dodopanel.biz&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Alfahost LLC ┇ 141.0.187.52
+vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?type=ws&security=tls&path=/vless-ws&sni=crt.dodopanel.biz&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - Alfahost LLC ┇ 141.0.187.16
