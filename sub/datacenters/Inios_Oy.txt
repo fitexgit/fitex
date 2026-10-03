@@ -1,1 +1,4 @@
-vless://3d9daa27-6283-406d-a2d4-c6f22c635a14@153.52.117.131:443?type=grpc&security=tls&sni=fi.astrafic.ru&mode=gun&fp=chrome#FI 🇫🇮 ┇ VLESS-GRPC-TLS - Inios Oy ┇ 153.52.117.131
+vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?type=grpc&security=none&mode=gun#FI 🇫🇮 ┇ VLESS-GRPC-NTLS - Inios Oy ┇ 141.0.184.113
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@141.0.184.240:7443?type=tcp&security=reality&sni=fi2.routeliora.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=e1f2a3b4#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 141.0.184.240
+vless://98fdfffe-28d8-4580-a4d1-2d7e15bdde4a@141.0.184.187:8443?type=tcp&security=reality&sni=cdn.jsdelivr.net&fp=firefox&flow=xtls-rprx-vision&pbk=NGze952SdwNsPo_v2VgZJE9-vuwwj4dn_wTQZtZTThM&sid=209f2958ef7626ec#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 141.0.184.187
+vless://1156d5bd-5e86-4d83-93ff-a40ffd8d18b5@163.5.153.155:443?type=tcp&security=reality&sni=163-5-153-155.cdn-one.org&fp=firefox&flow=xtls-rprx-vision&pbk=THV6UE0GWSkqKIjdRA91mtlXGlEr0T8hHqj7dWZ-Xnk&sid=87668dfdf96ae2c5#FI 🇫🇮 ┇ VLESS-TCP-REALITY - Inios Oy ┇ 163.5.153.155

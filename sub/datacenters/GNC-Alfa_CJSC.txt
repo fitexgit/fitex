@@ -1,3 +1,6 @@
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 77.91.68.70
-vless://M75iXJmnlyAiXS@88.218.92.201:443?type=tcp&security=reality&sni=www.heise.de&fp=chrome&flow=xtls-rprx-vision&pbk=HUVDj9wYqh-S8KLlrcfwk_NQLqWCmNgHGjPjaOadG2g&sid=4fff3fcd#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 88.218.92.201
 vless://d097ade5-225a-4a50-9f0e-fae258aa4d0c@am.c2horizon.app:443?type=tcp&security=reality&sni=am.c2horizon.app&fp=qq&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 77.91.68.206
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@88.218.94.10:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision#AM 🇦🇲 ┇ VLESS-TCP-TLS - GNC-Alfa CJSC ┇ 88.218.94.10
+vless://M75iXJmnlyAiXS@88.218.92.201:443?type=tcp&security=reality&sni=www.heise.de&fp=chrome&flow=xtls-rprx-vision&pbk=HUVDj9wYqh-S8KLlrcfwk_NQLqWCmNgHGjPjaOadG2g&sid=4fff3fcd#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 88.218.92.201
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 77.91.68.70
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-REALITY - GNC-Alfa CJSC ┇ 88.218.94.97
+vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?type=grpc&security=none&mode=gun#AM 🇦🇲 ┇ VLESS-GRPC-NTLS - GNC-Alfa CJSC ┇ 88.218.95.8

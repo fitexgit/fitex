@@ -1,2 +1,2 @@
-vless://c9f992e1-e838-4130-a2cd-81997b62f65e@185.249.199.100:8585?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - ZAP-Hosting GmbH ┇ 185.249.199.100
-vless://645da6ec-876b-44c9-8fdc-2d0c4715ffd0@de.whalon.top:443?type=tcp&security=reality&sni=de.whalon.top&fp=chrome&flow=xtls-rprx-vision&pbk=v1IeaDFVRDohxTWfnsoiWI3-vZCj6pbli30r2az_TXU#DE 🇩🇪 ┇ VLESS-TCP-REALITY - ZAP-Hosting GmbH ┇ 88.214.58.67
+vless://ffbcd962-980f-4b80-a1d4-674b484785cf@88.214.58.123:443?type=tcp&security=reality&sni=telewebion.com&fp=chrome&flow=xtls-rprx-vision&pbk=jOhlAzHfiutlIyaIjCTbuyLBMjrBNEArENbM94Zli3c&sid=1d0ff104f01e2d8c#DE 🇩🇪 ┇ VLESS-TCP-REALITY - ZAP-Hosting GmbH ┇ 88.214.58.123
+vless://4d9c9461-a3c4-4f00-98a8-a5de070b0134@88.214.57.155:85?type=tcp&security=reality&sni=telewebion.com&fp=chrome&flow=xtls-rprx-vision&pbk=5ToGeBMEkgUflG4TBlPgQuBMxbDdcDfsP0Ymzhw4aCM&sid=562cb1a3a1b8a224#DE 🇩🇪 ┇ VLESS-TCP-REALITY - ZAP-Hosting GmbH ┇ 88.214.57.155

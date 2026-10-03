@@ -1,2 +1,5 @@
-vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?type=tcp&security=reality&sni=china.letsconnectpoint.com&flow=xtls-rprx-vision&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&sid=3b74d85e#RU 🇷🇺 ┇ VLESS-TCP-REALITY - ADCDATA.COM ┇ 139.28.168.201
 vless://49c8e76e-7e52-426a-8669-51d93c7a6d12@hk1.xt-game.top:443?type=tcp&security=tls&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - ADCDATA.COM ┇ 139.28.168.53
+vless://914f3806-07a1-4158-9624-e183de065a38@china.letsconnectpoint.com:443?type=raw&security=reality&sni=china.letsconnectpoint.com&fp=random&flow=xtls-rprx-vision&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&sid=3b74d85e#RU 🇷🇺 ┇ VLESS-RAW-REALITY - ADCDATA.COM ┇ 139.28.168.201
+vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?type=tcp&security=reality&sni=china.letsconnectpoint.com&flow=xtls-rprx-vision&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&sid=3b74d85e#RU 🇷🇺 ┇ VLESS-TCP-REALITY - ADCDATA.COM ┇ 139.28.168.201
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@139.28.168.91:9443?type=tcp&security=none&fp=firefox#RU 🇷🇺 ┇ VLESS-TCP-NTLS - ADCDATA.COM ┇ 139.28.168.91
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@139.28.168.91:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=i99m8BfB43elnzSqXUjP2dW1oQHNwg_Tx7O9x2dGfVM&sid=bdb1a66a#RU 🇷🇺 ┇ VLESS-TCP-REALITY - ADCDATA.COM ┇ 139.28.168.91

@@ -1,1 +1,2 @@
-vless://6289e370-171a-45de-8b3d-a778c3431fab@193.57.9.254:8080?type=tcp&security=reality&sni=prod.pl-node-01.security-sbrf.ru&fp=chrome&flow=xtls-rprx-vision&pbk=jtt87m7W1EJc2UPZkYOHQ6PZ2z8Gds9vF1KGuS-uowo&sid=b234#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Onidel Pty Ltd ┇ 193.57.9.254
+vless://6289e370-171a-45de-8b3d-a778c3431fab@193.57.9.254:8080?type=tcp&security=none&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Onidel Pty Ltd ┇ 193.57.9.254
+vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@support.zoom.us.a.xiazitong.zone.id:2087?type=ws&security=tls&path=/?ed=2560&sni=support.zoom.us.a.xiazitong.zone.id&host=support.zoom.us.a.xiazitong.zone.id&fp=randomized#AU 🇦🇺 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 216.176.239.254
