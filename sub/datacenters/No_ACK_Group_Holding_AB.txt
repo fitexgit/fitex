@@ -1,2 +1,1 @@
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - No ACK Group Holding AB ┇ 185.231.101.88
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?type=tcp&security=reality#SE 🇸🇪 ┇ VLESS-TCP-REALITY - No ACK Group Holding AB ┇ 185.231.102.221
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?type=tcp&security=reality&sni=se.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#SE 🇸🇪 ┇ VLESS-TCP-REALITY - No ACK Group Holding AB ┇ 185.231.101.88
