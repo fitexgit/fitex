@@ -1,8 +1,8 @@
-vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@us-2.srv.dvzh.net:443?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Kamatera, Inc. ┇ 185.53.209.67
-vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none&host=account.xiaomi.com#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Kamatera, Inc. ┇ 185.47.172.174
-vless://f978f967-5726-42f1-e023-58e0b01abb93@103.252.119.61:45678?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Kamatera, Inc. ┇ 103.252.119.61
-vless://f097453b-5fa6-48a7-a164-7fe7ef89a140@185.159.75.160:1443?type=tcp&security=reality&sni=www.github.com&fp=firefox&flow=xtls-rprx-vision&pbk=LM5y6SHLrbW00XvaN030dTyz8OFsxpb7mjFb84p3LUw&sid=2ce30d4ba28b2e97#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Kamatera, Inc. ┇ 185.159.75.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 193.168.175.56
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 45.130.165.90
+vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@us-2.srv.dvzh.net:443?type=tcp&security=reality&sni=us-2.srv.dvzh.net&fp=firefox&flow=xtls-rprx-vision&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=d30f9d846a7c8cba#US 🇺🇸 ┇ VLESS-TCP-REALITY - Kamatera, Inc. ┇ 185.53.209.67
+vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?type=tcp&security=none&host=account.xiaomi.com#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Kamatera, Inc. ┇ 185.47.172.174
 vless://4e3ba5d7-377c-4199-8c18-00e36ff036ff@185.53.209.67:443?type=tcp&security=reality&sni=us-2.srv.dvzh.net&fp=safari&flow=xtls-rprx-vision&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=e0ccc8c2f487d913#US 🇺🇸 ┇ VLESS-TCP-REALITY - Kamatera, Inc. ┇ 185.53.209.67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 103.241.66.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera, Inc. ┇ 45.130.165.90
+vless://f097453b-5fa6-48a7-a164-7fe7ef89a140@185.159.75.160:1443?type=tcp&security=reality&sni=www.github.com&fp=firefox&flow=xtls-rprx-vision&pbk=LM5y6SHLrbW00XvaN030dTyz8OFsxpb7mjFb84p3LUw&sid=2ce30d4ba28b2e97#NL 🇳🇱 ┇ VLESS-TCP-REALITY - Kamatera, Inc. ┇ 185.159.75.160
+vless://f978f967-5726-42f1-e023-58e0b01abb93@103.252.119.61:45678?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Kamatera, Inc. ┇ 103.252.119.61
