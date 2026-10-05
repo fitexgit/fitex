@@ -1,1 +1,1 @@
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@193.142.59.180:10829?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostshield Ltd ┇ 193.142.59.180
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@193.142.59.180:10829?type=tcp&security=tls&sni=u695098u3b5ab61cs124.gogocs.xyz&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Hostshield Ltd ┇ 193.142.59.180
