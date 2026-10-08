@@ -1,2 +1,3 @@
-vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.44:2083?type=tcp&security=none&path=/vless-ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UXHOST LTD ┇ 45.88.12.44
-vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.36:2083?type=tcp&security=none&path=/vless-ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UXHOST LTD ┇ 45.88.12.36
+vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.36:2083?type=ws&security=tls&path=/vless-ws&sni=crt.viktorthebest.lol#DE 🇩🇪 ┇ VLESS-WS-TLS - UXHOST LTD ┇ 45.88.12.36
+vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.44:2083?type=ws&security=tls&path=/vless-ws&sni=crt.viktorthebest.lol#DE 🇩🇪 ┇ VLESS-WS-TLS - UXHOST LTD ┇ 45.88.12.44
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.46:9443?sni=onecloudstream.com&insecure=1#LV 🇱🇻 ┇ HYSTERIA2-TCP-NTLS - UXHOST LTD ┇ 104.165.205.46
