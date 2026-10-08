@@ -1,22 +1,22 @@
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.124:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.229.124
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.25:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.229.25
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.178.238:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.178.238
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.27:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.235.27
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.142:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 158.247.123.142
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.5:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 157.137.221.5
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.139:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 157.137.220.139
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.176.140
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.242:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 149.130.171.242
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.238.218:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 157.137.238.218
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.5:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 157.137.221.5
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.236:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.224.236
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?type=tcp@freenettir&security=none#CO 🇨🇴 ┇ VLESS-TCP@FREENETTIR-NTLS - Oracle Corporation ┇ 157.137.213.216
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.25:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.229.25
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.218.67:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.218.67
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.183.151
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.102:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.179.102
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.139:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 157.137.220.139
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.13:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 149.130.179.13
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.228.71:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.228.71
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.252:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.236.252
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - InterBS S.R.L. (BAEHOST) ┇ 131.255.4.219
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.178.238:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.178.238
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.242:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 149.130.171.242
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.238.218:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 157.137.238.218
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.27:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.235.27
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 158.247.125.162
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.236:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.224.236
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.126:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 157.137.229.126
 vmess://eyJ2IjoiMiIsInBzIjoiQ08gXHVkODNjXHVkZGU4XHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSwgSW5jLiBcdTI1MDcgMTcyLjY0LjIwNy4yMzIiLCJhZGQiOiIxNzIuNjQuMjA3LjIzMiIsInBvcnQiOjIwOTUsImlkIjoiNDE3ZDI3ZmItY2I5My0zYmQ4LTliZjctNzFjZDkxMzE5ODIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvaGdjZWZvbW4ifQ
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.102:62145?type=tcp&security=none#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.179.102
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - InterBS S.R.L. (BAEHOST) ┇ 131.255.4.219
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.142:62145?type=tcp&security=false&path=/&fp=chrome#CO 🇨🇴 ┇ VLESS-TCP-FALSE - Oracle Corporation ┇ 158.247.123.142
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?type=tcp&security=none&path=/#CO 🇨🇴 ┇ VLESS-TCP-NTLS - Oracle Corporation ┇ 149.130.183.151
