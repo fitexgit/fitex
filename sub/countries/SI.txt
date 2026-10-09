@@ -1,5 +1,5 @@
-vless://322710c4-eef9-45ea-ad10-1efa1c6767d0@node-slo01.rkitman.ru:443?type=tcp&security=reality&sni=node-slo01.rkitman.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd#SI 🇸🇮 ┇ VLESS-TCP-REALITY - Pipe Networks LTD ┇ 92.42.201.102
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?type=ws&security=none&host=vms.lifetime19.workers.dev#SI 🇸🇮 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.53.189.40
 vless://50414e45-4c5f-5a45-5553-f42c641ffe6e@92.53.189.132:8880?type=ws&security=none&path=/stream/PANEL_ZEUS/f42c641ffe6e&host=xozhtlekujts.akbar-25mor.workers.dev#SI 🇸🇮 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.53.189.132
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.49
+vless://322710c4-eef9-45ea-ad10-1efa1c6767d0@node-slo01.rkitman.ru:443?type=tcp&security=reality&sni=node-slo01.rkitman.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd#SI 🇸🇮 ┇ VLESS-TCP-REALITY - Pipe Networks LTD ┇ 92.42.201.102
 vless://fb5058f5-a9ed-424e-9ed7-33d455438286@92.53.189.2:8880?type=ws&security=none&path=/pyip=Telegram🇨🇳 @WangCai2&sni=92.53.189.2&host=old-violet-a5ce.29-440.workers.dev#SI 🇸🇮 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.53.189.2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?type=ws&security=none&host=vms.lifetime19.workers.dev#SI 🇸🇮 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.53.189.40
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.49
