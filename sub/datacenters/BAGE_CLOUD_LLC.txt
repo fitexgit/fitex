@@ -1,2 +1,1 @@
-vless://b488a893-d63f-46b5-94ce-b0f99b2ab02d@23.172.40.108:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=random&flow=xtls-rprx-vision&pbk=RU8nrGj6a65ZG4S5LYDS7pmAon5TobdFEczBUCOFOTc&sid=b89123f0#US 🇺🇸 ┇ VLESS-TCP-REALITY - BAGE CLOUD LLC ┇ 23.172.40.108
-vless://0250424c-ae75-4b6b-890f-3fe26fae36c3@85.149.211.28:8443?type=ws&security=tls&path=/cdn/packages/runtime-core.tar.gz&sni=hk.152568.xyz&host=hk.152568.xyz&fp=edge#SG 🇸🇬 ┇ VLESS-WS-TLS - BAGE CLOUD LLC ┇ 85.149.211.28
+vless://f79cb3fa-70b7-4dc5-86ce-a02e9528c3c3@23.172.40.108:20808?type=raw&security=reality&sni=shop-eu-en.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=WIZniiSMNsJ82J5Ee4YthKavyreqYxxz1PyqKbWbQQI&sid=b4#US 🇺🇸 ┇ VLESS-RAW-REALITY - BAGE CLOUD LLC ┇ 23.172.40.108
