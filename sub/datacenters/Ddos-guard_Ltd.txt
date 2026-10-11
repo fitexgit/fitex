@@ -1,5 +1,5 @@
-vless://45c01b92-f212-4ee8-be5b-5b6d17386aee@95.129.234.36:7443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Ddos-guard Ltd ┇ 95.129.234.36
+vless://45c01b92-f212-4ee8-be5b-5b6d17386aee@95.129.234.36:10443?type=tcp&security=tls&sni=rus-spb-4.wooden-table.org&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Ddos-guard Ltd ┇ 95.129.234.36
+vless://45c01b92-f212-4ee8-be5b-5b6d17386aee@95.129.234.36:9443?type=tcp&security=tls&sni=eh-ger1.country-tools.net&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Ddos-guard Ltd ┇ 95.129.234.36
+vless://45c01b92-f212-4ee8-be5b-5b6d17386aee@95.129.234.36:7443?type=tcp&security=tls&sni=eh-ger2.country-tools.net&fp=firefox&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - Ddos-guard Ltd ┇ 95.129.234.36
 vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?type=ws&security=tls&path=/gateway/v1/ws/a64eb463966ba9c4bfd628f1de0362ae&sni=my.kempekl.online&host=my.kempekl.online&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 91.215.43.248
-vless://45c01b92-f212-4ee8-be5b-5b6d17386aee@95.129.234.36:10443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Ddos-guard Ltd ┇ 95.129.234.36
-vless://45c01b92-f212-4ee8-be5b-5b6d17386aee@95.129.234.36:9443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Ddos-guard Ltd ┇ 95.129.234.36
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?type=ws&security=tls&path=/api/v2/camera/events/8f4c2d&sni=azs.benz.ink#RU 🇷🇺 ┇ VLESS-WS-TLS - Ddos-guard Ltd ┇ 95.129.236.252
