@@ -1,7 +1,6 @@
+vless://533196d3-5d2e-4ff9-be81-cd6a79aca27a@45.88.12.155:2083?type=ws&security=tls&path=/vless-ws&sni=crt.molniya.sbs&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - UXHOST LTD ┇ 45.88.12.155
 vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.50:2083?type=tcp&security=none&path=/vless-ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UXHOST LTD ┇ 140.225.208.50
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.46:9443?sni=onecloudstream.com&insecure=1#LV 🇱🇻 ┇ HYSTERIA2-TCP-NTLS - UXHOST LTD ┇ 104.165.205.46
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443?sni=onecloudstream.com&insecure=1#LV 🇱🇻 ┇ HYSTERIA2-TCP-NTLS - UXHOST LTD ┇ 104.165.205.191
-vless://1e391858-428b-4051-988f-905ad0c3b451@45.88.12.152:2083?type=ws&security=tls&path=/vless-ws&sni=crt.molniya.sbs&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - UXHOST LTD ┇ 45.88.12.152
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?sni=onecloudstream.com&insecure=1#LV 🇱🇻 ┇ HYSTERIA2-TCP-NTLS - UXHOST LTD ┇ 104.165.205.21
-vless://533196d3-5d2e-4ff9-be81-cd6a79aca27a@45.88.12.155:2083?type=tcp&security=none&path=/vless-ws#DE 🇩🇪 ┇ VLESS-TCP-NTLS - UXHOST LTD ┇ 45.88.12.155
 vless://cc4074d6-f450-4025-833a-a6e0100ceaff@45.88.12.151:2083?type=ws&security=tls&path=/vless-ws&sni=crt.molniya.sbs&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - UXHOST LTD ┇ 45.88.12.151
+vless://1e391858-428b-4051-988f-905ad0c3b451@45.88.12.152:2083?type=ws&security=tls&path=/vless-ws&sni=crt.molniya.sbs&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - UXHOST LTD ┇ 45.88.12.152
