@@ -1,1 +1,1 @@
-vless://5298d5c5-0633-4989-95c8-68ee13cd507e@93.123.39.84:443?type=tcp&security=none&mode=gun#EE 🇪🇪 ┇ VLESS-TCP-NTLS - QWINS LTD ┇ 93.123.39.84
+vless://5298d5c5-0633-4989-95c8-68ee13cd507e@93.123.39.84:443?type=grpc&security=tls&sni=ee2x.global-cdn.org&mode=gun&fp=chrome#EE 🇪🇪 ┇ VLESS-GRPC-TLS - QWINS LTD ┇ 93.123.39.84
