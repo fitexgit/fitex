@@ -1,4 +1,4 @@
-vless://b0b27f3e-bc4c-4030-879c-b45d19ae2623@104.143.223.230:2085?type=grpc&security=none#AE 🇦🇪 ┇ VLESS-GRPC-NTLS - Prosto Solution LLC ┇ 104.143.223.230
+vless://b0b27f3e-bc4c-4030-879c-b45d19ae2623@104.143.223.230:2085?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Prosto Solution LLC ┇ 104.143.223.230
 vless://71dcf48f-14b6-4e5b-8b42-4644ca8e2c1b@80.243.228.130:2085?type=grpc&security=none&mode=multi#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Prosto Solution LLC ┇ 80.243.228.130
-vless://0e8e8322-854f-4e12-af54-0175f377bcb3@80.243.228.10:2085?type=grpc&security=none&mode=multi#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Prosto Solution LLC ┇ 80.243.228.10
 vless://fe33cc59-c464-4e60-9aff-2793793317bf@80.243.228.84:2085?type=grpc&security=none&mode=multi#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Prosto Solution LLC ┇ 80.243.228.84
+vless://0e8e8322-854f-4e12-af54-0175f377bcb3@80.243.228.10:2085?type=grpc&security=none&mode=multi#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Prosto Solution LLC ┇ 80.243.228.10
