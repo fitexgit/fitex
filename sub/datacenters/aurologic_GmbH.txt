@@ -1,2 +1,1 @@
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443?sni=de5-hy2.veilvpn.life&insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - aurologic GmbH ┇ 172.86.94.97
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433?sni=de1-hy2.veilvpn.life&insecure=0#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - aurologic GmbH ┇ 172.86.95.17
+vless://d9e4985b-ba78-0166-b174-020ec04c1de8@152.89.244.101:443?type=tcp&security=reality&sni=cloudbird.top&fp=firefox&flow=xtls-rprx-vision&pbk=bcy_7CXApQ_XiN6TAjzey8LcFHAhJpLOIeXDA1Lh8Bc#DE 🇩🇪 ┇ VLESS-TCP-REALITY - aurologic GmbH ┇ 152.89.244.101
