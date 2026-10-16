@@ -1,5 +1,4 @@
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - 'Ghita Telekom' ┇ 179.254.71.20
-vless://ab35b0b6-deff-4e00-8d38-b99eb95ad943@nl.applepie-recipe.ru:443?type=tcp&security=tls&sni=kings.applepie-recipe.ru&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - 'Ghita Telekom' ┇ 2.27.243.149
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?type=tcp&security=tls&sni=pl.setlisting.ru&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - 'Ghita Telekom' ┇ 179.254.71.20
+vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@gigx.rpbu.electrocitymarket.ru:443?type=xhttp&security=tls&path=/assets&sni=gigx.rpbu.electrocitymarket.ru&mode=packet-up#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - 'Ghita Telekom' ┇ 94.249.148.43
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@play.murka.fun:443?type=tcp&security=reality&sni=play.murka.fun&fp=random&flow=xtls-rprx-vision&pbk=1iDRaqLgk1t6J54DlCZP0AFfRv8KxUTEa3bpL5nJrD4&sid=1f82ac#NL 🇳🇱 ┇ VLESS-TCP-REALITY - 'Ghita Telekom' ┇ 130.78.190.5
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?type=tcp&security=tls&sni=grok.setlisting.ru&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - 'Ghita Telekom' ┇ 87.192.47.10
-vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@gigx.rpbu.electrocitymarket.ru:443?type=xhttp&security=tls&path=/assets&sni=gigx.rpbu.electrocitymarket.ru&mode=packet-up#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - 'Ghita Telekom' ┇ 94.249.148.43
