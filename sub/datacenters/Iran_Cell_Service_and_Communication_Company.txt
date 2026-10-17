@@ -1,4 +1,9 @@
-vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?type=tcp&security=tls&sni=api.bgp6.ir&host=api.bgp6.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.22.87
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElyYW4gQ2VsbCBTZXJ2aWNlIGFuZCBDb21tdW5pY2F0aW9uIENvbXBhbnkgXHUyNTA3IDIuMTQ0LjEzLjIzMCIsImFkZCI6InN0YXIuc3Rhcm5pY2syMDQwLmlyIiwicG9ydCI6MTExMDAsImlkIjoiMGMyNjVkYzQtMmE2Ni00NTJhLWEwZDctZDU3ZWMxNjVmMDA2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://647f3600-112a-406c-9d19-6d1da58ff041@iron4.gofuc7f.ir:2053?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.30.70
+vless://647f3600-112a-406c-9d19-6d1da58ff041@iron4.gofuc7f.ir:2083?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.30.70
+vless://647f3600-112a-406c-9d19-6d1da58ff041@kaveh4.gofuc7f.ir:2087?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.28.150
+vless://647f3600-112a-406c-9d19-6d1da58ff041@kaveh4.gofuc7f.ir:8443?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.28.150
+vless://647f3600-112a-406c-9d19-6d1da58ff041@kaveh4.gofuc7f.ir:2096?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.28.150
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.4.229
-vless://088b8bab-9f48-4c92-9d81-9cff12bed0d0@iron4.gofuc7f.ir:443?type=xhttp&security=tls&path=/index.php&sni=iron4.gofuc7f.ir&host=iron4.gofuc7f.ir&mode=auto&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Iran Cell Service and Communication Company ┇ 2.144.30.70
+vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?type=tcp&security=tls&sni=api.bgp6.ir&host=api.bgp6.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Cell Service and Communication Company ┇ 2.144.22.87
+vless://647f3600-112a-406c-9d19-6d1da58ff041@iron4.gofuc7f.ir:443?type=tcp&security=none&mode=auto#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Cell Service and Communication Company ┇ 2.144.30.70
