@@ -1,2 +1,3 @@
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?type=tcp&security=reality&sni=de8.bbobr.win&fp=random&flow=xtls-rprx-vision&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&sid=61a96efd3953f8ed#DE 🇩🇪 ┇ VLESS-TCP-REALITY - HFM S.R.L ┇ 188.241.241.181
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?sni=dehy.bbobr.win&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - HFM S.R.L ┇ 188.241.241.33
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - HFM S.R.L ┇ 188.241.241.28
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.123:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - HFM S.R.L ┇ 188.241.241.123
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.33:2053?type=ws&security=tls&path=/?ed=2560&Telegram🇨🇳@WangCai2&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#DE 🇩🇪 ┇ VLESS-WS-TLS - HFM S.R.L ┇ 188.241.241.33
