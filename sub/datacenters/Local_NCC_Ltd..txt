@@ -1,2 +1,2 @@
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?type=tcp&security=reality&sni=cdn.bulkavpn.top&fp=firefox&flow=xtls-rprx-vision&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc#CY 🇨🇾 ┇ VLESS-TCP-REALITY - Local NCC Ltd. ┇ 185.166.154.111
-vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?type=grpc&security=reality&sni=max.ru&mode=gun&fp=ios&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&sid=35debf0dc757d053#SC 🇸🇨 ┇ VLESS-GRPC-REALITY - Local NCC Ltd. ┇ 45.145.12.148
+vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?type=grpc&security=reality&sni=max.ru&mode=multi&fp=firefox&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&sid=35debf0dc757d053#SC 🇸🇨 ┇ VLESS-GRPC-REALITY - Local NCC Ltd. ┇ 45.145.12.148
