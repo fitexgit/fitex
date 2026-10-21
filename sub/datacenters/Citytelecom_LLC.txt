@@ -1,1 +1,4 @@
-vless://0a89f660-04a8-4377-b91f-bd3cb3a56492@185.229.9.175:443?type=raw&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=2QoNARj5aaa5-kUEiwx38KzbbiENQZ95V7x9jFo6f2A&sid=88a84e3390fcf4a7#RU 🇷🇺 ┇ VLESS-RAW-REALITY - Citytelecom LLC ┇ 185.229.9.175
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:12443?type=grpc&security=tls&sni=master-proxy.lighthouselabs.online&mode=gun&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Citytelecom LLC ┇ 147.45.219.149
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@147.45.219.149:10443?type=tcp&security=tls&sni=master-proxy.lighthouselabs.online#RU 🇷🇺 ┇ VLESS-TCP-TLS - Citytelecom LLC ┇ 147.45.219.149
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@95.181.213.250:8443?type=tcp&security=tls&sni=master-proxy.lighthouselabs.online#RU 🇷🇺 ┇ VLESS-TCP-TLS - Citytelecom LLC ┇ 95.181.213.250
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@212.119.42.120:8445?type=grpc&security=tls&sni=master-proxy.lighthouselabs.online&mode=gun&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Citytelecom LLC ┇ 212.119.42.120
