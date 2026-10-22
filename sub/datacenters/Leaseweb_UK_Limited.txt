@@ -1,2 +1,2 @@
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?type=tcp&security=reality#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Leaseweb UK Limited ┇ 23.81.36.148
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:8080?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - Leaseweb UK Limited ┇ 23.81.36.148
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f#GB 🇬🇧 ┇ VLESS-TCP-REALITY - Leaseweb UK Limited ┇ 23.81.36.148
