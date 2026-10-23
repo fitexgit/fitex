@@ -1,2 +1,1 @@
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&path=/&sni=sub.mot.ip-ddns.com&host=sub.mot.ip-ddns.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Florian Kolb ┇ 37.114.50.157
-vless://ffd57de6-db06-475c-9a4b-11d27432ff25@45.142.106.5:443?type=tcp&security=reality&sni=repo1.maven.org&fp=chrome&flow=xtls-rprx-vision&pbk=tqPwuZoPZZks7C1fejwD28eVx4oaMUEULfYXGNK0PCI&sid=1ccee586cf70ad1c#DE 🇩🇪 ┇ VLESS-TCP-REALITY - Florian Kolb ┇ 45.142.106.5
