@@ -1,5 +1,5 @@
-vless://12e95f93-443c-45f0-9a2a-5b318b9124cf@179.255.191.86:443?type=tcp&security=reality&sni=dobro.ali-bard.online&fp=firefox&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Host Telecom Ltd ┇ 179.255.191.86
-vless://3eec23c1-2a0d-4d53-afa5-62745a1f5ffe@170.168.4.59:17170?type=grpc&security=tls&sni=northerntrail.gazette.help&fp=chrome#FI 🇫🇮 ┇ VLESS-GRPC-TLS - Host Telecom Ltd ┇ 170.168.4.59
-vless://69da3674-4941-468b-96f0-c17cf5b0a047@179.255.176.28:8443?type=ws&security=tls&path=/assets&sni=fra.yandex-api.store&fp=firefox#SC 🇸🇨 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 179.255.176.28
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?type=ws&security=tls&path=/assets&sni=itly.yandex-api.store&fp=firefox#IT 🇮🇹 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 179.255.190.43
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@179.255.190.21:443?type=ws&security=tls&path=/&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 179.255.190.21
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?type=ws&security=tls&path=/assets&sni=itly.yandex-api.store&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 179.255.190.43
+vless://69da3674-4941-468b-96f0-c17cf5b0a047@179.255.176.28:8443?type=ws&security=tls&path=/assets&sni=fra.yandex-api.store&fp=firefox#SC 🇸🇨 ┇ VLESS-WS-TLS - Host Telecom Ltd ┇ 179.255.176.28
+vless://3eec23c1-2a0d-4d53-afa5-62745a1f5ffe@170.168.4.59:17170?type=grpc&security=tls&sni=northerntrail.gazette.help&fp=chrome#FI 🇫🇮 ┇ VLESS-GRPC-TLS - Host Telecom Ltd ┇ 170.168.4.59
+vless://12e95f93-443c-45f0-9a2a-5b318b9124cf@179.255.191.86:443?type=tcp&security=reality&sni=dobro.ali-bard.online&fp=firefox&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I#CH 🇨🇭 ┇ VLESS-TCP-REALITY - Host Telecom Ltd ┇ 179.255.191.86
