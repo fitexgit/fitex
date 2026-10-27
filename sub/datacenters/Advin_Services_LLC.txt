@@ -1,6 +1,6 @@
+vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.100.209
 vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#US 🇺🇸 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 142.248.80.157
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFkdmluIFNlcnZpY2VzIExMQyBcdTI1MDcgMjA4Ljg0LjEwMC4xNzUiLCJhZGQiOiJ1c2Euc2VscW9yYS5pciIsInBvcnQiOjIwNzI4LCJpZCI6ImZmOTZjYjNiLTRjN2UtNGY2NS1hNjliLTNmODY3MGQzNDUwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:2112?type=raw&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3#US 🇺🇸 ┇ VLESS-RAW-REALITY - Advin Services LLC ┇ 208.84.100.209
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Advin Services LLC ┇ 208.84.100.209
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:2112?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3#US 🇺🇸 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 208.84.100.209
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-REALITY - Advin Services LLC ┇ 193.160.32.36
