@@ -1,5 +1,5 @@
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@94.103.168.125:2087?type=ws&security=tls&path=/hokm&sni=sdcdethyerft.localip.ir&host=sdcdethyerft.localip.ir&fp=safari#DE 🇩🇪 ┇ VLESS-WS-TLS - Kabat OU ┇ 94.103.168.125
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.52:2087?type=ws&security=tls&path=/hokm&sni=fert1qswdfegrthy.localip.ir&host=fert1qswdfegrthy.localip.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - Kabat OU ┇ 94.103.168.52
-vless://ecbe8dbc-44f7-4275-8a6c-b0976a7bb5c8@94.103.168.57:2087?type=xhttp&security=tls&path=/retasokrer&sni=spp1.localip.ir&host=spp1.localip.ir&mode=stream-one#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Kabat OU ┇ 94.103.168.57
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?type=tcp&security=none&path=/hokm#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Kabat OU ┇ 94.103.168.133
+vless://ecbe8dbc-44f7-4275-8a6c-b0976a7bb5c8@94.103.168.57:2087?type=xhttp&security=tls&path=/retasokrer&sni=spp1.localip.ir&host=spp1.localip.ir&mode=stream-one#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - Kabat OU ┇ 94.103.168.57
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.52:2087?type=ws&security=tls&path=/hokm&sni=fert1qswdfegrthy.localip.ir&host=fert1qswdfegrthy.localip.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - Kabat OU ┇ 94.103.168.52
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@94.103.168.125:2087?type=ws&security=tls&path=/hokm&sni=sdcdethyerft.localip.ir&host=sdcdethyerft.localip.ir&fp=safari#DE 🇩🇪 ┇ VLESS-WS-TLS - Kabat OU ┇ 94.103.168.125
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?type=ws&security=tls&path=/hokm&sni=stop.localip.ir&host=stop.localip.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - Kabat OU ┇ 94.103.168.58
